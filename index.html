@@ -9631,6 +9631,54 @@ body.ballot-measure-mode .vote-share-fill.rep { background: linear-gradient(90de
   }
 
 
+  /* Complete WV control palette: state identity is blue, white, and gold.
+     Keep party-specific results, candidate markers, and margin legends untouched. */
+  :root {
+    --state-ribbon: linear-gradient(90deg, #0a3161 0% 36%, #ffffff 36% 44%, #e8b52e 44% 56%, #ffffff 56% 64%, #0a3161 64% 100%);
+    --state-accent-gradient: linear-gradient(125deg, #061f3f 0%, #0a3161 65%, #175581 100%);
+    --ui-accent: #0a3161;
+    --ui-accent-2: #c09121;
+  }
+  .main-controls::before, .legend::before, .vote-counter::before,
+  .statewide-card::before { background: var(--state-ribbon) !important; }
+  .controls-title-pill, .legend-badge, .desktop-statewide-tag,
+  .controls-collapsed-label, .control-summary, .map-location-chip,
+  .mode-toggle.active, .view-toggle-btn.active, .viz-mode-btn.active,
+  .fly-search-submit, .region-jump-btn.active,
+  .desktop-fly-chip.active, .tool-chip-btn.active,
+  .tool-chip-btn[aria-pressed="true"], .mobile-dock-btn.active,
+  .mobile-dock-btn[aria-pressed="true"] {
+    background: var(--state-accent-gradient) !important;
+    color: #fff !important;
+    border-color: #d9ad3c !important;
+    box-shadow: 0 6px 18px rgba(6, 31, 63, .22) !important;
+  }
+  .fly-search-chip, .desktop-fly-chip,
+  .region-jump-btn, .tool-chip-btn:not(.active),
+  .legend-chip, .legend-context-chip,
+  .view-toggle-btn:not(.active), .viz-mode-btn:not(.active) {
+    border-color: rgba(167, 127, 31, .38) !important;
+  }
+  .desktop-fly-chip:not(.active), .region-jump-btn:not(.active),
+  .tool-chip-btn:not(.active), .view-toggle-btn:not(.active),
+  .viz-mode-btn:not(.active) {
+    background: #fffdf6 !important;
+    color: #143c62 !important;
+  }
+  .fly-search-chip, .legend-chip, .legend-context-chip {
+    background: rgba(243, 192, 55, .12) !important;
+  }
+  .fly-search-chip { color: #fff3ce !important; background: rgba(255, 255, 255, .1) !important; }
+  .controls-title-pill::before, .controls-collapsed-label::before {
+    background: #f2bd35 !important;
+    box-shadow: 0 0 0 4px rgba(242, 189, 53, .22) !important;
+  }
+  .main-controls button:focus-visible, .map-topbar button:focus-visible,
+  .legend button:focus-visible {
+    outline: 3px solid #efc75a !important;
+    outline-offset: 2px;
+  }
+
   /* Mountain State identity: a subtle Appalachian ridgeline, not an electoral overlay. */
   .map-topbar {
     overflow: hidden;
@@ -10806,8 +10854,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Cache destroyer token for static data requests.
     // Bump this value when you want browsers/CDNs to fetch fresh files immediately.
-    const DATA_CACHE_BUSTER = '2026-10-26-west-virginia-ui-v1';
-    const APP_BUILD_ID = '2026-10-26-west-virginia-ui-v1';
+    const DATA_CACHE_BUSTER = '2026-10-27-west-virginia-mountain-ui-v2';
+    const APP_BUILD_ID = '2026-10-27-west-virginia-mountain-ui-v2';
 
     function withCacheBuster(path) {
       const p = (path || '').toString().trim();
