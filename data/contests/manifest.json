@@ -1,6 +1,180 @@
 {
   "files": [
     {
+      "year": 2000,
+      "contest_type": "agriculture_commissioner",
+      "file": "agriculture_commissioner_2000.json",
+      "rows": 55
+    },
+    {
+      "year": 2000,
+      "contest_type": "attorney_general",
+      "file": "attorney_general_2000.json",
+      "rows": 55
+    },
+    {
+      "year": 2000,
+      "contest_type": "auditor",
+      "file": "auditor_2000.json",
+      "rows": 55
+    },
+    {
+      "year": 2000,
+      "contest_type": "governor",
+      "file": "governor_2000.json",
+      "rows": 55
+    },
+    {
+      "year": 2000,
+      "contest_type": "president",
+      "file": "president_2000.json",
+      "rows": 55
+    },
+    {
+      "year": 2000,
+      "contest_type": "secretary_of_state",
+      "file": "secretary_of_state_2000.json",
+      "rows": 55
+    },
+    {
+      "year": 2000,
+      "contest_type": "treasurer",
+      "file": "treasurer_2000.json",
+      "rows": 55
+    },
+    {
+      "year": 2000,
+      "contest_type": "us_house",
+      "file": "us_house_2000.json",
+      "rows": 55
+    },
+    {
+      "year": 2000,
+      "contest_type": "us_senate",
+      "file": "us_senate_2000.json",
+      "rows": 55
+    },
+    {
+      "year": 2002,
+      "contest_type": "us_senate",
+      "file": "us_senate_2002.json",
+      "rows": 55
+    },
+    {
+      "year": 2004,
+      "contest_type": "agriculture_commissioner",
+      "file": "agriculture_commissioner_2004.json",
+      "rows": 55
+    },
+    {
+      "year": 2004,
+      "contest_type": "attorney_general",
+      "file": "attorney_general_2004.json",
+      "rows": 55
+    },
+    {
+      "year": 2004,
+      "contest_type": "auditor",
+      "file": "auditor_2004.json",
+      "rows": 55
+    },
+    {
+      "year": 2004,
+      "contest_type": "governor",
+      "file": "governor_2004.json",
+      "rows": 55
+    },
+    {
+      "year": 2004,
+      "contest_type": "president",
+      "file": "president_2004.json",
+      "rows": 55
+    },
+    {
+      "year": 2004,
+      "contest_type": "secretary_of_state",
+      "file": "secretary_of_state_2004.json",
+      "rows": 55
+    },
+    {
+      "year": 2004,
+      "contest_type": "treasurer",
+      "file": "treasurer_2004.json",
+      "rows": 55
+    },
+    {
+      "year": 2006,
+      "contest_type": "us_senate",
+      "file": "us_senate_2006.json",
+      "rows": 55
+    },
+    {
+      "year": 2008,
+      "contest_type": "agriculture_commissioner",
+      "file": "agriculture_commissioner_2008.json",
+      "rows": 55
+    },
+    {
+      "year": 2008,
+      "contest_type": "attorney_general",
+      "file": "attorney_general_2008.json",
+      "rows": 55
+    },
+    {
+      "year": 2008,
+      "contest_type": "auditor",
+      "file": "auditor_2008.json",
+      "rows": 55
+    },
+    {
+      "year": 2008,
+      "contest_type": "governor",
+      "file": "governor_2008.json",
+      "rows": 55
+    },
+    {
+      "year": 2008,
+      "contest_type": "president",
+      "file": "president_2008.json",
+      "rows": 55
+    },
+    {
+      "year": 2008,
+      "contest_type": "secretary_of_state",
+      "file": "secretary_of_state_2008.json",
+      "rows": 55
+    },
+    {
+      "year": 2008,
+      "contest_type": "treasurer",
+      "file": "treasurer_2008.json",
+      "rows": 55
+    },
+    {
+      "year": 2008,
+      "contest_type": "us_house",
+      "file": "us_house_2008.json",
+      "rows": 55
+    },
+    {
+      "year": 2008,
+      "contest_type": "us_senate",
+      "file": "us_senate_2008.json",
+      "rows": 55
+    },
+    {
+      "year": 2010,
+      "contest_type": "us_house",
+      "file": "us_house_2010.json",
+      "rows": 55
+    },
+    {
+      "year": 2010,
+      "contest_type": "us_senate",
+      "file": "us_senate_2010.json",
+      "rows": 55
+    },
+    {
       "year": 2012,
       "contest_type": "agriculture_commissioner",
       "file": "agriculture_commissioner_2012.json",
@@ -154,6 +328,12 @@
       "year": 2020,
       "contest_type": "treasurer",
       "file": "treasurer_2020.json",
+      "rows": 55
+    },
+    {
+      "year": 2020,
+      "contest_type": "us_house",
+      "file": "us_house_2020.json",
       "rows": 55
     },
     {

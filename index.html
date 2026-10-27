@@ -9880,31 +9880,6 @@ document.addEventListener('DOMContentLoaded', function() {
       }
     };
   }
-  const districtLines2022Btn = document.getElementById('district-lines-2022');
-  if (districtLines2022Btn) {
-    districtLines2022Btn.onclick = function() {
-      if (typeof setDistrictLinesMode === 'function') {
-        setDistrictLinesMode(2022).catch(() => {});
-      }
-    };
-  }
-  const districtLines2024Btn = document.getElementById('district-lines-2024');
-  if (districtLines2024Btn) {
-    districtLines2024Btn.onclick = function() {
-      if (typeof setDistrictLinesMode === 'function') {
-        setDistrictLinesMode(2024).catch(() => {});
-      }
-    };
-  }
-  const districtLines2021Btn = document.getElementById('district-lines-2021');
-  if (districtLines2021Btn) {
-    districtLines2021Btn.onclick = function() {
-      if (typeof setDistrictLinesMode === 'function') {
-        setDistrictLinesMode(2021).catch(() => {});
-      }
-    };
-  }
-
   const barometerChip = document.getElementById('legend-bellwether-chip');
   if (barometerChip) {
     barometerChip.onclick = function() {
@@ -10465,14 +10440,6 @@ document.addEventListener('DOMContentLoaded', function() {
                   <button id="state-senate-view" class="view-toggle-btn" onclick="setMapView('state_senate')" data-testid="view-state-senate" aria-label="Show State Senate districts view" aria-pressed="false">State Senate</button>
                 </div>
             </div>
-            <div class="control-group" id="district-plan-controls" style="margin-bottom:10px;display:none;">
-              <span class="section-kicker">Congressional Plan</span>
-              <div class="view-toggle-row" style="display:flex;gap:6px;flex-wrap:wrap;">
-                <button id="district-lines-2024" class="view-toggle-btn active" type="button" aria-pressed="true">Enacted 2022</button>
-                <button id="district-lines-2021" class="view-toggle-btn" type="button" aria-pressed="false">2021 Proposed</button>
-              </div>
-              <div class="controls-panel-note">Compare West Virginia's enacted 2022 districts with the 2021 proposed plan.</div>
-            </div>
             <div class="control-group viz-inline-group" style="margin-bottom:10px;">
               <span class="section-kicker">Analysis Mode</span>
               <div class="viz-modes-inline" id="viz-modes-inline">
@@ -10480,8 +10447,6 @@ document.addEventListener('DOMContentLoaded', function() {
                 <button class="viz-mode-btn" data-mode="winners" type="button"><span>Winners</span></button>
                 <button class="viz-mode-btn" data-mode="shift" type="button"><span>Shift</span></button>
                 <button class="viz-mode-btn" data-mode="flips" type="button"><span>Flips</span></button>
-                <button class="viz-mode-btn" data-mode="demographics" type="button"><span>Demographics</span></button>
-                <button class="viz-mode-btn" data-mode="population_change" type="button"><span>Pop Change</span></button>
               </div>
             </div>
             <details class="control-group control-group-scenario controls-disclosure" id="scenario-disclosure">
@@ -10645,12 +10610,6 @@ document.addEventListener('DOMContentLoaded', function() {
     </button>
     <button class="viz-mode-btn" data-mode="flips" id="mode-flips">
       <span>Flips</span>
-    </button>
-    <button class="viz-mode-btn" data-mode="demographics" id="mode-demographics">
-      <span>Demographics</span>
-    </button>
-    <button class="viz-mode-btn" data-mode="population_change" id="mode-population-change">
-      <span>Pop Change</span>
     </button>
   </div>
 
@@ -10854,8 +10813,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Cache destroyer token for static data requests.
     // Bump this value when you want browsers/CDNs to fetch fresh files immediately.
-    const DATA_CACHE_BUSTER = '2026-10-27-west-virginia-ribbon-v3';
-    const APP_BUILD_ID = '2026-10-27-west-virginia-ribbon-v3';
+    const DATA_CACHE_BUSTER = '2026-10-27-wv-historical-counties-v1';
+    const APP_BUILD_ID = '2026-10-27-wv-historical-counties-v1';
 
     function withCacheBuster(path) {
       const p = (path || '').toString().trim();
@@ -10903,45 +10862,32 @@ document.addEventListener('DOMContentLoaded', function() {
         districts: withBase('./data/wv_congress_enacted.geojson'),
         districts_2022: withBase('./data/wv_congress_enacted.geojson'),
         districts_2024: withBase('./data/wv_congress_enacted.geojson'),
-        districts_2021: withBase('./data/wv_congress_proposed_2021.geojson'),
         state_house: withBase('./data/wv_state_house_enacted.geojson'),
         state_house_2022: withBase('./data/wv_state_house_enacted.geojson'),
         state_senate: withBase('./data/wv_state_senate_enacted.geojson'),
         state_senate_2022: withBase('./data/wv_state_senate_enacted.geojson'),
-        county_demographics: withBase('./data/cvap_aggregates/county_2020__demographics_cvap24.json'),
-        county_population_estimates: withBase('./data/county_population_estimates_2025.csv'),
-        precinct_demographics: withBase('./data/cvap_aggregates/precinct_2020__cvap24.csv'),
-        cvap_aggregates: {
-          county_2020: withBase('./data/cvap_aggregates/county_2020__cvap24.csv'),
-          precinct_2020: withBase('./data/cvap_aggregates/precinct_2020__cvap24.csv'),
-          congressional_2021: withBase('./data/cvap_aggregates/cd_proposed_2021_lines__cvap24.csv'),
-          cd118_2022: withBase('./data/cvap_aggregates/cd118_2022_lines__cvap24.csv'),
-          state_house_2022: withBase('./data/cvap_aggregates/state_house_2022_lines__cvap24.csv'),
-          state_senate_2022: withBase('./data/cvap_aggregates/state_senate_2022_lines__cvap24.csv'),
-          cd119_2024: withBase('./data/cvap_aggregates/cd119_2024_lines__cvap24.csv'),
-          state_house_2024: withBase('./data/cvap_aggregates/state_house_2024_lines__cvap24.csv'),
-          state_senate_2024: withBase('./data/cvap_aggregates/state_senate_2024_lines__cvap24.csv')
-        },
+        county_demographics: null,
+        county_population_estimates: null,
+        precinct_demographics: null,
+        cvap_aggregates: {},
         election: withBase('./data/wv_elections_aggregated.json'),
         district_election: withBase('./data/wv_district_results.json'),
         district_contests_dir: withBase('./data/district_contests'),
         district_contests_dirs: {
           '2022': withBase('./data/district_contests'),
-          '2024': withBase('./data/district_contests'),
-          '2021': withBase('./data/district_contests_2021')
+          '2024': withBase('./data/district_contests')
         },
         crosswalks: {
           congressional: withBase('./data/crosswalks_bef/precinct_to_congressional_2022_enacted.csv'),
           congressional_2022: withBase('./data/crosswalks_bef/precinct_to_congressional_2022_enacted.csv'),
           congressional_2024: withBase('./data/crosswalks_bef/precinct_to_congressional_2022_enacted.csv'),
-          congressional_2021: withBase('./data/crosswalks_bef/precinct_to_congressional_2021_proposed.csv'),
           state_house_2022: withBase('./data/crosswalks_bef/precinct_to_state_house_2022.csv'),
           state_senate_2022: withBase('./data/crosswalks_bef/precinct_to_state_senate_2022.csv')
         },
-        districts_info: withBase('./data/cvap_aggregates/cd118_2022_lines__cvap24.csv'),
-        state_house_info: withBase('./data/cvap_aggregates/state_house_2022_lines__cvap24.csv'),
-        state_senate_info: withBase('./data/cvap_aggregates/state_senate_2022_lines__cvap24.csv'),
-        district_descriptions: withBase('./data/district_descriptions.json'),
+        districts_info: null,
+        state_house_info: null,
+        state_senate_info: null,
+        district_descriptions: null,
         contests_dir: withBase('./data/contests')
       },
       center: [-80.62, 38.64],
@@ -11450,7 +11396,7 @@ document.addEventListener('DOMContentLoaded', function() {
     let electionData = null; // Flattened array for compatibility
     let contestManifest = [];
     let districtManifest = [];
-    let districtManifestByLines = { '2021': [], '2022': [], '2024': [] };
+    let districtManifestByLines = { '2022': [], '2024': [] };
     let currentDistrictLinesYear = 2024;
     const districtGeometryCache = new Map();
     let congressionalData = []; // Optional legacy district-level table
@@ -12553,14 +12499,12 @@ document.addEventListener('DOMContentLoaded', function() {
 
     function normalizeDistrictLinesYear(raw) {
       const y = Number(raw);
-      if (y === 2021) return 2021;
       if (y === 2024) return 2024;
       return 2022;
     }
 
     function getDistrictLinesLabel(linesYear = currentDistrictLinesYear) {
       const y = normalizeDistrictLinesYear(linesYear);
-      if (y === 2021) return '2021 proposed plan';
       return 'Enacted 2022 plan';
     }
 
@@ -13213,26 +13157,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     function updateDistrictLinesToggleUI() {
-      const y = normalizeDistrictLinesYear(currentDistrictLinesYear);
-      const btn2022 = document.getElementById('district-lines-2022');
-      const btn2024 = document.getElementById('district-lines-2024');
-      const btn2021 = document.getElementById('district-lines-2021');
-      const planControls = document.getElementById('district-plan-controls');
-      if (planControls) planControls.style.display = currentView === 'districts' ? '' : 'none';
-      if (btn2022) {
-        btn2022.classList.toggle('active', y === 2022);
-        btn2022.setAttribute('aria-pressed', y === 2022 ? 'true' : 'false');
-      }
-      if (btn2024) {
-        btn2024.classList.toggle('active', y === 2024);
-        btn2024.setAttribute('aria-pressed', y === 2024 ? 'true' : 'false');
-      }
-      if (btn2021) {
-        const congressView = currentView === 'districts';
-        btn2021.style.display = congressView ? '' : 'none';
-        btn2021.classList.toggle('active', y === 2021);
-        btn2021.setAttribute('aria-pressed', y === 2021 ? 'true' : 'false');
-      }
+      // West Virginia uses the enacted district layer; no alternate-plan toggle.
     }
 
     function clearDistrictSearchGeoJSONCache() {
@@ -13301,7 +13226,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     function shouldWarnDistrictLinesLoad(linesYear) {
       const y = normalizeDistrictLinesYear(linesYear);
-      if (y !== 2024 && y !== 2021) return false;
+      if (y !== 2024) return false;
       const scopes = ['congressional', 'state_house', 'state_senate'];
       return scopes.some(scope => {
         const path = getDistrictGeometryPath(scope, y);
@@ -13313,11 +13238,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
     async function setDistrictLinesMode(linesYear) {
       const nextYear = normalizeDistrictLinesYear(linesYear);
-      if (nextYear === 2021 && currentView !== 'districts') {
-        setStatus('The 2021 proposed plan is available in congressional view.');
-        updateDistrictLinesToggleUI();
-        return;
-      }
       if (nextYear === normalizeDistrictLinesYear(currentDistrictLinesYear)) {
         updateDistrictLinesToggleUI();
         return;
@@ -21407,13 +21327,13 @@ document.addEventListener('DOMContentLoaded', function() {
 
         if (isGovernor) {
           const map = {
-            2024: { dem: 'Josh Stein', rep: 'Mark Robinson' },
-            2020: { dem: 'Roy Cooper', rep: 'Dan Forest' },
-            2016: { dem: 'Roy Cooper', rep: 'Pat McCrory' },
-            2012: { dem: 'Walter Dalton', rep: 'Pat McCrory' },
-            2008: { dem: 'Bev Perdue', rep: 'Pat McCrory' },
-            2004: { dem: 'Mike Easley', rep: 'Patrick Ballantine' },
-            2000: { dem: 'Mike Easley', rep: 'Richard Vinson' }
+            2024: { dem: 'Steve Williams', rep: 'Patrick Morrisey' },
+            2020: { dem: 'Ben Salango', rep: 'Jim Justice' },
+            2016: { dem: 'Jim Justice', rep: 'Bill Cole' },
+            2012: { dem: 'Earl Ray Tomblin', rep: 'Bill Maloney' },
+            2008: { dem: 'Joe Manchin', rep: 'Russ Weeks' },
+            2004: { dem: 'Joe Manchin', rep: 'Monty Warner' },
+            2000: { dem: 'Bob Wise', rep: 'Cecil Underwood' }
           };
           const entry = map[year];
           return entry ? (partyNorm === 'dem' ? entry.dem : (partyNorm === 'rep' ? entry.rep : '')) : '';
@@ -33558,8 +33478,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
       try {
         let loadedAnyDistrictManifest = false;
-        districtManifestByLines = { '2021': [], '2022': [], '2024': [] };
-        for (const linesYear of [2021, 2022, 2024]) {
+        districtManifestByLines = { '2022': [], '2024': [] };
+        for (const linesYear of [2022, 2024]) {
           const dir = getActiveDistrictContestsDir(linesYear);
           if (!dir) continue;
           try {
@@ -33592,59 +33512,69 @@ document.addEventListener('DOMContentLoaded', function() {
         districtElectionDataJSON = null;
         districtElectionDataLoadInflight = null;
         districtElectionDataLoadFailed = false;
-        districtManifestByLines = { '2021': [], '2022': [], '2024': [] };
+        districtManifestByLines = { '2022': [], '2024': [] };
         districtManifest = [];
         updateDistrictLinesToggleUI();
       }
 
       // Optional district resources: do not fail app initialization if absent
-      try {
-        const districtsCSV = await loadCSV(CONFIG.paths.districts_info);
-        districtsInfo = parseCSV(districtsCSV);
-        setStatus('Congressional data loaded');
-      } catch (err) {
-        console.warn('District CSV not loaded:', err.message);
+      if (CONFIG.paths.districts_info) {
+        try {
+          const districtsCSV = await loadCSV(CONFIG.paths.districts_info);
+          districtsInfo = parseCSV(districtsCSV);
+          setStatus('Congressional data loaded');
+        } catch (err) {
+          console.warn('District CSV not loaded:', err.message);
+        }
       }
 
       // Optional descriptive district labels (manual overrides).
-      try {
-        districtDescriptions = await loadJSON(CONFIG.paths.district_descriptions);
-      } catch (_) {
-        districtDescriptions = null;
+      if (CONFIG.paths.district_descriptions) {
+        try {
+          districtDescriptions = await loadJSON(CONFIG.paths.district_descriptions);
+        } catch (_) {
+          districtDescriptions = null;
+        }
       }
 
       // Optional county demographics (DP1-derived) for sidebar/tooltips.
-      try {
-        countyDemographics = await loadJSON(CONFIG.paths.county_demographics);
-      } catch (err) {
-        countyDemographics = null;
-        console.warn('County demographics not loaded:', err?.message || err);
+      if (CONFIG.paths.county_demographics) {
+        try {
+          countyDemographics = await loadJSON(CONFIG.paths.county_demographics);
+        } catch (err) {
+          countyDemographics = null;
+          console.warn('County demographics not loaded:', err?.message || err);
+        }
       }
 
       // Optional county population estimates (Census Vintage 2025) for county insight + trajectory confirmation.
-      try {
-        const countyPopulationEstimatesCSV = await loadCSV(CONFIG.paths.county_population_estimates);
-        const rows = parseCSV(countyPopulationEstimatesCSV);
-        const idx = buildCountyPopulationEstimateIndex(rows);
-        countyPopulationEstimatesByNorm = idx.byNorm;
-        countyPopulationEstimateStatewide = idx.statewide;
-      } catch (err) {
-        countyPopulationEstimatesByNorm = null;
-        countyPopulationEstimateStatewide = null;
-        console.warn('County population estimates not loaded:', err?.message || err);
+      if (CONFIG.paths.county_population_estimates) {
+        try {
+          const countyPopulationEstimatesCSV = await loadCSV(CONFIG.paths.county_population_estimates);
+          const rows = parseCSV(countyPopulationEstimatesCSV);
+          const idx = buildCountyPopulationEstimateIndex(rows);
+          countyPopulationEstimatesByNorm = idx.byNorm;
+          countyPopulationEstimateStatewide = idx.statewide;
+        } catch (err) {
+          countyPopulationEstimatesByNorm = null;
+          countyPopulationEstimateStatewide = null;
+          console.warn('County population estimates not loaded:', err?.message || err);
+        }
       }
 
       // Optional precinct demographics (VAP by race from block aggregation).
-      try {
-        const precinctDemographicsCSV = await loadCSV(CONFIG.paths.precinct_demographics);
-        const rows = parseCSV(precinctDemographicsCSV);
-        const idx = buildPrecinctDemographicsIndexes(rows);
-        precinctDemographicsByNorm = idx.byNorm;
-        precinctDemographicsByCountyCode = idx.byCountyCode;
-      } catch (err) {
-        precinctDemographicsByNorm = null;
-        precinctDemographicsByCountyCode = null;
-        console.warn('Precinct demographics not loaded:', err?.message || err);
+      if (CONFIG.paths.precinct_demographics) {
+        try {
+          const precinctDemographicsCSV = await loadCSV(CONFIG.paths.precinct_demographics);
+          const rows = parseCSV(precinctDemographicsCSV);
+          const idx = buildPrecinctDemographicsIndexes(rows);
+          precinctDemographicsByNorm = idx.byNorm;
+          precinctDemographicsByCountyCode = idx.byCountyCode;
+        } catch (err) {
+          precinctDemographicsByNorm = null;
+          precinctDemographicsByCountyCode = null;
+          console.warn('Precinct demographics not loaded:', err?.message || err);
+        }
       }
 
       // Optional: preload RDH CVAP aggregates used for hover totals (non-blocking).
@@ -33685,8 +33615,10 @@ document.addEventListener('DOMContentLoaded', function() {
           }
           window['state-house__search_geojson'] = stateHouseGeoJSON;
         }
-        const stateHouseCSV = await loadCSV(CONFIG.paths.state_house_info);
-        stateHouseInfo = parseCSV(stateHouseCSV);
+        if (CONFIG.paths.state_house_info) {
+          const stateHouseCSV = await loadCSV(CONFIG.paths.state_house_info);
+          stateHouseInfo = parseCSV(stateHouseCSV);
+        }
         setStatus('House of Delegates districts loaded');
       } catch (err) {
         console.warn('House of Delegates resources not loaded:', err.message);
@@ -33707,8 +33639,10 @@ document.addEventListener('DOMContentLoaded', function() {
           }
           window['state-senate__search_geojson'] = stateSenateGeoJSON;
         }
-        const stateSenateCSV = await loadCSV(CONFIG.paths.state_senate_info);
-        stateSenateInfo = parseCSV(stateSenateCSV);
+        if (CONFIG.paths.state_senate_info) {
+          const stateSenateCSV = await loadCSV(CONFIG.paths.state_senate_info);
+          stateSenateInfo = parseCSV(stateSenateCSV);
+        }
         setStatus('State senate districts loaded');
       } catch (err) {
         console.warn('State senate resources not loaded:', err.message);

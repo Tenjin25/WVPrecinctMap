@@ -31,6 +31,14 @@ python scripts/build_wv_county_contests.py
 
 These files are written to `data/contests/`.
 
+Historical county maps for 2000–2012 are normalized from OpenElections and the
+West Virginia Secretary of State before rebuilding the contest slices:
+
+```powershell
+python scripts/import_wv_historical_county_results.py
+python scripts/build_wv_county_contests.py
+```
+
 District contest slices are generated separately from block-level election
 estimates and Census block equivalency files:
 
@@ -56,4 +64,18 @@ Regenerate the county boundary file from the Census TIGER/Line archive with:
 
 ```powershell
 python scripts/prepare_wv_counties.py
+```
+
+Generate West Virginia's enacted congressional, House of Delegates, and State
+Senate boundary files with:
+
+```powershell
+python scripts/prepare_wv_district_geometries.py
+```
+
+Build the precinct centroid and display-name indexes used by the low-zoom and
+search interfaces with:
+
+```powershell
+python scripts/prepare_wv_precinct_indexes.py
 ```

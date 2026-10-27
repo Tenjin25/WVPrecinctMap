@@ -12,10 +12,12 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 INPUT = ROOT / "data" / "openelections" / "wv_sos" / "county"
+HISTORICAL_INPUT = ROOT / "data" / "openelections" / "wv_sos" / "historical_county"
 OUTPUT = ROOT / "data" / "contests"
 
 OFFICES = {
     "PRESIDENT": "president",
+    "U S PRESIDENT": "president",
     "GOVERNOR": "governor",
     "U S SENATE": "us_senate",
     "US SENATE": "us_senate",
@@ -29,6 +31,7 @@ OFFICES = {
     "COMMISSIONER OF AGRICULTURE": "agriculture_commissioner",
     "U S HOUSE": "us_house",
     "US HOUSE": "us_house",
+    "U S HOUSE OF REPRESENTATIVES": "us_house",
     "UNITED STATES REPRESENTATIVE": "us_house",
 }
 
@@ -62,7 +65,9 @@ def build_slice(path: Path) -> list[tuple[str, dict[str, object]]]:
                 continue
             county = row["county"].strip()
             bucket = party_bucket(row["party"])
-            candidate = row["candidate"].strip()
+            # Official exports occasionally contain doubled spaces in names
+            # (for example, "JOE  MANCHIN III"). Keep display labels stable.
+            candidate = " ".join(row["candidate"].split())
             count = int(row["votes"])
             votes[(contest, county, bucket)] += count
             if candidate:
@@ -126,8 +131,13 @@ def main() -> None:
     manifest = []
     statewide_vote_checks = []
 
-    for source_path in sorted(INPUT.glob("*__county.csv")):
-        year = year_from_name(source_path)
+    sources_by_year = {year_from_name(path): path for path in INPUT.glob("*__county.csv")}
+    # Official/legacy historical county files take precedence through 2012;
+    # this preserves candidate names instead of generic party labels.
+    sources_by_year.update(
+        {year_from_name(path): path for path in HISTORICAL_INPUT.glob("*__county.csv")}
+    )
+    for year, source_path in sorted(sources_by_year.items()):
         for contest, payload in build_slice(source_path):
             filename = f"{contest}_{year}.json"
             (OUTPUT / filename).write_text(json.dumps(payload, indent=2) + "\n", encoding="utf-8")

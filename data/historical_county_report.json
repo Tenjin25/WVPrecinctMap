@@ -1,0 +1,121 @@
+{
+  "all_contests_have_55_counties": true,
+  "elections": [
+    {
+      "year": 2000,
+      "source": "OpenElections",
+      "output": "data/openelections/wv_sos/historical_county/20001107__wv__general__county.csv",
+      "rows": 1450,
+      "contests": {
+        "Attorney General": 55,
+        "Auditor": 55,
+        "Commissioner of Agriculture": 55,
+        "Governor": 55,
+        "President": 55,
+        "Secretary of State": 55,
+        "State Treasurer": 55,
+        "U.S. House": 55,
+        "U.S. Senate": 55
+      },
+      "excluded_incomplete_contests": {}
+    },
+    {
+      "year": 2002,
+      "source": "OpenElections",
+      "output": "data/openelections/wv_sos/historical_county/20021105__wv__general__county.csv",
+      "rows": 110,
+      "contests": {
+        "U.S. Senate": 55
+      },
+      "excluded_incomplete_contests": {
+        "U.S. House": {
+          "counties_found": 54,
+          "missing_counties": 1
+        }
+      }
+    },
+    {
+      "year": 2004,
+      "source": "OpenElections",
+      "output": "data/openelections/wv_sos/historical_county/20041102__wv__general__county.csv",
+      "rows": 1265,
+      "contests": {
+        "Attorney General": 55,
+        "Auditor": 55,
+        "Commissioner of Agriculture": 55,
+        "Governor": 55,
+        "President": 55,
+        "Secretary of State": 55,
+        "State Treasurer": 55
+      },
+      "excluded_incomplete_contests": {
+        "U.S. House": {
+          "counties_found": 54,
+          "missing_counties": 1
+        }
+      }
+    },
+    {
+      "year": 2006,
+      "source": "OpenElections",
+      "output": "data/openelections/wv_sos/historical_county/20061107__wv__general__county.csv",
+      "rows": 165,
+      "contests": {
+        "U.S. Senate": 55
+      },
+      "excluded_incomplete_contests": {
+        "U.S. House": {
+          "counties_found": 54,
+          "missing_counties": 1
+        }
+      }
+    },
+    {
+      "year": 2008,
+      "source": "West Virginia Secretary of State",
+      "output": "data/openelections/wv_sos/historical_county/20081104__wv__general__county.csv",
+      "rows": 1080,
+      "contests": {
+        "Attorney General": 55,
+        "Auditor": 55,
+        "Commissioner of Agriculture": 55,
+        "Governor": 55,
+        "President": 55,
+        "Secretary of State": 55,
+        "State Treasurer": 55,
+        "U.S. House": 55,
+        "U.S. Senate": 55
+      },
+      "excluded_incomplete_contests": {}
+    },
+    {
+      "year": 2010,
+      "source": "West Virginia Secretary of State",
+      "output": "data/openelections/wv_sos/historical_county/20101102__wv__general__county.csv",
+      "rows": 348,
+      "contests": {
+        "U.S. House": 55,
+        "U.S. Senate": 55
+      },
+      "excluded_incomplete_contests": {}
+    },
+    {
+      "year": 2012,
+      "source": "West Virginia Secretary of State",
+      "output": "data/openelections/wv_sos/historical_county/20121106__wv__general__county.csv",
+      "rows": 1320,
+      "contests": {
+        "Attorney General": 55,
+        "Auditor": 55,
+        "Commissioner of Agriculture": 55,
+        "Governor": 55,
+        "President": 55,
+        "Secretary of State": 55,
+        "State Treasurer": 55,
+        "U.S. House": 55,
+        "U.S. Senate": 55
+      },
+      "excluded_incomplete_contests": {}
+    }
+  ]
+}
