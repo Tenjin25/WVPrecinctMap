@@ -51,3 +51,9 @@ The resulting JSON slices and manifest are written to
 Raw source repositories and downloaded ZIP archives are intentionally ignored
 by Git. Normalized inputs, derived web assets, scripts, and validation reports
 are versioned here.
+
+Regenerate the county boundary file from the Census TIGER/Line archive with:
+
+```powershell
+python scripts/prepare_wv_counties.py
+```
