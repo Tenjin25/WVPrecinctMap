@@ -9631,6 +9631,70 @@ body.ballot-measure-mode .vote-share-fill.rep { background: linear-gradient(90de
   }
 
 
+  /* Mountain State identity: a subtle Appalachian ridgeline, not an electoral overlay. */
+  .map-topbar {
+    overflow: hidden;
+    isolation: isolate;
+    background: linear-gradient(138deg, #051d39 0%, #0a3161 65%, #14517b 100%) !important;
+    border: 1px solid rgba(255, 215, 100, 0.45) !important;
+    box-shadow: 0 20px 48px rgba(4, 25, 50, 0.35), inset 0 3px 0 #eab83d !important;
+  }
+  .map-topbar::before {
+    content: "";
+    position: absolute;
+    inset: auto -2px 0;
+    height: 94px;
+    pointer-events: none;
+    z-index: -1;
+    background: linear-gradient(0deg, rgba(5, 22, 40, .48), rgba(10, 49, 97, 0));
+    clip-path: polygon(0 60%, 10% 43%, 20% 68%, 31% 30%, 42% 66%, 55% 25%, 68% 62%, 81% 35%, 93% 63%, 100% 48%, 100% 100%, 0 100%);
+    opacity: .7;
+  }
+  .map-topbar::after {
+    content: "";
+    position: absolute;
+    inset: auto 0 0;
+    height: 4px;
+    background: linear-gradient(90deg, #dba52c, #fff5cf 50%, #dba52c);
+    pointer-events: none;
+  }
+  .map-topbar-meta, .fly-search-bar, .map-topbar-quick-stats,
+  .map-topbar-details, .mobile-topbar-toggle, .map-location-chip,
+  .recount-radar-badge { position: relative; z-index: 1; }
+  .map-topbar-badge {
+    border-radius: 9px !important;
+    padding: 8px 11px !important;
+    background: rgba(255, 255, 255, .95) !important;
+    border: 1px solid #e1b74d !important;
+    box-shadow: 0 3px 0 #d9ab32, 0 8px 20px rgba(0, 0, 0, .18) !important;
+    color: #092c53 !important;
+  }
+  .map-topbar-badge .badge-state-name { color: #092c53 !important; text-shadow: none !important; }
+  .map-topbar-badge .badge-atlas-name { color: #866015 !important; text-shadow: none !important; }
+  .map-topbar-copy strong { color: #fff6dc; }
+  .map-topbar-copy span { color: #d9e8f6; }
+  .fly-search-field:focus-within {
+    border-color: #e2b53d !important;
+    box-shadow: 0 0 0 3px rgba(245, 201, 83, .28) !important;
+  }
+  .fly-search-submit:hover, .view-toggle-btn.active:hover, .viz-mode-btn.active:hover {
+    filter: brightness(1.12);
+  }
+  .fly-search-chip { color: #fff4d5 !important; border-color: rgba(234, 190, 73, .55) !important; }
+  .main-controls .controls-kicker::before, .legend-kicker::before {
+    content: "◆";
+    color: #bd8b20;
+    margin-right: 6px;
+    font-size: .85em;
+  }
+  .main-controls .controls-title-pill { letter-spacing: .025em; }
+  .legend-header { border-bottom: 2px solid rgba(204, 158, 49, .4); }
+  @media (max-width: 768px) {
+    .map-topbar::before { height: 64px; opacity: .45; }
+    .map-topbar-badge { padding: 6px 8px !important; }
+    .map-topbar-copy strong { font-size: 12px; }
+  }
+
 </style>
 <style id="selected-panel-type-scale">
   #focus-card .focus-pill-value { font-size: 16.5px; }
@@ -10139,10 +10203,10 @@ document.addEventListener('DOMContentLoaded', function() {
   <div class="desktop-ui-left">
   <div class="map-topbar" id="map-topbar">
     <div class="map-topbar-meta">
-      <div class="map-topbar-badge"><span class="badge-state-name">West Virginia</span> <span class="badge-atlas-name">Atlas</span></div>
+      <div class="map-topbar-badge"><span class="badge-state-name">West Virginia</span> <span class="badge-atlas-name">Explorer</span></div>
       <div class="map-topbar-copy">
-        <strong>Fly to a county, precinct, or congressional district</strong>
-        <span>Try Kanawha County, Monongalia County, Berkeley County, or CD 1.</span>
+        <strong>Explore the Mountain State, one precinct at a time</strong>
+        <span>Wild and Wonderful · Counties, precincts, and districts</span>
       </div>
     </div>
     <form class="fly-search-bar" id="fly-search-form" role="search">
@@ -10224,7 +10288,7 @@ document.addEventListener('DOMContentLoaded', function() {
     <div class="main-controls" id="main-controls">
         <div class="controls-header">
             <div class="controls-heading">
-              <span class="controls-kicker">Atlas controls</span>
+              <span class="controls-kicker">Mountain State atlas controls</span>
               <h3 class="controls-title-pill">The West Virginia Explorer</h3>
               <p class="controls-subtitle">Switch layers, jump to major regions, and compare contests without leaving the map.</p>
             </div>
