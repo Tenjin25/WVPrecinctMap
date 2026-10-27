@@ -2830,7 +2830,7 @@ body.ballot-measure-mode .vote-share-fill.rep { background: linear-gradient(90de
     --state-blue-strong: #082a52;
     --state-red: #b31942;
     --state-red-strong: #8f1434;
-    --state-ribbon: linear-gradient(92deg, #8f1434 0%, #cc4865 24%, #f6f4ef 50%, #3d6297 76%, #0a3161 100%);
+    --state-ribbon: linear-gradient(90deg, #061f3f 0%, #0a3161 42%, #246188 70%, #d9a72b 100%);
     --state-accent-gradient: linear-gradient(135deg, var(--state-red-strong) 0%, var(--state-blue-strong) 100%);
     --ui-bg: rgba(255, 255, 255, 0.92);
     --ui-border: rgba(10, 49, 97, 0.14);
@@ -9277,7 +9277,7 @@ body.ballot-measure-mode .vote-share-fill.rep { background: linear-gradient(90de
 
   /* Ribbon + UI aesthetic polish */
   :root {
-    --state-ribbon: linear-gradient(92deg, #8f2433 0%, #cd4a44 24%, #f6f4ef 50%, #3b67a6 76%, #1b3d74 100%);
+    --state-ribbon: linear-gradient(90deg, #061f3f 0%, #0a3161 42%, #246188 70%, #d9a72b 100%);
     --state-accent-gradient: linear-gradient(136deg, #8f2433 0%, #305f98 100%);
     --ui-bg: rgba(255, 255, 255, 0.95);
     --ui-border: rgba(18, 33, 52, 0.15);
@@ -9510,7 +9510,7 @@ body.ballot-measure-mode .vote-share-fill.rep { background: linear-gradient(90de
     --west-virginia-parchment: #fff8e5;
     --west-virginia-panel: #fffefa;
     --west-virginia-border: rgba(43, 36, 21, 0.25);
-    --state-ribbon: linear-gradient(90deg, #0a3161 0% 38%, #ffffff 38% 47%, #f2b705 47% 53%, #ffffff 53% 62%, #0a3161 62% 100%);
+    --state-ribbon: linear-gradient(90deg, #061f3f 0%, #0a3161 42%, #246188 70%, #d9a72b 100%);
     --state-accent-gradient: linear-gradient(115deg, #061f3f 0%, #0a3161 72%, #164d82 100%);
     --ui-bg: rgba(250, 253, 255, 0.97);
     --ui-border: var(--west-virginia-border);
@@ -9634,7 +9634,7 @@ body.ballot-measure-mode .vote-share-fill.rep { background: linear-gradient(90de
   /* Complete WV control palette: state identity is blue, white, and gold.
      Keep party-specific results, candidate markers, and margin legends untouched. */
   :root {
-    --state-ribbon: linear-gradient(90deg, #0a3161 0% 36%, #ffffff 36% 44%, #e8b52e 44% 56%, #ffffff 56% 64%, #0a3161 64% 100%);
+    --state-ribbon: linear-gradient(90deg, #061f3f 0%, #0a3161 42%, #246188 70%, #d9a72b 100%);
     --state-accent-gradient: linear-gradient(125deg, #061f3f 0%, #0a3161 65%, #175581 100%);
     --ui-accent: #0a3161;
     --ui-accent-2: #c09121;
@@ -10854,8 +10854,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Cache destroyer token for static data requests.
     // Bump this value when you want browsers/CDNs to fetch fresh files immediately.
-    const DATA_CACHE_BUSTER = '2026-10-27-west-virginia-mountain-ui-v2';
-    const APP_BUILD_ID = '2026-10-27-west-virginia-mountain-ui-v2';
+    const DATA_CACHE_BUSTER = '2026-10-27-west-virginia-ribbon-v3';
+    const APP_BUILD_ID = '2026-10-27-west-virginia-ribbon-v3';
 
     function withCacheBuster(path) {
       const p = (path || '').toString().trim();
