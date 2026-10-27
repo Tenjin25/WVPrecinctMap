@@ -1,0 +1,1015 @@
+{
+  "meta": {
+    "scope": "state_house",
+    "contest_type": "treasurer",
+    "year": 2012,
+    "district_lines_year": 2022,
+    "source_vtd_vintage": 2010,
+    "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+    "match_coverage_pct": 95.772353
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 3994,
+        "rep_votes": 3309,
+        "other_votes": 0,
+        "total_votes": 7303,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -9.37970697
+      },
+      "2": {
+        "dem_votes": 3975,
+        "rep_votes": 2868,
+        "other_votes": 0,
+        "total_votes": 6843,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -16.1771153
+      },
+      "3": {
+        "dem_votes": 4420,
+        "rep_votes": 2915,
+        "other_votes": 0,
+        "total_votes": 7335,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -20.51806408
+      },
+      "4": {
+        "dem_votes": 4356,
+        "rep_votes": 4139,
+        "other_votes": 0,
+        "total_votes": 8495,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -2.55444379
+      },
+      "5": {
+        "dem_votes": 3483,
+        "rep_votes": 2403,
+        "other_votes": 0,
+        "total_votes": 5886,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -18.34862385
+      },
+      "6": {
+        "dem_votes": 4283,
+        "rep_votes": 3103,
+        "other_votes": 0,
+        "total_votes": 7386,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -15.97617113
+      },
+      "7": {
+        "dem_votes": 3903,
+        "rep_votes": 3071,
+        "other_votes": 0,
+        "total_votes": 6974,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -11.93002581
+      },
+      "8": {
+        "dem_votes": 3220,
+        "rep_votes": 3273,
+        "other_votes": 0,
+        "total_votes": 6493,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "REP",
+        "margin_pct": 0.81626367
+      },
+      "9": {
+        "dem_votes": 3501,
+        "rep_votes": 3775,
+        "other_votes": 0,
+        "total_votes": 7276,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "REP",
+        "margin_pct": 3.76580539
+      },
+      "10": {
+        "dem_votes": 3431,
+        "rep_votes": 3645,
+        "other_votes": 0,
+        "total_votes": 7076,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "REP",
+        "margin_pct": 3.02430752
+      },
+      "11": {
+        "dem_votes": 3590,
+        "rep_votes": 3337,
+        "other_votes": 0,
+        "total_votes": 6927,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -3.65237477
+      },
+      "12": {
+        "dem_votes": 3169,
+        "rep_votes": 2362,
+        "other_votes": 0,
+        "total_votes": 5531,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -14.59048997
+      },
+      "13": {
+        "dem_votes": 2697,
+        "rep_votes": 2510,
+        "other_votes": 0,
+        "total_votes": 5207,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -3.59131938
+      },
+      "14": {
+        "dem_votes": 3232,
+        "rep_votes": 3455,
+        "other_votes": 0,
+        "total_votes": 6687,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "REP",
+        "margin_pct": 3.33482877
+      },
+      "15": {
+        "dem_votes": 3257,
+        "rep_votes": 2549,
+        "other_votes": 0,
+        "total_votes": 5806,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -12.19428178
+      },
+      "16": {
+        "dem_votes": 2868,
+        "rep_votes": 3164,
+        "other_votes": 0,
+        "total_votes": 6032,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "REP",
+        "margin_pct": 4.9071618
+      },
+      "17": {
+        "dem_votes": 4361,
+        "rep_votes": 4592,
+        "other_votes": 0,
+        "total_votes": 8953,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "REP",
+        "margin_pct": 2.58014073
+      },
+      "18": {
+        "dem_votes": 2755,
+        "rep_votes": 3470,
+        "other_votes": 0,
+        "total_votes": 6225,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "REP",
+        "margin_pct": 11.48594378
+      },
+      "19": {
+        "dem_votes": 2679,
+        "rep_votes": 3994,
+        "other_votes": 0,
+        "total_votes": 6673,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "REP",
+        "margin_pct": 19.70627903
+      },
+      "20": {
+        "dem_votes": 345,
+        "rep_votes": 888,
+        "other_votes": 0,
+        "total_votes": 1233,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "REP",
+        "margin_pct": 44.03892944
+      },
+      "21": {
+        "dem_votes": 785,
+        "rep_votes": 1531,
+        "other_votes": 0,
+        "total_votes": 2316,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "REP",
+        "margin_pct": 32.21070812
+      },
+      "22": {
+        "dem_votes": 2722,
+        "rep_votes": 2994,
+        "other_votes": 0,
+        "total_votes": 5716,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "REP",
+        "margin_pct": 4.75857243
+      },
+      "23": {
+        "dem_votes": 2778,
+        "rep_votes": 2771,
+        "other_votes": 0,
+        "total_votes": 5549,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -0.12614886
+      },
+      "24": {
+        "dem_votes": 2700,
+        "rep_votes": 1897,
+        "other_votes": 0,
+        "total_votes": 4597,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -17.46791386
+      },
+      "25": {
+        "dem_votes": 3100,
+        "rep_votes": 1348,
+        "other_votes": 0,
+        "total_votes": 4448,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -39.38848921
+      },
+      "26": {
+        "dem_votes": 3747,
+        "rep_votes": 3625,
+        "other_votes": 0,
+        "total_votes": 7372,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -1.65491047
+      },
+      "27": {
+        "dem_votes": 3434,
+        "rep_votes": 2342,
+        "other_votes": 0,
+        "total_votes": 5776,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -18.90581717
+      },
+      "28": {
+        "dem_votes": 3591,
+        "rep_votes": 2373,
+        "other_votes": 0,
+        "total_votes": 5964,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -20.42253521
+      },
+      "29": {
+        "dem_votes": 2519,
+        "rep_votes": 1433,
+        "other_votes": 0,
+        "total_votes": 3952,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -27.47975709
+      },
+      "30": {
+        "dem_votes": 3194,
+        "rep_votes": 2097,
+        "other_votes": 0,
+        "total_votes": 5291,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -20.73332073
+      },
+      "31": {
+        "dem_votes": 4504,
+        "rep_votes": 2119,
+        "other_votes": 0,
+        "total_votes": 6623,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -36.01087121
+      },
+      "32": {
+        "dem_votes": 5208,
+        "rep_votes": 2121,
+        "other_votes": 0,
+        "total_votes": 7329,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -42.12034384
+      },
+      "33": {
+        "dem_votes": 4385,
+        "rep_votes": 1623,
+        "other_votes": 0,
+        "total_votes": 6008,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -45.97203728
+      },
+      "34": {
+        "dem_votes": 2606,
+        "rep_votes": 1095,
+        "other_votes": 0,
+        "total_votes": 3701,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -40.82680357
+      },
+      "35": {
+        "dem_votes": 3653,
+        "rep_votes": 2391,
+        "other_votes": 0,
+        "total_votes": 6044,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -20.88021178
+      },
+      "36": {
+        "dem_votes": 3835,
+        "rep_votes": 1603,
+        "other_votes": 0,
+        "total_votes": 5438,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -41.04450166
+      },
+      "37": {
+        "dem_votes": 3307,
+        "rep_votes": 2883,
+        "other_votes": 0,
+        "total_votes": 6190,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -6.84975767
+      },
+      "38": {
+        "dem_votes": 2817,
+        "rep_votes": 2689,
+        "other_votes": 0,
+        "total_votes": 5506,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -2.32473665
+      },
+      "39": {
+        "dem_votes": 3130,
+        "rep_votes": 3214,
+        "other_votes": 0,
+        "total_votes": 6344,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "REP",
+        "margin_pct": 1.32408575
+      },
+      "40": {
+        "dem_votes": 3927,
+        "rep_votes": 2982,
+        "other_votes": 0,
+        "total_votes": 6909,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -13.67781155
+      },
+      "41": {
+        "dem_votes": 3146,
+        "rep_votes": 2831,
+        "other_votes": 0,
+        "total_votes": 5977,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -5.27020244
+      },
+      "42": {
+        "dem_votes": 2841,
+        "rep_votes": 2688,
+        "other_votes": 0,
+        "total_votes": 5529,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -2.76722735
+      },
+      "43": {
+        "dem_votes": 2710,
+        "rep_votes": 2360,
+        "other_votes": 0,
+        "total_votes": 5070,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -6.90335306
+      },
+      "44": {
+        "dem_votes": 3855,
+        "rep_votes": 2200,
+        "other_votes": 0,
+        "total_votes": 6055,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -27.33278282
+      },
+      "45": {
+        "dem_votes": 2635,
+        "rep_votes": 2134,
+        "other_votes": 0,
+        "total_votes": 4769,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -10.50534703
+      },
+      "46": {
+        "dem_votes": 3891,
+        "rep_votes": 2701,
+        "other_votes": 0,
+        "total_votes": 6592,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -18.05218447
+      },
+      "47": {
+        "dem_votes": 3609,
+        "rep_votes": 2492,
+        "other_votes": 0,
+        "total_votes": 6101,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -18.30847402
+      },
+      "48": {
+        "dem_votes": 3725,
+        "rep_votes": 2056,
+        "other_votes": 0,
+        "total_votes": 5781,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -28.87043764
+      },
+      "49": {
+        "dem_votes": 3633,
+        "rep_votes": 2567,
+        "other_votes": 0,
+        "total_votes": 6200,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -17.19354839
+      },
+      "50": {
+        "dem_votes": 3814,
+        "rep_votes": 1861,
+        "other_votes": 0,
+        "total_votes": 5675,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -34.41409692
+      },
+      "51": {
+        "dem_votes": 3551,
+        "rep_votes": 2363,
+        "other_votes": 0,
+        "total_votes": 5914,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -20.08792695
+      },
+      "52": {
+        "dem_votes": 4328,
+        "rep_votes": 1780,
+        "other_votes": 0,
+        "total_votes": 6108,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -41.71578258
+      },
+      "53": {
+        "dem_votes": 4648,
+        "rep_votes": 3257,
+        "other_votes": 0,
+        "total_votes": 7905,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -17.59645794
+      },
+      "54": {
+        "dem_votes": 4722,
+        "rep_votes": 1875,
+        "other_votes": 0,
+        "total_votes": 6597,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -43.15597999
+      },
+      "55": {
+        "dem_votes": 3776,
+        "rep_votes": 3337,
+        "other_votes": 0,
+        "total_votes": 7113,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -6.17179812
+      },
+      "56": {
+        "dem_votes": 3719,
+        "rep_votes": 3621,
+        "other_votes": 0,
+        "total_votes": 7340,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -1.33514986
+      },
+      "57": {
+        "dem_votes": 4014,
+        "rep_votes": 2903,
+        "other_votes": 0,
+        "total_votes": 6917,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -16.06187654
+      },
+      "58": {
+        "dem_votes": 4346,
+        "rep_votes": 3700,
+        "other_votes": 0,
+        "total_votes": 8046,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -8.0288342
+      },
+      "59": {
+        "dem_votes": 3403,
+        "rep_votes": 2796,
+        "other_votes": 0,
+        "total_votes": 6199,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -9.79190192
+      },
+      "60": {
+        "dem_votes": 3460,
+        "rep_votes": 3336,
+        "other_votes": 0,
+        "total_votes": 6796,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -1.82460271
+      },
+      "61": {
+        "dem_votes": 3279,
+        "rep_votes": 3693,
+        "other_votes": 0,
+        "total_votes": 6972,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "REP",
+        "margin_pct": 5.93803787
+      },
+      "62": {
+        "dem_votes": 3785,
+        "rep_votes": 2287,
+        "other_votes": 0,
+        "total_votes": 6072,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -24.67061924
+      },
+      "63": {
+        "dem_votes": 3731,
+        "rep_votes": 1669,
+        "other_votes": 0,
+        "total_votes": 5400,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -38.18518519
+      },
+      "64": {
+        "dem_votes": 3642,
+        "rep_votes": 2627,
+        "other_votes": 0,
+        "total_votes": 6269,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -16.19078003
+      },
+      "65": {
+        "dem_votes": 3240,
+        "rep_votes": 2699,
+        "other_votes": 0,
+        "total_votes": 5939,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -9.10927766
+      },
+      "66": {
+        "dem_votes": 3308,
+        "rep_votes": 2109,
+        "other_votes": 0,
+        "total_votes": 5417,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -22.13402252
+      },
+      "67": {
+        "dem_votes": 3864,
+        "rep_votes": 2549,
+        "other_votes": 0,
+        "total_votes": 6413,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -20.50522376
+      },
+      "68": {
+        "dem_votes": 3690,
+        "rep_votes": 2896,
+        "other_votes": 0,
+        "total_votes": 6586,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -12.0558761
+      },
+      "69": {
+        "dem_votes": 4222,
+        "rep_votes": 3110,
+        "other_votes": 0,
+        "total_votes": 7332,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -15.16639389
+      },
+      "70": {
+        "dem_votes": 4005,
+        "rep_votes": 2018,
+        "other_votes": 0,
+        "total_votes": 6023,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -32.99020422
+      },
+      "71": {
+        "dem_votes": 3998,
+        "rep_votes": 3053,
+        "other_votes": 0,
+        "total_votes": 7051,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -13.40235428
+      },
+      "72": {
+        "dem_votes": 3756,
+        "rep_votes": 2191,
+        "other_votes": 0,
+        "total_votes": 5947,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -26.31578947
+      },
+      "73": {
+        "dem_votes": 3408,
+        "rep_votes": 2280,
+        "other_votes": 0,
+        "total_votes": 5688,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -19.83122363
+      },
+      "74": {
+        "dem_votes": 4243,
+        "rep_votes": 2750,
+        "other_votes": 0,
+        "total_votes": 6993,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -21.34992135
+      },
+      "75": {
+        "dem_votes": 4577,
+        "rep_votes": 2334,
+        "other_votes": 0,
+        "total_votes": 6911,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -32.45550572
+      },
+      "76": {
+        "dem_votes": 4214,
+        "rep_votes": 2000,
+        "other_votes": 0,
+        "total_votes": 6214,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -35.62922433
+      },
+      "77": {
+        "dem_votes": 3842,
+        "rep_votes": 2738,
+        "other_votes": 0,
+        "total_votes": 6580,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -16.7781155
+      },
+      "78": {
+        "dem_votes": 3191,
+        "rep_votes": 2596,
+        "other_votes": 0,
+        "total_votes": 5787,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -10.2816658
+      },
+      "79": {
+        "dem_votes": 2644,
+        "rep_votes": 1049,
+        "other_votes": 0,
+        "total_votes": 3693,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -43.18981858
+      },
+      "80": {
+        "dem_votes": 2875,
+        "rep_votes": 1557,
+        "other_votes": 0,
+        "total_votes": 4432,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -29.73826715
+      },
+      "81": {
+        "dem_votes": 1968,
+        "rep_votes": 1157,
+        "other_votes": 0,
+        "total_votes": 3125,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -25.952
+      },
+      "82": {
+        "dem_votes": 3068,
+        "rep_votes": 2504,
+        "other_votes": 0,
+        "total_votes": 5572,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -10.12203877
+      },
+      "83": {
+        "dem_votes": 2323,
+        "rep_votes": 2456,
+        "other_votes": 0,
+        "total_votes": 4779,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "REP",
+        "margin_pct": 2.783009
+      },
+      "84": {
+        "dem_votes": 2715,
+        "rep_votes": 2707,
+        "other_votes": 0,
+        "total_votes": 5422,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -0.14754703
+      },
+      "85": {
+        "dem_votes": 3115,
+        "rep_votes": 3885,
+        "other_votes": 0,
+        "total_votes": 7000,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "REP",
+        "margin_pct": 11.0
+      },
+      "86": {
+        "dem_votes": 3944,
+        "rep_votes": 2417,
+        "other_votes": 0,
+        "total_votes": 6361,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -24.00565949
+      },
+      "87": {
+        "dem_votes": 2598,
+        "rep_votes": 3331,
+        "other_votes": 0,
+        "total_votes": 5929,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "REP",
+        "margin_pct": 12.36296171
+      },
+      "88": {
+        "dem_votes": 3240,
+        "rep_votes": 3705,
+        "other_votes": 0,
+        "total_votes": 6945,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "REP",
+        "margin_pct": 6.69546436
+      },
+      "89": {
+        "dem_votes": 2960,
+        "rep_votes": 3410,
+        "other_votes": 0,
+        "total_votes": 6370,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "REP",
+        "margin_pct": 7.06436421
+      },
+      "90": {
+        "dem_votes": 2890,
+        "rep_votes": 3685,
+        "other_votes": 0,
+        "total_votes": 6575,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "REP",
+        "margin_pct": 12.09125475
+      },
+      "91": {
+        "dem_votes": 2169,
+        "rep_votes": 2877,
+        "other_votes": 0,
+        "total_votes": 5046,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "REP",
+        "margin_pct": 14.03091558
+      },
+      "92": {
+        "dem_votes": 3108,
+        "rep_votes": 3206,
+        "other_votes": 0,
+        "total_votes": 6314,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "REP",
+        "margin_pct": 1.55210643
+      },
+      "93": {
+        "dem_votes": 2561,
+        "rep_votes": 2493,
+        "other_votes": 0,
+        "total_votes": 5054,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -1.34546894
+      },
+      "94": {
+        "dem_votes": 2069,
+        "rep_votes": 1966,
+        "other_votes": 0,
+        "total_votes": 4035,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -2.55266419
+      },
+      "95": {
+        "dem_votes": 1931,
+        "rep_votes": 2269,
+        "other_votes": 0,
+        "total_votes": 4200,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "REP",
+        "margin_pct": 8.04761905
+      },
+      "96": {
+        "dem_votes": 2173,
+        "rep_votes": 2586,
+        "other_votes": 0,
+        "total_votes": 4759,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "REP",
+        "margin_pct": 8.67829376
+      },
+      "97": {
+        "dem_votes": 3696,
+        "rep_votes": 3120,
+        "other_votes": 0,
+        "total_votes": 6816,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -8.45070423
+      },
+      "98": {
+        "dem_votes": 3256,
+        "rep_votes": 2967,
+        "other_votes": 0,
+        "total_votes": 6223,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -4.64406235
+      },
+      "99": {
+        "dem_votes": 2847,
+        "rep_votes": 2562,
+        "other_votes": 0,
+        "total_votes": 5409,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -5.26899612
+      },
+      "100": {
+        "dem_votes": 3199,
+        "rep_votes": 3030,
+        "other_votes": 0,
+        "total_votes": 6229,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -2.71311607
+      }
+    }
+  }
+}

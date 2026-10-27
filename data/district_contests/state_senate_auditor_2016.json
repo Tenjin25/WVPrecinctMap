@@ -1,0 +1,184 @@
+{
+  "meta": {
+    "scope": "state_senate",
+    "contest_type": "auditor",
+    "year": 2016,
+    "district_lines_year": 2022,
+    "method": "rdh_2020_block_votes_joined_to_census_bef",
+    "match_coverage_pct": 100.0
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 14458,
+        "rep_votes": 23943,
+        "other_votes": 2766,
+        "total_votes": 41167,
+        "dem_candidate": "Mary Ann Claytor",
+        "rep_candidate": "John \"JB\" McCuskey",
+        "winner": "REP",
+        "margin_pct": 23.04029927
+      },
+      "2": {
+        "dem_votes": 14054,
+        "rep_votes": 23533,
+        "other_votes": 2601,
+        "total_votes": 40188,
+        "dem_candidate": "Mary Ann Claytor",
+        "rep_candidate": "John \"JB\" McCuskey",
+        "winner": "REP",
+        "margin_pct": 23.58664278
+      },
+      "3": {
+        "dem_votes": 12478,
+        "rep_votes": 27029,
+        "other_votes": 2491,
+        "total_votes": 41998,
+        "dem_candidate": "Mary Ann Claytor",
+        "rep_candidate": "John \"JB\" McCuskey",
+        "winner": "REP",
+        "margin_pct": 34.64688795
+      },
+      "4": {
+        "dem_votes": 14365,
+        "rep_votes": 25339,
+        "other_votes": 1691,
+        "total_votes": 41395,
+        "dem_candidate": "Mary Ann Claytor",
+        "rep_candidate": "John \"JB\" McCuskey",
+        "winner": "REP",
+        "margin_pct": 26.51044812
+      },
+      "5": {
+        "dem_votes": 14830,
+        "rep_votes": 18096,
+        "other_votes": 1643,
+        "total_votes": 34569,
+        "dem_candidate": "Mary Ann Claytor",
+        "rep_candidate": "John \"JB\" McCuskey",
+        "winner": "REP",
+        "margin_pct": 9.44777112
+      },
+      "6": {
+        "dem_votes": 11552,
+        "rep_votes": 23219,
+        "other_votes": 1606,
+        "total_votes": 36377,
+        "dem_candidate": "Mary Ann Claytor",
+        "rep_candidate": "John \"JB\" McCuskey",
+        "winner": "REP",
+        "margin_pct": 32.07246337
+      },
+      "7": {
+        "dem_votes": 13676,
+        "rep_votes": 18625,
+        "other_votes": 1284,
+        "total_votes": 33585,
+        "dem_candidate": "Mary Ann Claytor",
+        "rep_candidate": "John \"JB\" McCuskey",
+        "winner": "REP",
+        "margin_pct": 14.73574512
+      },
+      "8": {
+        "dem_votes": 16628,
+        "rep_votes": 19847,
+        "other_votes": 1386,
+        "total_votes": 37861,
+        "dem_candidate": "Mary Ann Claytor",
+        "rep_candidate": "John \"JB\" McCuskey",
+        "winner": "REP",
+        "margin_pct": 8.50215261
+      },
+      "9": {
+        "dem_votes": 12446,
+        "rep_votes": 24268,
+        "other_votes": 2049,
+        "total_votes": 38763,
+        "dem_candidate": "Mary Ann Claytor",
+        "rep_candidate": "John \"JB\" McCuskey",
+        "winner": "REP",
+        "margin_pct": 30.49815546
+      },
+      "10": {
+        "dem_votes": 14278,
+        "rep_votes": 24154,
+        "other_votes": 2257,
+        "total_votes": 40689,
+        "dem_candidate": "Mary Ann Claytor",
+        "rep_candidate": "John \"JB\" McCuskey",
+        "winner": "REP",
+        "margin_pct": 24.27191624
+      },
+      "11": {
+        "dem_votes": 12786,
+        "rep_votes": 22539,
+        "other_votes": 2188,
+        "total_votes": 37513,
+        "dem_candidate": "Mary Ann Claytor",
+        "rep_candidate": "John \"JB\" McCuskey",
+        "winner": "REP",
+        "margin_pct": 25.99898702
+      },
+      "12": {
+        "dem_votes": 12612,
+        "rep_votes": 26954,
+        "other_votes": 2184,
+        "total_votes": 41750,
+        "dem_candidate": "Mary Ann Claytor",
+        "rep_candidate": "John \"JB\" McCuskey",
+        "winner": "REP",
+        "margin_pct": 34.35209581
+      },
+      "13": {
+        "dem_votes": 15547,
+        "rep_votes": 17664,
+        "other_votes": 2813,
+        "total_votes": 36024,
+        "dem_candidate": "Mary Ann Claytor",
+        "rep_candidate": "John \"JB\" McCuskey",
+        "winner": "REP",
+        "margin_pct": 5.8766378
+      },
+      "14": {
+        "dem_votes": 9527,
+        "rep_votes": 25617,
+        "other_votes": 3169,
+        "total_votes": 38313,
+        "dem_candidate": "Mary Ann Claytor",
+        "rep_candidate": "John \"JB\" McCuskey",
+        "winner": "REP",
+        "margin_pct": 41.99618928
+      },
+      "15": {
+        "dem_votes": 9484,
+        "rep_votes": 22421,
+        "other_votes": 5785,
+        "total_votes": 37690,
+        "dem_candidate": "Mary Ann Claytor",
+        "rep_candidate": "John \"JB\" McCuskey",
+        "winner": "REP",
+        "margin_pct": 34.32475458
+      },
+      "16": {
+        "dem_votes": 12575,
+        "rep_votes": 19332,
+        "other_votes": 8730,
+        "total_votes": 40637,
+        "dem_candidate": "Mary Ann Claytor",
+        "rep_candidate": "John \"JB\" McCuskey",
+        "winner": "REP",
+        "margin_pct": 16.62770382
+      },
+      "17": {
+        "dem_votes": 16705,
+        "rep_votes": 23250,
+        "other_votes": 1266,
+        "total_votes": 41221,
+        "dem_candidate": "Mary Ann Claytor",
+        "rep_candidate": "John \"JB\" McCuskey",
+        "winner": "REP",
+        "margin_pct": 15.87782926
+      }
+    }
+  }
+}

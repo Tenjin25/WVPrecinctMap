@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "scope": "congressional",
+    "contest_type": "auditor",
+    "year": 2020,
+    "district_lines_year": 2022,
+    "method": "rdh_2020_block_votes_joined_to_census_bef",
+    "match_coverage_pct": 100.0
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 119771,
+        "rep_votes": 242693,
+        "other_votes": 0,
+        "total_votes": 362464,
+        "dem_candidate": "G20AUDDCLA",
+        "rep_candidate": "G20AUDRMCC",
+        "winner": "REP",
+        "margin_pct": 33.91288514
+      },
+      "2": {
+        "dem_votes": 124657,
+        "rep_votes": 254152,
+        "other_votes": 0,
+        "total_votes": 378809,
+        "dem_candidate": "G20AUDDCLA",
+        "rep_candidate": "G20AUDRMCC",
+        "winner": "REP",
+        "margin_pct": 34.18477386
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "archived_2020": {
+    "input_features": 1744,
+    "output_features": 1733,
+    "counties": 55,
+    "methods": {
+      "original_2020_attributes": 1049,
+      "restored_from_2010_vtd": 432,
+      "dropped_county_cover_placeholder": 2,
+      "county_supplied_name": 260,
+      "dropped_topology_sliver": 1
+    },
+    "duplicate_precinct_parts_merged": 8
+  },
+  "current_2024": {
+    "output_features": 1666,
+    "counties": 55,
+    "duplicate_precinct_parts_merged": 2
+  }
+}

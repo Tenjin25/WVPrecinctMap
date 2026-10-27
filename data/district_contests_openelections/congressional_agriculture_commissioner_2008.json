@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "scope": "congressional",
+    "contest_type": "agriculture_commissioner",
+    "year": 2008,
+    "district_lines_year": 2022,
+    "source_vtd_vintage": 2000,
+    "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+    "match_coverage_pct": 93.698818
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 164649,
+        "rep_votes": 115424,
+        "other_votes": 23,
+        "total_votes": 280096,
+        "dem_candidate": "Gus R. Douglass",
+        "rep_candidate": "J. MICHAEL TEETS",
+        "winner": "DEM",
+        "margin_pct": -17.57433166
+      },
+      "2": {
+        "dem_votes": 117464,
+        "rep_votes": 130482,
+        "other_votes": 112,
+        "total_votes": 248058,
+        "dem_candidate": "Gus R. Douglass",
+        "rep_candidate": "James Michael Teets",
+        "winner": "REP",
+        "margin_pct": 5.2479662
+      }
+    }
+  }
+}

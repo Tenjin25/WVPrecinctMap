@@ -1,0 +1,408 @@
+[
+  {
+    "year": 2008,
+    "source": "OpenElections local files plus recovered county sources",
+    "rows": 51749,
+    "counties_found": 52,
+    "missing_counties": [
+      "Brooke",
+      "Doddridge",
+      "Mineral"
+    ],
+    "office_coverage": {
+      "president": {
+        "counties_found": 51,
+        "missing_counties": [
+          "Barbour",
+          "Brooke",
+          "Doddridge",
+          "Mineral"
+        ]
+      },
+      "us_senate": {
+        "counties_found": 50,
+        "missing_counties": [
+          "Brooke",
+          "Doddridge",
+          "Hancock",
+          "Lincoln",
+          "Mineral"
+        ]
+      },
+      "governor": {
+        "counties_found": 50,
+        "missing_counties": [
+          "Brooke",
+          "Doddridge",
+          "Hancock",
+          "Lincoln",
+          "Mineral"
+        ]
+      },
+      "attorney_general": {
+        "counties_found": 47,
+        "missing_counties": [
+          "Brooke",
+          "Doddridge",
+          "Fayette",
+          "Hancock",
+          "Lincoln",
+          "Mineral",
+          "Monongalia",
+          "Morgan"
+        ]
+      }
+    },
+    "rejected_county_labels": [],
+    "source_anomalies": [
+      {
+        "county": "Morgan",
+        "office": "Attorney General",
+        "action": "excluded",
+        "detail": "Printed precinct cells sum to 20 more votes than the report and certified county total."
+      },
+      {
+        "county": "Lincoln",
+        "office": "U.S. Senate and Governor",
+        "action": "excluded",
+        "detail": "Printed precinct cells do not reconcile to the report totals."
+      }
+    ]
+  },
+  {
+    "year": 2010,
+    "source": "OpenElections local files plus recovered county sources",
+    "rows": 25921,
+    "counties_found": 44,
+    "missing_counties": [
+      "Brooke",
+      "Clay",
+      "Gilmer",
+      "Grant",
+      "Greenbrier",
+      "Hardy",
+      "Harrison",
+      "McDowell",
+      "Pleasants",
+      "Preston",
+      "Ritchie"
+    ],
+    "office_coverage": {
+      "president": {
+        "counties_found": 0,
+        "missing_counties": [
+          "Barbour",
+          "Berkeley",
+          "Boone",
+          "Braxton",
+          "Brooke",
+          "Cabell",
+          "Calhoun",
+          "Clay",
+          "Doddridge",
+          "Fayette",
+          "Gilmer",
+          "Grant",
+          "Greenbrier",
+          "Hampshire",
+          "Hancock",
+          "Hardy",
+          "Harrison",
+          "Jackson",
+          "Jefferson",
+          "Kanawha",
+          "Lewis",
+          "Lincoln",
+          "Logan",
+          "Marion",
+          "Marshall",
+          "Mason",
+          "McDowell",
+          "Mercer",
+          "Mineral",
+          "Mingo",
+          "Monongalia",
+          "Monroe",
+          "Morgan",
+          "Nicholas",
+          "Ohio",
+          "Pendleton",
+          "Pleasants",
+          "Pocahontas",
+          "Preston",
+          "Putnam",
+          "Raleigh",
+          "Randolph",
+          "Ritchie",
+          "Roane",
+          "Summers",
+          "Taylor",
+          "Tucker",
+          "Tyler",
+          "Upshur",
+          "Wayne",
+          "Webster",
+          "Wetzel",
+          "Wirt",
+          "Wood",
+          "Wyoming"
+        ]
+      },
+      "us_senate": {
+        "counties_found": 43,
+        "missing_counties": [
+          "Brooke",
+          "Clay",
+          "Gilmer",
+          "Grant",
+          "Greenbrier",
+          "Hardy",
+          "Harrison",
+          "McDowell",
+          "Ohio",
+          "Pleasants",
+          "Preston",
+          "Ritchie"
+        ]
+      },
+      "governor": {
+        "counties_found": 0,
+        "missing_counties": [
+          "Barbour",
+          "Berkeley",
+          "Boone",
+          "Braxton",
+          "Brooke",
+          "Cabell",
+          "Calhoun",
+          "Clay",
+          "Doddridge",
+          "Fayette",
+          "Gilmer",
+          "Grant",
+          "Greenbrier",
+          "Hampshire",
+          "Hancock",
+          "Hardy",
+          "Harrison",
+          "Jackson",
+          "Jefferson",
+          "Kanawha",
+          "Lewis",
+          "Lincoln",
+          "Logan",
+          "Marion",
+          "Marshall",
+          "Mason",
+          "McDowell",
+          "Mercer",
+          "Mineral",
+          "Mingo",
+          "Monongalia",
+          "Monroe",
+          "Morgan",
+          "Nicholas",
+          "Ohio",
+          "Pendleton",
+          "Pleasants",
+          "Pocahontas",
+          "Preston",
+          "Putnam",
+          "Raleigh",
+          "Randolph",
+          "Ritchie",
+          "Roane",
+          "Summers",
+          "Taylor",
+          "Tucker",
+          "Tyler",
+          "Upshur",
+          "Wayne",
+          "Webster",
+          "Wetzel",
+          "Wirt",
+          "Wood",
+          "Wyoming"
+        ]
+      },
+      "attorney_general": {
+        "counties_found": 0,
+        "missing_counties": [
+          "Barbour",
+          "Berkeley",
+          "Boone",
+          "Braxton",
+          "Brooke",
+          "Cabell",
+          "Calhoun",
+          "Clay",
+          "Doddridge",
+          "Fayette",
+          "Gilmer",
+          "Grant",
+          "Greenbrier",
+          "Hampshire",
+          "Hancock",
+          "Hardy",
+          "Harrison",
+          "Jackson",
+          "Jefferson",
+          "Kanawha",
+          "Lewis",
+          "Lincoln",
+          "Logan",
+          "Marion",
+          "Marshall",
+          "Mason",
+          "McDowell",
+          "Mercer",
+          "Mineral",
+          "Mingo",
+          "Monongalia",
+          "Monroe",
+          "Morgan",
+          "Nicholas",
+          "Ohio",
+          "Pendleton",
+          "Pleasants",
+          "Pocahontas",
+          "Preston",
+          "Putnam",
+          "Raleigh",
+          "Randolph",
+          "Ritchie",
+          "Roane",
+          "Summers",
+          "Taylor",
+          "Tucker",
+          "Tyler",
+          "Upshur",
+          "Wayne",
+          "Webster",
+          "Wetzel",
+          "Wirt",
+          "Wood",
+          "Wyoming"
+        ]
+      }
+    },
+    "rejected_county_labels": [],
+    "source_anomalies": [
+      {
+        "county": "Upshur",
+        "office": "U.S. Senate",
+        "candidate": "Jeff Becker",
+        "action": "imported source cells",
+        "detail": "Printed precinct cells sum to 103; the report total is 106."
+      }
+    ]
+  },
+  {
+    "year": 2012,
+    "source": "Harvard Election Data Archive WV_2012.tab",
+    "rows": 41469,
+    "counties_found": 55,
+    "missing_counties": [],
+    "office_coverage": {
+      "president": {
+        "counties_found": 55,
+        "missing_counties": []
+      },
+      "us_senate": {
+        "counties_found": 55,
+        "missing_counties": []
+      },
+      "governor": {
+        "counties_found": 55,
+        "missing_counties": []
+      },
+      "attorney_general": {
+        "counties_found": 55,
+        "missing_counties": []
+      }
+    },
+    "rejected_county_labels": []
+  },
+  {
+    "year": 2016,
+    "source": "MIT MEDSL official-precinct-returns",
+    "rows": 66462,
+    "counties_found": 55,
+    "missing_counties": [],
+    "office_coverage": {
+      "president": {
+        "counties_found": 55,
+        "missing_counties": []
+      },
+      "us_senate": {
+        "counties_found": 0,
+        "missing_counties": [
+          "Barbour",
+          "Berkeley",
+          "Boone",
+          "Braxton",
+          "Brooke",
+          "Cabell",
+          "Calhoun",
+          "Clay",
+          "Doddridge",
+          "Fayette",
+          "Gilmer",
+          "Grant",
+          "Greenbrier",
+          "Hampshire",
+          "Hancock",
+          "Hardy",
+          "Harrison",
+          "Jackson",
+          "Jefferson",
+          "Kanawha",
+          "Lewis",
+          "Lincoln",
+          "Logan",
+          "Marion",
+          "Marshall",
+          "Mason",
+          "McDowell",
+          "Mercer",
+          "Mineral",
+          "Mingo",
+          "Monongalia",
+          "Monroe",
+          "Morgan",
+          "Nicholas",
+          "Ohio",
+          "Pendleton",
+          "Pleasants",
+          "Pocahontas",
+          "Preston",
+          "Putnam",
+          "Raleigh",
+          "Randolph",
+          "Ritchie",
+          "Roane",
+          "Summers",
+          "Taylor",
+          "Tucker",
+          "Tyler",
+          "Upshur",
+          "Wayne",
+          "Webster",
+          "Wetzel",
+          "Wirt",
+          "Wood",
+          "Wyoming"
+        ]
+      },
+      "governor": {
+        "counties_found": 55,
+        "missing_counties": []
+      },
+      "attorney_general": {
+        "counties_found": 55,
+        "missing_counties": []
+      }
+    },
+    "rejected_county_labels": []
+  }
+]

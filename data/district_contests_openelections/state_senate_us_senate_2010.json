@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "scope": "state_senate",
+    "contest_type": "us_senate",
+    "year": 2010,
+    "district_lines_year": 2022,
+    "source_vtd_vintage": 2010,
+    "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+    "match_coverage_pct": 93.4132
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 6829,
+        "rep_votes": 5295,
+        "other_votes": 412,
+        "total_votes": 12536,
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "John R. Raese",
+        "winner": "DEM",
+        "margin_pct": -12.23675814
+      },
+      "2": {
+        "dem_votes": 17695,
+        "rep_votes": 13592,
+        "other_votes": 992,
+        "total_votes": 32279,
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "John R. Raese",
+        "winner": "DEM",
+        "margin_pct": -12.71105053
+      },
+      "3": {
+        "dem_votes": 13559,
+        "rep_votes": 12841,
+        "other_votes": 692,
+        "total_votes": 27092,
+        "dem_candidate": "JOE MANCHIN III",
+        "rep_candidate": "JOHN R. RAESE",
+        "winner": "DEM",
+        "margin_pct": -2.65022885
+      },
+      "4": {
+        "dem_votes": 13252,
+        "rep_votes": 11016,
+        "other_votes": 767,
+        "total_votes": 25035,
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "John R. Raese",
+        "winner": "DEM",
+        "margin_pct": -8.93149591
+      },
+      "5": {
+        "dem_votes": 17253,
+        "rep_votes": 11496,
+        "other_votes": 660,
+        "total_votes": 29409,
+        "dem_candidate": "JOE MANCHIN III",
+        "rep_candidate": "JOHN R. RAESE",
+        "winner": "DEM",
+        "margin_pct": -19.57564011
+      },
+      "6": {
+        "dem_votes": 19062,
+        "rep_votes": 1837,
+        "other_votes": 94,
+        "total_votes": 20993,
+        "dem_candidate": "",
+        "rep_candidate": "John R. Raese",
+        "winner": "DEM",
+        "margin_pct": -82.05115991
+      },
+      "7": {
+        "dem_votes": 13770,
+        "rep_votes": 7263,
+        "other_votes": 500,
+        "total_votes": 21533,
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "John R. Raese",
+        "winner": "DEM",
+        "margin_pct": -30.21873404
+      },
+      "8": {
+        "dem_votes": 15383,
+        "rep_votes": 10930,
+        "other_votes": 976,
+        "total_votes": 27289,
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "John R. Raese",
+        "winner": "DEM",
+        "margin_pct": -16.3179303
+      },
+      "9": {
+        "dem_votes": 13112,
+        "rep_votes": 11206,
+        "other_votes": 764,
+        "total_votes": 25082,
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "John R. Raese",
+        "winner": "DEM",
+        "margin_pct": -7.59907503
+      },
+      "10": {
+        "dem_votes": 13205,
+        "rep_votes": 8922,
+        "other_votes": 817,
+        "total_votes": 22944,
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "John R. Raese",
+        "winner": "DEM",
+        "margin_pct": -18.66718968
+      },
+      "11": {
+        "dem_votes": 16730,
+        "rep_votes": 13025,
+        "other_votes": 1014,
+        "total_votes": 30769,
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "John R. Raese",
+        "winner": "DEM",
+        "margin_pct": -12.04134031
+      },
+      "12": {
+        "dem_votes": 4908,
+        "rep_votes": 4280,
+        "other_votes": 346,
+        "total_votes": 9534,
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "John R. Raese",
+        "winner": "DEM",
+        "margin_pct": -6.58695196
+      },
+      "13": {
+        "dem_votes": 16213,
+        "rep_votes": 10449,
+        "other_votes": 917,
+        "total_votes": 27579,
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "John R. Raese",
+        "winner": "DEM",
+        "margin_pct": -20.89996011
+      },
+      "14": {
+        "dem_votes": 6479,
+        "rep_votes": 6776,
+        "other_votes": 390,
+        "total_votes": 13645,
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "John R. Raese",
+        "winner": "REP",
+        "margin_pct": 2.17662147
+      },
+      "15": {
+        "dem_votes": 8244,
+        "rep_votes": 10630,
+        "other_votes": 769,
+        "total_votes": 19643,
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "John R. Raese",
+        "winner": "REP",
+        "margin_pct": 12.14682075
+      },
+      "16": {
+        "dem_votes": 12266,
+        "rep_votes": 12560,
+        "other_votes": 1102,
+        "total_votes": 25928,
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "John R. Raese",
+        "winner": "REP",
+        "margin_pct": 1.13390929
+      },
+      "17": {
+        "dem_votes": 18404,
+        "rep_votes": 15513,
+        "other_votes": 1118,
+        "total_votes": 35035,
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "John R. Raese",
+        "winner": "DEM",
+        "margin_pct": -8.25174825
+      }
+    }
+  }
+}

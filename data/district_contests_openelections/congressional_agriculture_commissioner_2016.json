@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "scope": "congressional",
+    "contest_type": "agriculture_commissioner",
+    "year": 2016,
+    "district_lines_year": 2022,
+    "source_vtd_vintage": 2010,
+    "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+    "match_coverage_pct": 96.022432
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 141474,
+        "rep_votes": 134044,
+        "other_votes": 25631,
+        "total_votes": 301149,
+        "dem_candidate": "WALT HELMICK",
+        "rep_candidate": "KENT LEONHARDT",
+        "winner": "DEM",
+        "margin_pct": -2.46721722
+      },
+      "2": {
+        "dem_votes": 122170,
+        "rep_votes": 173704,
+        "other_votes": 40782,
+        "total_votes": 336656,
+        "dem_candidate": "WALT HELMICK",
+        "rep_candidate": "KENT LEONHARDT",
+        "winner": "REP",
+        "margin_pct": 15.30761371
+      }
+    }
+  }
+}

@@ -1,0 +1,935 @@
+{
+  "meta": {
+    "scope": "state_house",
+    "contest_type": "auditor",
+    "year": 2008,
+    "district_lines_year": 2022,
+    "source_vtd_vintage": 2000,
+    "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+    "match_coverage_pct": 93.759915
+  },
+  "general": {
+    "results": {
+      "3": {
+        "dem_votes": 1741,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 1741,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "4": {
+        "dem_votes": 7146,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 7146,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "5": {
+        "dem_votes": 5402,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 5402,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "6": {
+        "dem_votes": 6746,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 6746,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "7": {
+        "dem_votes": 3772,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 3772,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "8": {
+        "dem_votes": 1783,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 1783,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "9": {
+        "dem_votes": 6083,
+        "rep_votes": 0,
+        "other_votes": 5,
+        "total_votes": 6088,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -99.91787122
+      },
+      "10": {
+        "dem_votes": 6165,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 6165,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "11": {
+        "dem_votes": 6303,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 6303,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "12": {
+        "dem_votes": 5245,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 5245,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "13": {
+        "dem_votes": 5027,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 5027,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "14": {
+        "dem_votes": 5989,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 5989,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "15": {
+        "dem_votes": 5357,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 5357,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "16": {
+        "dem_votes": 5257,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 5257,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "17": {
+        "dem_votes": 7294,
+        "rep_votes": 0,
+        "other_votes": 2,
+        "total_votes": 7296,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -99.97258772
+      },
+      "18": {
+        "dem_votes": 5692,
+        "rep_votes": 0,
+        "other_votes": 11,
+        "total_votes": 5703,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -99.80711906
+      },
+      "19": {
+        "dem_votes": 4675,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 4675,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "20": {
+        "dem_votes": 816,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 816,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "21": {
+        "dem_votes": 2374,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 2374,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "22": {
+        "dem_votes": 3961,
+        "rep_votes": 0,
+        "other_votes": 10,
+        "total_votes": 3971,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -99.74817426
+      },
+      "23": {
+        "dem_votes": 4254,
+        "rep_votes": 0,
+        "other_votes": 14,
+        "total_votes": 4268,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -99.67197751
+      },
+      "24": {
+        "dem_votes": 3978,
+        "rep_votes": 0,
+        "other_votes": 16,
+        "total_votes": 3994,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -99.5993991
+      },
+      "25": {
+        "dem_votes": 4236,
+        "rep_votes": 0,
+        "other_votes": 13,
+        "total_votes": 4249,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -99.69404566
+      },
+      "26": {
+        "dem_votes": 6064,
+        "rep_votes": 0,
+        "other_votes": 17,
+        "total_votes": 6081,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -99.72044072
+      },
+      "27": {
+        "dem_votes": 1880,
+        "rep_votes": 0,
+        "other_votes": 6,
+        "total_votes": 1886,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -99.68186638
+      },
+      "29": {
+        "dem_votes": 281,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 281,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "30": {
+        "dem_votes": 1,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 1,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "31": {
+        "dem_votes": 5579,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 5579,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "32": {
+        "dem_votes": 5954,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 5954,
+        "dem_candidate": "GLEN B. GAINER III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "33": {
+        "dem_votes": 5027,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 5027,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "34": {
+        "dem_votes": 3077,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 3077,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "35": {
+        "dem_votes": 4876,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 4876,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "36": {
+        "dem_votes": 4903,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 4903,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "37": {
+        "dem_votes": 4762,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 4762,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "38": {
+        "dem_votes": 4266,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 4266,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "39": {
+        "dem_votes": 4687,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 4687,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "40": {
+        "dem_votes": 5915,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 5915,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "41": {
+        "dem_votes": 5508,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 5508,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "42": {
+        "dem_votes": 5284,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 5284,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "43": {
+        "dem_votes": 4098,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 4098,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "44": {
+        "dem_votes": 5529,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 5529,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "45": {
+        "dem_votes": 3281,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 3281,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "46": {
+        "dem_votes": 5679,
+        "rep_votes": 0,
+        "other_votes": 8,
+        "total_votes": 5687,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -99.85932829
+      },
+      "47": {
+        "dem_votes": 5362,
+        "rep_votes": 0,
+        "other_votes": 7,
+        "total_votes": 5369,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -99.8696219
+      },
+      "48": {
+        "dem_votes": 5437,
+        "rep_votes": 0,
+        "other_votes": 3,
+        "total_votes": 5440,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -99.94485294
+      },
+      "49": {
+        "dem_votes": 5365,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 5365,
+        "dem_candidate": "GLEN B. GAINER III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "50": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "TIE",
+        "margin_pct": 0.0
+      },
+      "51": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "TIE",
+        "margin_pct": 0.0
+      },
+      "52": {
+        "dem_votes": 5656,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 5656,
+        "dem_candidate": "GLEN B. GAINER III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "53": {
+        "dem_votes": 6377,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 6377,
+        "dem_candidate": "GLEN B. GAINER III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "54": {
+        "dem_votes": 6052,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 6052,
+        "dem_candidate": "GLEN B. GAINER III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "55": {
+        "dem_votes": 5125,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 5125,
+        "dem_candidate": "GLEN B. GAINER III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "56": {
+        "dem_votes": 5744,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 5744,
+        "dem_candidate": "GLEN B. GAINER III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "57": {
+        "dem_votes": 5537,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 5537,
+        "dem_candidate": "GLEN B. GAINER III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "58": {
+        "dem_votes": 6361,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 6361,
+        "dem_candidate": "GLEN B. GAINER III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "59": {
+        "dem_votes": 4794,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 4794,
+        "dem_candidate": "GLEN B. GAINER III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "60": {
+        "dem_votes": 5145,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 5145,
+        "dem_candidate": "GLEN B. GAINER III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "61": {
+        "dem_votes": 5192,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 5192,
+        "dem_candidate": "GLEN B. GAINER III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "62": {
+        "dem_votes": 5011,
+        "rep_votes": 0,
+        "other_votes": 4,
+        "total_votes": 5015,
+        "dem_candidate": "GLEN B. GAINER III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -99.92023928
+      },
+      "63": {
+        "dem_votes": 3498,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 3498,
+        "dem_candidate": "Glen Gainer",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "64": {
+        "dem_votes": 5204,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 5204,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "65": {
+        "dem_votes": 5160,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 5160,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "66": {
+        "dem_votes": 5083,
+        "rep_votes": 0,
+        "other_votes": 7,
+        "total_votes": 5090,
+        "dem_candidate": "Glen Gainer",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -99.86247544
+      },
+      "67": {
+        "dem_votes": 5671,
+        "rep_votes": 0,
+        "other_votes": 10,
+        "total_votes": 5681,
+        "dem_candidate": "Glen Gainer",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -99.82397465
+      },
+      "68": {
+        "dem_votes": 5571,
+        "rep_votes": 0,
+        "other_votes": 4,
+        "total_votes": 5575,
+        "dem_candidate": "GLEN B. GAINER III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -99.92825112
+      },
+      "69": {
+        "dem_votes": 6945,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 6945,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "70": {
+        "dem_votes": 6342,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 6342,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "71": {
+        "dem_votes": 6381,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 6381,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "72": {
+        "dem_votes": 5178,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 5178,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "73": {
+        "dem_votes": 4598,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 4598,
+        "dem_candidate": "GLEN B. GAINER III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "74": {
+        "dem_votes": 6224,
+        "rep_votes": 0,
+        "other_votes": 10,
+        "total_votes": 6234,
+        "dem_candidate": "Glen Gainer",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -99.83958935
+      },
+      "75": {
+        "dem_votes": 6009,
+        "rep_votes": 0,
+        "other_votes": 1,
+        "total_votes": 6010,
+        "dem_candidate": "Glen Gainer",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -99.98336106
+      },
+      "76": {
+        "dem_votes": 5851,
+        "rep_votes": 0,
+        "other_votes": 1,
+        "total_votes": 5852,
+        "dem_candidate": "Glen Gainer",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -99.98291183
+      },
+      "77": {
+        "dem_votes": 110,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 110,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "78": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "TIE",
+        "margin_pct": 0.0
+      },
+      "83": {
+        "dem_votes": 3661,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 3661,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "84": {
+        "dem_votes": 4794,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 4794,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "85": {
+        "dem_votes": 4864,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 4864,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "86": {
+        "dem_votes": 5034,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 5034,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "88": {
+        "dem_votes": 2060,
+        "rep_votes": 0,
+        "other_votes": 4,
+        "total_votes": 2064,
+        "dem_candidate": "GLEN B. GAINER III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -99.80620155
+      },
+      "89": {
+        "dem_votes": 3777,
+        "rep_votes": 0,
+        "other_votes": 35,
+        "total_votes": 3812,
+        "dem_candidate": "GLEN B. GAINER III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -99.0818468
+      },
+      "90": {
+        "dem_votes": 1259,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 1259,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "91": {
+        "dem_votes": 2924,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 2924,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "92": {
+        "dem_votes": 5345,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 5345,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "93": {
+        "dem_votes": 4048,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 4048,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "94": {
+        "dem_votes": 2733,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 2733,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "95": {
+        "dem_votes": 3518,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 3518,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "96": {
+        "dem_votes": 2954,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 2954,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "97": {
+        "dem_votes": 5184,
+        "rep_votes": 0,
+        "other_votes": 12,
+        "total_votes": 5196,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -99.76905312
+      },
+      "98": {
+        "dem_votes": 4567,
+        "rep_votes": 0,
+        "other_votes": 49,
+        "total_votes": 4616,
+        "dem_candidate": "GLEN B. GAINER III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -98.93847487
+      },
+      "99": {
+        "dem_votes": 4338,
+        "rep_votes": 0,
+        "other_votes": 68,
+        "total_votes": 4406,
+        "dem_candidate": "GLEN B. GAINER III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -98.45665002
+      },
+      "100": {
+        "dem_votes": 4274,
+        "rep_votes": 0,
+        "other_votes": 89,
+        "total_votes": 4363,
+        "dem_candidate": "GLEN B. GAINER III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -97.96011918
+      }
+    }
+  }
+}

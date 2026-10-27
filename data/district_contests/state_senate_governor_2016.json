@@ -1,0 +1,184 @@
+{
+  "meta": {
+    "scope": "state_senate",
+    "contest_type": "governor",
+    "year": 2016,
+    "district_lines_year": 2022,
+    "method": "rdh_2020_block_votes_joined_to_census_bef",
+    "match_coverage_pct": 100.0
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 20100,
+        "rep_votes": 19940,
+        "other_votes": 3787,
+        "total_votes": 43827,
+        "dem_candidate": "Jim Justice",
+        "rep_candidate": "Bill Cole",
+        "winner": "DEM",
+        "margin_pct": -0.36507176
+      },
+      "2": {
+        "dem_votes": 20176,
+        "rep_votes": 19044,
+        "other_votes": 3867,
+        "total_votes": 43087,
+        "dem_candidate": "Jim Justice",
+        "rep_candidate": "Bill Cole",
+        "winner": "DEM",
+        "margin_pct": -2.62724256
+      },
+      "3": {
+        "dem_votes": 21408,
+        "rep_votes": 20876,
+        "other_votes": 3099,
+        "total_votes": 45383,
+        "dem_candidate": "Jim Justice",
+        "rep_candidate": "Bill Cole",
+        "winner": "DEM",
+        "margin_pct": -1.17224511
+      },
+      "4": {
+        "dem_votes": 23254,
+        "rep_votes": 18296,
+        "other_votes": 3064,
+        "total_votes": 44614,
+        "dem_candidate": "Jim Justice",
+        "rep_candidate": "Bill Cole",
+        "winner": "DEM",
+        "margin_pct": -11.11310351
+      },
+      "5": {
+        "dem_votes": 21604,
+        "rep_votes": 13690,
+        "other_votes": 3437,
+        "total_votes": 38731,
+        "dem_candidate": "Jim Justice",
+        "rep_candidate": "Bill Cole",
+        "winner": "DEM",
+        "margin_pct": -20.43324469
+      },
+      "6": {
+        "dem_votes": 19411,
+        "rep_votes": 20078,
+        "other_votes": 2083,
+        "total_votes": 41572,
+        "dem_candidate": "Jim Justice",
+        "rep_candidate": "Bill Cole",
+        "winner": "REP",
+        "margin_pct": 1.6044453
+      },
+      "7": {
+        "dem_votes": 22609,
+        "rep_votes": 12798,
+        "other_votes": 2807,
+        "total_votes": 38214,
+        "dem_candidate": "Jim Justice",
+        "rep_candidate": "Bill Cole",
+        "winner": "DEM",
+        "margin_pct": -25.67383681
+      },
+      "8": {
+        "dem_votes": 23387,
+        "rep_votes": 13126,
+        "other_votes": 4126,
+        "total_votes": 40639,
+        "dem_candidate": "Jim Justice",
+        "rep_candidate": "Bill Cole",
+        "winner": "DEM",
+        "margin_pct": -25.24914491
+      },
+      "9": {
+        "dem_votes": 24887,
+        "rep_votes": 15432,
+        "other_votes": 2683,
+        "total_votes": 43002,
+        "dem_candidate": "Jim Justice",
+        "rep_candidate": "Bill Cole",
+        "winner": "DEM",
+        "margin_pct": -21.98734943
+      },
+      "10": {
+        "dem_votes": 26320,
+        "rep_votes": 14983,
+        "other_votes": 3512,
+        "total_votes": 44815,
+        "dem_candidate": "Jim Justice",
+        "rep_candidate": "Bill Cole",
+        "winner": "DEM",
+        "margin_pct": -25.29733348
+      },
+      "11": {
+        "dem_votes": 19287,
+        "rep_votes": 17973,
+        "other_votes": 3851,
+        "total_votes": 41111,
+        "dem_candidate": "Jim Justice",
+        "rep_candidate": "Bill Cole",
+        "winner": "DEM",
+        "margin_pct": -3.19622485
+      },
+      "12": {
+        "dem_votes": 21467,
+        "rep_votes": 19073,
+        "other_votes": 3233,
+        "total_votes": 43773,
+        "dem_candidate": "Jim Justice",
+        "rep_candidate": "Bill Cole",
+        "winner": "DEM",
+        "margin_pct": -5.4691248
+      },
+      "13": {
+        "dem_votes": 18247,
+        "rep_votes": 14388,
+        "other_votes": 5623,
+        "total_votes": 38258,
+        "dem_candidate": "Jim Justice",
+        "rep_candidate": "Bill Cole",
+        "winner": "DEM",
+        "margin_pct": -10.08677924
+      },
+      "14": {
+        "dem_votes": 13945,
+        "rep_votes": 22961,
+        "other_votes": 4118,
+        "total_votes": 41024,
+        "dem_candidate": "Jim Justice",
+        "rep_candidate": "Bill Cole",
+        "winner": "REP",
+        "margin_pct": 21.9773791
+      },
+      "15": {
+        "dem_votes": 12557,
+        "rep_votes": 23342,
+        "other_votes": 3528,
+        "total_votes": 39427,
+        "dem_candidate": "Jim Justice",
+        "rep_candidate": "Bill Cole",
+        "winner": "REP",
+        "margin_pct": 27.35435108
+      },
+      "16": {
+        "dem_votes": 16376,
+        "rep_votes": 21363,
+        "other_votes": 4380,
+        "total_votes": 42119,
+        "dem_candidate": "Jim Justice",
+        "rep_candidate": "Bill Cole",
+        "winner": "REP",
+        "margin_pct": 11.84026211
+      },
+      "17": {
+        "dem_votes": 25371,
+        "rep_votes": 14624,
+        "other_votes": 4263,
+        "total_votes": 44258,
+        "dem_candidate": "Jim Justice",
+        "rep_candidate": "Bill Cole",
+        "winner": "DEM",
+        "margin_pct": -24.28261557
+      }
+    }
+  }
+}

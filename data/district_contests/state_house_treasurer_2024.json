@@ -1,0 +1,1014 @@
+{
+  "meta": {
+    "scope": "state_house",
+    "contest_type": "treasurer",
+    "year": 2024,
+    "district_lines_year": 2022,
+    "method": "rdh_2020_block_votes_joined_to_census_bef",
+    "match_coverage_pct": 100.0
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 0,
+        "rep_votes": 7470,
+        "other_votes": 0,
+        "total_votes": 7470,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "2": {
+        "dem_votes": 0,
+        "rep_votes": 6341,
+        "other_votes": 0,
+        "total_votes": 6341,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "3": {
+        "dem_votes": 0,
+        "rep_votes": 6165,
+        "other_votes": 0,
+        "total_votes": 6165,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "4": {
+        "dem_votes": 0,
+        "rep_votes": 7516,
+        "other_votes": 0,
+        "total_votes": 7516,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "5": {
+        "dem_votes": 0,
+        "rep_votes": 5490,
+        "other_votes": 0,
+        "total_votes": 5490,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "6": {
+        "dem_votes": 0,
+        "rep_votes": 6740,
+        "other_votes": 0,
+        "total_votes": 6740,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "7": {
+        "dem_votes": 0,
+        "rep_votes": 6530,
+        "other_votes": 0,
+        "total_votes": 6530,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "8": {
+        "dem_votes": 0,
+        "rep_votes": 6473,
+        "other_votes": 0,
+        "total_votes": 6473,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "9": {
+        "dem_votes": 0,
+        "rep_votes": 7187,
+        "other_votes": 0,
+        "total_votes": 7187,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "10": {
+        "dem_votes": 0,
+        "rep_votes": 6889,
+        "other_votes": 0,
+        "total_votes": 6889,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "11": {
+        "dem_votes": 0,
+        "rep_votes": 6065,
+        "other_votes": 0,
+        "total_votes": 6065,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "12": {
+        "dem_votes": 0,
+        "rep_votes": 4697,
+        "other_votes": 0,
+        "total_votes": 4697,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "13": {
+        "dem_votes": 0,
+        "rep_votes": 5819,
+        "other_votes": 0,
+        "total_votes": 5819,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "14": {
+        "dem_votes": 0,
+        "rep_votes": 6994,
+        "other_votes": 0,
+        "total_votes": 6994,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "15": {
+        "dem_votes": 0,
+        "rep_votes": 6171,
+        "other_votes": 0,
+        "total_votes": 6171,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "16": {
+        "dem_votes": 0,
+        "rep_votes": 7406,
+        "other_votes": 0,
+        "total_votes": 7406,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "17": {
+        "dem_votes": 0,
+        "rep_votes": 6546,
+        "other_votes": 0,
+        "total_votes": 6546,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "18": {
+        "dem_votes": 0,
+        "rep_votes": 6070,
+        "other_votes": 0,
+        "total_votes": 6070,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "19": {
+        "dem_votes": 0,
+        "rep_votes": 6728,
+        "other_votes": 0,
+        "total_votes": 6728,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "20": {
+        "dem_votes": 0,
+        "rep_votes": 7562,
+        "other_votes": 0,
+        "total_votes": 7562,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "21": {
+        "dem_votes": 0,
+        "rep_votes": 7197,
+        "other_votes": 0,
+        "total_votes": 7197,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "22": {
+        "dem_votes": 0,
+        "rep_votes": 5929,
+        "other_votes": 0,
+        "total_votes": 5929,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "23": {
+        "dem_votes": 0,
+        "rep_votes": 5657,
+        "other_votes": 0,
+        "total_votes": 5657,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "24": {
+        "dem_votes": 0,
+        "rep_votes": 4166,
+        "other_votes": 0,
+        "total_votes": 4166,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "25": {
+        "dem_votes": 0,
+        "rep_votes": 3166,
+        "other_votes": 0,
+        "total_votes": 3166,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "26": {
+        "dem_votes": 0,
+        "rep_votes": 5784,
+        "other_votes": 0,
+        "total_votes": 5784,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "27": {
+        "dem_votes": 0,
+        "rep_votes": 4921,
+        "other_votes": 0,
+        "total_votes": 4921,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "28": {
+        "dem_votes": 0,
+        "rep_votes": 6032,
+        "other_votes": 0,
+        "total_votes": 6032,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "29": {
+        "dem_votes": 0,
+        "rep_votes": 4738,
+        "other_votes": 0,
+        "total_votes": 4738,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "30": {
+        "dem_votes": 0,
+        "rep_votes": 5452,
+        "other_votes": 0,
+        "total_votes": 5452,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "31": {
+        "dem_votes": 0,
+        "rep_votes": 5177,
+        "other_votes": 0,
+        "total_votes": 5177,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "32": {
+        "dem_votes": 0,
+        "rep_votes": 5617,
+        "other_votes": 0,
+        "total_votes": 5617,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "33": {
+        "dem_votes": 0,
+        "rep_votes": 5029,
+        "other_votes": 0,
+        "total_votes": 5029,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "34": {
+        "dem_votes": 0,
+        "rep_votes": 5048,
+        "other_votes": 0,
+        "total_votes": 5048,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "35": {
+        "dem_votes": 0,
+        "rep_votes": 5359,
+        "other_votes": 0,
+        "total_votes": 5359,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "36": {
+        "dem_votes": 0,
+        "rep_votes": 3911,
+        "other_votes": 0,
+        "total_votes": 3911,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "37": {
+        "dem_votes": 0,
+        "rep_votes": 5506,
+        "other_votes": 0,
+        "total_votes": 5506,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "38": {
+        "dem_votes": 0,
+        "rep_votes": 6221,
+        "other_votes": 0,
+        "total_votes": 6221,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "39": {
+        "dem_votes": 0,
+        "rep_votes": 6555,
+        "other_votes": 0,
+        "total_votes": 6555,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "40": {
+        "dem_votes": 0,
+        "rep_votes": 7351,
+        "other_votes": 0,
+        "total_votes": 7351,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "41": {
+        "dem_votes": 0,
+        "rep_votes": 8036,
+        "other_votes": 0,
+        "total_votes": 8036,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "42": {
+        "dem_votes": 0,
+        "rep_votes": 6921,
+        "other_votes": 0,
+        "total_votes": 6921,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "43": {
+        "dem_votes": 0,
+        "rep_votes": 6170,
+        "other_votes": 0,
+        "total_votes": 6170,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "44": {
+        "dem_votes": 0,
+        "rep_votes": 5102,
+        "other_votes": 0,
+        "total_votes": 5102,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "45": {
+        "dem_votes": 0,
+        "rep_votes": 4936,
+        "other_votes": 0,
+        "total_votes": 4936,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "46": {
+        "dem_votes": 0,
+        "rep_votes": 6424,
+        "other_votes": 0,
+        "total_votes": 6424,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "47": {
+        "dem_votes": 0,
+        "rep_votes": 6388,
+        "other_votes": 0,
+        "total_votes": 6388,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "48": {
+        "dem_votes": 0,
+        "rep_votes": 5014,
+        "other_votes": 0,
+        "total_votes": 5014,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "49": {
+        "dem_votes": 0,
+        "rep_votes": 5942,
+        "other_votes": 0,
+        "total_votes": 5942,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "50": {
+        "dem_votes": 0,
+        "rep_votes": 4834,
+        "other_votes": 0,
+        "total_votes": 4834,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "51": {
+        "dem_votes": 0,
+        "rep_votes": 6033,
+        "other_votes": 0,
+        "total_votes": 6033,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "52": {
+        "dem_votes": 0,
+        "rep_votes": 5419,
+        "other_votes": 0,
+        "total_votes": 5419,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "53": {
+        "dem_votes": 0,
+        "rep_votes": 5229,
+        "other_votes": 0,
+        "total_votes": 5229,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "54": {
+        "dem_votes": 0,
+        "rep_votes": 3754,
+        "other_votes": 0,
+        "total_votes": 3754,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "55": {
+        "dem_votes": 0,
+        "rep_votes": 6133,
+        "other_votes": 0,
+        "total_votes": 6133,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "56": {
+        "dem_votes": 0,
+        "rep_votes": 5977,
+        "other_votes": 0,
+        "total_votes": 5977,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "57": {
+        "dem_votes": 0,
+        "rep_votes": 5277,
+        "other_votes": 0,
+        "total_votes": 5277,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "58": {
+        "dem_votes": 0,
+        "rep_votes": 5674,
+        "other_votes": 0,
+        "total_votes": 5674,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "59": {
+        "dem_votes": 0,
+        "rep_votes": 5508,
+        "other_votes": 0,
+        "total_votes": 5508,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "60": {
+        "dem_votes": 0,
+        "rep_votes": 6168,
+        "other_votes": 0,
+        "total_votes": 6168,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "61": {
+        "dem_votes": 0,
+        "rep_votes": 6159,
+        "other_votes": 0,
+        "total_votes": 6159,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "62": {
+        "dem_votes": 0,
+        "rep_votes": 5947,
+        "other_votes": 0,
+        "total_votes": 5947,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "63": {
+        "dem_votes": 0,
+        "rep_votes": 5023,
+        "other_votes": 0,
+        "total_votes": 5023,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "64": {
+        "dem_votes": 0,
+        "rep_votes": 6299,
+        "other_votes": 0,
+        "total_votes": 6299,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "65": {
+        "dem_votes": 0,
+        "rep_votes": 5895,
+        "other_votes": 0,
+        "total_votes": 5895,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "66": {
+        "dem_votes": 0,
+        "rep_votes": 5806,
+        "other_votes": 0,
+        "total_votes": 5806,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "67": {
+        "dem_votes": 0,
+        "rep_votes": 6461,
+        "other_votes": 0,
+        "total_votes": 6461,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "68": {
+        "dem_votes": 0,
+        "rep_votes": 6624,
+        "other_votes": 0,
+        "total_votes": 6624,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "69": {
+        "dem_votes": 0,
+        "rep_votes": 7264,
+        "other_votes": 0,
+        "total_votes": 7264,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "70": {
+        "dem_votes": 0,
+        "rep_votes": 4836,
+        "other_votes": 0,
+        "total_votes": 4836,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "71": {
+        "dem_votes": 0,
+        "rep_votes": 6966,
+        "other_votes": 0,
+        "total_votes": 6966,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "72": {
+        "dem_votes": 0,
+        "rep_votes": 5897,
+        "other_votes": 0,
+        "total_votes": 5897,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "73": {
+        "dem_votes": 0,
+        "rep_votes": 6599,
+        "other_votes": 0,
+        "total_votes": 6599,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "74": {
+        "dem_votes": 0,
+        "rep_votes": 6976,
+        "other_votes": 0,
+        "total_votes": 6976,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "75": {
+        "dem_votes": 0,
+        "rep_votes": 6420,
+        "other_votes": 0,
+        "total_votes": 6420,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "76": {
+        "dem_votes": 0,
+        "rep_votes": 5341,
+        "other_votes": 0,
+        "total_votes": 5341,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "77": {
+        "dem_votes": 0,
+        "rep_votes": 6676,
+        "other_votes": 0,
+        "total_votes": 6676,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "78": {
+        "dem_votes": 0,
+        "rep_votes": 6566,
+        "other_votes": 0,
+        "total_votes": 6566,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "79": {
+        "dem_votes": 0,
+        "rep_votes": 3149,
+        "other_votes": 0,
+        "total_votes": 3149,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "80": {
+        "dem_votes": 0,
+        "rep_votes": 3804,
+        "other_votes": 0,
+        "total_votes": 3804,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "81": {
+        "dem_votes": 0,
+        "rep_votes": 3040,
+        "other_votes": 0,
+        "total_votes": 3040,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "82": {
+        "dem_votes": 0,
+        "rep_votes": 6638,
+        "other_votes": 0,
+        "total_votes": 6638,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "83": {
+        "dem_votes": 0,
+        "rep_votes": 5689,
+        "other_votes": 0,
+        "total_votes": 5689,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "84": {
+        "dem_votes": 0,
+        "rep_votes": 6232,
+        "other_votes": 0,
+        "total_votes": 6232,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "85": {
+        "dem_votes": 0,
+        "rep_votes": 7393,
+        "other_votes": 0,
+        "total_votes": 7393,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "86": {
+        "dem_votes": 0,
+        "rep_votes": 6504,
+        "other_votes": 0,
+        "total_votes": 6504,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "87": {
+        "dem_votes": 0,
+        "rep_votes": 6858,
+        "other_votes": 0,
+        "total_votes": 6858,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "88": {
+        "dem_votes": 0,
+        "rep_votes": 7105,
+        "other_votes": 0,
+        "total_votes": 7105,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "89": {
+        "dem_votes": 0,
+        "rep_votes": 7221,
+        "other_votes": 0,
+        "total_votes": 7221,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "90": {
+        "dem_votes": 0,
+        "rep_votes": 8369,
+        "other_votes": 0,
+        "total_votes": 8369,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "91": {
+        "dem_votes": 0,
+        "rep_votes": 7251,
+        "other_votes": 0,
+        "total_votes": 7251,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "92": {
+        "dem_votes": 0,
+        "rep_votes": 7055,
+        "other_votes": 0,
+        "total_votes": 7055,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "93": {
+        "dem_votes": 0,
+        "rep_votes": 5112,
+        "other_votes": 0,
+        "total_votes": 5112,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "94": {
+        "dem_votes": 0,
+        "rep_votes": 6372,
+        "other_votes": 0,
+        "total_votes": 6372,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "95": {
+        "dem_votes": 0,
+        "rep_votes": 6043,
+        "other_votes": 0,
+        "total_votes": 6043,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "96": {
+        "dem_votes": 0,
+        "rep_votes": 6525,
+        "other_votes": 0,
+        "total_votes": 6525,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "97": {
+        "dem_votes": 0,
+        "rep_votes": 6444,
+        "other_votes": 0,
+        "total_votes": 6444,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "98": {
+        "dem_votes": 0,
+        "rep_votes": 6347,
+        "other_votes": 0,
+        "total_votes": 6347,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "99": {
+        "dem_votes": 0,
+        "rep_votes": 6982,
+        "other_votes": 0,
+        "total_votes": 6982,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "100": {
+        "dem_votes": 0,
+        "rep_votes": 6216,
+        "other_votes": 0,
+        "total_votes": 6216,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      }
+    }
+  }
+}

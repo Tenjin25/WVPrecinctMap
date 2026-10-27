@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "scope": "congressional",
+    "contest_type": "governor",
+    "year": 2008,
+    "district_lines_year": 2022,
+    "source_vtd_vintage": 2000,
+    "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+    "match_coverage_pct": 94.091538
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 218933,
+        "rep_votes": 80678,
+        "other_votes": 13519,
+        "total_votes": 313130,
+        "dem_candidate": "JOE MANCHIN III",
+        "rep_candidate": "RUSS WEEKS",
+        "winner": "DEM",
+        "margin_pct": -44.15258838
+      },
+      "2": {
+        "dem_votes": 206850,
+        "rep_votes": 80207,
+        "other_votes": 12459,
+        "total_votes": 299516,
+        "dem_candidate": "Joe Manchin, III",
+        "rep_candidate": "Russell E. Weeks Jr",
+        "winner": "DEM",
+        "margin_pct": -42.28254918
+      }
+    }
+  }
+}

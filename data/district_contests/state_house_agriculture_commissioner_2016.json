@@ -1,0 +1,1014 @@
+{
+  "meta": {
+    "scope": "state_house",
+    "contest_type": "agriculture_commissioner",
+    "year": 2016,
+    "district_lines_year": 2022,
+    "method": "rdh_2020_block_votes_joined_to_census_bef",
+    "match_coverage_pct": 100.0
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 2908,
+        "rep_votes": 3744,
+        "other_votes": 1166,
+        "total_votes": 7818,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 10.69327194
+      },
+      "2": {
+        "dem_votes": 2745,
+        "rep_votes": 3275,
+        "other_votes": 1182,
+        "total_votes": 7202,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 7.35906693
+      },
+      "3": {
+        "dem_votes": 2756,
+        "rep_votes": 3156,
+        "other_votes": 1175,
+        "total_votes": 7087,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 5.64413715
+      },
+      "4": {
+        "dem_votes": 2738,
+        "rep_votes": 4556,
+        "other_votes": 1104,
+        "total_votes": 8398,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 21.64801143
+      },
+      "5": {
+        "dem_votes": 2849,
+        "rep_votes": 3297,
+        "other_votes": 1031,
+        "total_votes": 7177,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 6.24216246
+      },
+      "6": {
+        "dem_votes": 2707,
+        "rep_votes": 3851,
+        "other_votes": 1160,
+        "total_votes": 7718,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 14.82249287
+      },
+      "7": {
+        "dem_votes": 2495,
+        "rep_votes": 3843,
+        "other_votes": 846,
+        "total_votes": 7184,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 18.76391982
+      },
+      "8": {
+        "dem_votes": 2003,
+        "rep_votes": 4686,
+        "other_votes": 568,
+        "total_votes": 7257,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 36.97120022
+      },
+      "9": {
+        "dem_votes": 2249,
+        "rep_votes": 4816,
+        "other_votes": 688,
+        "total_votes": 7753,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 33.10976396
+      },
+      "10": {
+        "dem_votes": 2097,
+        "rep_votes": 4378,
+        "other_votes": 777,
+        "total_votes": 7252,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 31.45339217
+      },
+      "11": {
+        "dem_votes": 2436,
+        "rep_votes": 4034,
+        "other_votes": 797,
+        "total_votes": 7267,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 21.98981698
+      },
+      "12": {
+        "dem_votes": 2112,
+        "rep_votes": 2862,
+        "other_votes": 786,
+        "total_votes": 5760,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 13.02083333
+      },
+      "13": {
+        "dem_votes": 1998,
+        "rep_votes": 3570,
+        "other_votes": 735,
+        "total_votes": 6303,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 24.94050452
+      },
+      "14": {
+        "dem_votes": 2126,
+        "rep_votes": 4385,
+        "other_votes": 694,
+        "total_votes": 7205,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 31.35322693
+      },
+      "15": {
+        "dem_votes": 2594,
+        "rep_votes": 3464,
+        "other_votes": 536,
+        "total_votes": 6594,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 13.19381256
+      },
+      "16": {
+        "dem_votes": 2850,
+        "rep_votes": 4213,
+        "other_votes": 699,
+        "total_votes": 7762,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 17.55990724
+      },
+      "17": {
+        "dem_votes": 2894,
+        "rep_votes": 3635,
+        "other_votes": 670,
+        "total_votes": 7199,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 10.29309626
+      },
+      "18": {
+        "dem_votes": 2593,
+        "rep_votes": 3409,
+        "other_votes": 600,
+        "total_votes": 6602,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 12.35989094
+      },
+      "19": {
+        "dem_votes": 3274,
+        "rep_votes": 3466,
+        "other_votes": 536,
+        "total_votes": 7276,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 2.63881253
+      },
+      "20": {
+        "dem_votes": 3281,
+        "rep_votes": 4426,
+        "other_votes": 525,
+        "total_votes": 8232,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 13.90913508
+      },
+      "21": {
+        "dem_votes": 3107,
+        "rep_votes": 4074,
+        "other_votes": 549,
+        "total_votes": 7730,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 12.50970246
+      },
+      "22": {
+        "dem_votes": 2364,
+        "rep_votes": 3134,
+        "other_votes": 427,
+        "total_votes": 5925,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 12.99578059
+      },
+      "23": {
+        "dem_votes": 2380,
+        "rep_votes": 2968,
+        "other_votes": 471,
+        "total_votes": 5819,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 10.10482901
+      },
+      "24": {
+        "dem_votes": 2274,
+        "rep_votes": 2120,
+        "other_votes": 492,
+        "total_votes": 4886,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "DEM",
+        "margin_pct": -3.15186246
+      },
+      "25": {
+        "dem_votes": 2766,
+        "rep_votes": 1440,
+        "other_votes": 486,
+        "total_votes": 4692,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "DEM",
+        "margin_pct": -28.26086957
+      },
+      "26": {
+        "dem_votes": 2900,
+        "rep_votes": 3086,
+        "other_votes": 533,
+        "total_votes": 6519,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 2.85319834
+      },
+      "27": {
+        "dem_votes": 2434,
+        "rep_votes": 2691,
+        "other_votes": 555,
+        "total_votes": 5680,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 4.52464789
+      },
+      "28": {
+        "dem_votes": 2605,
+        "rep_votes": 3075,
+        "other_votes": 543,
+        "total_votes": 6223,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 7.55262735
+      },
+      "29": {
+        "dem_votes": 2190,
+        "rep_votes": 2558,
+        "other_votes": 475,
+        "total_votes": 5223,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 7.04575914
+      },
+      "30": {
+        "dem_votes": 2880,
+        "rep_votes": 2589,
+        "other_votes": 499,
+        "total_votes": 5968,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "DEM",
+        "margin_pct": -4.87600536
+      },
+      "31": {
+        "dem_votes": 2665,
+        "rep_votes": 2446,
+        "other_votes": 566,
+        "total_votes": 5677,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "DEM",
+        "margin_pct": -3.85767131
+      },
+      "32": {
+        "dem_votes": 3607,
+        "rep_votes": 2576,
+        "other_votes": 735,
+        "total_votes": 6918,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "DEM",
+        "margin_pct": -14.9031512
+      },
+      "33": {
+        "dem_votes": 2669,
+        "rep_votes": 2455,
+        "other_votes": 665,
+        "total_votes": 5789,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "DEM",
+        "margin_pct": -3.69666609
+      },
+      "34": {
+        "dem_votes": 2411,
+        "rep_votes": 2853,
+        "other_votes": 722,
+        "total_votes": 5986,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 7.38389576
+      },
+      "35": {
+        "dem_votes": 2391,
+        "rep_votes": 2849,
+        "other_votes": 509,
+        "total_votes": 5749,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 7.96660289
+      },
+      "36": {
+        "dem_votes": 2304,
+        "rep_votes": 2023,
+        "other_votes": 565,
+        "total_votes": 4892,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "DEM",
+        "margin_pct": -5.74407195
+      },
+      "37": {
+        "dem_votes": 2258,
+        "rep_votes": 3270,
+        "other_votes": 665,
+        "total_votes": 6193,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 16.3410302
+      },
+      "38": {
+        "dem_votes": 2200,
+        "rep_votes": 3491,
+        "other_votes": 731,
+        "total_votes": 6422,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 20.10277172
+      },
+      "39": {
+        "dem_votes": 2172,
+        "rep_votes": 3943,
+        "other_votes": 728,
+        "total_votes": 6843,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 25.88046179
+      },
+      "40": {
+        "dem_votes": 3410,
+        "rep_votes": 3678,
+        "other_votes": 575,
+        "total_votes": 7663,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 3.49732481
+      },
+      "41": {
+        "dem_votes": 2845,
+        "rep_votes": 4003,
+        "other_votes": 551,
+        "total_votes": 7399,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 15.65076362
+      },
+      "42": {
+        "dem_votes": 2773,
+        "rep_votes": 3797,
+        "other_votes": 633,
+        "total_votes": 7203,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 14.21629876
+      },
+      "43": {
+        "dem_votes": 2477,
+        "rep_votes": 3334,
+        "other_votes": 557,
+        "total_votes": 6368,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 13.45791457
+      },
+      "44": {
+        "dem_votes": 3549,
+        "rep_votes": 2472,
+        "other_votes": 608,
+        "total_votes": 6629,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "DEM",
+        "margin_pct": -16.24679439
+      },
+      "45": {
+        "dem_votes": 2332,
+        "rep_votes": 2757,
+        "other_votes": 428,
+        "total_votes": 5517,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 7.70346203
+      },
+      "46": {
+        "dem_votes": 4521,
+        "rep_votes": 2609,
+        "other_votes": 429,
+        "total_votes": 7559,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "DEM",
+        "margin_pct": -25.2943511
+      },
+      "47": {
+        "dem_votes": 4025,
+        "rep_votes": 2666,
+        "other_votes": 430,
+        "total_votes": 7121,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "DEM",
+        "margin_pct": -19.08439826
+      },
+      "48": {
+        "dem_votes": 3457,
+        "rep_votes": 2177,
+        "other_votes": 287,
+        "total_votes": 5921,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "DEM",
+        "margin_pct": -21.61796994
+      },
+      "49": {
+        "dem_votes": 3079,
+        "rep_votes": 2947,
+        "other_votes": 354,
+        "total_votes": 6380,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "DEM",
+        "margin_pct": -2.06896552
+      },
+      "50": {
+        "dem_votes": 2992,
+        "rep_votes": 2185,
+        "other_votes": 537,
+        "total_votes": 5714,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "DEM",
+        "margin_pct": -14.12320616
+      },
+      "51": {
+        "dem_votes": 3274,
+        "rep_votes": 2831,
+        "other_votes": 615,
+        "total_votes": 6720,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "DEM",
+        "margin_pct": -6.5922619
+      },
+      "52": {
+        "dem_votes": 4011,
+        "rep_votes": 2248,
+        "other_votes": 715,
+        "total_votes": 6974,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "DEM",
+        "margin_pct": -25.27960998
+      },
+      "53": {
+        "dem_votes": 3370,
+        "rep_votes": 2689,
+        "other_votes": 617,
+        "total_votes": 6676,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "DEM",
+        "margin_pct": -10.20071899
+      },
+      "54": {
+        "dem_votes": 4477,
+        "rep_votes": 1578,
+        "other_votes": 666,
+        "total_votes": 6721,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "DEM",
+        "margin_pct": -43.13346228
+      },
+      "55": {
+        "dem_votes": 4121,
+        "rep_votes": 2913,
+        "other_votes": 569,
+        "total_votes": 7603,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "DEM",
+        "margin_pct": -15.88846508
+      },
+      "56": {
+        "dem_votes": 3909,
+        "rep_votes": 3172,
+        "other_votes": 599,
+        "total_votes": 7680,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "DEM",
+        "margin_pct": -9.59635417
+      },
+      "57": {
+        "dem_votes": 4148,
+        "rep_votes": 2737,
+        "other_votes": 638,
+        "total_votes": 7523,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "DEM",
+        "margin_pct": -18.7558155
+      },
+      "58": {
+        "dem_votes": 3666,
+        "rep_votes": 2988,
+        "other_votes": 591,
+        "total_votes": 7245,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "DEM",
+        "margin_pct": -9.35817805
+      },
+      "59": {
+        "dem_votes": 3257,
+        "rep_votes": 2887,
+        "other_votes": 559,
+        "total_votes": 6703,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "DEM",
+        "margin_pct": -5.51991646
+      },
+      "60": {
+        "dem_votes": 3005,
+        "rep_votes": 3259,
+        "other_votes": 540,
+        "total_votes": 6804,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 3.73309818
+      },
+      "61": {
+        "dem_votes": 3056,
+        "rep_votes": 3501,
+        "other_votes": 548,
+        "total_votes": 7105,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 6.26319493
+      },
+      "62": {
+        "dem_votes": 3060,
+        "rep_votes": 2876,
+        "other_votes": 505,
+        "total_votes": 6441,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "DEM",
+        "margin_pct": -2.85669927
+      },
+      "63": {
+        "dem_votes": 3150,
+        "rep_votes": 2335,
+        "other_votes": 337,
+        "total_votes": 5822,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "DEM",
+        "margin_pct": -13.9986259
+      },
+      "64": {
+        "dem_votes": 2804,
+        "rep_votes": 3734,
+        "other_votes": 453,
+        "total_votes": 6991,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 13.30281791
+      },
+      "65": {
+        "dem_votes": 3129,
+        "rep_votes": 3022,
+        "other_votes": 445,
+        "total_votes": 6596,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "DEM",
+        "margin_pct": -1.62219527
+      },
+      "66": {
+        "dem_votes": 4184,
+        "rep_votes": 2114,
+        "other_votes": 341,
+        "total_votes": 6639,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "DEM",
+        "margin_pct": -31.17939449
+      },
+      "67": {
+        "dem_votes": 4477,
+        "rep_votes": 2687,
+        "other_votes": 354,
+        "total_votes": 7518,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "DEM",
+        "margin_pct": -23.80952381
+      },
+      "68": {
+        "dem_votes": 2867,
+        "rep_votes": 3595,
+        "other_votes": 675,
+        "total_votes": 7137,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 10.2003643
+      },
+      "69": {
+        "dem_votes": 3162,
+        "rep_votes": 3957,
+        "other_votes": 707,
+        "total_votes": 7826,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 10.1584462
+      },
+      "70": {
+        "dem_votes": 3153,
+        "rep_votes": 2587,
+        "other_votes": 804,
+        "total_votes": 6544,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "DEM",
+        "margin_pct": -8.64914425
+      },
+      "71": {
+        "dem_votes": 3209,
+        "rep_votes": 3736,
+        "other_votes": 846,
+        "total_votes": 7791,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 6.76421512
+      },
+      "72": {
+        "dem_votes": 2765,
+        "rep_votes": 3143,
+        "other_votes": 595,
+        "total_votes": 6503,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 5.81270183
+      },
+      "73": {
+        "dem_votes": 2223,
+        "rep_votes": 3758,
+        "other_votes": 860,
+        "total_votes": 6841,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 22.43824002
+      },
+      "74": {
+        "dem_votes": 2347,
+        "rep_votes": 4010,
+        "other_votes": 902,
+        "total_votes": 7259,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 22.90949167
+      },
+      "75": {
+        "dem_votes": 2631,
+        "rep_votes": 3916,
+        "other_votes": 920,
+        "total_votes": 7467,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 17.20905317
+      },
+      "76": {
+        "dem_votes": 2524,
+        "rep_votes": 3402,
+        "other_votes": 778,
+        "total_votes": 6704,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 13.09665871
+      },
+      "77": {
+        "dem_votes": 1978,
+        "rep_votes": 3816,
+        "other_votes": 1176,
+        "total_votes": 6970,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 26.37015782
+      },
+      "78": {
+        "dem_votes": 1948,
+        "rep_votes": 3430,
+        "other_votes": 1462,
+        "total_votes": 6840,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 21.66666667
+      },
+      "79": {
+        "dem_votes": 2292,
+        "rep_votes": 1572,
+        "other_votes": 1071,
+        "total_votes": 4935,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "DEM",
+        "margin_pct": -14.58966565
+      },
+      "80": {
+        "dem_votes": 2016,
+        "rep_votes": 2196,
+        "other_votes": 1111,
+        "total_votes": 5323,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 3.38155176
+      },
+      "81": {
+        "dem_votes": 1593,
+        "rep_votes": 1564,
+        "other_votes": 811,
+        "total_votes": 3968,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "DEM",
+        "margin_pct": -0.73084677
+      },
+      "82": {
+        "dem_votes": 2227,
+        "rep_votes": 3372,
+        "other_votes": 1274,
+        "total_votes": 6873,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 16.65939182
+      },
+      "83": {
+        "dem_votes": 1355,
+        "rep_votes": 2878,
+        "other_votes": 1073,
+        "total_votes": 5306,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 28.70335469
+      },
+      "84": {
+        "dem_votes": 2054,
+        "rep_votes": 3440,
+        "other_votes": 1148,
+        "total_votes": 6642,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 20.86720867
+      },
+      "85": {
+        "dem_votes": 3753,
+        "rep_votes": 3711,
+        "other_votes": 431,
+        "total_votes": 7895,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "DEM",
+        "margin_pct": -0.53198227
+      },
+      "86": {
+        "dem_votes": 3304,
+        "rep_votes": 3186,
+        "other_votes": 369,
+        "total_votes": 6859,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "DEM",
+        "margin_pct": -1.7203674
+      },
+      "87": {
+        "dem_votes": 1819,
+        "rep_votes": 4212,
+        "other_votes": 836,
+        "total_votes": 6867,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 34.84782292
+      },
+      "88": {
+        "dem_votes": 2052,
+        "rep_votes": 4192,
+        "other_votes": 652,
+        "total_votes": 6896,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 31.0324826
+      },
+      "89": {
+        "dem_votes": 2157,
+        "rep_votes": 4139,
+        "other_votes": 547,
+        "total_votes": 6843,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 28.96390472
+      },
+      "90": {
+        "dem_votes": 2098,
+        "rep_votes": 4760,
+        "other_votes": 728,
+        "total_votes": 7586,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 35.09095703
+      },
+      "91": {
+        "dem_votes": 1586,
+        "rep_votes": 3451,
+        "other_votes": 695,
+        "total_votes": 5732,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 32.53663643
+      },
+      "92": {
+        "dem_votes": 2097,
+        "rep_votes": 3663,
+        "other_votes": 714,
+        "total_votes": 6474,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 24.18906395
+      },
+      "93": {
+        "dem_votes": 2239,
+        "rep_votes": 2521,
+        "other_votes": 667,
+        "total_votes": 5427,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 5.19624102
+      },
+      "94": {
+        "dem_votes": 1714,
+        "rep_votes": 2951,
+        "other_votes": 669,
+        "total_votes": 5334,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 23.19085114
+      },
+      "95": {
+        "dem_votes": 1598,
+        "rep_votes": 3064,
+        "other_votes": 672,
+        "total_votes": 5334,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 27.48406449
+      },
+      "96": {
+        "dem_votes": 1815,
+        "rep_votes": 3250,
+        "other_votes": 745,
+        "total_votes": 5810,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 24.69879518
+      },
+      "97": {
+        "dem_votes": 2621,
+        "rep_votes": 3025,
+        "other_votes": 721,
+        "total_votes": 6367,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 6.34521753
+      },
+      "98": {
+        "dem_votes": 2326,
+        "rep_votes": 3228,
+        "other_votes": 675,
+        "total_votes": 6229,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 14.480655
+      },
+      "99": {
+        "dem_votes": 2770,
+        "rep_votes": 3370,
+        "other_votes": 706,
+        "total_votes": 6846,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 8.76424189
+      },
+      "100": {
+        "dem_votes": 3056,
+        "rep_votes": 3562,
+        "other_votes": 791,
+        "total_votes": 7409,
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 6.82953165
+      }
+    }
+  }
+}

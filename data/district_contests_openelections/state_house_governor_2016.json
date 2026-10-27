@@ -1,0 +1,1015 @@
+{
+  "meta": {
+    "scope": "state_house",
+    "contest_type": "governor",
+    "year": 2016,
+    "district_lines_year": 2022,
+    "source_vtd_vintage": 2010,
+    "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+    "match_coverage_pct": 95.947763
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 3374,
+        "rep_votes": 4195,
+        "other_votes": 754,
+        "total_votes": 8323,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 9.86423165
+      },
+      "2": {
+        "dem_votes": 3536,
+        "rep_votes": 3396,
+        "other_votes": 669,
+        "total_votes": 7601,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -1.84186291
+      },
+      "3": {
+        "dem_votes": 3958,
+        "rep_votes": 3523,
+        "other_votes": 675,
+        "total_votes": 8156,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -5.33349681
+      },
+      "4": {
+        "dem_votes": 4258,
+        "rep_votes": 4424,
+        "other_votes": 760,
+        "total_votes": 9442,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 1.7581021
+      },
+      "5": {
+        "dem_votes": 3143,
+        "rep_votes": 2589,
+        "other_votes": 654,
+        "total_votes": 6386,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -8.67522706
+      },
+      "6": {
+        "dem_votes": 6271,
+        "rep_votes": 5503,
+        "other_votes": 906,
+        "total_votes": 12680,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -6.05678233
+      },
+      "7": {
+        "dem_votes": 1669,
+        "rep_votes": 1333,
+        "other_votes": 270,
+        "total_votes": 3272,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -10.26894866
+      },
+      "8": {
+        "dem_votes": 3014,
+        "rep_votes": 3891,
+        "other_votes": 539,
+        "total_votes": 7444,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 11.78130038
+      },
+      "9": {
+        "dem_votes": 3523,
+        "rep_votes": 4577,
+        "other_votes": 521,
+        "total_votes": 8621,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 12.22595987
+      },
+      "10": {
+        "dem_votes": 3859,
+        "rep_votes": 3697,
+        "other_votes": 515,
+        "total_votes": 8071,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -2.00718622
+      },
+      "11": {
+        "dem_votes": 4049,
+        "rep_votes": 3666,
+        "other_votes": 609,
+        "total_votes": 8324,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -4.60115329
+      },
+      "12": {
+        "dem_votes": 2868,
+        "rep_votes": 2233,
+        "other_votes": 575,
+        "total_votes": 5676,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -11.18745595
+      },
+      "13": {
+        "dem_votes": 2895,
+        "rep_votes": 2695,
+        "other_votes": 394,
+        "total_votes": 5984,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -3.34224599
+      },
+      "14": {
+        "dem_votes": 3668,
+        "rep_votes": 3783,
+        "other_votes": 460,
+        "total_votes": 7911,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 1.4536721
+      },
+      "15": {
+        "dem_votes": 3347,
+        "rep_votes": 2680,
+        "other_votes": 484,
+        "total_votes": 6511,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -10.24420212
+      },
+      "16": {
+        "dem_votes": 3282,
+        "rep_votes": 2789,
+        "other_votes": 562,
+        "total_votes": 6633,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -7.4325343
+      },
+      "17": {
+        "dem_votes": 5157,
+        "rep_votes": 3869,
+        "other_votes": 674,
+        "total_votes": 9700,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -13.27835052
+      },
+      "18": {
+        "dem_votes": 3654,
+        "rep_votes": 2770,
+        "other_votes": 409,
+        "total_votes": 6833,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -12.93721645
+      },
+      "19": {
+        "dem_votes": 4124,
+        "rep_votes": 2485,
+        "other_votes": 571,
+        "total_votes": 7180,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -22.82729805
+      },
+      "20": {
+        "dem_votes": 716,
+        "rep_votes": 630,
+        "other_votes": 89,
+        "total_votes": 1435,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -5.99303136
+      },
+      "21": {
+        "dem_votes": 1189,
+        "rep_votes": 863,
+        "other_votes": 207,
+        "total_votes": 2259,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -14.43116423
+      },
+      "22": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "TIE",
+        "margin_pct": 0.0
+      },
+      "23": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "TIE",
+        "margin_pct": 0.0
+      },
+      "24": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "TIE",
+        "margin_pct": 0.0
+      },
+      "25": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "TIE",
+        "margin_pct": 0.0
+      },
+      "26": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "TIE",
+        "margin_pct": 0.0
+      },
+      "27": {
+        "dem_votes": 20625,
+        "rep_votes": 13566,
+        "other_votes": 3390,
+        "total_votes": 37581,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -18.7834278
+      },
+      "28": {
+        "dem_votes": 3963,
+        "rep_votes": 2681,
+        "other_votes": 456,
+        "total_votes": 7100,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -18.05633803
+      },
+      "29": {
+        "dem_votes": 2363,
+        "rep_votes": 1956,
+        "other_votes": 265,
+        "total_votes": 4584,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -8.87870855
+      },
+      "30": {
+        "dem_votes": 3431,
+        "rep_votes": 2069,
+        "other_votes": 420,
+        "total_votes": 5920,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -23.00675676
+      },
+      "31": {
+        "dem_votes": 4199,
+        "rep_votes": 2778,
+        "other_votes": 495,
+        "total_votes": 7472,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -19.01766595
+      },
+      "32": {
+        "dem_votes": 4958,
+        "rep_votes": 2269,
+        "other_votes": 455,
+        "total_votes": 7682,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -35.00390523
+      },
+      "33": {
+        "dem_votes": 3757,
+        "rep_votes": 2398,
+        "other_votes": 573,
+        "total_votes": 6728,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -20.19916766
+      },
+      "34": {
+        "dem_votes": 2440,
+        "rep_votes": 1484,
+        "other_votes": 265,
+        "total_votes": 4189,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -22.82167582
+      },
+      "35": {
+        "dem_votes": 4099,
+        "rep_votes": 2275,
+        "other_votes": 323,
+        "total_votes": 6697,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -27.23607585
+      },
+      "36": {
+        "dem_votes": 3390,
+        "rep_votes": 2439,
+        "other_votes": 212,
+        "total_votes": 6041,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -15.74242675
+      },
+      "37": {
+        "dem_votes": 2736,
+        "rep_votes": 3966,
+        "other_votes": 297,
+        "total_votes": 6999,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 17.57393913
+      },
+      "38": {
+        "dem_votes": 2706,
+        "rep_votes": 3612,
+        "other_votes": 335,
+        "total_votes": 6653,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 13.61791673
+      },
+      "39": {
+        "dem_votes": 3085,
+        "rep_votes": 4027,
+        "other_votes": 417,
+        "total_votes": 7529,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 12.51162173
+      },
+      "40": {
+        "dem_votes": 3962,
+        "rep_votes": 3398,
+        "other_votes": 695,
+        "total_votes": 8055,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -7.0018622
+      },
+      "41": {
+        "dem_votes": 3457,
+        "rep_votes": 2888,
+        "other_votes": 468,
+        "total_votes": 6813,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -8.35168061
+      },
+      "42": {
+        "dem_votes": 3229,
+        "rep_votes": 2251,
+        "other_votes": 338,
+        "total_votes": 5818,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -16.80990031
+      },
+      "43": {
+        "dem_votes": 3192,
+        "rep_votes": 2135,
+        "other_votes": 311,
+        "total_votes": 5638,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -18.7477829
+      },
+      "44": {
+        "dem_votes": 4013,
+        "rep_votes": 1759,
+        "other_votes": 490,
+        "total_votes": 6262,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -35.99488981
+      },
+      "45": {
+        "dem_votes": 2983,
+        "rep_votes": 1888,
+        "other_votes": 359,
+        "total_votes": 5230,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -20.93690249
+      },
+      "46": {
+        "dem_votes": 4390,
+        "rep_votes": 2357,
+        "other_votes": 757,
+        "total_votes": 7504,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -27.09221748
+      },
+      "47": {
+        "dem_votes": 4356,
+        "rep_votes": 2192,
+        "other_votes": 618,
+        "total_votes": 7166,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -30.19815797
+      },
+      "48": {
+        "dem_votes": 7959,
+        "rep_votes": 4967,
+        "other_votes": 838,
+        "total_votes": 13764,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -21.7378669
+      },
+      "49": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "TIE",
+        "margin_pct": 0.0
+      },
+      "50": {
+        "dem_votes": 4144,
+        "rep_votes": 1795,
+        "other_votes": 512,
+        "total_votes": 6451,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -36.41295923
+      },
+      "51": {
+        "dem_votes": 4295,
+        "rep_votes": 2133,
+        "other_votes": 664,
+        "total_votes": 7092,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -30.48505358
+      },
+      "52": {
+        "dem_votes": 8488,
+        "rep_votes": 4505,
+        "other_votes": 1473,
+        "total_votes": 14466,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -27.53352689
+      },
+      "53": {
+        "dem_votes": 36338,
+        "rep_votes": 19364,
+        "other_votes": 6322,
+        "total_votes": 62024,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -27.36682574
+      },
+      "54": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "TIE",
+        "margin_pct": 0.0
+      },
+      "55": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "TIE",
+        "margin_pct": 0.0
+      },
+      "56": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "TIE",
+        "margin_pct": 0.0
+      },
+      "57": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "TIE",
+        "margin_pct": 0.0
+      },
+      "58": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "TIE",
+        "margin_pct": 0.0
+      },
+      "59": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "TIE",
+        "margin_pct": 0.0
+      },
+      "60": {
+        "dem_votes": 1,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 1,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "61": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "TIE",
+        "margin_pct": 0.0
+      },
+      "62": {
+        "dem_votes": 3430,
+        "rep_votes": 2902,
+        "other_votes": 601,
+        "total_votes": 6933,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -7.61575076
+      },
+      "63": {
+        "dem_votes": 3600,
+        "rep_votes": 2274,
+        "other_votes": 441,
+        "total_votes": 6315,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -20.9976247
+      },
+      "64": {
+        "dem_votes": 3242,
+        "rep_votes": 3480,
+        "other_votes": 486,
+        "total_votes": 7208,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 3.30188679
+      },
+      "65": {
+        "dem_votes": 2853,
+        "rep_votes": 3488,
+        "other_votes": 583,
+        "total_votes": 6924,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 9.17099942
+      },
+      "66": {
+        "dem_votes": 3179,
+        "rep_votes": 2366,
+        "other_votes": 717,
+        "total_votes": 6262,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -12.9830725
+      },
+      "67": {
+        "dem_votes": 3302,
+        "rep_votes": 3330,
+        "other_votes": 869,
+        "total_votes": 7501,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 0.37328356
+      },
+      "68": {
+        "dem_votes": 3223,
+        "rep_votes": 3672,
+        "other_votes": 560,
+        "total_votes": 7455,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 6.02280349
+      },
+      "69": {
+        "dem_votes": 3960,
+        "rep_votes": 3717,
+        "other_votes": 569,
+        "total_votes": 8246,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -2.94688334
+      },
+      "70": {
+        "dem_votes": 3689,
+        "rep_votes": 2518,
+        "other_votes": 614,
+        "total_votes": 6821,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -17.16757074
+      },
+      "71": {
+        "dem_votes": 4000,
+        "rep_votes": 3591,
+        "other_votes": 543,
+        "total_votes": 8134,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -5.02827637
+      },
+      "72": {
+        "dem_votes": 3519,
+        "rep_votes": 2777,
+        "other_votes": 434,
+        "total_votes": 6730,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -11.02526003
+      },
+      "73": {
+        "dem_votes": 3024,
+        "rep_votes": 3099,
+        "other_votes": 508,
+        "total_votes": 6631,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 1.13105112
+      },
+      "74": {
+        "dem_votes": 4010,
+        "rep_votes": 3459,
+        "other_votes": 642,
+        "total_votes": 8111,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -6.79324374
+      },
+      "75": {
+        "dem_votes": 4145,
+        "rep_votes": 2889,
+        "other_votes": 701,
+        "total_votes": 7735,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -16.23787977
+      },
+      "76": {
+        "dem_votes": 3747,
+        "rep_votes": 2366,
+        "other_votes": 672,
+        "total_votes": 6785,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -20.35372144
+      },
+      "77": {
+        "dem_votes": 3896,
+        "rep_votes": 3922,
+        "other_votes": 1179,
+        "total_votes": 8997,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 0.28898522
+      },
+      "78": {
+        "dem_votes": 3062,
+        "rep_votes": 3289,
+        "other_votes": 1112,
+        "total_votes": 7463,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 3.04167225
+      },
+      "79": {
+        "dem_votes": 2058,
+        "rep_votes": 1177,
+        "other_votes": 1174,
+        "total_votes": 4409,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -19.9818553
+      },
+      "80": {
+        "dem_votes": 2062,
+        "rep_votes": 1521,
+        "other_votes": 669,
+        "total_votes": 4252,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -12.72342427
+      },
+      "81": {
+        "dem_votes": 1709,
+        "rep_votes": 1274,
+        "other_votes": 681,
+        "total_votes": 3664,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -11.87227074
+      },
+      "82": {
+        "dem_votes": 3308,
+        "rep_votes": 3226,
+        "other_votes": 1000,
+        "total_votes": 7534,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -1.08839926
+      },
+      "83": {
+        "dem_votes": 1919,
+        "rep_votes": 3183,
+        "other_votes": 913,
+        "total_votes": 6015,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 21.01413134
+      },
+      "84": {
+        "dem_votes": 2045,
+        "rep_votes": 3392,
+        "other_votes": 1068,
+        "total_votes": 6505,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 20.70714835
+      },
+      "85": {
+        "dem_votes": 2794,
+        "rep_votes": 4812,
+        "other_votes": 625,
+        "total_votes": 8231,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 24.51706961
+      },
+      "86": {
+        "dem_votes": 2930,
+        "rep_votes": 3783,
+        "other_votes": 434,
+        "total_votes": 7147,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 11.93507765
+      },
+      "87": {
+        "dem_votes": 2033,
+        "rep_votes": 3999,
+        "other_votes": 534,
+        "total_votes": 6566,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 29.9421261
+      },
+      "88": {
+        "dem_votes": 2366,
+        "rep_votes": 4708,
+        "other_votes": 599,
+        "total_votes": 7673,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 30.52261176
+      },
+      "89": {
+        "dem_votes": 2040,
+        "rep_votes": 4627,
+        "other_votes": 616,
+        "total_votes": 7283,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 35.52107648
+      },
+      "90": {
+        "dem_votes": 2179,
+        "rep_votes": 4914,
+        "other_votes": 702,
+        "total_votes": 7795,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 35.08659397
+      },
+      "91": {
+        "dem_votes": 2057,
+        "rep_votes": 3695,
+        "other_votes": 552,
+        "total_votes": 6304,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 25.98350254
+      },
+      "92": {
+        "dem_votes": 2712,
+        "rep_votes": 3864,
+        "other_votes": 671,
+        "total_votes": 7247,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 15.89623292
+      },
+      "93": {
+        "dem_votes": 2254,
+        "rep_votes": 3128,
+        "other_votes": 562,
+        "total_votes": 5944,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 14.7039031
+      },
+      "94": {
+        "dem_votes": 1789,
+        "rep_votes": 2526,
+        "other_votes": 465,
+        "total_votes": 4780,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 15.41841004
+      },
+      "95": {
+        "dem_votes": 1699,
+        "rep_votes": 2983,
+        "other_votes": 466,
+        "total_votes": 5148,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 24.94172494
+      },
+      "96": {
+        "dem_votes": 2013,
+        "rep_votes": 3272,
+        "other_votes": 554,
+        "total_votes": 5839,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 21.56191129
+      },
+      "97": {
+        "dem_votes": 3206,
+        "rep_votes": 3744,
+        "other_votes": 914,
+        "total_votes": 7864,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 6.84130214
+      },
+      "98": {
+        "dem_votes": 2745,
+        "rep_votes": 3659,
+        "other_votes": 660,
+        "total_votes": 7064,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 12.93884485
+      },
+      "99": {
+        "dem_votes": 2627,
+        "rep_votes": 3131,
+        "other_votes": 610,
+        "total_votes": 6368,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 7.91457286
+      },
+      "100": {
+        "dem_votes": 2698,
+        "rep_votes": 3503,
+        "other_votes": 917,
+        "total_votes": 7118,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 11.30935656
+      }
+    }
+  }
+}

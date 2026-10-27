@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "scope": "congressional",
+    "contest_type": "us_senate",
+    "year": 2024,
+    "district_lines_year": 2022,
+    "method": "rdh_2020_block_votes_joined_to_census_bef",
+    "match_coverage_pct": 100.0
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 95671,
+        "rep_votes": 249378,
+        "other_votes": 11176,
+        "total_votes": 356225,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 43.14885255
+      },
+      "2": {
+        "dem_votes": 111877,
+        "rep_votes": 264701,
+        "other_votes": 14899,
+        "total_votes": 391477,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 39.03779788
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "scope": "congressional",
+    "contest_type": "president",
+    "year": 2016,
+    "district_lines_year": 2022,
+    "source_vtd_vintage": 2010,
+    "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+    "match_coverage_pct": 95.969964
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 87570,
+        "rep_votes": 226716,
+        "other_votes": 14470,
+        "total_votes": 328756,
+        "dem_candidate": "Hillary Clinton",
+        "rep_candidate": "Donald Trump",
+        "winner": "REP",
+        "margin_pct": 42.325007
+      },
+      "2": {
+        "dem_votes": 95485,
+        "rep_votes": 240797,
+        "other_votes": 19248,
+        "total_votes": 355530,
+        "dem_candidate": "Hillary Clinton",
+        "rep_candidate": "Donald Trump",
+        "winner": "REP",
+        "margin_pct": 40.87193767
+      }
+    }
+  }
+}

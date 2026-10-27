@@ -1,0 +1,184 @@
+{
+  "meta": {
+    "scope": "state_senate",
+    "contest_type": "agriculture_commissioner",
+    "year": 2024,
+    "district_lines_year": 2022,
+    "method": "rdh_2020_block_votes_joined_to_census_bef",
+    "match_coverage_pct": 100.0
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 13896,
+        "rep_votes": 28691,
+        "other_votes": 0,
+        "total_votes": 42587,
+        "dem_candidate": "Deborah Stiles",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 34.74064855
+      },
+      "2": {
+        "dem_votes": 12388,
+        "rep_votes": 31524,
+        "other_votes": 0,
+        "total_votes": 43912,
+        "dem_candidate": "Deborah Stiles",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 43.57806522
+      },
+      "3": {
+        "dem_votes": 11873,
+        "rep_votes": 32259,
+        "other_votes": 0,
+        "total_votes": 44132,
+        "dem_candidate": "Deborah Stiles",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 46.19323847
+      },
+      "4": {
+        "dem_votes": 11761,
+        "rep_votes": 32748,
+        "other_votes": 0,
+        "total_votes": 44509,
+        "dem_candidate": "Deborah Stiles",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 47.15226134
+      },
+      "5": {
+        "dem_votes": 14349,
+        "rep_votes": 22591,
+        "other_votes": 0,
+        "total_votes": 36940,
+        "dem_candidate": "Deborah Stiles",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 22.31185707
+      },
+      "6": {
+        "dem_votes": 8475,
+        "rep_votes": 27667,
+        "other_votes": 0,
+        "total_votes": 36142,
+        "dem_candidate": "Deborah Stiles",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 53.10165458
+      },
+      "7": {
+        "dem_votes": 9030,
+        "rep_votes": 23649,
+        "other_votes": 0,
+        "total_votes": 32679,
+        "dem_candidate": "Deborah Stiles",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 44.73515101
+      },
+      "8": {
+        "dem_votes": 14149,
+        "rep_votes": 23710,
+        "other_votes": 0,
+        "total_votes": 37859,
+        "dem_candidate": "Deborah Stiles",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 25.25423281
+      },
+      "9": {
+        "dem_votes": 10117,
+        "rep_votes": 29819,
+        "other_votes": 0,
+        "total_votes": 39936,
+        "dem_candidate": "Deborah Stiles",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 49.33393429
+      },
+      "10": {
+        "dem_votes": 11900,
+        "rep_votes": 32172,
+        "other_votes": 0,
+        "total_votes": 44072,
+        "dem_candidate": "Deborah Stiles",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 45.9974587
+      },
+      "11": {
+        "dem_votes": 11468,
+        "rep_votes": 29214,
+        "other_votes": 0,
+        "total_votes": 40682,
+        "dem_candidate": "Deborah Stiles",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 43.62125756
+      },
+      "12": {
+        "dem_votes": 12394,
+        "rep_votes": 30742,
+        "other_votes": 0,
+        "total_votes": 43136,
+        "dem_candidate": "Deborah Stiles",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 42.53523739
+      },
+      "13": {
+        "dem_votes": 17238,
+        "rep_votes": 22481,
+        "other_votes": 0,
+        "total_votes": 39719,
+        "dem_candidate": "Deborah Stiles",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 13.20023163
+      },
+      "14": {
+        "dem_votes": 11252,
+        "rep_votes": 32562,
+        "other_votes": 0,
+        "total_votes": 43814,
+        "dem_candidate": "Deborah Stiles",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 48.63742183
+      },
+      "15": {
+        "dem_votes": 13764,
+        "rep_votes": 34932,
+        "other_votes": 0,
+        "total_votes": 48696,
+        "dem_candidate": "Deborah Stiles",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 43.4696895
+      },
+      "16": {
+        "dem_votes": 19231,
+        "rep_votes": 31436,
+        "other_votes": 0,
+        "total_votes": 50667,
+        "dem_candidate": "Deborah Stiles",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 24.08865731
+      },
+      "17": {
+        "dem_votes": 15846,
+        "rep_votes": 24767,
+        "other_votes": 0,
+        "total_votes": 40613,
+        "dem_candidate": "Deborah Stiles",
+        "rep_candidate": "Kent Leonhardt",
+        "winner": "REP",
+        "margin_pct": 21.965873
+      }
+    }
+  }
+}

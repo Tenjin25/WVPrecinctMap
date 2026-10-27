@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "scope": "congressional",
+    "contest_type": "treasurer",
+    "year": 2024,
+    "district_lines_year": 2022,
+    "method": "rdh_2020_block_votes_joined_to_census_bef",
+    "match_coverage_pct": 100.0
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 0,
+        "rep_votes": 286256,
+        "other_votes": 0,
+        "total_votes": 286256,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "2": {
+        "dem_votes": 0,
+        "rep_votes": 316462,
+        "other_votes": 0,
+        "total_votes": 316462,
+        "dem_candidate": "",
+        "rep_candidate": "Larry Pack",
+        "winner": "REP",
+        "margin_pct": 100.0
+      }
+    }
+  }
+}

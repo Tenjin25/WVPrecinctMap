@@ -1,0 +1,184 @@
+{
+  "meta": {
+    "scope": "state_senate",
+    "contest_type": "agriculture_commissioner",
+    "year": 2020,
+    "district_lines_year": 2022,
+    "method": "rdh_2020_block_votes_joined_to_census_bef",
+    "match_coverage_pct": 100.0
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 16486,
+        "rep_votes": 28769,
+        "other_votes": 0,
+        "total_votes": 45255,
+        "dem_candidate": "G20AGRDBEA",
+        "rep_candidate": "G20AGRRLEO",
+        "winner": "REP",
+        "margin_pct": 27.14175229
+      },
+      "2": {
+        "dem_votes": 17109,
+        "rep_votes": 28606,
+        "other_votes": 0,
+        "total_votes": 45715,
+        "dem_candidate": "G20AGRDBEA",
+        "rep_candidate": "G20AGRRLEO",
+        "winner": "REP",
+        "margin_pct": 25.14929454
+      },
+      "3": {
+        "dem_votes": 13362,
+        "rep_votes": 32735,
+        "other_votes": 0,
+        "total_votes": 46097,
+        "dem_candidate": "G20AGRDBEA",
+        "rep_candidate": "G20AGRRLEO",
+        "winner": "REP",
+        "margin_pct": 42.02659609
+      },
+      "4": {
+        "dem_votes": 14088,
+        "rep_votes": 32479,
+        "other_votes": 0,
+        "total_votes": 46567,
+        "dem_candidate": "G20AGRDBEA",
+        "rep_candidate": "G20AGRRLEO",
+        "winner": "REP",
+        "margin_pct": 39.49363283
+      },
+      "5": {
+        "dem_votes": 16458,
+        "rep_votes": 22723,
+        "other_votes": 0,
+        "total_votes": 39181,
+        "dem_candidate": "G20AGRDBEA",
+        "rep_candidate": "G20AGRRLEO",
+        "winner": "REP",
+        "margin_pct": 15.98989306
+      },
+      "6": {
+        "dem_votes": 10859,
+        "rep_votes": 29051,
+        "other_votes": 0,
+        "total_votes": 39910,
+        "dem_candidate": "G20AGRDBEA",
+        "rep_candidate": "G20AGRRLEO",
+        "winner": "REP",
+        "margin_pct": 45.58256076
+      },
+      "7": {
+        "dem_votes": 12032,
+        "rep_votes": 23815,
+        "other_votes": 0,
+        "total_votes": 35847,
+        "dem_candidate": "G20AGRDBEA",
+        "rep_candidate": "G20AGRRLEO",
+        "winner": "REP",
+        "margin_pct": 32.87025414
+      },
+      "8": {
+        "dem_votes": 16664,
+        "rep_votes": 24178,
+        "other_votes": 0,
+        "total_votes": 40842,
+        "dem_candidate": "G20AGRDBEA",
+        "rep_candidate": "G20AGRRLEO",
+        "winner": "REP",
+        "margin_pct": 18.39772783
+      },
+      "9": {
+        "dem_votes": 12527,
+        "rep_votes": 31225,
+        "other_votes": 0,
+        "total_votes": 43752,
+        "dem_candidate": "G20AGRDBEA",
+        "rep_candidate": "G20AGRRLEO",
+        "winner": "REP",
+        "margin_pct": 42.73633205
+      },
+      "10": {
+        "dem_votes": 14416,
+        "rep_votes": 31880,
+        "other_votes": 0,
+        "total_votes": 46296,
+        "dem_candidate": "G20AGRDBEA",
+        "rep_candidate": "G20AGRRLEO",
+        "winner": "REP",
+        "margin_pct": 37.72248142
+      },
+      "11": {
+        "dem_votes": 12836,
+        "rep_votes": 29588,
+        "other_votes": 0,
+        "total_votes": 42424,
+        "dem_candidate": "G20AGRDBEA",
+        "rep_candidate": "G20AGRRLEO",
+        "winner": "REP",
+        "margin_pct": 39.48708278
+      },
+      "12": {
+        "dem_votes": 15039,
+        "rep_votes": 29386,
+        "other_votes": 0,
+        "total_votes": 44425,
+        "dem_candidate": "G20AGRDBEA",
+        "rep_candidate": "G20AGRRLEO",
+        "winner": "REP",
+        "margin_pct": 32.29487901
+      },
+      "13": {
+        "dem_votes": 22701,
+        "rep_votes": 18999,
+        "other_votes": 0,
+        "total_votes": 41700,
+        "dem_candidate": "G20AGRDBEA",
+        "rep_candidate": "G20AGRRLEO",
+        "winner": "DEM",
+        "margin_pct": -8.87769784
+      },
+      "14": {
+        "dem_votes": 12369,
+        "rep_votes": 31598,
+        "other_votes": 0,
+        "total_votes": 43967,
+        "dem_candidate": "G20AGRDBEA",
+        "rep_candidate": "G20AGRRLEO",
+        "winner": "REP",
+        "margin_pct": 43.73507403
+      },
+      "15": {
+        "dem_votes": 14073,
+        "rep_votes": 31473,
+        "other_votes": 0,
+        "total_votes": 45546,
+        "dem_candidate": "G20AGRDBEA",
+        "rep_candidate": "G20AGRRLEO",
+        "winner": "REP",
+        "margin_pct": 38.20313529
+      },
+      "16": {
+        "dem_votes": 19702,
+        "rep_votes": 28101,
+        "other_votes": 0,
+        "total_votes": 47803,
+        "dem_candidate": "G20AGRDBEA",
+        "rep_candidate": "G20AGRRLEO",
+        "winner": "REP",
+        "margin_pct": 17.57002699
+      },
+      "17": {
+        "dem_votes": 18190,
+        "rep_votes": 25782,
+        "other_votes": 0,
+        "total_votes": 43972,
+        "dem_candidate": "G20AGRDBEA",
+        "rep_candidate": "G20AGRRLEO",
+        "winner": "REP",
+        "margin_pct": 17.26553261
+      }
+    }
+  }
+}

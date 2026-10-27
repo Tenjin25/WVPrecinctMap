@@ -1,0 +1,184 @@
+{
+  "meta": {
+    "scope": "state_senate",
+    "contest_type": "treasurer",
+    "year": 2016,
+    "district_lines_year": 2022,
+    "method": "rdh_2020_block_votes_joined_to_census_bef",
+    "match_coverage_pct": 100.0
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 19056,
+        "rep_votes": 19823,
+        "other_votes": 2828,
+        "total_votes": 41707,
+        "dem_candidate": "John D. Perdue",
+        "rep_candidate": "Ann Urling",
+        "winner": "REP",
+        "margin_pct": 1.83901983
+      },
+      "2": {
+        "dem_votes": 20821,
+        "rep_votes": 17228,
+        "other_votes": 2625,
+        "total_votes": 40674,
+        "dem_candidate": "John D. Perdue",
+        "rep_candidate": "Ann Urling",
+        "winner": "DEM",
+        "margin_pct": -8.83365295
+      },
+      "3": {
+        "dem_votes": 18015,
+        "rep_votes": 21745,
+        "other_votes": 2619,
+        "total_votes": 42379,
+        "dem_candidate": "John D. Perdue",
+        "rep_candidate": "Ann Urling",
+        "winner": "REP",
+        "margin_pct": 8.80152906
+      },
+      "4": {
+        "dem_votes": 20136,
+        "rep_votes": 18981,
+        "other_votes": 3308,
+        "total_votes": 42425,
+        "dem_candidate": "John D. Perdue",
+        "rep_candidate": "Ann Urling",
+        "winner": "DEM",
+        "margin_pct": -2.72245138
+      },
+      "5": {
+        "dem_votes": 19516,
+        "rep_votes": 14017,
+        "other_votes": 2074,
+        "total_votes": 35607,
+        "dem_candidate": "John D. Perdue",
+        "rep_candidate": "Ann Urling",
+        "winner": "DEM",
+        "margin_pct": -15.44359255
+      },
+      "6": {
+        "dem_votes": 19111,
+        "rep_votes": 16185,
+        "other_votes": 1959,
+        "total_votes": 37255,
+        "dem_candidate": "John D. Perdue",
+        "rep_candidate": "Ann Urling",
+        "winner": "DEM",
+        "margin_pct": -7.85397933
+      },
+      "7": {
+        "dem_votes": 21391,
+        "rep_votes": 12098,
+        "other_votes": 1773,
+        "total_votes": 35262,
+        "dem_candidate": "John D. Perdue",
+        "rep_candidate": "Ann Urling",
+        "winner": "DEM",
+        "margin_pct": -26.35414894
+      },
+      "8": {
+        "dem_votes": 21898,
+        "rep_votes": 14424,
+        "other_votes": 2421,
+        "total_votes": 38743,
+        "dem_candidate": "John D. Perdue",
+        "rep_candidate": "Ann Urling",
+        "winner": "DEM",
+        "margin_pct": -19.2912268
+      },
+      "9": {
+        "dem_votes": 20593,
+        "rep_votes": 16896,
+        "other_votes": 2039,
+        "total_votes": 39528,
+        "dem_candidate": "John D. Perdue",
+        "rep_candidate": "Ann Urling",
+        "winner": "DEM",
+        "margin_pct": -9.35286379
+      },
+      "10": {
+        "dem_votes": 22635,
+        "rep_votes": 16739,
+        "other_votes": 2424,
+        "total_votes": 41798,
+        "dem_candidate": "John D. Perdue",
+        "rep_candidate": "Ann Urling",
+        "winner": "DEM",
+        "margin_pct": -14.10593808
+      },
+      "11": {
+        "dem_votes": 21526,
+        "rep_votes": 14859,
+        "other_votes": 2169,
+        "total_votes": 38554,
+        "dem_candidate": "John D. Perdue",
+        "rep_candidate": "Ann Urling",
+        "winner": "DEM",
+        "margin_pct": -17.29262852
+      },
+      "12": {
+        "dem_votes": 22943,
+        "rep_votes": 16787,
+        "other_votes": 2416,
+        "total_votes": 42146,
+        "dem_candidate": "John D. Perdue",
+        "rep_candidate": "Ann Urling",
+        "winner": "DEM",
+        "margin_pct": -14.60636834
+      },
+      "13": {
+        "dem_votes": 21270,
+        "rep_votes": 12950,
+        "other_votes": 2409,
+        "total_votes": 36629,
+        "dem_candidate": "John D. Perdue",
+        "rep_candidate": "Ann Urling",
+        "winner": "DEM",
+        "margin_pct": -22.71424281
+      },
+      "14": {
+        "dem_votes": 16184,
+        "rep_votes": 20203,
+        "other_votes": 2312,
+        "total_votes": 38699,
+        "dem_candidate": "John D. Perdue",
+        "rep_candidate": "Ann Urling",
+        "winner": "REP",
+        "margin_pct": 10.38528127
+      },
+      "15": {
+        "dem_votes": 13361,
+        "rep_votes": 21892,
+        "other_votes": 2373,
+        "total_votes": 37626,
+        "dem_candidate": "John D. Perdue",
+        "rep_candidate": "Ann Urling",
+        "winner": "REP",
+        "margin_pct": 22.67315154
+      },
+      "16": {
+        "dem_votes": 16845,
+        "rep_votes": 21137,
+        "other_votes": 2473,
+        "total_votes": 40455,
+        "dem_candidate": "John D. Perdue",
+        "rep_candidate": "Ann Urling",
+        "winner": "REP",
+        "margin_pct": 10.609319
+      },
+      "17": {
+        "dem_votes": 22716,
+        "rep_votes": 17706,
+        "other_votes": 1643,
+        "total_votes": 42065,
+        "dem_candidate": "John D. Perdue",
+        "rep_candidate": "Ann Urling",
+        "winner": "DEM",
+        "margin_pct": -11.91013907
+      }
+    }
+  }
+}

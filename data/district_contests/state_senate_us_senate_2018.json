@@ -1,0 +1,184 @@
+{
+  "meta": {
+    "scope": "state_senate",
+    "contest_type": "us_senate",
+    "year": 2018,
+    "district_lines_year": 2022,
+    "method": "rdh_2020_block_votes_joined_to_census_bef",
+    "match_coverage_pct": 100.0
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 18900,
+        "rep_votes": 16615,
+        "other_votes": 1418,
+        "total_votes": 36933,
+        "dem_candidate": "Joseph Manchin, III",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -6.18687894
+      },
+      "2": {
+        "dem_votes": 17886,
+        "rep_votes": 15590,
+        "other_votes": 1918,
+        "total_votes": 35394,
+        "dem_candidate": "Joseph Manchin, III",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -6.48697519
+      },
+      "3": {
+        "dem_votes": 17218,
+        "rep_votes": 17928,
+        "other_votes": 1469,
+        "total_votes": 36615,
+        "dem_candidate": "Joseph Manchin, III",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 1.939096
+      },
+      "4": {
+        "dem_votes": 18427,
+        "rep_votes": 17723,
+        "other_votes": 1217,
+        "total_votes": 37367,
+        "dem_candidate": "Joseph Manchin, III",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -1.88401531
+      },
+      "5": {
+        "dem_votes": 19375,
+        "rep_votes": 13111,
+        "other_votes": 1019,
+        "total_votes": 33505,
+        "dem_candidate": "Joseph Manchin, III",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -18.69571706
+      },
+      "6": {
+        "dem_votes": 13621,
+        "rep_votes": 17189,
+        "other_votes": 974,
+        "total_votes": 31784,
+        "dem_candidate": "Joseph Manchin, III",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 11.22577397
+      },
+      "7": {
+        "dem_votes": 15943,
+        "rep_votes": 13083,
+        "other_votes": 938,
+        "total_votes": 29964,
+        "dem_candidate": "Joseph Manchin, III",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -9.54478708
+      },
+      "8": {
+        "dem_votes": 19591,
+        "rep_votes": 12818,
+        "other_votes": 1182,
+        "total_votes": 33591,
+        "dem_candidate": "Joseph Manchin, III",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -20.16313894
+      },
+      "9": {
+        "dem_votes": 15433,
+        "rep_votes": 17406,
+        "other_votes": 1317,
+        "total_votes": 34156,
+        "dem_candidate": "Joseph Manchin, III",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 5.77643752
+      },
+      "10": {
+        "dem_votes": 18240,
+        "rep_votes": 17493,
+        "other_votes": 1425,
+        "total_votes": 37158,
+        "dem_candidate": "Joseph Manchin, III",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -2.01033425
+      },
+      "11": {
+        "dem_votes": 15093,
+        "rep_votes": 16485,
+        "other_votes": 1638,
+        "total_votes": 33216,
+        "dem_candidate": "Joseph Manchin, III",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 4.19075145
+      },
+      "12": {
+        "dem_votes": 16924,
+        "rep_votes": 15763,
+        "other_votes": 2257,
+        "total_votes": 34944,
+        "dem_candidate": "Joseph Manchin, III",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -3.32245879
+      },
+      "13": {
+        "dem_votes": 19352,
+        "rep_votes": 11015,
+        "other_votes": 2134,
+        "total_votes": 32501,
+        "dem_candidate": "Joseph Manchin, III",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -25.65151841
+      },
+      "14": {
+        "dem_votes": 12258,
+        "rep_votes": 19521,
+        "other_votes": 1657,
+        "total_votes": 33436,
+        "dem_candidate": "Joseph Manchin, III",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 21.72209594
+      },
+      "15": {
+        "dem_votes": 12493,
+        "rep_votes": 18530,
+        "other_votes": 1289,
+        "total_votes": 32312,
+        "dem_candidate": "Joseph Manchin, III",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 18.68346125
+      },
+      "16": {
+        "dem_votes": 17149,
+        "rep_votes": 17037,
+        "other_votes": 1401,
+        "total_votes": 35587,
+        "dem_candidate": "Joseph Manchin, III",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -0.31472167
+      },
+      "17": {
+        "dem_votes": 22606,
+        "rep_votes": 13805,
+        "other_votes": 1159,
+        "total_votes": 37570,
+        "dem_candidate": "Joseph Manchin, III",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -23.42560554
+      }
+    }
+  }
+}

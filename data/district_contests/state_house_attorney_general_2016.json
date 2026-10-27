@@ -1,0 +1,1014 @@
+{
+  "meta": {
+    "scope": "state_house",
+    "contest_type": "attorney_general",
+    "year": 2016,
+    "district_lines_year": 2022,
+    "method": "rdh_2020_block_votes_joined_to_census_bef",
+    "match_coverage_pct": 100.0
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 3253,
+        "rep_votes": 4362,
+        "other_votes": 527,
+        "total_votes": 8142,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 13.62073201
+      },
+      "2": {
+        "dem_votes": 3372,
+        "rep_votes": 3726,
+        "other_votes": 446,
+        "total_votes": 7544,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 4.69247084
+      },
+      "3": {
+        "dem_votes": 3473,
+        "rep_votes": 3552,
+        "other_votes": 413,
+        "total_votes": 7438,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 1.06211347
+      },
+      "4": {
+        "dem_votes": 3835,
+        "rep_votes": 4401,
+        "other_votes": 475,
+        "total_votes": 8711,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 6.49753186
+      },
+      "5": {
+        "dem_votes": 3798,
+        "rep_votes": 3135,
+        "other_votes": 488,
+        "total_votes": 7421,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -8.93410592
+      },
+      "6": {
+        "dem_votes": 3955,
+        "rep_votes": 3783,
+        "other_votes": 426,
+        "total_votes": 8164,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -2.10681039
+      },
+      "7": {
+        "dem_votes": 3423,
+        "rep_votes": 3547,
+        "other_votes": 468,
+        "total_votes": 7438,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 1.66711482
+      },
+      "8": {
+        "dem_votes": 2737,
+        "rep_votes": 4192,
+        "other_votes": 476,
+        "total_votes": 7405,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 19.64888589
+      },
+      "9": {
+        "dem_votes": 2644,
+        "rep_votes": 5022,
+        "other_votes": 425,
+        "total_votes": 8091,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 29.390681
+      },
+      "10": {
+        "dem_votes": 2584,
+        "rep_votes": 4526,
+        "other_votes": 474,
+        "total_votes": 7584,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 25.60654008
+      },
+      "11": {
+        "dem_votes": 2865,
+        "rep_votes": 4405,
+        "other_votes": 417,
+        "total_votes": 7687,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 20.03382334
+      },
+      "12": {
+        "dem_votes": 2447,
+        "rep_votes": 3156,
+        "other_votes": 429,
+        "total_votes": 6032,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 11.75397878
+      },
+      "13": {
+        "dem_votes": 2311,
+        "rep_votes": 3938,
+        "other_votes": 361,
+        "total_votes": 6610,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 24.61422088
+      },
+      "14": {
+        "dem_votes": 2402,
+        "rep_votes": 4700,
+        "other_votes": 378,
+        "total_votes": 7480,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 30.72192513
+      },
+      "15": {
+        "dem_votes": 2892,
+        "rep_votes": 3586,
+        "other_votes": 364,
+        "total_votes": 6842,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 10.14323297
+      },
+      "16": {
+        "dem_votes": 3122,
+        "rep_votes": 4535,
+        "other_votes": 376,
+        "total_votes": 8033,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 17.58994149
+      },
+      "17": {
+        "dem_votes": 3371,
+        "rep_votes": 3819,
+        "other_votes": 332,
+        "total_votes": 7522,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 5.9558628
+      },
+      "18": {
+        "dem_votes": 3199,
+        "rep_votes": 3396,
+        "other_votes": 301,
+        "total_votes": 6896,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 2.85672854
+      },
+      "19": {
+        "dem_votes": 3366,
+        "rep_votes": 3884,
+        "other_votes": 336,
+        "total_votes": 7586,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 6.82836805
+      },
+      "20": {
+        "dem_votes": 3551,
+        "rep_votes": 4696,
+        "other_votes": 329,
+        "total_votes": 8576,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 13.35121269
+      },
+      "21": {
+        "dem_votes": 3457,
+        "rep_votes": 4273,
+        "other_votes": 350,
+        "total_votes": 8080,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 10.0990099
+      },
+      "22": {
+        "dem_votes": 2909,
+        "rep_votes": 3268,
+        "other_votes": 236,
+        "total_votes": 6413,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 5.59800405
+      },
+      "23": {
+        "dem_votes": 3091,
+        "rep_votes": 3062,
+        "other_votes": 249,
+        "total_votes": 6402,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -0.45298344
+      },
+      "24": {
+        "dem_votes": 3103,
+        "rep_votes": 2074,
+        "other_votes": 204,
+        "total_votes": 5381,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -19.12283962
+      },
+      "25": {
+        "dem_votes": 3679,
+        "rep_votes": 1230,
+        "other_votes": 238,
+        "total_votes": 5147,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -47.58111521
+      },
+      "26": {
+        "dem_votes": 4039,
+        "rep_votes": 2869,
+        "other_votes": 283,
+        "total_votes": 7191,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -16.27033792
+      },
+      "27": {
+        "dem_votes": 3748,
+        "rep_votes": 2420,
+        "other_votes": 225,
+        "total_votes": 6393,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -20.77272016
+      },
+      "28": {
+        "dem_votes": 3795,
+        "rep_votes": 3035,
+        "other_votes": 203,
+        "total_votes": 7033,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -10.80619935
+      },
+      "29": {
+        "dem_votes": 3025,
+        "rep_votes": 2847,
+        "other_votes": 166,
+        "total_votes": 6038,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -2.94799603
+      },
+      "30": {
+        "dem_votes": 3143,
+        "rep_votes": 2934,
+        "other_votes": 260,
+        "total_votes": 6337,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -3.29809058
+      },
+      "31": {
+        "dem_votes": 2989,
+        "rep_votes": 3200,
+        "other_votes": 225,
+        "total_votes": 6414,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 3.28967883
+      },
+      "32": {
+        "dem_votes": 3675,
+        "rep_votes": 3361,
+        "other_votes": 309,
+        "total_votes": 7345,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -4.27501702
+      },
+      "33": {
+        "dem_votes": 3279,
+        "rep_votes": 3197,
+        "other_votes": 261,
+        "total_votes": 6737,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -1.21715897
+      },
+      "34": {
+        "dem_votes": 3052,
+        "rep_votes": 3340,
+        "other_votes": 248,
+        "total_votes": 6640,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 4.3373494
+      },
+      "35": {
+        "dem_votes": 2421,
+        "rep_votes": 3542,
+        "other_votes": 303,
+        "total_votes": 6266,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 17.89020109
+      },
+      "36": {
+        "dem_votes": 2364,
+        "rep_votes": 2985,
+        "other_votes": 215,
+        "total_votes": 5564,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 11.16103523
+      },
+      "37": {
+        "dem_votes": 2602,
+        "rep_votes": 3626,
+        "other_votes": 361,
+        "total_votes": 6589,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 15.54105327
+      },
+      "38": {
+        "dem_votes": 2588,
+        "rep_votes": 3889,
+        "other_votes": 395,
+        "total_votes": 6872,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 18.93189756
+      },
+      "39": {
+        "dem_votes": 2527,
+        "rep_votes": 4324,
+        "other_votes": 426,
+        "total_votes": 7277,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 24.69424213
+      },
+      "40": {
+        "dem_votes": 3157,
+        "rep_votes": 4369,
+        "other_votes": 448,
+        "total_votes": 7974,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 15.19939804
+      },
+      "41": {
+        "dem_votes": 2739,
+        "rep_votes": 4646,
+        "other_votes": 425,
+        "total_votes": 7810,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 24.41741357
+      },
+      "42": {
+        "dem_votes": 2765,
+        "rep_votes": 4454,
+        "other_votes": 448,
+        "total_votes": 7667,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 22.02947698
+      },
+      "43": {
+        "dem_votes": 2394,
+        "rep_votes": 4013,
+        "other_votes": 354,
+        "total_votes": 6761,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 23.94616181
+      },
+      "44": {
+        "dem_votes": 3668,
+        "rep_votes": 2920,
+        "other_votes": 393,
+        "total_votes": 6981,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -10.71479731
+      },
+      "45": {
+        "dem_votes": 2378,
+        "rep_votes": 3101,
+        "other_votes": 360,
+        "total_votes": 5839,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 12.38225724
+      },
+      "46": {
+        "dem_votes": 3428,
+        "rep_votes": 3650,
+        "other_votes": 520,
+        "total_votes": 7598,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 2.92182153
+      },
+      "47": {
+        "dem_votes": 3168,
+        "rep_votes": 3621,
+        "other_votes": 489,
+        "total_votes": 7278,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 6.22423743
+      },
+      "48": {
+        "dem_votes": 2556,
+        "rep_votes": 3006,
+        "other_votes": 496,
+        "total_votes": 6058,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 7.42819412
+      },
+      "49": {
+        "dem_votes": 2586,
+        "rep_votes": 3623,
+        "other_votes": 389,
+        "total_votes": 6598,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 15.7168839
+      },
+      "50": {
+        "dem_votes": 2982,
+        "rep_votes": 2608,
+        "other_votes": 398,
+        "total_votes": 5988,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -6.24582498
+      },
+      "51": {
+        "dem_votes": 3120,
+        "rep_votes": 3416,
+        "other_votes": 534,
+        "total_votes": 7070,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 4.18670438
+      },
+      "52": {
+        "dem_votes": 4281,
+        "rep_votes": 2836,
+        "other_votes": 289,
+        "total_votes": 7406,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -19.51120713
+      },
+      "53": {
+        "dem_votes": 3626,
+        "rep_votes": 3090,
+        "other_votes": 332,
+        "total_votes": 7048,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -7.60499432
+      },
+      "54": {
+        "dem_votes": 4955,
+        "rep_votes": 1793,
+        "other_votes": 347,
+        "total_votes": 7095,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -44.56659619
+      },
+      "55": {
+        "dem_votes": 4201,
+        "rep_votes": 3516,
+        "other_votes": 315,
+        "total_votes": 8032,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -8.52838645
+      },
+      "56": {
+        "dem_votes": 4186,
+        "rep_votes": 3605,
+        "other_votes": 331,
+        "total_votes": 8122,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -7.15341049
+      },
+      "57": {
+        "dem_votes": 4575,
+        "rep_votes": 3038,
+        "other_votes": 350,
+        "total_votes": 7963,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -19.30177069
+      },
+      "58": {
+        "dem_votes": 4027,
+        "rep_votes": 3267,
+        "other_votes": 344,
+        "total_votes": 7638,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -9.95024876
+      },
+      "59": {
+        "dem_votes": 3410,
+        "rep_votes": 3260,
+        "other_votes": 335,
+        "total_votes": 7005,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -2.14132762
+      },
+      "60": {
+        "dem_votes": 3140,
+        "rep_votes": 3704,
+        "other_votes": 305,
+        "total_votes": 7149,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 7.88921527
+      },
+      "61": {
+        "dem_votes": 3052,
+        "rep_votes": 4084,
+        "other_votes": 300,
+        "total_votes": 7436,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 13.87842926
+      },
+      "62": {
+        "dem_votes": 2775,
+        "rep_votes": 3500,
+        "other_votes": 402,
+        "total_votes": 6677,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 10.85816984
+      },
+      "63": {
+        "dem_votes": 2930,
+        "rep_votes": 2821,
+        "other_votes": 350,
+        "total_votes": 6101,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -1.78659236
+      },
+      "64": {
+        "dem_votes": 2789,
+        "rep_votes": 3717,
+        "other_votes": 686,
+        "total_votes": 7192,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 12.90322581
+      },
+      "65": {
+        "dem_votes": 2249,
+        "rep_votes": 3551,
+        "other_votes": 909,
+        "total_votes": 6709,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 19.40676703
+      },
+      "66": {
+        "dem_votes": 2713,
+        "rep_votes": 3151,
+        "other_votes": 653,
+        "total_votes": 6517,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 6.72088384
+      },
+      "67": {
+        "dem_votes": 3090,
+        "rep_votes": 3799,
+        "other_votes": 565,
+        "total_votes": 7454,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 9.51167159
+      },
+      "68": {
+        "dem_votes": 2592,
+        "rep_votes": 4005,
+        "other_votes": 731,
+        "total_votes": 7328,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 19.28220524
+      },
+      "69": {
+        "dem_votes": 3390,
+        "rep_votes": 3964,
+        "other_votes": 667,
+        "total_votes": 8021,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 7.15621494
+      },
+      "70": {
+        "dem_votes": 3549,
+        "rep_votes": 2605,
+        "other_votes": 577,
+        "total_votes": 6731,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -14.02466201
+      },
+      "71": {
+        "dem_votes": 3709,
+        "rep_votes": 3764,
+        "other_votes": 565,
+        "total_votes": 8038,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 0.68424981
+      },
+      "72": {
+        "dem_votes": 3054,
+        "rep_votes": 3094,
+        "other_votes": 500,
+        "total_votes": 6648,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 0.60168472
+      },
+      "73": {
+        "dem_votes": 2877,
+        "rep_votes": 3514,
+        "other_votes": 577,
+        "total_votes": 6968,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 9.14179104
+      },
+      "74": {
+        "dem_votes": 3188,
+        "rep_votes": 3617,
+        "other_votes": 697,
+        "total_votes": 7502,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 5.71847507
+      },
+      "75": {
+        "dem_votes": 3643,
+        "rep_votes": 3352,
+        "other_votes": 742,
+        "total_votes": 7737,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -3.76114773
+      },
+      "76": {
+        "dem_votes": 3506,
+        "rep_votes": 2702,
+        "other_votes": 717,
+        "total_votes": 6925,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -11.6101083
+      },
+      "77": {
+        "dem_votes": 2584,
+        "rep_votes": 3159,
+        "other_votes": 1268,
+        "total_votes": 7011,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 8.2013978
+      },
+      "78": {
+        "dem_votes": 2640,
+        "rep_votes": 3180,
+        "other_votes": 1157,
+        "total_votes": 6977,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 7.73971621
+      },
+      "79": {
+        "dem_votes": 2693,
+        "rep_votes": 1417,
+        "other_votes": 948,
+        "total_votes": 5058,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -25.22736259
+      },
+      "80": {
+        "dem_votes": 2480,
+        "rep_votes": 1978,
+        "other_votes": 1015,
+        "total_votes": 5473,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -9.17230038
+      },
+      "81": {
+        "dem_votes": 1972,
+        "rep_votes": 1444,
+        "other_votes": 636,
+        "total_votes": 4052,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "DEM",
+        "margin_pct": -13.03060217
+      },
+      "82": {
+        "dem_votes": 2818,
+        "rep_votes": 3156,
+        "other_votes": 1040,
+        "total_votes": 7014,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 4.81893356
+      },
+      "83": {
+        "dem_votes": 1572,
+        "rep_votes": 2942,
+        "other_votes": 819,
+        "total_votes": 5333,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 25.68910557
+      },
+      "84": {
+        "dem_votes": 1937,
+        "rep_votes": 3913,
+        "other_votes": 853,
+        "total_votes": 6703,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 29.47933761
+      },
+      "85": {
+        "dem_votes": 2067,
+        "rep_votes": 5262,
+        "other_votes": 496,
+        "total_votes": 7825,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 40.83067093
+      },
+      "86": {
+        "dem_votes": 2150,
+        "rep_votes": 4172,
+        "other_votes": 353,
+        "total_votes": 6675,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 30.29213483
+      },
+      "87": {
+        "dem_votes": 1670,
+        "rep_votes": 4979,
+        "other_votes": 386,
+        "total_votes": 7035,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 47.03624733
+      },
+      "88": {
+        "dem_votes": 1607,
+        "rep_votes": 4950,
+        "other_votes": 390,
+        "total_votes": 6947,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 48.12149129
+      },
+      "89": {
+        "dem_votes": 1638,
+        "rep_votes": 4893,
+        "other_votes": 372,
+        "total_votes": 6903,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 47.15341156
+      },
+      "90": {
+        "dem_votes": 1849,
+        "rep_votes": 5563,
+        "other_votes": 425,
+        "total_votes": 7837,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 47.39058313
+      },
+      "91": {
+        "dem_votes": 1284,
+        "rep_votes": 4304,
+        "other_votes": 319,
+        "total_votes": 5907,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 51.12578297
+      },
+      "92": {
+        "dem_votes": 1837,
+        "rep_votes": 4500,
+        "other_votes": 318,
+        "total_votes": 6655,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 40.0150263
+      },
+      "93": {
+        "dem_votes": 1946,
+        "rep_votes": 3344,
+        "other_votes": 302,
+        "total_votes": 5592,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 25.0
+      },
+      "94": {
+        "dem_votes": 1623,
+        "rep_votes": 3560,
+        "other_votes": 303,
+        "total_votes": 5486,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 35.30805687
+      },
+      "95": {
+        "dem_votes": 1508,
+        "rep_votes": 3709,
+        "other_votes": 310,
+        "total_votes": 5527,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 39.82268862
+      },
+      "96": {
+        "dem_votes": 1540,
+        "rep_votes": 4118,
+        "other_votes": 313,
+        "total_votes": 5971,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 43.17534751
+      },
+      "97": {
+        "dem_votes": 2338,
+        "rep_votes": 3876,
+        "other_votes": 340,
+        "total_votes": 6554,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 23.46658529
+      },
+      "98": {
+        "dem_votes": 1906,
+        "rep_votes": 4283,
+        "other_votes": 252,
+        "total_votes": 6441,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 36.90420742
+      },
+      "99": {
+        "dem_votes": 2361,
+        "rep_votes": 4492,
+        "other_votes": 274,
+        "total_votes": 7127,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 29.90037884
+      },
+      "100": {
+        "dem_votes": 2677,
+        "rep_votes": 4614,
+        "other_votes": 374,
+        "total_votes": 7665,
+        "dem_candidate": "Doug Reynolds",
+        "rep_candidate": "Patrick Morrisey",
+        "winner": "REP",
+        "margin_pct": 25.27071102
+      }
+    }
+  }
+}

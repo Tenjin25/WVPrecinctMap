@@ -1,0 +1,20 @@
+# Local runtimes and scratch work
+.vendor/
+tmp/
+__pycache__/
+*.py[cod]
+
+# Embedded source-data checkouts (clone separately when updating upstream data)
+data/openelections-data-wv/
+data/openelections-sources-wv/
+
+# Downloaded/raw geography and election source archives
+*.zip
+data/tiger2008_vtd00/
+data/supplemental_sources/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp

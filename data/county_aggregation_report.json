@@ -1,0 +1,84 @@
+{
+  "description": "County totals aggregated from complete precinct-result coverage years.",
+  "complete_coverage_rule": "Exactly 55 distinct West Virginia counties in the normalized precinct file.",
+  "elections": [
+    {
+      "year": 2012,
+      "source": "data/openelections/wv_sos/20121106__wv__general__precinct.csv",
+      "output": "data/openelections/wv_sos/county/20121106__wv__general__county.csv",
+      "counties": 55,
+      "source_rows": 41469,
+      "blank_vote_rows_skipped": 0,
+      "numeric_vote_rows": 41469,
+      "output_rows": 1257,
+      "source_votes": 6342854,
+      "output_votes": 6342854,
+      "vote_conservation": true
+    },
+    {
+      "year": 2016,
+      "source": "data/openelections/wv_sos/20161108__wv__general__precinct.csv",
+      "output": "data/openelections/wv_sos/county/20161108__wv__general__county.csv",
+      "counties": 55,
+      "source_rows": 66462,
+      "blank_vote_rows_skipped": 0,
+      "numeric_vote_rows": 66462,
+      "output_rows": 2099,
+      "source_votes": 7372533,
+      "output_votes": 7372533,
+      "vote_conservation": true
+    },
+    {
+      "year": 2018,
+      "source": "data/openelections/wv_sos/20181106__wv__general__precinct.csv",
+      "output": "data/openelections/wv_sos/county/20181106__wv__general__county.csv",
+      "counties": 55,
+      "source_rows": 25201,
+      "blank_vote_rows_skipped": 4018,
+      "numeric_vote_rows": 21183,
+      "output_rows": 886,
+      "source_votes": 3188445,
+      "output_votes": 3188445,
+      "vote_conservation": true
+    },
+    {
+      "year": 2020,
+      "source": "data/openelections/wv_sos/20201103__wv__general__precinct.csv",
+      "output": "data/openelections/wv_sos/county/20201103__wv__general__county.csv",
+      "counties": 55,
+      "source_rows": 64135,
+      "blank_vote_rows_skipped": 0,
+      "numeric_vote_rows": 64135,
+      "output_rows": 2363,
+      "source_votes": 12704514,
+      "output_votes": 12704514,
+      "vote_conservation": true
+    },
+    {
+      "year": 2022,
+      "source": "data/openelections/wv_sos/20221108__wv__general__precinct.csv",
+      "output": "data/openelections/wv_sos/county/20221108__wv__general__county.csv",
+      "counties": 55,
+      "source_rows": 36603,
+      "blank_vote_rows_skipped": 0,
+      "numeric_vote_rows": 36603,
+      "output_rows": 1427,
+      "source_votes": 5230256,
+      "output_votes": 5230256,
+      "vote_conservation": true
+    },
+    {
+      "year": 2024,
+      "source": "data/openelections/wv_sos/20241105__wv__general__precinct.csv",
+      "output": "data/openelections/wv_sos/county/20241105__wv__general__county.csv",
+      "counties": 55,
+      "source_rows": 65230,
+      "blank_vote_rows_skipped": 0,
+      "numeric_vote_rows": 65230,
+      "output_rows": 2485,
+      "source_votes": 12115470,
+      "output_votes": 12115470,
+      "vote_conservation": true
+    }
+  ]
+}

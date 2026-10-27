@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "scope": "congressional",
+    "contest_type": "governor",
+    "year": 2016,
+    "district_lines_year": 2022,
+    "source_vtd_vintage": 2010,
+    "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+    "match_coverage_pct": 95.947763
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 183801,
+        "rep_votes": 120999,
+        "other_votes": 26330,
+        "total_votes": 331130,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "DEM",
+        "margin_pct": -18.96596503
+      },
+      "2": {
+        "dem_votes": 151436,
+        "rep_votes": 169004,
+        "other_votes": 33332,
+        "total_votes": 353772,
+        "dem_candidate": "JIM JUSTICE",
+        "rep_candidate": "BILL COLE",
+        "winner": "REP",
+        "margin_pct": 4.96591025
+      }
+    }
+  }
+}

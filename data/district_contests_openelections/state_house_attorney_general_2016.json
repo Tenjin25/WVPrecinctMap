@@ -1,0 +1,1015 @@
+{
+  "meta": {
+    "scope": "state_house",
+    "contest_type": "attorney_general",
+    "year": 2016,
+    "district_lines_year": 2022,
+    "source_vtd_vintage": 2010,
+    "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+    "match_coverage_pct": 95.96615
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 3259,
+        "rep_votes": 4361,
+        "other_votes": 527,
+        "total_votes": 8147,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 13.52645145
+      },
+      "2": {
+        "dem_votes": 3323,
+        "rep_votes": 3683,
+        "other_votes": 438,
+        "total_votes": 7444,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 4.83610962
+      },
+      "3": {
+        "dem_votes": 3724,
+        "rep_votes": 3833,
+        "other_votes": 449,
+        "total_votes": 8006,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 1.36147889
+      },
+      "4": {
+        "dem_votes": 4198,
+        "rep_votes": 4644,
+        "other_votes": 510,
+        "total_votes": 9352,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 4.76903336
+      },
+      "5": {
+        "dem_votes": 3228,
+        "rep_votes": 2655,
+        "other_votes": 427,
+        "total_votes": 6310,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "DEM",
+        "margin_pct": -9.08082409
+      },
+      "6": {
+        "dem_votes": 5777,
+        "rep_votes": 5889,
+        "other_votes": 669,
+        "total_votes": 12335,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 0.90798541
+      },
+      "7": {
+        "dem_votes": 1572,
+        "rep_votes": 1405,
+        "other_votes": 218,
+        "total_votes": 3195,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "DEM",
+        "margin_pct": -5.22691706
+      },
+      "8": {
+        "dem_votes": 2681,
+        "rep_votes": 4078,
+        "other_votes": 464,
+        "total_votes": 7223,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 19.34099405
+      },
+      "9": {
+        "dem_votes": 2732,
+        "rep_votes": 5163,
+        "other_votes": 440,
+        "total_votes": 8335,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 29.16616677
+      },
+      "10": {
+        "dem_votes": 2667,
+        "rep_votes": 4712,
+        "other_votes": 492,
+        "total_votes": 7871,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 25.9814509
+      },
+      "11": {
+        "dem_votes": 3025,
+        "rep_votes": 4613,
+        "other_votes": 438,
+        "total_votes": 8076,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 19.6631996
+      },
+      "12": {
+        "dem_votes": 2265,
+        "rep_votes": 2891,
+        "other_votes": 402,
+        "total_votes": 5558,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 11.26304426
+      },
+      "13": {
+        "dem_votes": 2041,
+        "rep_votes": 3450,
+        "other_votes": 319,
+        "total_votes": 5810,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 24.25129088
+      },
+      "14": {
+        "dem_votes": 2456,
+        "rep_votes": 4805,
+        "other_votes": 391,
+        "total_votes": 7652,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 30.69785677
+      },
+      "15": {
+        "dem_votes": 2653,
+        "rep_votes": 3323,
+        "other_votes": 334,
+        "total_votes": 6310,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 10.61806656
+      },
+      "16": {
+        "dem_votes": 2557,
+        "rep_votes": 3620,
+        "other_votes": 305,
+        "total_votes": 6482,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 16.39925949
+      },
+      "17": {
+        "dem_votes": 4257,
+        "rep_votes": 4782,
+        "other_votes": 427,
+        "total_votes": 9466,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 5.54616522
+      },
+      "18": {
+        "dem_votes": 2943,
+        "rep_votes": 3443,
+        "other_votes": 285,
+        "total_votes": 6671,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 7.49512817
+      },
+      "19": {
+        "dem_votes": 3157,
+        "rep_votes": 3555,
+        "other_votes": 317,
+        "total_votes": 7029,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 5.66225637
+      },
+      "20": {
+        "dem_votes": 544,
+        "rep_votes": 795,
+        "other_votes": 55,
+        "total_votes": 1394,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 18.00573888
+      },
+      "21": {
+        "dem_votes": 993,
+        "rep_votes": 1139,
+        "other_votes": 95,
+        "total_votes": 2227,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 6.5559048
+      },
+      "22": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "TIE",
+        "margin_pct": 0.0
+      },
+      "23": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "TIE",
+        "margin_pct": 0.0
+      },
+      "24": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "TIE",
+        "margin_pct": 0.0
+      },
+      "25": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "TIE",
+        "margin_pct": 0.0
+      },
+      "26": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "TIE",
+        "margin_pct": 0.0
+      },
+      "27": {
+        "dem_votes": 20599,
+        "rep_votes": 14945,
+        "other_votes": 1436,
+        "total_votes": 36980,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "DEM",
+        "margin_pct": -15.28934559
+      },
+      "28": {
+        "dem_votes": 3728,
+        "rep_votes": 2966,
+        "other_votes": 199,
+        "total_votes": 6893,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "DEM",
+        "margin_pct": -11.05469317
+      },
+      "29": {
+        "dem_votes": 2201,
+        "rep_votes": 2025,
+        "other_votes": 121,
+        "total_votes": 4347,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "DEM",
+        "margin_pct": -4.04876927
+      },
+      "30": {
+        "dem_votes": 2824,
+        "rep_votes": 2653,
+        "other_votes": 231,
+        "total_votes": 5708,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "DEM",
+        "margin_pct": -2.99579537
+      },
+      "31": {
+        "dem_votes": 3307,
+        "rep_votes": 3486,
+        "other_votes": 252,
+        "total_votes": 7045,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 2.54080908
+      },
+      "32": {
+        "dem_votes": 3721,
+        "rep_votes": 3402,
+        "other_votes": 313,
+        "total_votes": 7436,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "DEM",
+        "margin_pct": -4.28994083
+      },
+      "33": {
+        "dem_votes": 3047,
+        "rep_votes": 2980,
+        "other_votes": 246,
+        "total_votes": 6273,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "DEM",
+        "margin_pct": -1.0680695
+      },
+      "34": {
+        "dem_votes": 1899,
+        "rep_votes": 1925,
+        "other_votes": 139,
+        "total_votes": 3963,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 0.65606863
+      },
+      "35": {
+        "dem_votes": 2447,
+        "rep_votes": 3567,
+        "other_votes": 303,
+        "total_votes": 6317,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 17.7299351
+      },
+      "36": {
+        "dem_votes": 2358,
+        "rep_votes": 2973,
+        "other_votes": 215,
+        "total_votes": 5546,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 11.08907321
+      },
+      "37": {
+        "dem_votes": 2631,
+        "rep_votes": 3694,
+        "other_votes": 368,
+        "total_votes": 6693,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 15.88226505
+      },
+      "38": {
+        "dem_votes": 2369,
+        "rep_votes": 3596,
+        "other_votes": 362,
+        "total_votes": 6327,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 19.39307729
+      },
+      "39": {
+        "dem_votes": 2542,
+        "rep_votes": 4222,
+        "other_votes": 424,
+        "total_votes": 7188,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 23.37228715
+      },
+      "40": {
+        "dem_votes": 3000,
+        "rep_votes": 4241,
+        "other_votes": 430,
+        "total_votes": 7671,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 16.17781254
+      },
+      "41": {
+        "dem_votes": 2378,
+        "rep_votes": 3754,
+        "other_votes": 369,
+        "total_votes": 6501,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 21.16597447
+      },
+      "42": {
+        "dem_votes": 2018,
+        "rep_votes": 3222,
+        "other_votes": 332,
+        "total_votes": 5572,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 21.6080402
+      },
+      "43": {
+        "dem_votes": 1915,
+        "rep_votes": 3162,
+        "other_votes": 283,
+        "total_votes": 5360,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 23.26492537
+      },
+      "44": {
+        "dem_votes": 3205,
+        "rep_votes": 2486,
+        "other_votes": 340,
+        "total_votes": 6031,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "DEM",
+        "margin_pct": -11.92173769
+      },
+      "45": {
+        "dem_votes": 2108,
+        "rep_votes": 2617,
+        "other_votes": 318,
+        "total_votes": 5043,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 10.09319849
+      },
+      "46": {
+        "dem_votes": 3272,
+        "rep_votes": 3428,
+        "other_votes": 488,
+        "total_votes": 7188,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 2.17028381
+      },
+      "47": {
+        "dem_votes": 3011,
+        "rep_votes": 3439,
+        "other_votes": 464,
+        "total_votes": 6914,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 6.19033844
+      },
+      "48": {
+        "dem_votes": 5383,
+        "rep_votes": 6936,
+        "other_votes": 929,
+        "total_votes": 13248,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 11.72252415
+      },
+      "49": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "TIE",
+        "margin_pct": 0.0
+      },
+      "50": {
+        "dem_votes": 3140,
+        "rep_votes": 2687,
+        "other_votes": 400,
+        "total_votes": 6227,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "DEM",
+        "margin_pct": -7.27477116
+      },
+      "51": {
+        "dem_votes": 3008,
+        "rep_votes": 3319,
+        "other_votes": 529,
+        "total_votes": 6856,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 4.5361727
+      },
+      "52": {
+        "dem_votes": 7451,
+        "rep_votes": 6071,
+        "other_votes": 613,
+        "total_votes": 14135,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "DEM",
+        "margin_pct": -9.76299965
+      },
+      "53": {
+        "dem_votes": 31903,
+        "rep_votes": 26076,
+        "other_votes": 2628,
+        "total_votes": 60607,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "DEM",
+        "margin_pct": -9.61440098
+      },
+      "54": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "TIE",
+        "margin_pct": 0.0
+      },
+      "55": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "TIE",
+        "margin_pct": 0.0
+      },
+      "56": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "TIE",
+        "margin_pct": 0.0
+      },
+      "57": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "TIE",
+        "margin_pct": 0.0
+      },
+      "58": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "TIE",
+        "margin_pct": 0.0
+      },
+      "59": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "TIE",
+        "margin_pct": 0.0
+      },
+      "60": {
+        "dem_votes": 1,
+        "rep_votes": 1,
+        "other_votes": 0,
+        "total_votes": 2,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "TIE",
+        "margin_pct": 0.0
+      },
+      "61": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "TIE",
+        "margin_pct": 0.0
+      },
+      "62": {
+        "dem_votes": 2788,
+        "rep_votes": 3523,
+        "other_votes": 404,
+        "total_votes": 6715,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 10.94564408
+      },
+      "63": {
+        "dem_votes": 2917,
+        "rep_votes": 2798,
+        "other_votes": 348,
+        "total_votes": 6063,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "DEM",
+        "margin_pct": -1.96272472
+      },
+      "64": {
+        "dem_votes": 2765,
+        "rep_votes": 3672,
+        "other_votes": 673,
+        "total_votes": 7110,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 12.75668073
+      },
+      "65": {
+        "dem_votes": 2275,
+        "rep_votes": 3605,
+        "other_votes": 919,
+        "total_votes": 6799,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 19.56170025
+      },
+      "66": {
+        "dem_votes": 2479,
+        "rep_votes": 2883,
+        "other_votes": 591,
+        "total_votes": 5953,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 6.7864942
+      },
+      "67": {
+        "dem_votes": 2980,
+        "rep_votes": 3688,
+        "other_votes": 550,
+        "total_votes": 7218,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 9.80881131
+      },
+      "68": {
+        "dem_votes": 2583,
+        "rep_votes": 3985,
+        "other_votes": 730,
+        "total_votes": 7298,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 19.21074267
+      },
+      "69": {
+        "dem_votes": 3465,
+        "rep_votes": 4029,
+        "other_votes": 672,
+        "total_votes": 8166,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 6.90668626
+      },
+      "70": {
+        "dem_votes": 3540,
+        "rep_votes": 2598,
+        "other_votes": 576,
+        "total_votes": 6714,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "DEM",
+        "margin_pct": -14.03038427
+      },
+      "71": {
+        "dem_votes": 3658,
+        "rep_votes": 3736,
+        "other_votes": 560,
+        "total_votes": 7954,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 0.98063867
+      },
+      "72": {
+        "dem_votes": 3029,
+        "rep_votes": 3070,
+        "other_votes": 504,
+        "total_votes": 6603,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 0.62092988
+      },
+      "73": {
+        "dem_votes": 2713,
+        "rep_votes": 3281,
+        "other_votes": 532,
+        "total_votes": 6526,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 8.70364695
+      },
+      "74": {
+        "dem_votes": 3383,
+        "rep_votes": 3814,
+        "other_votes": 733,
+        "total_votes": 7930,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 5.43505675
+      },
+      "75": {
+        "dem_votes": 3562,
+        "rep_votes": 3235,
+        "other_votes": 731,
+        "total_votes": 7528,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "DEM",
+        "margin_pct": -4.34378321
+      },
+      "76": {
+        "dem_votes": 3357,
+        "rep_votes": 2589,
+        "other_votes": 684,
+        "total_votes": 6630,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "DEM",
+        "margin_pct": -11.58371041
+      },
+      "77": {
+        "dem_votes": 3307,
+        "rep_votes": 3807,
+        "other_votes": 1696,
+        "total_votes": 8810,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 5.6753689
+      },
+      "78": {
+        "dem_votes": 2820,
+        "rep_votes": 3266,
+        "other_votes": 1227,
+        "total_votes": 7313,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 6.09872829
+      },
+      "79": {
+        "dem_votes": 2352,
+        "rep_votes": 1193,
+        "other_votes": 799,
+        "total_votes": 4344,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "DEM",
+        "margin_pct": -26.68047882
+      },
+      "80": {
+        "dem_votes": 1977,
+        "rep_votes": 1530,
+        "other_votes": 666,
+        "total_votes": 4173,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "DEM",
+        "margin_pct": -10.71171819
+      },
+      "81": {
+        "dem_votes": 1761,
+        "rep_votes": 1251,
+        "other_votes": 577,
+        "total_votes": 3589,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "DEM",
+        "margin_pct": -14.21008638
+      },
+      "82": {
+        "dem_votes": 2981,
+        "rep_votes": 3300,
+        "other_votes": 1100,
+        "total_votes": 7381,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 4.3219076
+      },
+      "83": {
+        "dem_votes": 1701,
+        "rep_votes": 3234,
+        "other_votes": 869,
+        "total_votes": 5804,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 26.41281875
+      },
+      "84": {
+        "dem_votes": 1808,
+        "rep_votes": 3621,
+        "other_votes": 803,
+        "total_votes": 6232,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 29.09178434
+      },
+      "85": {
+        "dem_votes": 2067,
+        "rep_votes": 5262,
+        "other_votes": 496,
+        "total_votes": 7825,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 40.83067093
+      },
+      "86": {
+        "dem_votes": 2212,
+        "rep_votes": 4268,
+        "other_votes": 359,
+        "total_votes": 6839,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 30.06287469
+      },
+      "87": {
+        "dem_votes": 1524,
+        "rep_votes": 4583,
+        "other_votes": 353,
+        "total_votes": 6460,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 47.35294118
+      },
+      "88": {
+        "dem_votes": 1752,
+        "rep_votes": 5351,
+        "other_votes": 423,
+        "total_votes": 7526,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 47.82088759
+      },
+      "89": {
+        "dem_votes": 1691,
+        "rep_votes": 5035,
+        "other_votes": 381,
+        "total_votes": 7107,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 47.05220205
+      },
+      "90": {
+        "dem_votes": 1766,
+        "rep_votes": 5426,
+        "other_votes": 412,
+        "total_votes": 7604,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 48.13256181
+      },
+      "91": {
+        "dem_votes": 1422,
+        "rep_votes": 4443,
+        "other_votes": 332,
+        "total_votes": 6197,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 48.74939487
+      },
+      "92": {
+        "dem_votes": 2098,
+        "rep_votes": 4680,
+        "other_votes": 366,
+        "total_votes": 7144,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 36.14221725
+      },
+      "93": {
+        "dem_votes": 1786,
+        "rep_votes": 3787,
+        "other_votes": 301,
+        "total_votes": 5874,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 34.06537283
+      },
+      "94": {
+        "dem_votes": 1490,
+        "rep_votes": 2957,
+        "other_votes": 262,
+        "total_votes": 4709,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 31.15311106
+      },
+      "95": {
+        "dem_votes": 1385,
+        "rep_votes": 3408,
+        "other_votes": 293,
+        "total_votes": 5086,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 39.77585529
+      },
+      "96": {
+        "dem_votes": 1471,
+        "rep_votes": 3979,
+        "other_votes": 300,
+        "total_votes": 5750,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 43.6173913
+      },
+      "97": {
+        "dem_votes": 2824,
+        "rep_votes": 4540,
+        "other_votes": 395,
+        "total_votes": 7759,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 22.11625209
+      },
+      "98": {
+        "dem_votes": 2106,
+        "rep_votes": 4646,
+        "other_votes": 270,
+        "total_votes": 7022,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 36.17203076
+      },
+      "99": {
+        "dem_votes": 2097,
+        "rep_votes": 3988,
+        "other_votes": 248,
+        "total_votes": 6333,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 29.85946629
+      },
+      "100": {
+        "dem_votes": 2371,
+        "rep_votes": 4362,
+        "other_votes": 341,
+        "total_votes": 7074,
+        "dem_candidate": "DOUG REYNOLDS",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 28.14532089
+      }
+    }
+  }
+}

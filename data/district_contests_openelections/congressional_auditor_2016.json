@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "scope": "congressional",
+    "contest_type": "auditor",
+    "year": 2016,
+    "district_lines_year": 2022,
+    "source_vtd_vintage": 2010,
+    "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+    "match_coverage_pct": 96.005075
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 114114,
+        "rep_votes": 172066,
+        "other_votes": 13491,
+        "total_votes": 299671,
+        "dem_candidate": "MARY ANN CLAYTOR",
+        "rep_candidate": "JOHN \"\"JB\"\" MCCUSKEY",
+        "winner": "REP",
+        "margin_pct": 19.33854127
+      },
+      "2": {
+        "dem_votes": 105594,
+        "rep_votes": 196725,
+        "other_votes": 31367,
+        "total_votes": 333686,
+        "dem_candidate": "MARY ANN CLAYTOR",
+        "rep_candidate": "JOHN \"\"JB\"\" MCCUSKEY",
+        "winner": "REP",
+        "margin_pct": 27.31040559
+      }
+    }
+  }
+}

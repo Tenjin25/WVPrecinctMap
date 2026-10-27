@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "scope": "congressional",
+    "contest_type": "us_senate",
+    "year": 2010,
+    "district_lines_year": 2022,
+    "source_vtd_vintage": 2010,
+    "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+    "match_coverage_pct": 93.4132
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 131266,
+        "rep_votes": 84137,
+        "other_votes": 6196,
+        "total_votes": 221599,
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "John R. Raese",
+        "winner": "DEM",
+        "margin_pct": -21.26769525
+      },
+      "2": {
+        "dem_votes": 95098,
+        "rep_votes": 83494,
+        "other_votes": 6134,
+        "total_votes": 184726,
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "John R. Raese",
+        "winner": "DEM",
+        "margin_pct": -6.28173619
+      }
+    }
+  }
+}

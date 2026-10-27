@@ -1,0 +1,1014 @@
+{
+  "meta": {
+    "scope": "state_house",
+    "contest_type": "attorney_general",
+    "year": 2024,
+    "district_lines_year": 2022,
+    "method": "rdh_2020_block_votes_joined_to_census_bef",
+    "match_coverage_pct": 100.0
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 2559,
+        "rep_votes": 5900,
+        "other_votes": 0,
+        "total_votes": 8459,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 39.49639437
+      },
+      "2": {
+        "dem_votes": 2891,
+        "rep_votes": 4605,
+        "other_votes": 0,
+        "total_votes": 7496,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 22.86552828
+      },
+      "3": {
+        "dem_votes": 2862,
+        "rep_votes": 4454,
+        "other_votes": 0,
+        "total_votes": 7316,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 21.76052488
+      },
+      "4": {
+        "dem_votes": 3956,
+        "rep_votes": 5209,
+        "other_votes": 0,
+        "total_votes": 9165,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 13.67157665
+      },
+      "5": {
+        "dem_votes": 3795,
+        "rep_votes": 3350,
+        "other_votes": 0,
+        "total_votes": 7145,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "DEM",
+        "margin_pct": -6.22813156
+      },
+      "6": {
+        "dem_votes": 3482,
+        "rep_votes": 4568,
+        "other_votes": 0,
+        "total_votes": 8050,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 13.49068323
+      },
+      "7": {
+        "dem_votes": 2521,
+        "rep_votes": 4932,
+        "other_votes": 0,
+        "total_votes": 7453,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 32.34938951
+      },
+      "8": {
+        "dem_votes": 1740,
+        "rep_votes": 5474,
+        "other_votes": 0,
+        "total_votes": 7214,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 51.76046576
+      },
+      "9": {
+        "dem_votes": 1540,
+        "rep_votes": 6381,
+        "other_votes": 0,
+        "total_votes": 7921,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 61.1160207
+      },
+      "10": {
+        "dem_votes": 2060,
+        "rep_votes": 5838,
+        "other_votes": 0,
+        "total_votes": 7898,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 47.83489491
+      },
+      "11": {
+        "dem_votes": 2569,
+        "rep_votes": 4931,
+        "other_votes": 0,
+        "total_votes": 7500,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 31.49333333
+      },
+      "12": {
+        "dem_votes": 2165,
+        "rep_votes": 3671,
+        "other_votes": 0,
+        "total_votes": 5836,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 25.80534613
+      },
+      "13": {
+        "dem_votes": 1781,
+        "rep_votes": 4918,
+        "other_votes": 0,
+        "total_votes": 6699,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 46.82788476
+      },
+      "14": {
+        "dem_votes": 1685,
+        "rep_votes": 6100,
+        "other_votes": 0,
+        "total_votes": 7785,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 56.71162492
+      },
+      "15": {
+        "dem_votes": 1530,
+        "rep_votes": 5424,
+        "other_votes": 0,
+        "total_votes": 6954,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 55.99654875
+      },
+      "16": {
+        "dem_votes": 1615,
+        "rep_votes": 6728,
+        "other_votes": 0,
+        "total_votes": 8343,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 61.2849095
+      },
+      "17": {
+        "dem_votes": 1911,
+        "rep_votes": 5568,
+        "other_votes": 0,
+        "total_votes": 7479,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 48.89691135
+      },
+      "18": {
+        "dem_votes": 1626,
+        "rep_votes": 5230,
+        "other_votes": 0,
+        "total_votes": 6856,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 52.56709452
+      },
+      "19": {
+        "dem_votes": 1832,
+        "rep_votes": 5982,
+        "other_votes": 0,
+        "total_votes": 7814,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 53.10980292
+      },
+      "20": {
+        "dem_votes": 2361,
+        "rep_votes": 6735,
+        "other_votes": 0,
+        "total_votes": 9096,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 48.08707124
+      },
+      "21": {
+        "dem_votes": 2158,
+        "rep_votes": 6352,
+        "other_votes": 0,
+        "total_votes": 8510,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 49.28319624
+      },
+      "22": {
+        "dem_votes": 1676,
+        "rep_votes": 5103,
+        "other_votes": 0,
+        "total_votes": 6779,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 50.55317893
+      },
+      "23": {
+        "dem_votes": 1859,
+        "rep_votes": 4794,
+        "other_votes": 0,
+        "total_votes": 6653,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 44.11543665
+      },
+      "24": {
+        "dem_votes": 2287,
+        "rep_votes": 3042,
+        "other_votes": 0,
+        "total_votes": 5329,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 14.16776131
+      },
+      "25": {
+        "dem_votes": 3025,
+        "rep_votes": 1764,
+        "other_votes": 0,
+        "total_votes": 4789,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "DEM",
+        "margin_pct": -26.33117561
+      },
+      "26": {
+        "dem_votes": 2991,
+        "rep_votes": 4405,
+        "other_votes": 0,
+        "total_votes": 7396,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 19.1184424
+      },
+      "27": {
+        "dem_votes": 2011,
+        "rep_votes": 3878,
+        "other_votes": 0,
+        "total_votes": 5889,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 31.70317541
+      },
+      "28": {
+        "dem_votes": 1690,
+        "rep_votes": 5273,
+        "other_votes": 0,
+        "total_votes": 6963,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 51.45770501
+      },
+      "29": {
+        "dem_votes": 951,
+        "rep_votes": 4299,
+        "other_votes": 0,
+        "total_votes": 5250,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 63.77142857
+      },
+      "30": {
+        "dem_votes": 1227,
+        "rep_votes": 4882,
+        "other_votes": 0,
+        "total_votes": 6109,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 59.82975937
+      },
+      "31": {
+        "dem_votes": 1074,
+        "rep_votes": 4802,
+        "other_votes": 0,
+        "total_votes": 5876,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 63.44452008
+      },
+      "32": {
+        "dem_votes": 1505,
+        "rep_votes": 4912,
+        "other_votes": 0,
+        "total_votes": 6417,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 53.0933458
+      },
+      "33": {
+        "dem_votes": 1130,
+        "rep_votes": 4612,
+        "other_votes": 0,
+        "total_votes": 5742,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 60.64089168
+      },
+      "34": {
+        "dem_votes": 898,
+        "rep_votes": 4655,
+        "other_votes": 0,
+        "total_votes": 5553,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 67.65712228
+      },
+      "35": {
+        "dem_votes": 959,
+        "rep_votes": 4785,
+        "other_votes": 0,
+        "total_votes": 5744,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 66.6086351
+      },
+      "36": {
+        "dem_votes": 1055,
+        "rep_votes": 3452,
+        "other_votes": 0,
+        "total_votes": 4507,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 53.1839361
+      },
+      "37": {
+        "dem_votes": 1729,
+        "rep_votes": 4630,
+        "other_votes": 0,
+        "total_votes": 6359,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 45.62038056
+      },
+      "38": {
+        "dem_votes": 1612,
+        "rep_votes": 5415,
+        "other_votes": 0,
+        "total_votes": 7027,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 54.11982354
+      },
+      "39": {
+        "dem_votes": 1326,
+        "rep_votes": 5885,
+        "other_votes": 0,
+        "total_votes": 7211,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 63.22285397
+      },
+      "40": {
+        "dem_votes": 1866,
+        "rep_votes": 6450,
+        "other_votes": 0,
+        "total_votes": 8316,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 55.12265512
+      },
+      "41": {
+        "dem_votes": 1571,
+        "rep_votes": 7267,
+        "other_votes": 0,
+        "total_votes": 8838,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 64.44897036
+      },
+      "42": {
+        "dem_votes": 1368,
+        "rep_votes": 6270,
+        "other_votes": 0,
+        "total_votes": 7638,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 64.17910448
+      },
+      "43": {
+        "dem_votes": 1184,
+        "rep_votes": 5496,
+        "other_votes": 0,
+        "total_votes": 6680,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 64.5508982
+      },
+      "44": {
+        "dem_votes": 2597,
+        "rep_votes": 3923,
+        "other_votes": 0,
+        "total_votes": 6520,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 20.33742331
+      },
+      "45": {
+        "dem_votes": 1376,
+        "rep_votes": 4270,
+        "other_votes": 0,
+        "total_votes": 5646,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 51.25752745
+      },
+      "46": {
+        "dem_votes": 2376,
+        "rep_votes": 5452,
+        "other_votes": 0,
+        "total_votes": 7828,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 39.29483904
+      },
+      "47": {
+        "dem_votes": 2064,
+        "rep_votes": 5519,
+        "other_votes": 0,
+        "total_votes": 7583,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 45.56244231
+      },
+      "48": {
+        "dem_votes": 1284,
+        "rep_votes": 4519,
+        "other_votes": 0,
+        "total_votes": 5803,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 55.7470274
+      },
+      "49": {
+        "dem_votes": 1379,
+        "rep_votes": 5357,
+        "other_votes": 0,
+        "total_votes": 6736,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 59.05581948
+      },
+      "50": {
+        "dem_votes": 1780,
+        "rep_votes": 3959,
+        "other_votes": 0,
+        "total_votes": 5739,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 37.96828716
+      },
+      "51": {
+        "dem_votes": 1986,
+        "rep_votes": 5165,
+        "other_votes": 0,
+        "total_votes": 7151,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 44.45532093
+      },
+      "52": {
+        "dem_votes": 2408,
+        "rep_votes": 4255,
+        "other_votes": 0,
+        "total_votes": 6663,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 27.72024614
+      },
+      "53": {
+        "dem_votes": 2169,
+        "rep_votes": 4331,
+        "other_votes": 0,
+        "total_votes": 6500,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 33.26153846
+      },
+      "54": {
+        "dem_votes": 3743,
+        "rep_votes": 2355,
+        "other_votes": 0,
+        "total_votes": 6098,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "DEM",
+        "margin_pct": -22.76156117
+      },
+      "55": {
+        "dem_votes": 2878,
+        "rep_votes": 5249,
+        "other_votes": 0,
+        "total_votes": 8127,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 29.17435708
+      },
+      "56": {
+        "dem_votes": 2919,
+        "rep_votes": 5075,
+        "other_votes": 0,
+        "total_votes": 7994,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 26.97022767
+      },
+      "57": {
+        "dem_votes": 3391,
+        "rep_votes": 3953,
+        "other_votes": 0,
+        "total_votes": 7344,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 7.65250545
+      },
+      "58": {
+        "dem_votes": 2760,
+        "rep_votes": 4545,
+        "other_votes": 0,
+        "total_votes": 7305,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 24.43531828
+      },
+      "59": {
+        "dem_votes": 2325,
+        "rep_votes": 4538,
+        "other_votes": 0,
+        "total_votes": 6863,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 32.24537374
+      },
+      "60": {
+        "dem_votes": 1807,
+        "rep_votes": 5391,
+        "other_votes": 0,
+        "total_votes": 7198,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 49.79160878
+      },
+      "61": {
+        "dem_votes": 1500,
+        "rep_votes": 5583,
+        "other_votes": 0,
+        "total_votes": 7083,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 57.64506565
+      },
+      "62": {
+        "dem_votes": 1473,
+        "rep_votes": 5221,
+        "other_votes": 0,
+        "total_votes": 6694,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 55.9904392
+      },
+      "63": {
+        "dem_votes": 1627,
+        "rep_votes": 4374,
+        "other_votes": 0,
+        "total_votes": 6001,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 45.77570405
+      },
+      "64": {
+        "dem_votes": 1463,
+        "rep_votes": 5657,
+        "other_votes": 0,
+        "total_votes": 7120,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 58.90449438
+      },
+      "65": {
+        "dem_votes": 1626,
+        "rep_votes": 5182,
+        "other_votes": 0,
+        "total_votes": 6808,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 52.23266745
+      },
+      "66": {
+        "dem_votes": 1742,
+        "rep_votes": 5028,
+        "other_votes": 0,
+        "total_votes": 6770,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 48.53766617
+      },
+      "67": {
+        "dem_votes": 2221,
+        "rep_votes": 5548,
+        "other_votes": 0,
+        "total_votes": 7769,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 42.82404428
+      },
+      "68": {
+        "dem_votes": 1486,
+        "rep_votes": 5998,
+        "other_votes": 0,
+        "total_votes": 7484,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 60.28861571
+      },
+      "69": {
+        "dem_votes": 1749,
+        "rep_votes": 6645,
+        "other_votes": 0,
+        "total_votes": 8394,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 58.3273767
+      },
+      "70": {
+        "dem_votes": 2251,
+        "rep_votes": 3928,
+        "other_votes": 0,
+        "total_votes": 6179,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 27.14031397
+      },
+      "71": {
+        "dem_votes": 2506,
+        "rep_votes": 5988,
+        "other_votes": 0,
+        "total_votes": 8494,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 40.99364257
+      },
+      "72": {
+        "dem_votes": 1472,
+        "rep_votes": 5222,
+        "other_votes": 0,
+        "total_votes": 6694,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 56.0203167
+      },
+      "73": {
+        "dem_votes": 1846,
+        "rep_votes": 5679,
+        "other_votes": 0,
+        "total_votes": 7525,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 50.93687708
+      },
+      "74": {
+        "dem_votes": 2526,
+        "rep_votes": 5678,
+        "other_votes": 0,
+        "total_votes": 8204,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 38.42028279
+      },
+      "75": {
+        "dem_votes": 2883,
+        "rep_votes": 4977,
+        "other_votes": 0,
+        "total_votes": 7860,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 26.64122137
+      },
+      "76": {
+        "dem_votes": 2865,
+        "rep_votes": 3976,
+        "other_votes": 0,
+        "total_votes": 6841,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 16.24031574
+      },
+      "77": {
+        "dem_votes": 2557,
+        "rep_votes": 5354,
+        "other_votes": 0,
+        "total_votes": 7911,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 35.35583365
+      },
+      "78": {
+        "dem_votes": 3355,
+        "rep_votes": 4896,
+        "other_votes": 0,
+        "total_votes": 8251,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 18.67652406
+      },
+      "79": {
+        "dem_votes": 3440,
+        "rep_votes": 1733,
+        "other_votes": 0,
+        "total_votes": 5173,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "DEM",
+        "margin_pct": -32.9982602
+      },
+      "80": {
+        "dem_votes": 2978,
+        "rep_votes": 2495,
+        "other_votes": 0,
+        "total_votes": 5473,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "DEM",
+        "margin_pct": -8.8251416
+      },
+      "81": {
+        "dem_votes": 2507,
+        "rep_votes": 1739,
+        "other_votes": 0,
+        "total_votes": 4246,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "DEM",
+        "margin_pct": -18.08761187
+      },
+      "82": {
+        "dem_votes": 3835,
+        "rep_votes": 4681,
+        "other_votes": 0,
+        "total_votes": 8516,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 9.93424143
+      },
+      "83": {
+        "dem_votes": 1525,
+        "rep_votes": 4910,
+        "other_votes": 0,
+        "total_votes": 6435,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 52.6029526
+      },
+      "84": {
+        "dem_votes": 1646,
+        "rep_votes": 5419,
+        "other_votes": 0,
+        "total_votes": 7065,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 53.40410474
+      },
+      "85": {
+        "dem_votes": 1534,
+        "rep_votes": 6840,
+        "other_votes": 0,
+        "total_votes": 8374,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 63.36278959
+      },
+      "86": {
+        "dem_votes": 1690,
+        "rep_votes": 5735,
+        "other_votes": 0,
+        "total_votes": 7425,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 54.47811448
+      },
+      "87": {
+        "dem_votes": 1666,
+        "rep_votes": 6039,
+        "other_votes": 0,
+        "total_votes": 7705,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 56.75535367
+      },
+      "88": {
+        "dem_votes": 1370,
+        "rep_votes": 6466,
+        "other_votes": 0,
+        "total_votes": 7836,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 65.03318019
+      },
+      "89": {
+        "dem_votes": 1759,
+        "rep_votes": 6482,
+        "other_votes": 0,
+        "total_votes": 8241,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 57.31100595
+      },
+      "90": {
+        "dem_votes": 2264,
+        "rep_votes": 7387,
+        "other_votes": 0,
+        "total_votes": 9651,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 53.08258212
+      },
+      "91": {
+        "dem_votes": 2225,
+        "rep_votes": 6082,
+        "other_votes": 0,
+        "total_votes": 8307,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 46.43072108
+      },
+      "92": {
+        "dem_votes": 2594,
+        "rep_votes": 5798,
+        "other_votes": 0,
+        "total_votes": 8392,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 38.1792183
+      },
+      "93": {
+        "dem_votes": 2580,
+        "rep_votes": 3807,
+        "other_votes": 0,
+        "total_votes": 6387,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 19.21089713
+      },
+      "94": {
+        "dem_votes": 2606,
+        "rep_votes": 5050,
+        "other_votes": 0,
+        "total_votes": 7656,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 31.92267503
+      },
+      "95": {
+        "dem_votes": 2341,
+        "rep_votes": 4784,
+        "other_votes": 0,
+        "total_votes": 7125,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 34.2877193
+      },
+      "96": {
+        "dem_votes": 2404,
+        "rep_votes": 5218,
+        "other_votes": 0,
+        "total_votes": 7622,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 36.91944372
+      },
+      "97": {
+        "dem_votes": 3458,
+        "rep_votes": 4848,
+        "other_votes": 0,
+        "total_votes": 8306,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 16.73489044
+      },
+      "98": {
+        "dem_votes": 2666,
+        "rep_votes": 4992,
+        "other_votes": 0,
+        "total_votes": 7658,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 30.37346566
+      },
+      "99": {
+        "dem_votes": 3774,
+        "rep_votes": 5100,
+        "other_votes": 0,
+        "total_votes": 8874,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 14.94252874
+      },
+      "100": {
+        "dem_votes": 3769,
+        "rep_votes": 4636,
+        "other_votes": 0,
+        "total_votes": 8405,
+        "dem_candidate": "Teresa Toriseva",
+        "rep_candidate": "John \u201cJb\u201d Mccuskey",
+        "winner": "REP",
+        "margin_pct": 10.31528852
+      }
+    }
+  }
+}

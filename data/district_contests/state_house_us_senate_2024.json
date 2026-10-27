@@ -1,0 +1,1014 @@
+{
+  "meta": {
+    "scope": "state_house",
+    "contest_type": "us_senate",
+    "year": 2024,
+    "district_lines_year": 2022,
+    "method": "rdh_2020_block_votes_joined_to_census_bef",
+    "match_coverage_pct": 100.0
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 1973,
+        "rep_votes": 6703,
+        "other_votes": 173,
+        "total_votes": 8849,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 53.4523675
+      },
+      "2": {
+        "dem_votes": 2313,
+        "rep_votes": 5396,
+        "other_votes": 134,
+        "total_votes": 7843,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 39.30893791
+      },
+      "3": {
+        "dem_votes": 2288,
+        "rep_votes": 5283,
+        "other_votes": 108,
+        "total_votes": 7679,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 39.00247428
+      },
+      "4": {
+        "dem_votes": 3540,
+        "rep_votes": 5768,
+        "other_votes": 128,
+        "total_votes": 9436,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 23.61169987
+      },
+      "5": {
+        "dem_votes": 3445,
+        "rep_votes": 3789,
+        "other_votes": 120,
+        "total_votes": 7354,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 4.67772641
+      },
+      "6": {
+        "dem_votes": 2867,
+        "rep_votes": 5285,
+        "other_votes": 133,
+        "total_votes": 8285,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 29.18527459
+      },
+      "7": {
+        "dem_votes": 1967,
+        "rep_votes": 5600,
+        "other_votes": 142,
+        "total_votes": 7709,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 47.12673499
+      },
+      "8": {
+        "dem_votes": 1307,
+        "rep_votes": 5926,
+        "other_votes": 269,
+        "total_votes": 7502,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 61.57024793
+      },
+      "9": {
+        "dem_votes": 1391,
+        "rep_votes": 6727,
+        "other_votes": 248,
+        "total_votes": 8366,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 63.78197466
+      },
+      "10": {
+        "dem_votes": 1956,
+        "rep_votes": 6035,
+        "other_votes": 277,
+        "total_votes": 8268,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 49.33478471
+      },
+      "11": {
+        "dem_votes": 2455,
+        "rep_votes": 5090,
+        "other_votes": 264,
+        "total_votes": 7809,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 33.74311692
+      },
+      "12": {
+        "dem_votes": 2021,
+        "rep_votes": 3851,
+        "other_votes": 190,
+        "total_votes": 6062,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 30.18805675
+      },
+      "13": {
+        "dem_votes": 1581,
+        "rep_votes": 5194,
+        "other_votes": 224,
+        "total_votes": 6999,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 51.62166024
+      },
+      "14": {
+        "dem_votes": 1491,
+        "rep_votes": 6422,
+        "other_votes": 253,
+        "total_votes": 8166,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 60.38452119
+      },
+      "15": {
+        "dem_votes": 1486,
+        "rep_votes": 5593,
+        "other_votes": 221,
+        "total_votes": 7300,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 56.26027397
+      },
+      "16": {
+        "dem_votes": 1670,
+        "rep_votes": 6639,
+        "other_votes": 306,
+        "total_votes": 8615,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 57.67846779
+      },
+      "17": {
+        "dem_votes": 1738,
+        "rep_votes": 5754,
+        "other_votes": 296,
+        "total_votes": 7788,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 51.56651258
+      },
+      "18": {
+        "dem_votes": 1511,
+        "rep_votes": 5371,
+        "other_votes": 243,
+        "total_votes": 7125,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 54.1754386
+      },
+      "19": {
+        "dem_votes": 1913,
+        "rep_votes": 6022,
+        "other_votes": 291,
+        "total_votes": 8226,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 49.95137369
+      },
+      "20": {
+        "dem_votes": 2576,
+        "rep_votes": 6568,
+        "other_votes": 296,
+        "total_votes": 9440,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 42.28813559
+      },
+      "21": {
+        "dem_votes": 2258,
+        "rep_votes": 6212,
+        "other_votes": 320,
+        "total_votes": 8790,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 44.98293515
+      },
+      "22": {
+        "dem_votes": 1602,
+        "rep_votes": 5324,
+        "other_votes": 262,
+        "total_votes": 7188,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 51.78074569
+      },
+      "23": {
+        "dem_votes": 1794,
+        "rep_votes": 5026,
+        "other_votes": 212,
+        "total_votes": 7032,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 45.96131968
+      },
+      "24": {
+        "dem_votes": 2162,
+        "rep_votes": 3252,
+        "other_votes": 181,
+        "total_votes": 5595,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 19.48168007
+      },
+      "25": {
+        "dem_votes": 2908,
+        "rep_votes": 1878,
+        "other_votes": 162,
+        "total_votes": 4948,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "DEM",
+        "margin_pct": -20.81649151
+      },
+      "26": {
+        "dem_votes": 2916,
+        "rep_votes": 4594,
+        "other_votes": 235,
+        "total_votes": 7745,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 21.6655907
+      },
+      "27": {
+        "dem_votes": 1895,
+        "rep_votes": 4160,
+        "other_votes": 194,
+        "total_votes": 6249,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 36.24579933
+      },
+      "28": {
+        "dem_votes": 1586,
+        "rep_votes": 5723,
+        "other_votes": 212,
+        "total_votes": 7521,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 55.00598325
+      },
+      "29": {
+        "dem_votes": 876,
+        "rep_votes": 4866,
+        "other_votes": 153,
+        "total_votes": 5895,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 67.68447837
+      },
+      "30": {
+        "dem_votes": 1192,
+        "rep_votes": 5089,
+        "other_votes": 187,
+        "total_votes": 6468,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 60.25046382
+      },
+      "31": {
+        "dem_votes": 1082,
+        "rep_votes": 5187,
+        "other_votes": 159,
+        "total_votes": 6428,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 63.86123211
+      },
+      "32": {
+        "dem_votes": 1581,
+        "rep_votes": 5021,
+        "other_votes": 166,
+        "total_votes": 6768,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 50.82742317
+      },
+      "33": {
+        "dem_votes": 1128,
+        "rep_votes": 5139,
+        "other_votes": 136,
+        "total_votes": 6403,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 62.64251132
+      },
+      "34": {
+        "dem_votes": 838,
+        "rep_votes": 5074,
+        "other_votes": 127,
+        "total_votes": 6039,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 70.14406359
+      },
+      "35": {
+        "dem_votes": 815,
+        "rep_votes": 5244,
+        "other_votes": 187,
+        "total_votes": 6246,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 70.909382
+      },
+      "36": {
+        "dem_votes": 891,
+        "rep_votes": 4066,
+        "other_votes": 134,
+        "total_votes": 5091,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 62.36495777
+      },
+      "37": {
+        "dem_votes": 1529,
+        "rep_votes": 4928,
+        "other_votes": 198,
+        "total_votes": 6655,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 51.07438017
+      },
+      "38": {
+        "dem_votes": 1425,
+        "rep_votes": 5693,
+        "other_votes": 197,
+        "total_votes": 7315,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 58.34586466
+      },
+      "39": {
+        "dem_votes": 1153,
+        "rep_votes": 6148,
+        "other_votes": 209,
+        "total_votes": 7510,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 66.51131824
+      },
+      "40": {
+        "dem_votes": 1946,
+        "rep_votes": 6409,
+        "other_votes": 277,
+        "total_votes": 8632,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 51.70296571
+      },
+      "41": {
+        "dem_votes": 1663,
+        "rep_votes": 7195,
+        "other_votes": 362,
+        "total_votes": 9220,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 60.0
+      },
+      "42": {
+        "dem_votes": 1408,
+        "rep_votes": 6257,
+        "other_votes": 310,
+        "total_votes": 7975,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 60.80250784
+      },
+      "43": {
+        "dem_votes": 1192,
+        "rep_votes": 5626,
+        "other_votes": 249,
+        "total_votes": 7067,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 62.74232348
+      },
+      "44": {
+        "dem_votes": 2629,
+        "rep_votes": 3866,
+        "other_votes": 300,
+        "total_votes": 6795,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 18.20456218
+      },
+      "45": {
+        "dem_votes": 1418,
+        "rep_votes": 4272,
+        "other_votes": 230,
+        "total_votes": 5920,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 48.20945946
+      },
+      "46": {
+        "dem_votes": 2607,
+        "rep_votes": 5219,
+        "other_votes": 297,
+        "total_votes": 8123,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 32.15560753
+      },
+      "47": {
+        "dem_votes": 2299,
+        "rep_votes": 5308,
+        "other_votes": 280,
+        "total_votes": 7887,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 38.15138836
+      },
+      "48": {
+        "dem_votes": 1248,
+        "rep_votes": 4805,
+        "other_votes": 158,
+        "total_votes": 6211,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 57.26936081
+      },
+      "49": {
+        "dem_votes": 1386,
+        "rep_votes": 5454,
+        "other_votes": 244,
+        "total_votes": 7084,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 57.42518351
+      },
+      "50": {
+        "dem_votes": 1833,
+        "rep_votes": 3931,
+        "other_votes": 229,
+        "total_votes": 5993,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 35.00750876
+      },
+      "51": {
+        "dem_votes": 2128,
+        "rep_votes": 5057,
+        "other_votes": 251,
+        "total_votes": 7436,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 39.3894567
+      },
+      "52": {
+        "dem_votes": 2504,
+        "rep_votes": 4361,
+        "other_votes": 192,
+        "total_votes": 7057,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 26.31429786
+      },
+      "53": {
+        "dem_votes": 2467,
+        "rep_votes": 4128,
+        "other_votes": 191,
+        "total_votes": 6786,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 24.47686413
+      },
+      "54": {
+        "dem_votes": 4043,
+        "rep_votes": 2069,
+        "other_votes": 184,
+        "total_votes": 6296,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "DEM",
+        "margin_pct": -31.35324015
+      },
+      "55": {
+        "dem_votes": 3651,
+        "rep_votes": 4480,
+        "other_votes": 242,
+        "total_votes": 8373,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 9.90087185
+      },
+      "56": {
+        "dem_votes": 3567,
+        "rep_votes": 4427,
+        "other_votes": 231,
+        "total_votes": 8225,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 10.45592705
+      },
+      "57": {
+        "dem_votes": 3772,
+        "rep_votes": 3590,
+        "other_votes": 214,
+        "total_votes": 7576,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "DEM",
+        "margin_pct": -2.40232313
+      },
+      "58": {
+        "dem_votes": 3018,
+        "rep_votes": 4369,
+        "other_votes": 207,
+        "total_votes": 7594,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 17.79036081
+      },
+      "59": {
+        "dem_votes": 2521,
+        "rep_votes": 4381,
+        "other_votes": 222,
+        "total_votes": 7124,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 26.10892757
+      },
+      "60": {
+        "dem_votes": 1997,
+        "rep_votes": 5270,
+        "other_votes": 229,
+        "total_votes": 7496,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 43.66328709
+      },
+      "61": {
+        "dem_votes": 1745,
+        "rep_votes": 5386,
+        "other_votes": 200,
+        "total_votes": 7331,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 49.66580276
+      },
+      "62": {
+        "dem_votes": 1287,
+        "rep_votes": 5719,
+        "other_votes": 207,
+        "total_votes": 7213,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 61.44461389
+      },
+      "63": {
+        "dem_votes": 1527,
+        "rep_votes": 4628,
+        "other_votes": 202,
+        "total_votes": 6357,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 48.78087148
+      },
+      "64": {
+        "dem_votes": 1276,
+        "rep_votes": 5786,
+        "other_votes": 309,
+        "total_votes": 7371,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 61.18572785
+      },
+      "65": {
+        "dem_votes": 1469,
+        "rep_votes": 5334,
+        "other_votes": 279,
+        "total_votes": 7082,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 54.57497882
+      },
+      "66": {
+        "dem_votes": 1674,
+        "rep_votes": 5163,
+        "other_votes": 270,
+        "total_votes": 7107,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 49.09244407
+      },
+      "67": {
+        "dem_votes": 2093,
+        "rep_votes": 5855,
+        "other_votes": 279,
+        "total_votes": 8227,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 45.72748268
+      },
+      "68": {
+        "dem_votes": 1313,
+        "rep_votes": 6186,
+        "other_votes": 328,
+        "total_votes": 7827,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 62.25884758
+      },
+      "69": {
+        "dem_votes": 1726,
+        "rep_votes": 6557,
+        "other_votes": 363,
+        "total_votes": 8646,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 55.87554939
+      },
+      "70": {
+        "dem_votes": 2203,
+        "rep_votes": 3874,
+        "other_votes": 277,
+        "total_votes": 6354,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 26.29839471
+      },
+      "71": {
+        "dem_votes": 2540,
+        "rep_votes": 5924,
+        "other_votes": 293,
+        "total_votes": 8757,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 38.64337102
+      },
+      "72": {
+        "dem_votes": 1341,
+        "rep_votes": 5335,
+        "other_votes": 266,
+        "total_votes": 6942,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 57.53385192
+      },
+      "73": {
+        "dem_votes": 1645,
+        "rep_votes": 5754,
+        "other_votes": 364,
+        "total_votes": 7763,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 52.93056808
+      },
+      "74": {
+        "dem_votes": 2367,
+        "rep_votes": 5769,
+        "other_votes": 370,
+        "total_votes": 8506,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 39.99529744
+      },
+      "75": {
+        "dem_votes": 2707,
+        "rep_votes": 5106,
+        "other_votes": 341,
+        "total_votes": 8154,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 29.421143
+      },
+      "76": {
+        "dem_votes": 2633,
+        "rep_votes": 4121,
+        "other_votes": 336,
+        "total_votes": 7090,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 20.98730606
+      },
+      "77": {
+        "dem_votes": 2371,
+        "rep_votes": 5607,
+        "other_votes": 376,
+        "total_votes": 8354,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 38.73593488
+      },
+      "78": {
+        "dem_votes": 3267,
+        "rep_votes": 4901,
+        "other_votes": 418,
+        "total_votes": 8586,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 19.03098067
+      },
+      "79": {
+        "dem_votes": 3396,
+        "rep_votes": 1722,
+        "other_votes": 212,
+        "total_votes": 5330,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "DEM",
+        "margin_pct": -31.40712946
+      },
+      "80": {
+        "dem_votes": 2925,
+        "rep_votes": 2470,
+        "other_votes": 243,
+        "total_votes": 5638,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "DEM",
+        "margin_pct": -8.07023767
+      },
+      "81": {
+        "dem_votes": 2550,
+        "rep_votes": 1665,
+        "other_votes": 171,
+        "total_votes": 4386,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "DEM",
+        "margin_pct": -20.17783858
+      },
+      "82": {
+        "dem_votes": 3790,
+        "rep_votes": 4627,
+        "other_votes": 360,
+        "total_votes": 8777,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 9.53628803
+      },
+      "83": {
+        "dem_votes": 1273,
+        "rep_votes": 4750,
+        "other_votes": 695,
+        "total_votes": 6718,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 51.75647514
+      },
+      "84": {
+        "dem_votes": 1204,
+        "rep_votes": 5238,
+        "other_votes": 992,
+        "total_votes": 7434,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 54.26419155
+      },
+      "85": {
+        "dem_votes": 1396,
+        "rep_votes": 7191,
+        "other_votes": 417,
+        "total_votes": 9004,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 64.36028432
+      },
+      "86": {
+        "dem_votes": 1584,
+        "rep_votes": 5979,
+        "other_votes": 243,
+        "total_votes": 7806,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 56.30284397
+      },
+      "87": {
+        "dem_votes": 1462,
+        "rep_votes": 6222,
+        "other_votes": 254,
+        "total_votes": 7938,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 59.96472663
+      },
+      "88": {
+        "dem_votes": 1252,
+        "rep_votes": 6607,
+        "other_votes": 229,
+        "total_votes": 8088,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 66.20919881
+      },
+      "89": {
+        "dem_votes": 1643,
+        "rep_votes": 6629,
+        "other_votes": 292,
+        "total_votes": 8564,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 58.22045773
+      },
+      "90": {
+        "dem_votes": 2109,
+        "rep_votes": 7427,
+        "other_votes": 391,
+        "total_votes": 9927,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 53.5710688
+      },
+      "91": {
+        "dem_votes": 2136,
+        "rep_votes": 6038,
+        "other_votes": 354,
+        "total_votes": 8528,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 45.75515947
+      },
+      "92": {
+        "dem_votes": 2502,
+        "rep_votes": 5742,
+        "other_votes": 370,
+        "total_votes": 8614,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 37.61318783
+      },
+      "93": {
+        "dem_votes": 2460,
+        "rep_votes": 3825,
+        "other_votes": 276,
+        "total_votes": 6561,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 20.80475537
+      },
+      "94": {
+        "dem_votes": 2503,
+        "rep_votes": 5039,
+        "other_votes": 315,
+        "total_votes": 7857,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 32.27695049
+      },
+      "95": {
+        "dem_votes": 2234,
+        "rep_votes": 4816,
+        "other_votes": 290,
+        "total_votes": 7340,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 35.17711172
+      },
+      "96": {
+        "dem_votes": 2306,
+        "rep_votes": 5155,
+        "other_votes": 362,
+        "total_votes": 7823,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 36.41825387
+      },
+      "97": {
+        "dem_votes": 3381,
+        "rep_votes": 4841,
+        "other_votes": 287,
+        "total_votes": 8509,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 17.15830297
+      },
+      "98": {
+        "dem_votes": 2526,
+        "rep_votes": 5071,
+        "other_votes": 265,
+        "total_votes": 7862,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 32.37089799
+      },
+      "99": {
+        "dem_votes": 3641,
+        "rep_votes": 5221,
+        "other_votes": 244,
+        "total_votes": 9106,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 17.35119701
+      },
+      "100": {
+        "dem_votes": 3674,
+        "rep_votes": 4685,
+        "other_votes": 289,
+        "total_votes": 8648,
+        "dem_candidate": "Glenn Elliott",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 11.69056429
+      }
+    }
+  }
+}

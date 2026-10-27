@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "scope": "congressional",
+    "contest_type": "auditor",
+    "year": 2008,
+    "district_lines_year": 2022,
+    "source_vtd_vintage": 2000,
+    "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+    "match_coverage_pct": 93.759915
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 219605,
+        "rep_votes": 0,
+        "other_votes": 111,
+        "total_votes": 219716,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -99.94948024
+      },
+      "2": {
+        "dem_votes": 196659,
+        "rep_votes": 0,
+        "other_votes": 295,
+        "total_votes": 196954,
+        "dem_candidate": "Glen B. Gainer III",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -99.85021883
+      }
+    }
+  }
+}

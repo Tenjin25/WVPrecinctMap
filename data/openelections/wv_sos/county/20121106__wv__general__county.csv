@@ -1,0 +1,1258 @@
+county,office,district,party,candidate,votes
+Barbour,Attorney General,,DEM,Democratic candidate,2751
+Barbour,Attorney General,,REP,Republican candidate,2837
+Barbour,Auditor,,DEM,Democratic candidate,3080
+Barbour,Auditor,,REP,Republican candidate,2279
+Barbour,Commissioner of Agriculture,,DEM,Democratic candidate,2636
+Barbour,Commissioner of Agriculture,,REP,Republican candidate,2661
+Barbour,Governor,,DEM,Democratic candidate,2757
+Barbour,Governor,,OTH,Other candidates,200
+Barbour,Governor,,REP,Republican candidate,2789
+Barbour,President,,DEM,Democratic candidate,1768
+Barbour,President,,OTH,Other candidates,169
+Barbour,President,,REP,Republican candidate,3824
+Barbour,Secretary of State,,DEM,Democratic candidate,3608
+Barbour,Secretary of State,,REP,Republican candidate,1917
+Barbour,State Senate,14,DEM,Democratic candidate,3922
+Barbour,State Treasurer,,DEM,Democratic candidate,3109
+Barbour,State Treasurer,,REP,Republican candidate,2294
+Barbour,U.S. House,1,DEM,Democratic candidate,1810
+Barbour,U.S. House,1,REP,Republican candidate,3549
+Barbour,U.S. Senate,,DEM,Democratic candidate,3358
+Barbour,U.S. Senate,,OTH,Other candidates,151
+Barbour,U.S. Senate,,REP,Republican candidate,2199
+Berkeley,Attorney General,,DEM,Democratic candidate,13583
+Berkeley,Attorney General,,REP,Republican candidate,22180
+Berkeley,Auditor,,DEM,Democratic candidate,12748
+Berkeley,Auditor,,REP,Republican candidate,22724
+Berkeley,Commissioner of Agriculture,,DEM,Democratic candidate,15000
+Berkeley,Commissioner of Agriculture,,REP,Republican candidate,19699
+Berkeley,Governor,,DEM,Democratic candidate,17195
+Berkeley,Governor,,OTH,Other candidates,1293
+Berkeley,Governor,,REP,Republican candidate,17999
+Berkeley,President,,DEM,Democratic candidate,14275
+Berkeley,President,,OTH,Other candidates,741
+Berkeley,President,,REP,Republican candidate,22156
+Berkeley,Secretary of State,,DEM,Democratic candidate,18072
+Berkeley,Secretary of State,,REP,Republican candidate,17193
+Berkeley,State Senate,15,OTH,Other candidates,1595
+Berkeley,State Senate,15,REP,Republican candidate,15061
+Berkeley,State Senate,16,DEM,Democratic candidate,9088
+Berkeley,State Senate,16,REP,Republican candidate,7803
+Berkeley,State Treasurer,,DEM,Democratic candidate,16699
+Berkeley,State Treasurer,,REP,Republican candidate,18297
+Berkeley,U.S. House,2,DEM,Democratic candidate,11659
+Berkeley,U.S. House,2,REP,Republican candidate,23960
+Berkeley,U.S. Senate,,DEM,Democratic candidate,19306
+Berkeley,U.S. Senate,,OTH,Other candidates,854
+Berkeley,U.S. Senate,,REP,Republican candidate,16046
+Boone,Attorney General,,DEM,Democratic candidate,5373
+Boone,Attorney General,,REP,Republican candidate,3041
+Boone,Auditor,,DEM,Democratic candidate,5706
+Boone,Auditor,,REP,Republican candidate,2296
+Boone,Commissioner of Agriculture,,DEM,Democratic candidate,5303
+Boone,Commissioner of Agriculture,,REP,Republican candidate,2582
+Boone,Governor,,DEM,Democratic candidate,5800
+Boone,Governor,,OTH,Other candidates,234
+Boone,Governor,,REP,Republican candidate,2624
+Boone,President,,DEM,Democratic candidate,2790
+Boone,President,,OTH,Other candidates,243
+Boone,President,,REP,Republican candidate,5467
+Boone,Secretary of State,,DEM,Democratic candidate,6417
+Boone,Secretary of State,,REP,Republican candidate,1940
+Boone,State Senate,7,DEM,Democratic candidate,6629
+Boone,State Treasurer,,DEM,Democratic candidate,5922
+Boone,State Treasurer,,REP,Republican candidate,2400
+Boone,U.S. House,3,DEM,Democratic candidate,5338
+Boone,U.S. House,3,REP,Republican candidate,2945
+Boone,U.S. Senate,,DEM,Democratic candidate,5955
+Boone,U.S. Senate,,OTH,Other candidates,241
+Boone,U.S. Senate,,REP,Republican candidate,2318
+Braxton,Attorney General,,DEM,Democratic candidate,2609
+Braxton,Attorney General,,REP,Republican candidate,1737
+Braxton,Auditor,,DEM,Democratic candidate,2993
+Braxton,Auditor,,REP,Republican candidate,1160
+Braxton,Commissioner of Agriculture,,DEM,Democratic candidate,2802
+Braxton,Commissioner of Agriculture,,REP,Republican candidate,1374
+Braxton,Governor,,DEM,Democratic candidate,2796
+Braxton,Governor,,OTH,Other candidates,151
+Braxton,Governor,,REP,Republican candidate,1784
+Braxton,President,,DEM,Democratic candidate,1998
+Braxton,President,,OTH,Other candidates,81
+Braxton,President,,REP,Republican candidate,2725
+Braxton,Secretary of State,,DEM,Democratic candidate,3141
+Braxton,Secretary of State,,REP,Republican candidate,1150
+Braxton,State Senate,12,DEM,Democratic candidate,3610
+Braxton,State Treasurer,,DEM,Democratic candidate,2905
+Braxton,State Treasurer,,REP,Republican candidate,1329
+Braxton,U.S. House,2,DEM,Democratic candidate,1589
+Braxton,U.S. House,2,REP,Republican candidate,2691
+Braxton,U.S. Senate,,DEM,Democratic candidate,3160
+Braxton,U.S. Senate,,OTH,Other candidates,132
+Braxton,U.S. Senate,,REP,Republican candidate,1297
+Brooke,Attorney General,,DEM,Democratic candidate,4960
+Brooke,Attorney General,,REP,Republican candidate,3887
+Brooke,Auditor,,DEM,Democratic candidate,5283
+Brooke,Auditor,,REP,Republican candidate,3067
+Brooke,Commissioner of Agriculture,,DEM,Democratic candidate,4517
+Brooke,Commissioner of Agriculture,,REP,Republican candidate,3724
+Brooke,Governor,,DEM,Democratic candidate,5067
+Brooke,Governor,,OTH,Other candidates,268
+Brooke,Governor,,REP,Republican candidate,3797
+Brooke,President,,DEM,Democratic candidate,4005
+Brooke,President,,OTH,Other candidates,229
+Brooke,President,,REP,Republican candidate,5060
+Brooke,Secretary of State,,DEM,Democratic candidate,5860
+Brooke,Secretary of State,,REP,Republican candidate,2746
+Brooke,State Senate,1,DEM,Democratic candidate,6369
+Brooke,State Senate,1,REP,Republican candidate,2726
+Brooke,State Treasurer,,DEM,Democratic candidate,5207
+Brooke,State Treasurer,,REP,Republican candidate,3266
+Brooke,U.S. House,1,DEM,Democratic candidate,3606
+Brooke,U.S. House,1,REP,Republican candidate,5029
+Brooke,U.S. Senate,,DEM,Democratic candidate,6441
+Brooke,U.S. Senate,,OTH,Other candidates,154
+Brooke,U.S. Senate,,REP,Republican candidate,2479
+Cabell,Attorney General,,DEM,Democratic candidate,15438
+Cabell,Attorney General,,REP,Republican candidate,15485
+Cabell,Auditor,,DEM,Democratic candidate,17828
+Cabell,Auditor,,REP,Republican candidate,11685
+Cabell,Commissioner of Agriculture,,DEM,Democratic candidate,15849
+Cabell,Commissioner of Agriculture,,REP,Republican candidate,13222
+Cabell,Governor,,DEM,Democratic candidate,17447
+Cabell,Governor,,OTH,Other candidates,1197
+Cabell,Governor,,REP,Republican candidate,13357
+Cabell,President,,DEM,Democratic candidate,13568
+Cabell,President,,OTH,Other candidates,591
+Cabell,President,,REP,Republican candidate,17985
+Cabell,Secretary of State,,DEM,Democratic candidate,19709
+Cabell,Secretary of State,,REP,Republican candidate,11120
+Cabell,State Senate,5,DEM,Democratic candidate,23417
+Cabell,State Treasurer,,DEM,Democratic candidate,16549
+Cabell,State Treasurer,,REP,Republican candidate,13668
+Cabell,U.S. House,3,DEM,Democratic candidate,17870
+Cabell,U.S. House,3,REP,Republican candidate,13517
+Cabell,U.S. Senate,,DEM,Democratic candidate,22007
+Cabell,U.S. Senate,,OTH,Other candidates,881
+Cabell,U.S. Senate,,REP,Republican candidate,9133
+Calhoun,Attorney General,,DEM,Democratic candidate,1118
+Calhoun,Attorney General,,REP,Republican candidate,986
+Calhoun,Auditor,,DEM,Democratic candidate,1404
+Calhoun,Auditor,,REP,Republican candidate,638
+Calhoun,Commissioner of Agriculture,,DEM,Democratic candidate,1153
+Calhoun,Commissioner of Agriculture,,REP,Republican candidate,837
+Calhoun,Governor,,DEM,Democratic candidate,1051
+Calhoun,Governor,,OTH,Other candidates,130
+Calhoun,Governor,,REP,Republican candidate,986
+Calhoun,President,,DEM,Democratic candidate,818
+Calhoun,President,,OTH,Other candidates,70
+Calhoun,President,,REP,Republican candidate,1319
+Calhoun,Secretary of State,,DEM,Democratic candidate,1455
+Calhoun,Secretary of State,,REP,Republican candidate,637
+Calhoun,State Senate,2,DEM,Democratic candidate,1517
+Calhoun,State Treasurer,,DEM,Democratic candidate,1248
+Calhoun,State Treasurer,,REP,Republican candidate,781
+Calhoun,U.S. House,2,DEM,Democratic candidate,566
+Calhoun,U.S. House,2,REP,Republican candidate,1526
+Calhoun,U.S. Senate,,DEM,Democratic candidate,1360
+Calhoun,U.S. Senate,,OTH,Other candidates,117
+Calhoun,U.S. Senate,,REP,Republican candidate,695
+Clay,Attorney General,,DEM,Democratic candidate,1605
+Clay,Attorney General,,REP,Republican candidate,1339
+Clay,Auditor,,DEM,Democratic candidate,1828
+Clay,Auditor,,REP,Republican candidate,1018
+Clay,Commissioner of Agriculture,,DEM,Democratic candidate,1629
+Clay,Commissioner of Agriculture,,REP,Republican candidate,1182
+Clay,Governor,,DEM,Democratic candidate,1605
+Clay,Governor,,OTH,Other candidates,146
+Clay,Governor,,REP,Republican candidate,1278
+Clay,President,,DEM,Democratic candidate,931
+Clay,President,,OTH,Other candidates,110
+Clay,President,,REP,Republican candidate,1971
+Clay,Secretary of State,,DEM,Democratic candidate,2061
+Clay,Secretary of State,,REP,Republican candidate,896
+Clay,State Senate,12,DEM,Democratic candidate,2166
+Clay,State Treasurer,,DEM,Democratic candidate,1823
+Clay,State Treasurer,,REP,Republican candidate,1049
+Clay,U.S. House,2,DEM,Democratic candidate,771
+Clay,U.S. House,2,REP,Republican candidate,2201
+Clay,U.S. Senate,,DEM,Democratic candidate,1893
+Clay,U.S. Senate,,OTH,Other candidates,132
+Clay,U.S. Senate,,REP,Republican candidate,993
+Doddridge,Attorney General,,DEM,Democratic candidate,943
+Doddridge,Attorney General,,REP,Republican candidate,1681
+Doddridge,Auditor,,DEM,Democratic candidate,1259
+Doddridge,Auditor,,REP,Republican candidate,1297
+Doddridge,Commissioner of Agriculture,,DEM,Democratic candidate,824
+Doddridge,Commissioner of Agriculture,,REP,Republican candidate,1684
+Doddridge,Governor,,DEM,Democratic candidate,872
+Doddridge,Governor,,OTH,Other candidates,132
+Doddridge,Governor,,REP,Republican candidate,1721
+Doddridge,President,,DEM,Democratic candidate,575
+Doddridge,President,,OTH,Other candidates,64
+Doddridge,President,,REP,Republican candidate,2130
+Doddridge,Secretary of State,,DEM,Democratic candidate,1428
+Doddridge,Secretary of State,,REP,Republican candidate,1187
+Doddridge,State Senate,2,DEM,Democratic candidate,1606
+Doddridge,State Treasurer,,DEM,Democratic candidate,1106
+Doddridge,State Treasurer,,REP,Republican candidate,1451
+Doddridge,U.S. House,1,DEM,Democratic candidate,559
+Doddridge,U.S. House,1,REP,Republican candidate,2024
+Doddridge,U.S. Senate,,DEM,Democratic candidate,1142
+Doddridge,U.S. Senate,,OTH,Other candidates,95
+Doddridge,U.S. Senate,,REP,Republican candidate,1489
+Fayette,Attorney General,,DEM,Democratic candidate,7763
+Fayette,Attorney General,,REP,Republican candidate,5918
+Fayette,Auditor,,DEM,Democratic candidate,8387
+Fayette,Auditor,,REP,Republican candidate,4815
+Fayette,Commissioner of Agriculture,,DEM,Democratic candidate,7858
+Fayette,Commissioner of Agriculture,,REP,Republican candidate,5229
+Fayette,Governor,,DEM,Democratic candidate,7353
+Fayette,Governor,,OTH,Other candidates,675
+Fayette,Governor,,REP,Republican candidate,5932
+Fayette,President,,DEM,Democratic candidate,5419
+Fayette,President,,OTH,Other candidates,301
+Fayette,President,,REP,Republican candidate,8350
+Fayette,Secretary of State,,DEM,Democratic candidate,9262
+Fayette,Secretary of State,,REP,Republican candidate,4289
+Fayette,State Senate,10,DEM,Democratic candidate,11245
+Fayette,State Treasurer,,DEM,Democratic candidate,8522
+Fayette,State Treasurer,,REP,Republican candidate,4880
+Fayette,U.S. House,3,DEM,Democratic candidate,7330
+Fayette,U.S. House,3,REP,Republican candidate,6374
+Fayette,U.S. Senate,,DEM,Democratic candidate,8764
+Fayette,U.S. Senate,,OTH,Other candidates,609
+Fayette,U.S. Senate,,REP,Republican candidate,4524
+Gilmer,Attorney General,,DEM,Democratic candidate,1290
+Gilmer,Attorney General,,REP,Republican candidate,1115
+Gilmer,Auditor,,DEM,Democratic candidate,1717
+Gilmer,Auditor,,REP,Republican candidate,667
+Gilmer,Commissioner of Agriculture,,DEM,Democratic candidate,1430
+Gilmer,Commissioner of Agriculture,,REP,Republican candidate,873
+Gilmer,Governor,,DEM,Democratic candidate,1345
+Gilmer,Governor,,OTH,Other candidates,126
+Gilmer,Governor,,REP,Republican candidate,1033
+Gilmer,President,,DEM,Democratic candidate,840
+Gilmer,President,,OTH,Other candidates,74
+Gilmer,President,,REP,Republican candidate,1595
+Gilmer,Secretary of State,,DEM,Democratic candidate,1653
+Gilmer,Secretary of State,,REP,Republican candidate,731
+Gilmer,State Senate,12,DEM,Democratic candidate,677
+Gilmer,State Senate,2,DEM,Democratic candidate,1054
+Gilmer,State Treasurer,,DEM,Democratic candidate,1556
+Gilmer,State Treasurer,,REP,Republican candidate,804
+Gilmer,U.S. House,1,DEM,Democratic candidate,976
+Gilmer,U.S. House,1,REP,Republican candidate,1396
+Gilmer,U.S. Senate,,DEM,Democratic candidate,1409
+Gilmer,U.S. Senate,,OTH,Other candidates,238
+Gilmer,U.S. Senate,,REP,Republican candidate,881
+Grant,Attorney General,,DEM,Democratic candidate,1208
+Grant,Attorney General,,REP,Republican candidate,3053
+Grant,Auditor,,DEM,Democratic candidate,1107
+Grant,Auditor,,REP,Republican candidate,3011
+Grant,Commissioner of Agriculture,,DEM,Democratic candidate,2072
+Grant,Commissioner of Agriculture,,REP,Republican candidate,2302
+Grant,Governor,,DEM,Democratic candidate,1453
+Grant,Governor,,OTH,Other candidates,120
+Grant,Governor,,REP,Republican candidate,2919
+Grant,President,,DEM,Democratic candidate,718
+Grant,President,,OTH,Other candidates,85
+Grant,President,,REP,Republican candidate,3783
+Grant,Secretary of State,,DEM,Democratic candidate,1376
+Grant,Secretary of State,,REP,Republican candidate,2751
+Grant,State Senate,11,DEM,Democratic candidate,502
+Grant,State Senate,11,REP,Republican candidate,2791
+Grant,State Senate,14,DEM,Democratic candidate,520
+Grant,State Treasurer,,DEM,Democratic candidate,1454
+Grant,State Treasurer,,REP,Republican candidate,2696
+Grant,U.S. House,1,DEM,Democratic candidate,927
+Grant,U.S. House,1,REP,Republican candidate,3322
+Grant,U.S. Senate,,DEM,Democratic candidate,1473
+Grant,U.S. Senate,,OTH,Other candidates,79
+Grant,U.S. Senate,,REP,Republican candidate,2955
+Greenbrier,Attorney General,,DEM,Democratic candidate,6513
+Greenbrier,Attorney General,,REP,Republican candidate,5966
+Greenbrier,Auditor,,DEM,Democratic candidate,7359
+Greenbrier,Auditor,,REP,Republican candidate,4703
+Greenbrier,Commissioner of Agriculture,,DEM,Democratic candidate,7703
+Greenbrier,Commissioner of Agriculture,,REP,Republican candidate,4506
+Greenbrier,Governor,,DEM,Democratic candidate,6357
+Greenbrier,Governor,,OTH,Other candidates,659
+Greenbrier,Governor,,REP,Republican candidate,5821
+Greenbrier,President,,DEM,Democratic candidate,4710
+Greenbrier,President,,OTH,Other candidates,323
+Greenbrier,President,,REP,Republican candidate,7930
+Greenbrier,Secretary of State,,DEM,Democratic candidate,7796
+Greenbrier,Secretary of State,,REP,Republican candidate,4481
+Greenbrier,State Senate,10,DEM,Democratic candidate,9002
+Greenbrier,State Treasurer,,DEM,Democratic candidate,7158
+Greenbrier,State Treasurer,,REP,Republican candidate,5070
+Greenbrier,U.S. House,3,DEM,Democratic candidate,6496
+Greenbrier,U.S. House,3,REP,Republican candidate,5921
+Greenbrier,U.S. Senate,,DEM,Democratic candidate,7952
+Greenbrier,U.S. Senate,,OTH,Other candidates,582
+Greenbrier,U.S. Senate,,REP,Republican candidate,4112
+Hampshire,Attorney General,,DEM,Democratic candidate,2967
+Hampshire,Attorney General,,REP,Republican candidate,4654
+Hampshire,Auditor,,DEM,Democratic candidate,2814
+Hampshire,Auditor,,REP,Republican candidate,4710
+Hampshire,Commissioner of Agriculture,,DEM,Democratic candidate,3815
+Hampshire,Commissioner of Agriculture,,REP,Republican candidate,3789
+Hampshire,Governor,,DEM,Democratic candidate,3610
+Hampshire,Governor,,OTH,Other candidates,330
+Hampshire,Governor,,REP,Republican candidate,3944
+Hampshire,President,,DEM,Democratic candidate,2299
+Hampshire,President,,OTH,Other candidates,164
+Hampshire,President,,REP,Republican candidate,5523
+Hampshire,Secretary of State,,DEM,Democratic candidate,3562
+Hampshire,Secretary of State,,REP,Republican candidate,3967
+Hampshire,State Senate,15,OTH,Other candidates,1859
+Hampshire,State Senate,15,REP,Republican candidate,4718
+Hampshire,State Treasurer,,DEM,Democratic candidate,3659
+Hampshire,State Treasurer,,REP,Republican candidate,3838
+Hampshire,U.S. House,2,DEM,Democratic candidate,1796
+Hampshire,U.S. House,2,REP,Republican candidate,6004
+Hampshire,U.S. Senate,,DEM,Democratic candidate,3955
+Hampshire,U.S. Senate,,OTH,Other candidates,202
+Hampshire,U.S. Senate,,REP,Republican candidate,3761
+Hancock,Attorney General,,DEM,Democratic candidate,5727
+Hancock,Attorney General,,REP,Republican candidate,5727
+Hancock,Auditor,,DEM,Democratic candidate,6295
+Hancock,Auditor,,REP,Republican candidate,4636
+Hancock,Commissioner of Agriculture,,DEM,Democratic candidate,5423
+Hancock,Commissioner of Agriculture,,REP,Republican candidate,5430
+Hancock,Governor,,DEM,Democratic candidate,6077
+Hancock,Governor,,OTH,Other candidates,370
+Hancock,Governor,,REP,Republican candidate,5454
+Hancock,President,,DEM,Democratic candidate,4627
+Hancock,President,,OTH,Other candidates,265
+Hancock,President,,REP,Republican candidate,7226
+Hancock,Secretary of State,,DEM,Democratic candidate,6860
+Hancock,Secretary of State,,REP,Republican candidate,4293
+Hancock,State Senate,1,DEM,Democratic candidate,5391
+Hancock,State Senate,1,REP,Republican candidate,6420
+Hancock,State Treasurer,,DEM,Democratic candidate,6189
+Hancock,State Treasurer,,REP,Republican candidate,4874
+Hancock,U.S. House,1,DEM,Democratic candidate,4476
+Hancock,U.S. House,1,REP,Republican candidate,6740
+Hancock,U.S. Senate,,DEM,Democratic candidate,7920
+Hancock,U.S. Senate,,OTH,Other candidates,186
+Hancock,U.S. Senate,,REP,Republican candidate,3628
+Hardy,Attorney General,,DEM,Democratic candidate,2414
+Hardy,Attorney General,,REP,Republican candidate,2463
+Hardy,Auditor,,DEM,Democratic candidate,2385
+Hardy,Auditor,,REP,Republican candidate,2378
+Hardy,Commissioner of Agriculture,,DEM,Democratic candidate,3180
+Hardy,Commissioner of Agriculture,,REP,Republican candidate,1838
+Hardy,Governor,,DEM,Democratic candidate,2868
+Hardy,Governor,,OTH,Other candidates,191
+Hardy,Governor,,REP,Republican candidate,2074
+Hardy,President,,DEM,Democratic candidate,1482
+Hardy,President,,OTH,Other candidates,150
+Hardy,President,,REP,Republican candidate,3536
+Hardy,Secretary of State,,DEM,Democratic candidate,2680
+Hardy,Secretary of State,,REP,Republican candidate,2075
+Hardy,State Senate,14,DEM,Democratic candidate,3509
+Hardy,State Treasurer,,DEM,Democratic candidate,2988
+Hardy,State Treasurer,,REP,Republican candidate,1852
+Hardy,U.S. House,2,DEM,Democratic candidate,1094
+Hardy,U.S. House,2,REP,Republican candidate,3847
+Hardy,U.S. Senate,,DEM,Democratic candidate,2763
+Hardy,U.S. Senate,,OTH,Other candidates,124
+Hardy,U.S. Senate,,REP,Republican candidate,2170
+Harrison,Attorney General,,DEM,Democratic candidate,12714
+Harrison,Attorney General,,REP,Republican candidate,12579
+Harrison,Auditor,,DEM,Democratic candidate,15249
+Harrison,Auditor,,REP,Republican candidate,9448
+Harrison,Commissioner of Agriculture,,DEM,Democratic candidate,12800
+Harrison,Commissioner of Agriculture,,REP,Republican candidate,11659
+Harrison,Governor,,DEM,Democratic candidate,12818
+Harrison,Governor,,OTH,Other candidates,787
+Harrison,Governor,,REP,Republican candidate,12460
+Harrison,President,,DEM,Democratic candidate,9732
+Harrison,President,,OTH,Other candidates,539
+Harrison,President,,REP,Republican candidate,15876
+Harrison,Secretary of State,,DEM,Democratic candidate,17903
+Harrison,Secretary of State,,REP,Republican candidate,7761
+Harrison,State Senate,12,DEM,Democratic candidate,17896
+Harrison,State Treasurer,,DEM,Democratic candidate,15065
+Harrison,State Treasurer,,REP,Republican candidate,9845
+Harrison,U.S. House,1,DEM,Democratic candidate,9788
+Harrison,U.S. House,1,REP,Republican candidate,15342
+Harrison,U.S. Senate,,DEM,Democratic candidate,15009
+Harrison,U.S. Senate,,OTH,Other candidates,743
+Harrison,U.S. Senate,,REP,Republican candidate,10452
+Jackson,Attorney General,,DEM,Democratic candidate,5330
+Jackson,Attorney General,,REP,Republican candidate,5986
+Jackson,Auditor,,DEM,Democratic candidate,6505
+Jackson,Auditor,,REP,Republican candidate,4427
+Jackson,Commissioner of Agriculture,,DEM,Democratic candidate,5188
+Jackson,Commissioner of Agriculture,,REP,Republican candidate,5665
+Jackson,Governor,,DEM,Democratic candidate,5508
+Jackson,Governor,,OTH,Other candidates,381
+Jackson,Governor,,REP,Republican candidate,5711
+Jackson,President,,DEM,Democratic candidate,3854
+Jackson,President,,OTH,Other candidates,282
+Jackson,President,,REP,Republican candidate,7408
+Jackson,Secretary of State,,DEM,Democratic candidate,6936
+Jackson,Secretary of State,,REP,Republican candidate,4370
+Jackson,State Senate,4,DEM,Democratic candidate,5799
+Jackson,State Senate,4,REP,Republican candidate,5671
+Jackson,State Treasurer,,DEM,Democratic candidate,5586
+Jackson,State Treasurer,,REP,Republican candidate,5574
+Jackson,U.S. House,2,DEM,Democratic candidate,2759
+Jackson,U.S. House,2,REP,Republican candidate,8364
+Jackson,U.S. Senate,,DEM,Democratic candidate,7039
+Jackson,U.S. Senate,,OTH,Other candidates,246
+Jackson,U.S. Senate,,REP,Republican candidate,4092
+Jefferson,Attorney General,,DEM,Democratic candidate,8402
+Jefferson,Attorney General,,REP,Republican candidate,12914
+Jefferson,Auditor,,DEM,Democratic candidate,8543
+Jefferson,Auditor,,REP,Republican candidate,12281
+Jefferson,Commissioner of Agriculture,,DEM,Democratic candidate,10344
+Jefferson,Commissioner of Agriculture,,REP,Republican candidate,10155
+Jefferson,Governor,,DEM,Democratic candidate,11091
+Jefferson,Governor,,OTH,Other candidates,1156
+Jefferson,Governor,,REP,Republican candidate,9514
+Jefferson,President,,DEM,Democratic candidate,10398
+Jefferson,President,,OTH,Other candidates,482
+Jefferson,President,,REP,Republican candidate,11258
+Jefferson,Secretary of State,,DEM,Democratic candidate,11952
+Jefferson,Secretary of State,,REP,Republican candidate,9105
+Jefferson,State Senate,16,DEM,Democratic candidate,11676
+Jefferson,State Senate,16,REP,Republican candidate,9960
+Jefferson,State Treasurer,,DEM,Democratic candidate,11014
+Jefferson,State Treasurer,,REP,Republican candidate,9726
+Jefferson,U.S. House,2,DEM,Democratic candidate,8472
+Jefferson,U.S. House,2,REP,Republican candidate,13106
+Jefferson,U.S. Senate,,DEM,Democratic candidate,12338
+Jefferson,U.S. Senate,,OTH,Other candidates,841
+Jefferson,U.S. Senate,,REP,Republican candidate,8619
+Kanawha,Attorney General,,DEM,Democratic candidate,38380
+Kanawha,Attorney General,,REP,Republican candidate,34171
+Kanawha,Auditor,,DEM,Democratic candidate,42938
+Kanawha,Auditor,,REP,Republican candidate,26067
+Kanawha,Commissioner of Agriculture,,DEM,Democratic candidate,39332
+Kanawha,Commissioner of Agriculture,,REP,Republican candidate,28903
+Kanawha,Governor,,DEM,Democratic candidate,38785
+Kanawha,Governor,,OTH,Other candidates,3915
+Kanawha,Governor,,REP,Republican candidate,31584
+Kanawha,President,,DEM,Democratic candidate,32480
+Kanawha,President,,OTH,Other candidates,1233
+Kanawha,President,,REP,Republican candidate,41364
+Kanawha,Secretary of State,,DEM,Democratic candidate,48006
+Kanawha,Secretary of State,,REP,Republican candidate,25046
+Kanawha,State Senate,17,DEM,Democratic candidate,28384
+Kanawha,State Senate,8,DEM,Democratic candidate,14012
+Kanawha,State Senate,8,REP,Republican candidate,16401
+Kanawha,State Treasurer,,DEM,Democratic candidate,40196
+Kanawha,State Treasurer,,REP,Republican candidate,30855
+Kanawha,U.S. House,2,DEM,Democratic candidate,24905
+Kanawha,U.S. House,2,REP,Republican candidate,48262
+Kanawha,U.S. Senate,,DEM,Democratic candidate,46255
+Kanawha,U.S. Senate,,OTH,Other candidates,3127
+Kanawha,U.S. Senate,,REP,Republican candidate,24837
+Lewis,Attorney General,,DEM,Democratic candidate,2899
+Lewis,Attorney General,,REP,Republican candidate,3284
+Lewis,Auditor,,DEM,Democratic candidate,3717
+Lewis,Auditor,,REP,Republican candidate,2343
+Lewis,Commissioner of Agriculture,,DEM,Democratic candidate,3111
+Lewis,Commissioner of Agriculture,,REP,Republican candidate,2904
+Lewis,Governor,,DEM,Democratic candidate,2920
+Lewis,Governor,,OTH,Other candidates,231
+Lewis,Governor,,REP,Republican candidate,3192
+Lewis,President,,DEM,Democratic candidate,1736
+Lewis,President,,OTH,Other candidates,176
+Lewis,President,,REP,Republican candidate,4375
+Lewis,Secretary of State,,DEM,Democratic candidate,4199
+Lewis,Secretary of State,,REP,Republican candidate,2009
+Lewis,State Senate,12,DEM,Democratic candidate,4824
+Lewis,State Treasurer,,DEM,Democratic candidate,3576
+Lewis,State Treasurer,,REP,Republican candidate,2508
+Lewis,U.S. House,2,DEM,Democratic candidate,1174
+Lewis,U.S. House,2,REP,Republican candidate,5069
+Lewis,U.S. Senate,,DEM,Democratic candidate,3455
+Lewis,U.S. Senate,,OTH,Other candidates,232
+Lewis,U.S. Senate,,REP,Republican candidate,2673
+Lincoln,Attorney General,,DEM,Democratic candidate,3926
+Lincoln,Attorney General,,REP,Republican candidate,2747
+Lincoln,Auditor,,DEM,Democratic candidate,3980
+Lincoln,Auditor,,REP,Republican candidate,2321
+Lincoln,Commissioner of Agriculture,,DEM,Democratic candidate,3611
+Lincoln,Commissioner of Agriculture,,REP,Republican candidate,2605
+Lincoln,Governor,,DEM,Democratic candidate,4241
+Lincoln,Governor,,OTH,Other candidates,199
+Lincoln,Governor,,REP,Republican candidate,2476
+Lincoln,President,,DEM,Democratic candidate,2227
+Lincoln,President,,OTH,Other candidates,208
+Lincoln,President,,REP,Republican candidate,4383
+Lincoln,Secretary of State,,DEM,Democratic candidate,4450
+Lincoln,Secretary of State,,REP,Republican candidate,2137
+Lincoln,State Senate,7,DEM,Democratic candidate,4816
+Lincoln,State Treasurer,,DEM,Democratic candidate,3923
+Lincoln,State Treasurer,,REP,Republican candidate,2596
+Lincoln,U.S. House,3,DEM,Democratic candidate,3954
+Lincoln,U.S. House,3,REP,Republican candidate,2580
+Lincoln,U.S. Senate,,DEM,Democratic candidate,4504
+Lincoln,U.S. Senate,,OTH,Other candidates,175
+Lincoln,U.S. Senate,,REP,Republican candidate,2059
+Logan,Attorney General,,DEM,Democratic candidate,7184
+Logan,Attorney General,,REP,Republican candidate,3985
+Logan,Auditor,,DEM,Democratic candidate,7375
+Logan,Auditor,,REP,Republican candidate,2856
+Logan,Commissioner of Agriculture,,DEM,Democratic candidate,6388
+Logan,Commissioner of Agriculture,,REP,Republican candidate,3455
+Logan,Governor,,DEM,Democratic candidate,9480
+Logan,Governor,,OTH,Other candidates,153
+Logan,Governor,,REP,Republican candidate,2393
+Logan,President,,DEM,Democratic candidate,3469
+Logan,President,,OTH,Other candidates,255
+Logan,President,,REP,Republican candidate,8222
+Logan,Secretary of State,,DEM,Democratic candidate,8316
+Logan,Secretary of State,,REP,Republican candidate,2582
+Logan,State Senate,7,DEM,Democratic candidate,9851
+Logan,State Treasurer,,DEM,Democratic candidate,7683
+Logan,State Treasurer,,REP,Republican candidate,3125
+Logan,U.S. House,3,DEM,Democratic candidate,7423
+Logan,U.S. House,3,REP,Republican candidate,3725
+Logan,U.S. Senate,,DEM,Democratic candidate,8642
+Logan,U.S. Senate,,OTH,Other candidates,169
+Logan,U.S. Senate,,REP,Republican candidate,2768
+Marion,Attorney General,,DEM,Democratic candidate,11507
+Marion,Attorney General,,REP,Republican candidate,9267
+Marion,Auditor,,DEM,Democratic candidate,12947
+Marion,Auditor,,REP,Republican candidate,7100
+Marion,Commissioner of Agriculture,,DEM,Democratic candidate,9289
+Marion,Commissioner of Agriculture,,REP,Republican candidate,10666
+Marion,Governor,,DEM,Democratic candidate,11358
+Marion,Governor,,OTH,Other candidates,816
+Marion,Governor,,REP,Republican candidate,9236
+Marion,President,,DEM,Democratic candidate,8959
+Marion,President,,OTH,Other candidates,529
+Marion,President,,REP,Republican candidate,12054
+Marion,Secretary of State,,DEM,Democratic candidate,15948
+Marion,Secretary of State,,REP,Republican candidate,5254
+Marion,State Senate,13,DEM,Democratic candidate,11495
+Marion,State Senate,13,REP,Republican candidate,5623
+Marion,State Senate,2,DEM,Democratic candidate,3080
+Marion,State Treasurer,,DEM,Democratic candidate,13252
+Marion,State Treasurer,,REP,Republican candidate,7271
+Marion,U.S. House,1,DEM,Democratic candidate,8861
+Marion,U.S. House,1,REP,Republican candidate,11285
+Marion,U.S. Senate,,DEM,Democratic candidate,13606
+Marion,U.S. Senate,,OTH,Other candidates,607
+Marion,U.S. Senate,,REP,Republican candidate,7101
+Marshall,Attorney General,,DEM,Democratic candidate,6007
+Marshall,Attorney General,,REP,Republican candidate,6333
+Marshall,Auditor,,DEM,Democratic candidate,7072
+Marshall,Auditor,,REP,Republican candidate,4731
+Marshall,Commissioner of Agriculture,,DEM,Democratic candidate,5268
+Marshall,Commissioner of Agriculture,,REP,Republican candidate,6347
+Marshall,Governor,,DEM,Democratic candidate,6593
+Marshall,Governor,,OTH,Other candidates,395
+Marshall,Governor,,REP,Republican candidate,5807
+Marshall,President,,DEM,Democratic candidate,4484
+Marshall,President,,OTH,Other candidates,297
+Marshall,President,,REP,Republican candidate,8135
+Marshall,Secretary of State,,DEM,Democratic candidate,7887
+Marshall,Secretary of State,,REP,Republican candidate,4252
+Marshall,State Senate,1,DEM,Democratic candidate,774
+Marshall,State Senate,1,REP,Republican candidate,693
+Marshall,State Senate,2,DEM,Democratic candidate,9226
+Marshall,State Treasurer,,DEM,Democratic candidate,6610
+Marshall,State Treasurer,,REP,Republican candidate,5240
+Marshall,U.S. House,1,DEM,Democratic candidate,4339
+Marshall,U.S. House,1,REP,Republican candidate,7953
+Marshall,U.S. Senate,,DEM,Democratic candidate,8270
+Marshall,U.S. Senate,,OTH,Other candidates,285
+Marshall,U.S. Senate,,REP,Republican candidate,4167
+Mason,Attorney General,,DEM,Democratic candidate,5215
+Mason,Attorney General,,REP,Republican candidate,4274
+Mason,Auditor,,DEM,Democratic candidate,5740
+Mason,Auditor,,REP,Republican candidate,3368
+Mason,Commissioner of Agriculture,,DEM,Democratic candidate,4846
+Mason,Commissioner of Agriculture,,REP,Republican candidate,4285
+Mason,Governor,,DEM,Democratic candidate,5212
+Mason,Governor,,OTH,Other candidates,315
+Mason,Governor,,REP,Republican candidate,4229
+Mason,President,,DEM,Democratic candidate,3778
+Mason,President,,OTH,Other candidates,270
+Mason,President,,REP,Republican candidate,5741
+Mason,Secretary of State,,DEM,Democratic candidate,5308
+Mason,Secretary of State,,REP,Republican candidate,4159
+Mason,State Senate,4,DEM,Democratic candidate,5412
+Mason,State Senate,4,REP,Republican candidate,3970
+Mason,State Treasurer,,DEM,Democratic candidate,4231
+Mason,State Treasurer,,REP,Republican candidate,5287
+Mason,U.S. House,3,DEM,Democratic candidate,5285
+Mason,U.S. House,3,REP,Republican candidate,3965
+Mason,U.S. Senate,,DEM,Democratic candidate,6771
+Mason,U.S. Senate,,OTH,Other candidates,176
+Mason,U.S. Senate,,REP,Republican candidate,2669
+McDowell,Attorney General,,DEM,Democratic candidate,3935
+McDowell,Attorney General,,REP,Republican candidate,1941
+McDowell,Auditor,,DEM,Democratic candidate,3835
+McDowell,Auditor,,REP,Republican candidate,1655
+McDowell,Commissioner of Agriculture,,DEM,Democratic candidate,3647
+McDowell,Commissioner of Agriculture,,REP,Republican candidate,1694
+McDowell,Governor,,DEM,Democratic candidate,4007
+McDowell,Governor,,OTH,Other candidates,151
+McDowell,Governor,,REP,Republican candidate,1919
+McDowell,President,,DEM,Democratic candidate,2109
+McDowell,President,,OTH,Other candidates,120
+McDowell,President,,REP,Republican candidate,3959
+McDowell,Secretary of State,,DEM,Democratic candidate,3785
+McDowell,Secretary of State,,REP,Republican candidate,1725
+McDowell,State Senate,6,DEM,Democratic candidate,2456
+McDowell,State Senate,6,REP,Republican candidate,2859
+McDowell,State Senate,9,DEM,Democratic candidate,330
+McDowell,State Senate,9,REP,Republican candidate,160
+McDowell,State Treasurer,,DEM,Democratic candidate,3914
+McDowell,State Treasurer,,REP,Republican candidate,1641
+McDowell,U.S. House,3,DEM,Democratic candidate,3814
+McDowell,U.S. House,3,REP,Republican candidate,2188
+McDowell,U.S. Senate,,DEM,Democratic candidate,4385
+McDowell,U.S. Senate,,OTH,Other candidates,129
+McDowell,U.S. Senate,,REP,Republican candidate,1550
+Mercer,Attorney General,,DEM,Democratic candidate,8708
+Mercer,Attorney General,,REP,Republican candidate,11671
+Mercer,Auditor,,DEM,Democratic candidate,9925
+Mercer,Auditor,,REP,Republican candidate,9515
+Mercer,Commissioner of Agriculture,,DEM,Democratic candidate,8700
+Mercer,Commissioner of Agriculture,,REP,Republican candidate,10488
+Mercer,Governor,,DEM,Democratic candidate,9257
+Mercer,Governor,,OTH,Other candidates,636
+Mercer,Governor,,REP,Republican candidate,10974
+Mercer,President,,DEM,Democratic candidate,5432
+Mercer,President,,OTH,Other candidates,394
+Mercer,President,,REP,Republican candidate,15450
+Mercer,Secretary of State,,DEM,Democratic candidate,10548
+Mercer,Secretary of State,,REP,Republican candidate,9175
+Mercer,State Senate,6,DEM,Democratic candidate,9034
+Mercer,State Senate,6,REP,Republican candidate,11975
+Mercer,State Treasurer,,DEM,Democratic candidate,9974
+Mercer,State Treasurer,,REP,Republican candidate,9727
+Mercer,U.S. House,3,DEM,Democratic candidate,8880
+Mercer,U.S. House,3,REP,Republican candidate,11454
+Mercer,U.S. Senate,,DEM,Democratic candidate,12243
+Mercer,U.S. Senate,,OTH,Other candidates,414
+Mercer,U.S. Senate,,REP,Republican candidate,7898
+Mineral,Attorney General,,DEM,Democratic candidate,3789
+Mineral,Attorney General,,REP,Republican candidate,6723
+Mineral,Auditor,,DEM,Democratic candidate,3727
+Mineral,Auditor,,REP,Republican candidate,6542
+Mineral,Commissioner of Agriculture,,DEM,Democratic candidate,3953
+Mineral,Commissioner of Agriculture,,REP,Republican candidate,6295
+Mineral,Governor,,DEM,Democratic candidate,4874
+Mineral,Governor,,OTH,Other candidates,317
+Mineral,Governor,,REP,Republican candidate,5708
+Mineral,President,,DEM,Democratic candidate,2885
+Mineral,President,,OTH,Other candidates,261
+Mineral,President,,REP,Republican candidate,7833
+Mineral,Secretary of State,,DEM,Democratic candidate,4538
+Mineral,Secretary of State,,REP,Republican candidate,5806
+Mineral,State Senate,14,DEM,Democratic candidate,2288
+Mineral,State Senate,15,OTH,Other candidates,2647
+Mineral,State Senate,15,REP,Republican candidate,4111
+Mineral,State Treasurer,,DEM,Democratic candidate,4509
+Mineral,State Treasurer,,REP,Republican candidate,5844
+Mineral,U.S. House,1,DEM,Democratic candidate,3288
+Mineral,U.S. House,1,REP,Republican candidate,7172
+Mineral,U.S. Senate,,DEM,Democratic candidate,5623
+Mineral,U.S. Senate,,OTH,Other candidates,183
+Mineral,U.S. Senate,,REP,Republican candidate,5142
+Mingo,Attorney General,,DEM,Democratic candidate,5141
+Mingo,Attorney General,,REP,Republican candidate,3190
+Mingo,Auditor,,DEM,Democratic candidate,5337
+Mingo,Auditor,,REP,Republican candidate,2462
+Mingo,Commissioner of Agriculture,,DEM,Democratic candidate,4615
+Mingo,Commissioner of Agriculture,,REP,Republican candidate,2917
+Mingo,Governor,,DEM,Democratic candidate,6078
+Mingo,Governor,,OTH,Other candidates,147
+Mingo,Governor,,REP,Republican candidate,2656
+Mingo,President,,DEM,Democratic candidate,2428
+Mingo,President,,OTH,Other candidates,211
+Mingo,President,,REP,Republican candidate,6191
+Mingo,Secretary of State,,DEM,Democratic candidate,5873
+Mingo,Secretary of State,,REP,Republican candidate,2318
+Mingo,State Senate,6,DEM,Democratic candidate,3268
+Mingo,State Senate,6,REP,Republican candidate,2152
+Mingo,State Senate,7,DEM,Democratic candidate,1927
+Mingo,State Treasurer,,DEM,Democratic candidate,5438
+Mingo,State Treasurer,,REP,Republican candidate,2701
+Mingo,U.S. House,3,DEM,Democratic candidate,5470
+Mingo,U.S. House,3,REP,Republican candidate,2983
+Mingo,U.S. Senate,,DEM,Democratic candidate,6336
+Mingo,U.S. Senate,,OTH,Other candidates,148
+Mingo,U.S. Senate,,REP,Republican candidate,2216
+Monongalia,Attorney General,,DEM,Democratic candidate,15307
+Monongalia,Attorney General,,REP,Republican candidate,14321
+Monongalia,Auditor,,DEM,Democratic candidate,16955
+Monongalia,Auditor,,REP,Republican candidate,11566
+Monongalia,Commissioner of Agriculture,,DEM,Democratic candidate,13081
+Monongalia,Commissioner of Agriculture,,REP,Republican candidate,15415
+Monongalia,Governor,,DEM,Democratic candidate,14160
+Monongalia,Governor,,OTH,Other candidates,1770
+Monongalia,Governor,,REP,Republican candidate,15034
+Monongalia,President,,DEM,Democratic candidate,13826
+Monongalia,President,,OTH,Other candidates,818
+Monongalia,President,,REP,Republican candidate,16831
+Monongalia,Secretary of State,,DEM,Democratic candidate,20337
+Monongalia,Secretary of State,,REP,Republican candidate,9674
+Monongalia,State Senate,13,DEM,Democratic candidate,11716
+Monongalia,State Senate,13,REP,Republican candidate,7926
+Monongalia,State Senate,14,DEM,Democratic candidate,3368
+Monongalia,State Senate,2,DEM,Democratic candidate,3634
+Monongalia,State Treasurer,,DEM,Democratic candidate,17508
+Monongalia,State Treasurer,,REP,Republican candidate,11548
+Monongalia,U.S. House,1,DEM,Democratic candidate,13775
+Monongalia,U.S. House,1,REP,Republican candidate,15568
+Monongalia,U.S. Senate,,DEM,Democratic candidate,15896
+Monongalia,U.S. Senate,,OTH,Other candidates,1424
+Monongalia,U.S. Senate,,REP,Republican candidate,13563
+Monroe,Attorney General,,DEM,Democratic candidate,2478
+Monroe,Attorney General,,REP,Republican candidate,2581
+Monroe,Auditor,,DEM,Democratic candidate,2562
+Monroe,Auditor,,REP,Republican candidate,2314
+Monroe,Commissioner of Agriculture,,DEM,Democratic candidate,2459
+Monroe,Commissioner of Agriculture,,REP,Republican candidate,2417
+Monroe,Governor,,DEM,Democratic candidate,2320
+Monroe,Governor,,OTH,Other candidates,239
+Monroe,Governor,,REP,Republican candidate,2592
+Monroe,President,,DEM,Democratic candidate,1455
+Monroe,President,,OTH,Other candidates,141
+Monroe,President,,REP,Republican candidate,3616
+Monroe,Secretary of State,,DEM,Democratic candidate,2627
+Monroe,Secretary of State,,REP,Republican candidate,2297
+Monroe,State Senate,10,DEM,Democratic candidate,3406
+Monroe,State Treasurer,,DEM,Democratic candidate,2616
+Monroe,State Treasurer,,REP,Republican candidate,2317
+Monroe,U.S. House,3,DEM,Democratic candidate,2466
+Monroe,U.S. House,3,REP,Republican candidate,2567
+Monroe,U.S. Senate,,DEM,Democratic candidate,2997
+Monroe,U.S. Senate,,OTH,Other candidates,149
+Monroe,U.S. Senate,,REP,Republican candidate,1958
+Morgan,Attorney General,,DEM,Democratic candidate,2470
+Morgan,Attorney General,,REP,Republican candidate,4051
+Morgan,Auditor,,DEM,Democratic candidate,1988
+Morgan,Auditor,,REP,Republican candidate,4357
+Morgan,Commissioner of Agriculture,,DEM,Democratic candidate,2780
+Morgan,Commissioner of Agriculture,,REP,Republican candidate,3545
+Morgan,Governor,,DEM,Democratic candidate,3075
+Morgan,Governor,,OTH,Other candidates,342
+Morgan,Governor,,REP,Republican candidate,3439
+Morgan,President,,DEM,Democratic candidate,2363
+Morgan,President,,OTH,Other candidates,168
+Morgan,President,,REP,Republican candidate,4513
+Morgan,Secretary of State,,DEM,Democratic candidate,2863
+Morgan,Secretary of State,,REP,Republican candidate,3397
+Morgan,State Senate,15,OTH,Other candidates,746
+Morgan,State Senate,15,REP,Republican candidate,4876
+Morgan,State Treasurer,,DEM,Democratic candidate,2816
+Morgan,State Treasurer,,REP,Republican candidate,3502
+Morgan,U.S. House,2,DEM,Democratic candidate,1899
+Morgan,U.S. House,2,REP,Republican candidate,4645
+Morgan,U.S. Senate,,DEM,Democratic candidate,3417
+Morgan,U.S. Senate,,OTH,Other candidates,210
+Morgan,U.S. Senate,,REP,Republican candidate,3071
+Nicholas,Attorney General,,DEM,Democratic candidate,4344
+Nicholas,Attorney General,,REP,Republican candidate,4188
+Nicholas,Auditor,,DEM,Democratic candidate,5031
+Nicholas,Auditor,,REP,Republican candidate,3214
+Nicholas,Commissioner of Agriculture,,DEM,Democratic candidate,5129
+Nicholas,Commissioner of Agriculture,,REP,Republican candidate,3215
+Nicholas,Governor,,DEM,Democratic candidate,4367
+Nicholas,Governor,,OTH,Other candidates,289
+Nicholas,Governor,,REP,Republican candidate,4173
+Nicholas,President,,DEM,Democratic candidate,2664
+Nicholas,President,,OTH,Other candidates,223
+Nicholas,President,,REP,Republican candidate,5898
+Nicholas,Secretary of State,,DEM,Democratic candidate,5617
+Nicholas,Secretary of State,,REP,Republican candidate,2927
+Nicholas,State Senate,11,DEM,Democratic candidate,3487
+Nicholas,State Senate,11,REP,Republican candidate,4526
+Nicholas,State Treasurer,,DEM,Democratic candidate,5024
+Nicholas,State Treasurer,,REP,Republican candidate,3392
+Nicholas,U.S. House,3,DEM,Democratic candidate,4504
+Nicholas,U.S. House,3,REP,Republican candidate,4098
+Nicholas,U.S. Senate,,DEM,Democratic candidate,5440
+Nicholas,U.S. Senate,,OTH,Other candidates,372
+Nicholas,U.S. Senate,,REP,Republican candidate,3036
+Ohio,Attorney General,,DEM,Democratic candidate,7635
+Ohio,Attorney General,,REP,Republican candidate,9423
+Ohio,Auditor,,DEM,Democratic candidate,9023
+Ohio,Auditor,,REP,Republican candidate,7175
+Ohio,Commissioner of Agriculture,,DEM,Democratic candidate,6954
+Ohio,Commissioner of Agriculture,,REP,Republican candidate,9043
+Ohio,Governor,,DEM,Democratic candidate,8603
+Ohio,Governor,,OTH,Other candidates,555
+Ohio,Governor,,REP,Republican candidate,8519
+Ohio,President,,DEM,Democratic candidate,6786
+Ohio,President,,OTH,Other candidates,357
+Ohio,President,,REP,Republican candidate,10768
+Ohio,Secretary of State,,DEM,Democratic candidate,11029
+Ohio,Secretary of State,,REP,Republican candidate,5910
+Ohio,State Senate,1,DEM,Democratic candidate,10127
+Ohio,State Senate,1,REP,Republican candidate,7011
+Ohio,State Treasurer,,DEM,Democratic candidate,8833
+Ohio,State Treasurer,,REP,Republican candidate,7493
+Ohio,U.S. House,1,DEM,Democratic candidate,5872
+Ohio,U.S. House,1,REP,Republican candidate,11407
+Ohio,U.S. Senate,,DEM,Democratic candidate,11210
+Ohio,U.S. Senate,,OTH,Other candidates,415
+Ohio,U.S. Senate,,REP,Republican candidate,5976
+Pendleton,Attorney General,,DEM,Democratic candidate,1598
+Pendleton,Attorney General,,REP,Republican candidate,1437
+Pendleton,Auditor,,DEM,Democratic candidate,1671
+Pendleton,Auditor,,REP,Republican candidate,1276
+Pendleton,Commissioner of Agriculture,,DEM,Democratic candidate,2185
+Pendleton,Commissioner of Agriculture,,REP,Republican candidate,995
+Pendleton,Governor,,DEM,Democratic candidate,1720
+Pendleton,Governor,,OTH,Other candidates,110
+Pendleton,Governor,,REP,Republican candidate,1391
+Pendleton,President,,DEM,Democratic candidate,1074
+Pendleton,President,,OTH,Other candidates,70
+Pendleton,President,,REP,Republican candidate,2095
+Pendleton,Secretary of State,,DEM,Democratic candidate,1743
+Pendleton,Secretary of State,,REP,Republican candidate,1207
+Pendleton,State Senate,11,DEM,Democratic candidate,868
+Pendleton,State Senate,11,REP,Republican candidate,2253
+Pendleton,State Treasurer,,DEM,Democratic candidate,1822
+Pendleton,State Treasurer,,REP,Republican candidate,1158
+Pendleton,U.S. House,2,DEM,Democratic candidate,722
+Pendleton,U.S. House,2,REP,Republican candidate,2482
+Pendleton,U.S. Senate,,DEM,Democratic candidate,1670
+Pendleton,U.S. Senate,,OTH,Other candidates,79
+Pendleton,U.S. Senate,,REP,Republican candidate,1500
+Pleasants,Attorney General,,DEM,Democratic candidate,1315
+Pleasants,Attorney General,,REP,Republican candidate,1400
+Pleasants,Auditor,,DEM,Democratic candidate,1848
+Pleasants,Auditor,,REP,Republican candidate,846
+Pleasants,Commissioner of Agriculture,,DEM,Democratic candidate,1143
+Pleasants,Commissioner of Agriculture,,REP,Republican candidate,1441
+Pleasants,Governor,,DEM,Democratic candidate,1452
+Pleasants,Governor,,OTH,Other candidates,62
+Pleasants,Governor,,REP,Republican candidate,1306
+Pleasants,President,,DEM,Democratic candidate,955
+Pleasants,President,,OTH,Other candidates,60
+Pleasants,President,,REP,Republican candidate,1825
+Pleasants,Secretary of State,,DEM,Democratic candidate,1624
+Pleasants,Secretary of State,,REP,Republican candidate,1074
+Pleasants,State Senate,3,REP,Republican candidate,2351
+Pleasants,State Treasurer,,DEM,Democratic candidate,1512
+Pleasants,State Treasurer,,REP,Republican candidate,1128
+Pleasants,U.S. House,1,DEM,Democratic candidate,895
+Pleasants,U.S. House,1,REP,Republican candidate,1754
+Pleasants,U.S. Senate,,DEM,Democratic candidate,1779
+Pleasants,U.S. Senate,,OTH,Other candidates,56
+Pleasants,U.S. Senate,,REP,Republican candidate,961
+Pocahontas,Attorney General,,DEM,Democratic candidate,2082
+Pocahontas,Attorney General,,REP,Republican candidate,1290
+Pocahontas,Auditor,,DEM,Democratic candidate,2209
+Pocahontas,Auditor,,REP,Republican candidate,1075
+Pocahontas,Commissioner of Agriculture,,DEM,Democratic candidate,2221
+Pocahontas,Commissioner of Agriculture,,REP,Republican candidate,1285
+Pocahontas,Governor,,DEM,Democratic candidate,1863
+Pocahontas,Governor,,OTH,Other candidates,242
+Pocahontas,Governor,,REP,Republican candidate,1384
+Pocahontas,President,,DEM,Democratic candidate,1303
+Pocahontas,President,,OTH,Other candidates,91
+Pocahontas,President,,REP,Republican candidate,2182
+Pocahontas,Secretary of State,,DEM,Democratic candidate,2192
+Pocahontas,Secretary of State,,REP,Republican candidate,1092
+Pocahontas,State Senate,11,DEM,Democratic candidate,1281
+Pocahontas,State Senate,11,REP,Republican candidate,2100
+Pocahontas,State Treasurer,,DEM,Democratic candidate,2044
+Pocahontas,State Treasurer,,REP,Republican candidate,1249
+Pocahontas,U.S. House,3,DEM,Democratic candidate,2097
+Pocahontas,U.S. House,3,REP,Republican candidate,1280
+Pocahontas,U.S. Senate,,DEM,Democratic candidate,2092
+Pocahontas,U.S. Senate,,OTH,Other candidates,241
+Pocahontas,U.S. Senate,,REP,Republican candidate,1141
+Preston,Attorney General,,DEM,Democratic candidate,4509
+Preston,Attorney General,,REP,Republican candidate,5913
+Preston,Auditor,,DEM,Democratic candidate,4973
+Preston,Auditor,,REP,Republican candidate,5078
+Preston,Commissioner of Agriculture,,DEM,Democratic candidate,4036
+Preston,Commissioner of Agriculture,,REP,Republican candidate,6123
+Preston,Governor,,DEM,Democratic candidate,4096
+Preston,Governor,,OTH,Other candidates,865
+Preston,Governor,,REP,Republican candidate,6020
+Preston,President,,DEM,Democratic candidate,2931
+Preston,President,,OTH,Other candidates,335
+Preston,President,,REP,Republican candidate,7889
+Preston,Secretary of State,,DEM,Democratic candidate,5888
+Preston,Secretary of State,,REP,Republican candidate,4508
+Preston,State Senate,14,DEM,Democratic candidate,7550
+Preston,State Treasurer,,DEM,Democratic candidate,5038
+Preston,State Treasurer,,REP,Republican candidate,5163
+Preston,U.S. House,1,DEM,Democratic candidate,3267
+Preston,U.S. House,1,REP,Republican candidate,6879
+Preston,U.S. Senate,,DEM,Democratic candidate,4159
+Preston,U.S. Senate,,OTH,Other candidates,392
+Preston,U.S. Senate,,REP,Republican candidate,6325
+Putnam,Attorney General,,DEM,Democratic candidate,9656
+Putnam,Attorney General,,REP,Republican candidate,13337
+Putnam,Auditor,,DEM,Democratic candidate,11012
+Putnam,Auditor,,REP,Republican candidate,10840
+Putnam,Commissioner of Agriculture,,DEM,Democratic candidate,10558
+Putnam,Commissioner of Agriculture,,REP,Republican candidate,11308
+Putnam,Governor,,DEM,Democratic candidate,10303
+Putnam,Governor,,OTH,Other candidates,756
+Putnam,Governor,,REP,Republican candidate,12534
+Putnam,President,,DEM,Democratic candidate,7256
+Putnam,President,,OTH,Other candidates,385
+Putnam,President,,REP,Republican candidate,16032
+Putnam,Secretary of State,,DEM,Democratic candidate,12082
+Putnam,Secretary of State,,REP,Republican candidate,11210
+Putnam,State Senate,4,DEM,Democratic candidate,6091
+Putnam,State Senate,4,REP,Republican candidate,9836
+Putnam,State Senate,8,DEM,Democratic candidate,3172
+Putnam,State Senate,8,REP,Republican candidate,2841
+Putnam,State Treasurer,,DEM,Democratic candidate,7569
+Putnam,State Treasurer,,REP,Republican candidate,15313
+Putnam,U.S. House,2,DEM,Democratic candidate,5454
+Putnam,U.S. House,2,REP,Republican candidate,17493
+Putnam,U.S. Senate,,DEM,Democratic candidate,13509
+Putnam,U.S. Senate,,OTH,Other candidates,583
+Putnam,U.S. Senate,,REP,Republican candidate,9379
+Raleigh,Attorney General,,DEM,Democratic candidate,12294
+Raleigh,Attorney General,,REP,Republican candidate,15504
+Raleigh,Auditor,,DEM,Democratic candidate,14099
+Raleigh,Auditor,,REP,Republican candidate,12360
+Raleigh,Commissioner of Agriculture,,DEM,Democratic candidate,13051
+Raleigh,Commissioner of Agriculture,,REP,Republican candidate,13090
+Raleigh,Governor,,DEM,Democratic candidate,12602
+Raleigh,Governor,,OTH,Other candidates,861
+Raleigh,Governor,,REP,Republican candidate,14900
+Raleigh,President,,DEM,Democratic candidate,7739
+Raleigh,President,,OTH,Other candidates,476
+Raleigh,President,,REP,Republican candidate,20614
+Raleigh,Secretary of State,,DEM,Democratic candidate,16092
+Raleigh,Secretary of State,,REP,Republican candidate,11043
+Raleigh,State Senate,9,DEM,Democratic candidate,14719
+Raleigh,State Senate,9,REP,Republican candidate,11983
+Raleigh,State Treasurer,,DEM,Democratic candidate,14345
+Raleigh,State Treasurer,,REP,Republican candidate,12717
+Raleigh,U.S. House,3,DEM,Democratic candidate,11553
+Raleigh,U.S. House,3,REP,Republican candidate,16327
+Raleigh,U.S. Senate,,DEM,Democratic candidate,16748
+Raleigh,U.S. Senate,,OTH,Other candidates,638
+Raleigh,U.S. Senate,,REP,Republican candidate,10791
+Randolph,Attorney General,,DEM,Democratic candidate,4870
+Randolph,Attorney General,,REP,Republican candidate,4551
+Randolph,Auditor,,DEM,Democratic candidate,6018
+Randolph,Auditor,,REP,Republican candidate,3137
+Randolph,Commissioner of Agriculture,,DEM,Democratic candidate,6136
+Randolph,Commissioner of Agriculture,,REP,Republican candidate,3238
+Randolph,Governor,,DEM,Democratic candidate,5070
+Randolph,Governor,,OTH,Other candidates,468
+Randolph,Governor,,REP,Republican candidate,4115
+Randolph,President,,DEM,Democratic candidate,3342
+Randolph,President,,OTH,Other candidates,252
+Randolph,President,,REP,Republican candidate,6160
+Randolph,Secretary of State,,DEM,Democratic candidate,6609
+Randolph,Secretary of State,,REP,Republican candidate,2745
+Randolph,State Senate,11,DEM,Democratic candidate,3237
+Randolph,State Senate,11,REP,Republican candidate,6110
+Randolph,State Treasurer,,DEM,Democratic candidate,5626
+Randolph,State Treasurer,,REP,Republican candidate,3548
+Randolph,U.S. House,2,DEM,Democratic candidate,2451
+Randolph,U.S. House,2,REP,Republican candidate,6902
+Randolph,U.S. Senate,,DEM,Democratic candidate,5979
+Randolph,U.S. Senate,,OTH,Other candidates,323
+Randolph,U.S. Senate,,REP,Republican candidate,3310
+Ritchie,Attorney General,,DEM,Democratic candidate,1333
+Ritchie,Attorney General,,REP,Republican candidate,2282
+Ritchie,Auditor,,DEM,Democratic candidate,1899
+Ritchie,Auditor,,REP,Republican candidate,1609
+Ritchie,Commissioner of Agriculture,,DEM,Democratic candidate,1086
+Ritchie,Commissioner of Agriculture,,REP,Republican candidate,2355
+Ritchie,Governor,,DEM,Democratic candidate,1438
+Ritchie,Governor,,OTH,Other candidates,128
+Ritchie,Governor,,REP,Republican candidate,2171
+Ritchie,President,,DEM,Democratic candidate,768
+Ritchie,President,,OTH,Other candidates,99
+Ritchie,President,,REP,Republican candidate,2921
+Ritchie,Secretary of State,,DEM,Democratic candidate,1809
+Ritchie,Secretary of State,,REP,Republican candidate,1716
+Ritchie,State Senate,2,DEM,Democratic candidate,2408
+Ritchie,State Treasurer,,DEM,Democratic candidate,1455
+Ritchie,State Treasurer,,REP,Republican candidate,2023
+Ritchie,U.S. House,1,DEM,Democratic candidate,766
+Ritchie,U.S. House,1,REP,Republican candidate,2750
+Ritchie,U.S. Senate,,DEM,Democratic candidate,1969
+Ritchie,U.S. Senate,,OTH,Other candidates,98
+Ritchie,U.S. Senate,,REP,Republican candidate,1696
+Roane,Attorney General,,DEM,Democratic candidate,2609
+Roane,Attorney General,,REP,Republican candidate,2327
+Roane,Auditor,,DEM,Democratic candidate,3064
+Roane,Auditor,,REP,Republican candidate,1744
+Roane,Commissioner of Agriculture,,DEM,Democratic candidate,2293
+Roane,Commissioner of Agriculture,,REP,Republican candidate,2468
+Roane,Governor,,DEM,Democratic candidate,2609
+Roane,Governor,,OTH,Other candidates,241
+Roane,Governor,,REP,Republican candidate,2191
+Roane,President,,DEM,Democratic candidate,1939
+Roane,President,,OTH,Other candidates,126
+Roane,President,,REP,Republican candidate,2982
+Roane,Secretary of State,,DEM,Democratic candidate,3288
+Roane,Secretary of State,,REP,Republican candidate,1641
+Roane,State Senate,3,REP,Republican candidate,1385
+Roane,State Senate,4,DEM,Democratic candidate,1513
+Roane,State Senate,4,REP,Republican candidate,1474
+Roane,State Treasurer,,DEM,Democratic candidate,2707
+Roane,State Treasurer,,REP,Republican candidate,2115
+Roane,U.S. House,2,DEM,Democratic candidate,1317
+Roane,U.S. House,2,REP,Republican candidate,3511
+Roane,U.S. Senate,,DEM,Democratic candidate,3205
+Roane,U.S. Senate,,OTH,Other candidates,189
+Roane,U.S. Senate,,REP,Republican candidate,1595
+Summers,Attorney General,,DEM,Democratic candidate,2488
+Summers,Attorney General,,REP,Republican candidate,2041
+Summers,Auditor,,DEM,Democratic candidate,2675
+Summers,Auditor,,REP,Republican candidate,1634
+Summers,Commissioner of Agriculture,,DEM,Democratic candidate,2590
+Summers,Commissioner of Agriculture,,REP,Republican candidate,1668
+Summers,Governor,,DEM,Democratic candidate,2511
+Summers,Governor,,OTH,Other candidates,207
+Summers,Governor,,REP,Republican candidate,1969
+Summers,President,,DEM,Democratic candidate,1621
+Summers,President,,OTH,Other candidates,133
+Summers,President,,REP,Republican candidate,2981
+Summers,Secretary of State,,DEM,Democratic candidate,2688
+Summers,Secretary of State,,REP,Republican candidate,1634
+Summers,State Senate,10,DEM,Democratic candidate,3166
+Summers,State Treasurer,,DEM,Democratic candidate,2843
+Summers,State Treasurer,,REP,Republican candidate,1560
+Summers,U.S. House,3,DEM,Democratic candidate,2501
+Summers,U.S. House,3,REP,Republican candidate,2054
+Summers,U.S. Senate,,DEM,Democratic candidate,3028
+Summers,U.S. Senate,,OTH,Other candidates,158
+Summers,U.S. Senate,,REP,Republican candidate,1452
+Taylor,Attorney General,,DEM,Democratic candidate,2856
+Taylor,Attorney General,,REP,Republican candidate,2922
+Taylor,Auditor,,DEM,Democratic candidate,3349
+Taylor,Auditor,,REP,Republican candidate,2285
+Taylor,Commissioner of Agriculture,,DEM,Democratic candidate,2437
+Taylor,Commissioner of Agriculture,,REP,Republican candidate,3153
+Taylor,Governor,,DEM,Democratic candidate,2755
+Taylor,Governor,,OTH,Other candidates,186
+Taylor,Governor,,REP,Republican candidate,2969
+Taylor,President,,DEM,Democratic candidate,1941
+Taylor,President,,OTH,Other candidates,127
+Taylor,President,,REP,Republican candidate,3840
+Taylor,Secretary of State,,DEM,Democratic candidate,3945
+Taylor,Secretary of State,,REP,Republican candidate,1861
+Taylor,State Senate,14,DEM,Democratic candidate,4480
+Taylor,State Treasurer,,DEM,Democratic candidate,3393
+Taylor,State Treasurer,,REP,Republican candidate,2281
+Taylor,U.S. House,1,DEM,Democratic candidate,2097
+Taylor,U.S. House,1,REP,Republican candidate,3629
+Taylor,U.S. Senate,,DEM,Democratic candidate,3353
+Taylor,U.S. Senate,,OTH,Other candidates,142
+Taylor,U.S. Senate,,REP,Republican candidate,2422
+Tucker,Attorney General,,DEM,Democratic candidate,1412
+Tucker,Attorney General,,REP,Republican candidate,1576
+Tucker,Auditor,,DEM,Democratic candidate,1677
+Tucker,Auditor,,REP,Republican candidate,1190
+Tucker,Commissioner of Agriculture,,DEM,Democratic candidate,1820
+Tucker,Commissioner of Agriculture,,REP,Republican candidate,1098
+Tucker,Governor,,DEM,Democratic candidate,1527
+Tucker,Governor,,OTH,Other candidates,194
+Tucker,Governor,,REP,Republican candidate,1420
+Tucker,President,,DEM,Democratic candidate,880
+Tucker,President,,OTH,Other candidates,82
+Tucker,President,,REP,Republican candidate,2176
+Tucker,Secretary of State,,DEM,Democratic candidate,1844
+Tucker,Secretary of State,,REP,Republican candidate,1083
+Tucker,State Senate,14,DEM,Democratic candidate,2053
+Tucker,State Treasurer,,DEM,Democratic candidate,1661
+Tucker,State Treasurer,,REP,Republican candidate,1189
+Tucker,U.S. House,1,DEM,Democratic candidate,982
+Tucker,U.S. House,1,REP,Republican candidate,1967
+Tucker,U.S. Senate,,DEM,Democratic candidate,1780
+Tucker,U.S. Senate,,OTH,Other candidates,84
+Tucker,U.S. Senate,,REP,Republican candidate,1302
+Tyler,Attorney General,,DEM,Democratic candidate,1341
+Tyler,Attorney General,,REP,Republican candidate,1799
+Tyler,Auditor,,DEM,Democratic candidate,1682
+Tyler,Auditor,,REP,Republican candidate,1389
+Tyler,Commissioner of Agriculture,,DEM,Democratic candidate,1079
+Tyler,Commissioner of Agriculture,,REP,Republican candidate,1924
+Tyler,Governor,,DEM,Democratic candidate,1424
+Tyler,Governor,,OTH,Other candidates,109
+Tyler,Governor,,REP,Republican candidate,1711
+Tyler,President,,DEM,Democratic candidate,890
+Tyler,President,,OTH,Other candidates,75
+Tyler,President,,REP,Republican candidate,2314
+Tyler,Secretary of State,,DEM,Democratic candidate,1632
+Tyler,Secretary of State,,REP,Republican candidate,1473
+Tyler,State Senate,2,DEM,Democratic candidate,2194
+Tyler,State Treasurer,,DEM,Democratic candidate,1406
+Tyler,State Treasurer,,REP,Republican candidate,1641
+Tyler,U.S. House,1,DEM,Democratic candidate,847
+Tyler,U.S. House,1,REP,Republican candidate,2251
+Tyler,U.S. Senate,,DEM,Democratic candidate,1803
+Tyler,U.S. Senate,,OTH,Other candidates,76
+Tyler,U.S. Senate,,REP,Republican candidate,1342
+Upshur,Attorney General,,DEM,Democratic candidate,3355
+Upshur,Attorney General,,REP,Republican candidate,4621
+Upshur,Auditor,,DEM,Democratic candidate,3898
+Upshur,Auditor,,REP,Republican candidate,3828
+Upshur,Commissioner of Agriculture,,DEM,Democratic candidate,4010
+Upshur,Commissioner of Agriculture,,REP,Republican candidate,3912
+Upshur,Governor,,DEM,Democratic candidate,3425
+Upshur,Governor,,OTH,Other candidates,333
+Upshur,Governor,,REP,Republican candidate,4464
+Upshur,President,,DEM,Democratic candidate,2158
+Upshur,President,,OTH,Other candidates,176
+Upshur,President,,REP,Republican candidate,5939
+Upshur,Secretary of State,,DEM,Democratic candidate,4828
+Upshur,Secretary of State,,REP,Republican candidate,3187
+Upshur,State Senate,11,DEM,Democratic candidate,2301
+Upshur,State Senate,11,REP,Republican candidate,5497
+Upshur,State Treasurer,,DEM,Democratic candidate,4238
+Upshur,State Treasurer,,REP,Republican candidate,3656
+Upshur,U.S. House,2,DEM,Democratic candidate,1521
+Upshur,U.S. House,2,REP,Republican candidate,6473
+Upshur,U.S. Senate,,DEM,Democratic candidate,4403
+Upshur,U.S. Senate,,OTH,Other candidates,236
+Upshur,U.S. Senate,,REP,Republican candidate,3531
+Wayne,Attorney General,,DEM,Democratic candidate,7124
+Wayne,Attorney General,,REP,Republican candidate,6291
+Wayne,Auditor,,DEM,Democratic candidate,7480
+Wayne,Auditor,,REP,Republican candidate,5002
+Wayne,Commissioner of Agriculture,,DEM,Democratic candidate,6903
+Wayne,Commissioner of Agriculture,,REP,Republican candidate,5400
+Wayne,Governor,,DEM,Democratic candidate,7713
+Wayne,Governor,,OTH,Other candidates,363
+Wayne,Governor,,REP,Republican candidate,5928
+Wayne,President,,DEM,Democratic candidate,4931
+Wayne,President,,OTH,Other candidates,336
+Wayne,President,,REP,Republican candidate,8688
+Wayne,Secretary of State,,DEM,Democratic candidate,8350
+Wayne,Secretary of State,,REP,Republican candidate,4717
+Wayne,State Senate,5,DEM,Democratic candidate,4673
+Wayne,State Senate,6,DEM,Democratic candidate,1549
+Wayne,State Senate,6,REP,Republican candidate,1612
+Wayne,State Senate,7,DEM,Democratic candidate,2732
+Wayne,State Treasurer,,DEM,Democratic candidate,8072
+Wayne,State Treasurer,,REP,Republican candidate,5067
+Wayne,U.S. House,3,DEM,Democratic candidate,7743
+Wayne,U.S. House,3,REP,Republican candidate,5741
+Wayne,U.S. Senate,,DEM,Democratic candidate,9580
+Wayne,U.S. Senate,,OTH,Other candidates,230
+Wayne,U.S. Senate,,REP,Republican candidate,4023
+Webster,Attorney General,,DEM,Democratic candidate,1651
+Webster,Attorney General,,REP,Republican candidate,1032
+Webster,Auditor,,DEM,Democratic candidate,1800
+Webster,Auditor,,REP,Republican candidate,776
+Webster,Commissioner of Agriculture,,DEM,Democratic candidate,1896
+Webster,Commissioner of Agriculture,,REP,Republican candidate,773
+Webster,Governor,,DEM,Democratic candidate,1635
+Webster,Governor,,OTH,Other candidates,168
+Webster,Governor,,REP,Republican candidate,1019
+Webster,President,,DEM,Democratic candidate,947
+Webster,President,,OTH,Other candidates,98
+Webster,President,,REP,Republican candidate,1710
+Webster,Secretary of State,,DEM,Democratic candidate,1766
+Webster,Secretary of State,,REP,Republican candidate,692
+Webster,State Senate,11,DEM,Democratic candidate,1265
+Webster,State Senate,11,REP,Republican candidate,1294
+Webster,State Treasurer,,DEM,Democratic candidate,1750
+Webster,State Treasurer,,REP,Republican candidate,835
+Webster,U.S. House,3,DEM,Democratic candidate,1801
+Webster,U.S. House,3,REP,Republican candidate,893
+Webster,U.S. Senate,,DEM,Democratic candidate,1781
+Webster,U.S. Senate,,OTH,Other candidates,154
+Webster,U.S. Senate,,REP,Republican candidate,888
+Wetzel,Attorney General,,DEM,Democratic candidate,3179
+Wetzel,Attorney General,,REP,Republican candidate,2519
+Wetzel,Auditor,,DEM,Democratic candidate,3810
+Wetzel,Auditor,,REP,Republican candidate,1760
+Wetzel,Commissioner of Agriculture,,DEM,Democratic candidate,2917
+Wetzel,Commissioner of Agriculture,,REP,Republican candidate,2493
+Wetzel,Governor,,DEM,Democratic candidate,3282
+Wetzel,Governor,,OTH,Other candidates,192
+Wetzel,Governor,,REP,Republican candidate,2367
+Wetzel,President,,DEM,Democratic candidate,2217
+Wetzel,President,,OTH,Other candidates,166
+Wetzel,President,,REP,Republican candidate,3473
+Wetzel,Secretary of State,,DEM,Democratic candidate,3972
+Wetzel,Secretary of State,,REP,Republican candidate,1661
+Wetzel,State Senate,2,DEM,Democratic candidate,4755
+Wetzel,State Treasurer,,DEM,Democratic candidate,3465
+Wetzel,State Treasurer,,REP,Republican candidate,2082
+Wetzel,U.S. House,1,DEM,Democratic candidate,2191
+Wetzel,U.S. House,1,REP,Republican candidate,3386
+Wetzel,U.S. Senate,,DEM,Democratic candidate,3866
+Wetzel,U.S. Senate,,OTH,Other candidates,135
+Wetzel,U.S. Senate,,REP,Republican candidate,1784
+Wirt,Attorney General,,DEM,Democratic candidate,1020
+Wirt,Attorney General,,REP,Republican candidate,1066
+Wirt,Auditor,,DEM,Democratic candidate,1403
+Wirt,Auditor,,REP,Republican candidate,615
+Wirt,Commissioner of Agriculture,,DEM,Democratic candidate,909
+Wirt,Commissioner of Agriculture,,REP,Republican candidate,1029
+Wirt,Governor,,DEM,Democratic candidate,1071
+Wirt,Governor,,OTH,Other candidates,65
+Wirt,Governor,,REP,Republican candidate,1030
+Wirt,President,,DEM,Democratic candidate,676
+Wirt,President,,OTH,Other candidates,68
+Wirt,President,,REP,Republican candidate,1427
+Wirt,Secretary of State,,DEM,Democratic candidate,1366
+Wirt,Secretary of State,,REP,Republican candidate,701
+Wirt,State Senate,3,REP,Republican candidate,1828
+Wirt,State Treasurer,,DEM,Democratic candidate,1194
+Wirt,State Treasurer,,REP,Republican candidate,822
+Wirt,U.S. House,2,DEM,Democratic candidate,411
+Wirt,U.S. House,2,REP,Republican candidate,1670
+Wirt,U.S. Senate,,DEM,Democratic candidate,1401
+Wirt,U.S. Senate,,OTH,Other candidates,60
+Wirt,U.S. Senate,,REP,Republican candidate,683
+Wood,Attorney General,,DEM,Democratic candidate,13447
+Wood,Attorney General,,REP,Republican candidate,18999
+Wood,Auditor,,DEM,Democratic candidate,22102
+Wood,Auditor,,REP,Republican candidate,10187
+Wood,Commissioner of Agriculture,,DEM,Democratic candidate,12756
+Wood,Commissioner of Agriculture,,REP,Republican candidate,17918
+Wood,Governor,,DEM,Democratic candidate,16284
+Wood,Governor,,OTH,Other candidates,982
+Wood,Governor,,REP,Republican candidate,16272
+Wood,President,,DEM,Democratic candidate,11230
+Wood,President,,OTH,Other candidates,564
+Wood,President,,REP,Republican candidate,22183
+Wood,Secretary of State,,DEM,Democratic candidate,18783
+Wood,Secretary of State,,REP,Republican candidate,13234
+Wood,State Senate,3,REP,Republican candidate,27894
+Wood,State Treasurer,,DEM,Democratic candidate,15984
+Wood,State Treasurer,,REP,Republican candidate,15296
+Wood,U.S. House,1,DEM,Democratic candidate,11020
+Wood,U.S. House,1,REP,Republican candidate,20406
+Wood,U.S. Senate,,DEM,Democratic candidate,20891
+Wood,U.S. Senate,,OTH,Other candidates,638
+Wood,U.S. Senate,,REP,Republican candidate,11583
+Wyoming,Attorney General,,DEM,Democratic candidate,4058
+Wyoming,Attorney General,,REP,Republican candidate,3249
+Wyoming,Auditor,,DEM,Democratic candidate,4299
+Wyoming,Auditor,,REP,Republican candidate,2502
+Wyoming,Commissioner of Agriculture,,DEM,Democratic candidate,3876
+Wyoming,Commissioner of Agriculture,,REP,Republican candidate,2812
+Wyoming,Governor,,DEM,Democratic candidate,4288
+Wyoming,Governor,,OTH,Other candidates,179
+Wyoming,Governor,,REP,Republican candidate,3002
+Wyoming,President,,DEM,Democratic candidate,1583
+Wyoming,President,,OTH,Other candidates,171
+Wyoming,President,,REP,Republican candidate,5769
+Wyoming,Secretary of State,,DEM,Democratic candidate,4660
+Wyoming,Secretary of State,,REP,Republican candidate,2334
+Wyoming,State Senate,9,DEM,Democratic candidate,3453
+Wyoming,State Senate,9,REP,Republican candidate,3827
+Wyoming,State Treasurer,,DEM,Democratic candidate,4251
+Wyoming,State Treasurer,,REP,Republican candidate,2732
+Wyoming,U.S. House,3,DEM,Democratic candidate,3698
+Wyoming,U.S. House,3,REP,Republican candidate,3602
+Wyoming,U.S. Senate,,DEM,Democratic candidate,4649
+Wyoming,U.S. Senate,,OTH,Other candidates,183
+Wyoming,U.S. Senate,,REP,Republican candidate,2552

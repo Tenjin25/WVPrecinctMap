@@ -1,0 +1,184 @@
+{
+  "meta": {
+    "scope": "state_senate",
+    "contest_type": "governor",
+    "year": 2020,
+    "district_lines_year": 2022,
+    "method": "rdh_2020_block_votes_joined_to_census_bef",
+    "match_coverage_pct": 100.0
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 14838,
+        "rep_votes": 30577,
+        "other_votes": 2327,
+        "total_votes": 47742,
+        "dem_candidate": "Ben Salango",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 32.96677977
+      },
+      "2": {
+        "dem_votes": 14376,
+        "rep_votes": 30298,
+        "other_votes": 2356,
+        "total_votes": 47030,
+        "dem_candidate": "Ben Salango",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 33.85498618
+      },
+      "3": {
+        "dem_votes": 11751,
+        "rep_votes": 34009,
+        "other_votes": 1874,
+        "total_votes": 47634,
+        "dem_candidate": "Ben Salango",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 46.72712768
+      },
+      "4": {
+        "dem_votes": 14103,
+        "rep_votes": 31717,
+        "other_votes": 1620,
+        "total_votes": 47440,
+        "dem_candidate": "Ben Salango",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 37.12900506
+      },
+      "5": {
+        "dem_votes": 16000,
+        "rep_votes": 24193,
+        "other_votes": 1491,
+        "total_votes": 41684,
+        "dem_candidate": "Ben Salango",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 19.65502351
+      },
+      "6": {
+        "dem_votes": 8986,
+        "rep_votes": 32938,
+        "other_votes": 1234,
+        "total_votes": 43158,
+        "dem_candidate": "Ben Salango",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 55.49840122
+      },
+      "7": {
+        "dem_votes": 12101,
+        "rep_votes": 26736,
+        "other_votes": 923,
+        "total_votes": 39760,
+        "dem_candidate": "Ben Salango",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 36.8083501
+      },
+      "8": {
+        "dem_votes": 17601,
+        "rep_votes": 23811,
+        "other_votes": 1261,
+        "total_votes": 42673,
+        "dem_candidate": "Ben Salango",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 14.55252736
+      },
+      "9": {
+        "dem_votes": 12222,
+        "rep_votes": 32532,
+        "other_votes": 1243,
+        "total_votes": 45997,
+        "dem_candidate": "Ben Salango",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 44.15505359
+      },
+      "10": {
+        "dem_votes": 12820,
+        "rep_votes": 33771,
+        "other_votes": 1446,
+        "total_votes": 48037,
+        "dem_candidate": "Ben Salango",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 43.61429731
+      },
+      "11": {
+        "dem_votes": 10574,
+        "rep_votes": 31401,
+        "other_votes": 2544,
+        "total_votes": 44519,
+        "dem_candidate": "Ben Salango",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 46.78227274
+      },
+      "12": {
+        "dem_votes": 12323,
+        "rep_votes": 31027,
+        "other_votes": 2702,
+        "total_votes": 46052,
+        "dem_candidate": "Ben Salango",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 40.61495701
+      },
+      "13": {
+        "dem_votes": 19478,
+        "rep_votes": 20802,
+        "other_votes": 2243,
+        "total_votes": 42523,
+        "dem_candidate": "Ben Salango",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 3.11360911
+      },
+      "14": {
+        "dem_votes": 9548,
+        "rep_votes": 33278,
+        "other_votes": 2267,
+        "total_votes": 45093,
+        "dem_candidate": "Ben Salango",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 52.62457588
+      },
+      "15": {
+        "dem_votes": 12066,
+        "rep_votes": 29668,
+        "other_votes": 3255,
+        "total_votes": 44989,
+        "dem_candidate": "Ben Salango",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 39.12511947
+      },
+      "16": {
+        "dem_votes": 17435,
+        "rep_votes": 26242,
+        "other_votes": 3890,
+        "total_votes": 47567,
+        "dem_candidate": "Ben Salango",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 18.51493683
+      },
+      "17": {
+        "dem_votes": 20803,
+        "rep_votes": 24943,
+        "other_votes": 1161,
+        "total_votes": 46907,
+        "dem_candidate": "Ben Salango",
+        "rep_candidate": "Jim Justice",
+        "winner": "REP",
+        "margin_pct": 8.8259748
+      }
+    }
+  }
+}

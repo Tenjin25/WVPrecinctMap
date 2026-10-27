@@ -1,0 +1,640 @@
+{
+  "years": {
+    "2016": {
+      "block_rows": 72558,
+      "vote_columns": 26,
+      "missing_block_assignments": {},
+      "contests": {
+        "congressional_agriculture_commissioner": {
+          "districts": 2,
+          "candidate_columns": 3,
+          "source_total_votes": 664252,
+          "district_total_votes": 664252,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "congressional_attorney_general": {
+          "districts": 2,
+          "candidate_columns": 4,
+          "source_total_votes": 694153,
+          "district_total_votes": 694153,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "congressional_auditor": {
+          "districts": 2,
+          "candidate_columns": 3,
+          "source_total_votes": 659740,
+          "district_total_votes": 659740,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "congressional_governor": {
+          "districts": 2,
+          "candidate_columns": 5,
+          "source_total_votes": 713854,
+          "district_total_votes": 713854,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "congressional_president": {
+          "districts": 2,
+          "candidate_columns": 5,
+          "source_total_votes": 713049,
+          "district_total_votes": 713049,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "congressional_secretary_of_state": {
+          "districts": 2,
+          "candidate_columns": 3,
+          "source_total_votes": 691454,
+          "district_total_votes": 691454,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "congressional_treasurer": {
+          "districts": 2,
+          "candidate_columns": 3,
+          "source_total_votes": 671552,
+          "district_total_votes": 671552,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_house_agriculture_commissioner": {
+          "districts": 100,
+          "candidate_columns": 3,
+          "source_total_votes": 664252,
+          "district_total_votes": 664252,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_house_attorney_general": {
+          "districts": 100,
+          "candidate_columns": 4,
+          "source_total_votes": 694153,
+          "district_total_votes": 694153,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_house_auditor": {
+          "districts": 100,
+          "candidate_columns": 3,
+          "source_total_votes": 659740,
+          "district_total_votes": 659740,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_house_governor": {
+          "districts": 100,
+          "candidate_columns": 5,
+          "source_total_votes": 713854,
+          "district_total_votes": 713854,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_house_president": {
+          "districts": 100,
+          "candidate_columns": 5,
+          "source_total_votes": 713049,
+          "district_total_votes": 713049,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_house_secretary_of_state": {
+          "districts": 100,
+          "candidate_columns": 3,
+          "source_total_votes": 691454,
+          "district_total_votes": 691454,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_house_treasurer": {
+          "districts": 100,
+          "candidate_columns": 3,
+          "source_total_votes": 671552,
+          "district_total_votes": 671552,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_senate_agriculture_commissioner": {
+          "districts": 17,
+          "candidate_columns": 3,
+          "source_total_votes": 664252,
+          "district_total_votes": 664252,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_senate_attorney_general": {
+          "districts": 17,
+          "candidate_columns": 4,
+          "source_total_votes": 694153,
+          "district_total_votes": 694153,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_senate_auditor": {
+          "districts": 17,
+          "candidate_columns": 3,
+          "source_total_votes": 659740,
+          "district_total_votes": 659740,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_senate_governor": {
+          "districts": 17,
+          "candidate_columns": 5,
+          "source_total_votes": 713854,
+          "district_total_votes": 713854,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_senate_president": {
+          "districts": 17,
+          "candidate_columns": 5,
+          "source_total_votes": 713049,
+          "district_total_votes": 713049,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_senate_secretary_of_state": {
+          "districts": 17,
+          "candidate_columns": 3,
+          "source_total_votes": 691454,
+          "district_total_votes": 691454,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_senate_treasurer": {
+          "districts": 17,
+          "candidate_columns": 3,
+          "source_total_votes": 671552,
+          "district_total_votes": 671552,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        }
+      }
+    },
+    "2018": {
+      "block_rows": 72558,
+      "vote_columns": 3,
+      "missing_block_assignments": {},
+      "contests": {
+        "congressional_us_senate": {
+          "districts": 2,
+          "candidate_columns": 3,
+          "source_total_votes": 586033,
+          "district_total_votes": 586033,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_house_us_senate": {
+          "districts": 100,
+          "candidate_columns": 3,
+          "source_total_votes": 586033,
+          "district_total_votes": 586033,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_senate_us_senate": {
+          "districts": 17,
+          "candidate_columns": 3,
+          "source_total_votes": 586033,
+          "district_total_votes": 586033,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        }
+      }
+    },
+    "2020": {
+      "block_rows": 72558,
+      "vote_columns": 21,
+      "missing_block_assignments": {},
+      "contests": {
+        "congressional_agriculture_commissioner": {
+          "districts": 2,
+          "candidate_columns": 2,
+          "source_total_votes": 739299,
+          "district_total_votes": 739299,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "congressional_attorney_general": {
+          "districts": 2,
+          "candidate_columns": 2,
+          "source_total_votes": 764048,
+          "district_total_votes": 764048,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "congressional_auditor": {
+          "districts": 2,
+          "candidate_columns": 2,
+          "source_total_votes": 741273,
+          "district_total_votes": 741273,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "congressional_governor": {
+          "districts": 2,
+          "candidate_columns": 4,
+          "source_total_votes": 768805,
+          "district_total_votes": 768805,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "congressional_president": {
+          "districts": 2,
+          "candidate_columns": 4,
+          "source_total_votes": 794651,
+          "district_total_votes": 794651,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "congressional_secretary_of_state": {
+          "districts": 2,
+          "candidate_columns": 2,
+          "source_total_votes": 768185,
+          "district_total_votes": 768185,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "congressional_treasurer": {
+          "districts": 2,
+          "candidate_columns": 2,
+          "source_total_votes": 756062,
+          "district_total_votes": 756062,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "congressional_us_senate": {
+          "districts": 2,
+          "candidate_columns": 3,
+          "source_total_votes": 778920,
+          "district_total_votes": 778920,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_house_agriculture_commissioner": {
+          "districts": 100,
+          "candidate_columns": 2,
+          "source_total_votes": 739299,
+          "district_total_votes": 739299,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_house_attorney_general": {
+          "districts": 100,
+          "candidate_columns": 2,
+          "source_total_votes": 764048,
+          "district_total_votes": 764048,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_house_auditor": {
+          "districts": 100,
+          "candidate_columns": 2,
+          "source_total_votes": 741273,
+          "district_total_votes": 741273,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_house_governor": {
+          "districts": 100,
+          "candidate_columns": 4,
+          "source_total_votes": 768805,
+          "district_total_votes": 768805,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_house_president": {
+          "districts": 100,
+          "candidate_columns": 4,
+          "source_total_votes": 794651,
+          "district_total_votes": 794651,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_house_secretary_of_state": {
+          "districts": 100,
+          "candidate_columns": 2,
+          "source_total_votes": 768185,
+          "district_total_votes": 768185,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_house_treasurer": {
+          "districts": 100,
+          "candidate_columns": 2,
+          "source_total_votes": 756062,
+          "district_total_votes": 756062,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_house_us_senate": {
+          "districts": 100,
+          "candidate_columns": 3,
+          "source_total_votes": 778920,
+          "district_total_votes": 778920,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_senate_agriculture_commissioner": {
+          "districts": 17,
+          "candidate_columns": 2,
+          "source_total_votes": 739299,
+          "district_total_votes": 739299,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_senate_attorney_general": {
+          "districts": 17,
+          "candidate_columns": 2,
+          "source_total_votes": 764048,
+          "district_total_votes": 764048,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_senate_auditor": {
+          "districts": 17,
+          "candidate_columns": 2,
+          "source_total_votes": 741273,
+          "district_total_votes": 741273,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_senate_governor": {
+          "districts": 17,
+          "candidate_columns": 4,
+          "source_total_votes": 768805,
+          "district_total_votes": 768805,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_senate_president": {
+          "districts": 17,
+          "candidate_columns": 4,
+          "source_total_votes": 794651,
+          "district_total_votes": 794651,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_senate_secretary_of_state": {
+          "districts": 17,
+          "candidate_columns": 2,
+          "source_total_votes": 768185,
+          "district_total_votes": 768185,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_senate_treasurer": {
+          "districts": 17,
+          "candidate_columns": 2,
+          "source_total_votes": 756062,
+          "district_total_votes": 756062,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_senate_us_senate": {
+          "districts": 17,
+          "candidate_columns": 3,
+          "source_total_votes": 778920,
+          "district_total_votes": 778920,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        }
+      }
+    },
+    "2024": {
+      "block_rows": 72558,
+      "vote_columns": 214,
+      "missing_block_assignments": {},
+      "contests": {
+        "congressional_agriculture_commissioner": {
+          "districts": 2,
+          "candidate_columns": 2,
+          "source_total_votes": 710095,
+          "district_total_votes": 710095,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "congressional_attorney_general": {
+          "districts": 2,
+          "candidate_columns": 2,
+          "source_total_votes": 716106,
+          "district_total_votes": 716106,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "congressional_auditor": {
+          "districts": 2,
+          "candidate_columns": 2,
+          "source_total_votes": 711228,
+          "district_total_votes": 711228,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "congressional_governor": {
+          "districts": 2,
+          "candidate_columns": 5,
+          "source_total_votes": 740928,
+          "district_total_votes": 740928,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "congressional_president": {
+          "districts": 2,
+          "candidate_columns": 5,
+          "source_total_votes": 762390,
+          "district_total_votes": 762390,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "congressional_secretary_of_state": {
+          "districts": 2,
+          "candidate_columns": 2,
+          "source_total_votes": 718230,
+          "district_total_votes": 718230,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "congressional_treasurer": {
+          "districts": 2,
+          "candidate_columns": 1,
+          "source_total_votes": 602718,
+          "district_total_votes": 602718,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "congressional_us_house": {
+          "districts": 2,
+          "candidate_columns": 5,
+          "source_total_votes": 723110,
+          "district_total_votes": 723110,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "congressional_us_senate": {
+          "districts": 2,
+          "candidate_columns": 3,
+          "source_total_votes": 747702,
+          "district_total_votes": 747702,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_house_agriculture_commissioner": {
+          "districts": 100,
+          "candidate_columns": 2,
+          "source_total_votes": 710095,
+          "district_total_votes": 710095,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_house_attorney_general": {
+          "districts": 100,
+          "candidate_columns": 2,
+          "source_total_votes": 716106,
+          "district_total_votes": 716106,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_house_auditor": {
+          "districts": 100,
+          "candidate_columns": 2,
+          "source_total_votes": 711228,
+          "district_total_votes": 711228,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_house_governor": {
+          "districts": 100,
+          "candidate_columns": 5,
+          "source_total_votes": 740928,
+          "district_total_votes": 740928,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_house_president": {
+          "districts": 100,
+          "candidate_columns": 5,
+          "source_total_votes": 762390,
+          "district_total_votes": 762390,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_house_secretary_of_state": {
+          "districts": 100,
+          "candidate_columns": 2,
+          "source_total_votes": 718230,
+          "district_total_votes": 718230,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_house_state_house": {
+          "districts": 100,
+          "candidate_columns": 159,
+          "source_total_votes": 688255,
+          "district_total_votes": 688255,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_house_treasurer": {
+          "districts": 100,
+          "candidate_columns": 1,
+          "source_total_votes": 602718,
+          "district_total_votes": 602718,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_house_us_senate": {
+          "districts": 100,
+          "candidate_columns": 3,
+          "source_total_votes": 747702,
+          "district_total_votes": 747702,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_senate_agriculture_commissioner": {
+          "districts": 17,
+          "candidate_columns": 2,
+          "source_total_votes": 710095,
+          "district_total_votes": 710095,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_senate_attorney_general": {
+          "districts": 17,
+          "candidate_columns": 2,
+          "source_total_votes": 716106,
+          "district_total_votes": 716106,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_senate_auditor": {
+          "districts": 17,
+          "candidate_columns": 2,
+          "source_total_votes": 711228,
+          "district_total_votes": 711228,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_senate_governor": {
+          "districts": 17,
+          "candidate_columns": 5,
+          "source_total_votes": 740928,
+          "district_total_votes": 740928,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_senate_president": {
+          "districts": 17,
+          "candidate_columns": 5,
+          "source_total_votes": 762390,
+          "district_total_votes": 762390,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_senate_secretary_of_state": {
+          "districts": 17,
+          "candidate_columns": 2,
+          "source_total_votes": 718230,
+          "district_total_votes": 718230,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_senate_state_senate": {
+          "districts": 17,
+          "candidate_columns": 28,
+          "source_total_votes": 676260,
+          "district_total_votes": 676260,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_senate_treasurer": {
+          "districts": 17,
+          "candidate_columns": 1,
+          "source_total_votes": 602718,
+          "district_total_votes": 602718,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        },
+        "state_senate_us_senate": {
+          "districts": 17,
+          "candidate_columns": 3,
+          "source_total_votes": 747702,
+          "district_total_votes": 747702,
+          "total_vote_error": 0,
+          "max_candidate_vote_error": 0
+        }
+      }
+    }
+  },
+  "summary": {
+    "slice_files": 75,
+    "max_total_vote_error": 0,
+    "max_candidate_vote_error": 0,
+    "all_block_assignment_gaps": 0,
+    "district_count_errors": [],
+    "validation_passed": true
+  }
+}

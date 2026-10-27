@@ -1,0 +1,222 @@
+{
+  "slice_files": 36,
+  "all_slices_have_55_counties": true,
+  "slices": [
+    {
+      "year": 2012,
+      "contest_type": "agriculture_commissioner",
+      "counties": 55,
+      "total_votes": 613679
+    },
+    {
+      "year": 2012,
+      "contest_type": "attorney_general",
+      "counties": 55,
+      "total_votes": 643684
+    },
+    {
+      "year": 2012,
+      "contest_type": "auditor",
+      "counties": 55,
+      "total_votes": 619569
+    },
+    {
+      "year": 2012,
+      "contest_type": "governor",
+      "counties": 55,
+      "total_votes": 664486
+    },
+    {
+      "year": 2012,
+      "contest_type": "president",
+      "counties": 55,
+      "total_votes": 670438
+    },
+    {
+      "year": 2012,
+      "contest_type": "secretary_of_state",
+      "counties": 55,
+      "total_votes": 638313
+    },
+    {
+      "year": 2012,
+      "contest_type": "treasurer",
+      "counties": 55,
+      "total_votes": 628553
+    },
+    {
+      "year": 2012,
+      "contest_type": "us_house",
+      "counties": 55,
+      "total_votes": 641354
+    },
+    {
+      "year": 2012,
+      "contest_type": "us_senate",
+      "counties": 55,
+      "total_votes": 660243
+    },
+    {
+      "year": 2016,
+      "contest_type": "agriculture_commissioner",
+      "counties": 55,
+      "total_votes": 664225
+    },
+    {
+      "year": 2016,
+      "contest_type": "attorney_general",
+      "counties": 55,
+      "total_votes": 694126
+    },
+    {
+      "year": 2016,
+      "contest_type": "auditor",
+      "counties": 55,
+      "total_votes": 659712
+    },
+    {
+      "year": 2016,
+      "contest_type": "governor",
+      "counties": 55,
+      "total_votes": 713828
+    },
+    {
+      "year": 2016,
+      "contest_type": "president",
+      "counties": 55,
+      "total_votes": 713021
+    },
+    {
+      "year": 2016,
+      "contest_type": "secretary_of_state",
+      "counties": 55,
+      "total_votes": 691427
+    },
+    {
+      "year": 2016,
+      "contest_type": "treasurer",
+      "counties": 55,
+      "total_votes": 671526
+    },
+    {
+      "year": 2016,
+      "contest_type": "us_house",
+      "counties": 55,
+      "total_votes": 686321
+    },
+    {
+      "year": 2018,
+      "contest_type": "us_house",
+      "counties": 55,
+      "total_votes": 666368
+    },
+    {
+      "year": 2018,
+      "contest_type": "us_senate",
+      "counties": 55,
+      "total_votes": 676240
+    },
+    {
+      "year": 2020,
+      "contest_type": "agriculture_commissioner",
+      "counties": 55,
+      "total_votes": 739298
+    },
+    {
+      "year": 2020,
+      "contest_type": "attorney_general",
+      "counties": 55,
+      "total_votes": 764048
+    },
+    {
+      "year": 2020,
+      "contest_type": "auditor",
+      "counties": 55,
+      "total_votes": 741272
+    },
+    {
+      "year": 2020,
+      "contest_type": "governor",
+      "counties": 55,
+      "total_votes": 768804
+    },
+    {
+      "year": 2020,
+      "contest_type": "president",
+      "counties": 55,
+      "total_votes": 794652
+    },
+    {
+      "year": 2020,
+      "contest_type": "secretary_of_state",
+      "counties": 55,
+      "total_votes": 768187
+    },
+    {
+      "year": 2020,
+      "contest_type": "treasurer",
+      "counties": 55,
+      "total_votes": 756061
+    },
+    {
+      "year": 2022,
+      "contest_type": "us_house",
+      "counties": 55,
+      "total_votes": 471967
+    },
+    {
+      "year": 2024,
+      "contest_type": "agriculture_commissioner",
+      "counties": 55,
+      "total_votes": 710095
+    },
+    {
+      "year": 2024,
+      "contest_type": "attorney_general",
+      "counties": 55,
+      "total_votes": 716106
+    },
+    {
+      "year": 2024,
+      "contest_type": "auditor",
+      "counties": 55,
+      "total_votes": 711228
+    },
+    {
+      "year": 2024,
+      "contest_type": "governor",
+      "counties": 55,
+      "total_votes": 740928
+    },
+    {
+      "year": 2024,
+      "contest_type": "president",
+      "counties": 55,
+      "total_votes": 762390
+    },
+    {
+      "year": 2024,
+      "contest_type": "secretary_of_state",
+      "counties": 55,
+      "total_votes": 718230
+    },
+    {
+      "year": 2024,
+      "contest_type": "treasurer",
+      "counties": 55,
+      "total_votes": 602718
+    },
+    {
+      "year": 2024,
+      "contest_type": "us_house",
+      "counties": 55,
+      "total_votes": 723110
+    },
+    {
+      "year": 2024,
+      "contest_type": "us_senate",
+      "counties": 55,
+      "total_votes": 747702
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+county,precinct,office,district,candidate,party,votes
+Morgan,1,President,,John McCain,REP,484
+Morgan,2,President,,John McCain,REP,545
+Morgan,4,President,,John McCain,REP,212
+Morgan,5,President,,John McCain,REP,189
+Morgan,6,President,,John McCain,REP,254
+Morgan,7,President,,John McCain,REP,155
+Morgan,8,President,,John McCain,REP,338
+Morgan,13,President,,John McCain,REP,390
+Morgan,18,President,,John McCain,REP,213
+Morgan,21,President,,John McCain,REP,361
+Morgan,23,President,,John McCain,REP,487
+Morgan,24,President,,John McCain,REP,484
+Morgan,25,President,,John McCain,REP,316
+Morgan,1,President,,Barack Obama,DEM,289
+Morgan,2,President,,Barack Obama,DEM,271
+Morgan,4,President,,Barack Obama,DEM,103
+Morgan,5,President,,Barack Obama,DEM,111
+Morgan,6,President,,Barack Obama,DEM,171
+Morgan,7,President,,Barack Obama,DEM,136
+Morgan,8,President,,Barack Obama,DEM,243
+Morgan,13,President,,Barack Obama,DEM,217
+Morgan,18,President,,Barack Obama,DEM,148
+Morgan,21,President,,Barack Obama,DEM,257
+Morgan,23,President,,Barack Obama,DEM,257
+Morgan,24,President,,Barack Obama,DEM,312
+Morgan,25,President,,Barack Obama,DEM,206
+Morgan,1,President,,Cynthia McKinney,MTN,3
+Morgan,2,President,,Cynthia McKinney,MTN,1
+Morgan,4,President,,Cynthia McKinney,MTN,1
+Morgan,5,President,,Cynthia McKinney,MTN,0
+Morgan,6,President,,Cynthia McKinney,MTN,1
+Morgan,7,President,,Cynthia McKinney,MTN,0
+Morgan,8,President,,Cynthia McKinney,MTN,2
+Morgan,13,President,,Cynthia McKinney,MTN,0
+Morgan,18,President,,Cynthia McKinney,MTN,0
+Morgan,21,President,,Cynthia McKinney,MTN,2
+Morgan,23,President,,Cynthia McKinney,MTN,2
+Morgan,24,President,,Cynthia McKinney,MTN,4
+Morgan,25,President,,Cynthia McKinney,MTN,1
+Morgan,1,President,,Ralph Nader,IND,13
+Morgan,2,President,,Ralph Nader,IND,9
+Morgan,4,President,,Ralph Nader,IND,1
+Morgan,5,President,,Ralph Nader,IND,7
+Morgan,6,President,,Ralph Nader,IND,6
+Morgan,7,President,,Ralph Nader,IND,4
+Morgan,8,President,,Ralph Nader,IND,11
+Morgan,13,President,,Ralph Nader,IND,4
+Morgan,18,President,,Ralph Nader,IND,4
+Morgan,21,President,,Ralph Nader,IND,5
+Morgan,23,President,,Ralph Nader,IND,6
+Morgan,24,President,,Ralph Nader,IND,10
+Morgan,25,President,,Ralph Nader,IND,5
+Morgan,1,President,,Chuck Baldwin,CST,2
+Morgan,2,President,,Chuck Baldwin,CST,4
+Morgan,4,President,,Chuck Baldwin,CST,0
+Morgan,5,President,,Chuck Baldwin,CST,0
+Morgan,6,President,,Chuck Baldwin,CST,3
+Morgan,7,President,,Chuck Baldwin,CST,1
+Morgan,8,President,,Chuck Baldwin,CST,4
+Morgan,13,President,,Chuck Baldwin,CST,5
+Morgan,18,President,,Chuck Baldwin,CST,3
+Morgan,21,President,,Chuck Baldwin,CST,1
+Morgan,23,President,,Chuck Baldwin,CST,0
+Morgan,24,President,,Chuck Baldwin,CST,0
+Morgan,25,President,,Chuck Baldwin,CST,2
+Morgan,1,U.S. Senate,,Jay Wolfe,REP,329
+Morgan,2,U.S. Senate,,Jay Wolfe,REP,372
+Morgan,4,U.S. Senate,,Jay Wolfe,REP,134
+Morgan,5,U.S. Senate,,Jay Wolfe,REP,105
+Morgan,6,U.S. Senate,,Jay Wolfe,REP,186
+Morgan,7,U.S. Senate,,Jay Wolfe,REP,104
+Morgan,8,U.S. Senate,,Jay Wolfe,REP,235
+Morgan,13,U.S. Senate,,Jay Wolfe,REP,286
+Morgan,18,U.S. Senate,,Jay Wolfe,REP,133
+Morgan,21,U.S. Senate,,Jay Wolfe,REP,254
+Morgan,23,U.S. Senate,,Jay Wolfe,REP,398
+Morgan,24,U.S. Senate,,Jay Wolfe,REP,334
+Morgan,25,U.S. Senate,,Jay Wolfe,REP,239
+Morgan,1,U.S. Senate,,Jay Rockefeller,DEM,419
+Morgan,2,U.S. Senate,,Jay Rockefeller,DEM,420
+Morgan,4,U.S. Senate,,Jay Rockefeller,DEM,176
+Morgan,5,U.S. Senate,,Jay Rockefeller,DEM,185
+Morgan,6,U.S. Senate,,Jay Rockefeller,DEM,229
+Morgan,7,U.S. Senate,,Jay Rockefeller,DEM,186
+Morgan,8,U.S. Senate,,Jay Rockefeller,DEM,345
+Morgan,13,U.S. Senate,,Jay Rockefeller,DEM,300
+Morgan,18,U.S. Senate,,Jay Rockefeller,DEM,209
+Morgan,21,U.S. Senate,,Jay Rockefeller,DEM,353
+Morgan,23,U.S. Senate,,Jay Rockefeller,DEM,325
+Morgan,24,U.S. Senate,,Jay Rockefeller,DEM,451
+Morgan,25,U.S. Senate,,Jay Rockefeller,DEM,270
+Morgan,1,Governor,,Russ Weeks,REP,286
+Morgan,2,Governor,,Russ Weeks,REP,294
+Morgan,4,Governor,,Russ Weeks,REP,101
+Morgan,5,Governor,,Russ Weeks,REP,75
+Morgan,6,Governor,,Russ Weeks,REP,139
+Morgan,7,Governor,,Russ Weeks,REP,72
+Morgan,8,Governor,,Russ Weeks,REP,173
+Morgan,13,Governor,,Russ Weeks,REP,222
+Morgan,18,Governor,,Russ Weeks,REP,91
+Morgan,21,Governor,,Russ Weeks,REP,208
+Morgan,23,Governor,,Russ Weeks,REP,308
+Morgan,24,Governor,,Russ Weeks,REP,281
+Morgan,25,Governor,,Russ Weeks,REP,182
+Morgan,1,Governor,,Joe Manchin III,DEM,438
+Morgan,2,Governor,,Joe Manchin III,DEM,478
+Morgan,4,Governor,,Joe Manchin III,DEM,203
+Morgan,5,Governor,,Joe Manchin III,DEM,197
+Morgan,6,Governor,,Joe Manchin III,DEM,276
+Morgan,7,Governor,,Joe Manchin III,DEM,197
+Morgan,8,Governor,,Joe Manchin III,DEM,399
+Morgan,13,Governor,,Joe Manchin III,DEM,355
+Morgan,18,Governor,,Joe Manchin III,DEM,247
+Morgan,21,Governor,,Joe Manchin III,DEM,375
+Morgan,23,Governor,,Joe Manchin III,DEM,394
+Morgan,24,Governor,,Joe Manchin III,DEM,445
+Morgan,25,Governor,,Joe Manchin III,DEM,314
+Morgan,1,Governor,,Jesse Johnson,MTN,30
+Morgan,2,Governor,,Jesse Johnson,MTN,32
+Morgan,4,Governor,,Jesse Johnson,MTN,11
+Morgan,5,Governor,,Jesse Johnson,MTN,17
+Morgan,6,Governor,,Jesse Johnson,MTN,13
+Morgan,7,Governor,,Jesse Johnson,MTN,28
+Morgan,8,Governor,,Jesse Johnson,MTN,22
+Morgan,13,Governor,,Jesse Johnson,MTN,25
+Morgan,18,Governor,,Jesse Johnson,MTN,17
+Morgan,21,Governor,,Jesse Johnson,MTN,22
+Morgan,23,Governor,,Jesse Johnson,MTN,32
+Morgan,24,Governor,,Jesse Johnson,MTN,57
+Morgan,25,Governor,,Jesse Johnson,MTN,17

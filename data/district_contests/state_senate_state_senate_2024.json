@@ -1,0 +1,184 @@
+{
+  "meta": {
+    "scope": "state_senate",
+    "contest_type": "state_senate",
+    "year": 2024,
+    "district_lines_year": 2022,
+    "method": "rdh_2020_block_votes_joined_to_census_bef",
+    "match_coverage_pct": 100.0
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 0,
+        "rep_votes": 37739,
+        "other_votes": 0,
+        "total_votes": 37739,
+        "dem_candidate": "",
+        "rep_candidate": "Ryan W. Weld",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "2": {
+        "dem_votes": 0,
+        "rep_votes": 37022,
+        "other_votes": 0,
+        "total_votes": 37022,
+        "dem_candidate": "",
+        "rep_candidate": "Chris Rose",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "3": {
+        "dem_votes": 0,
+        "rep_votes": 37987,
+        "other_votes": 0,
+        "total_votes": 37987,
+        "dem_candidate": "",
+        "rep_candidate": "Donna J. Boley",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "4": {
+        "dem_votes": 11343,
+        "rep_votes": 33655,
+        "other_votes": 0,
+        "total_votes": 44998,
+        "dem_candidate": "Dwayne Russell",
+        "rep_candidate": "Amy Nichole Grady",
+        "winner": "REP",
+        "margin_pct": 49.58442597
+      },
+      "5": {
+        "dem_votes": 19098,
+        "rep_votes": 19951,
+        "other_votes": 0,
+        "total_votes": 39049,
+        "dem_candidate": "Ric Griffith",
+        "rep_candidate": "Scott Fuller",
+        "winner": "REP",
+        "margin_pct": 2.18443494
+      },
+      "6": {
+        "dem_votes": 12924,
+        "rep_votes": 23014,
+        "other_votes": 1765,
+        "total_votes": 37703,
+        "dem_candidate": "Jeff Disibbio",
+        "rep_candidate": "Craig A. Hart",
+        "winner": "REP",
+        "margin_pct": 26.76179614
+      },
+      "7": {
+        "dem_votes": 0,
+        "rep_votes": 28846,
+        "other_votes": 0,
+        "total_votes": 28846,
+        "dem_candidate": "",
+        "rep_candidate": "Rupie Phillips",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "8": {
+        "dem_votes": 0,
+        "rep_votes": 30980,
+        "other_votes": 0,
+        "total_votes": 30980,
+        "dem_candidate": "",
+        "rep_candidate": "Glenn D. Jeffries",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "9": {
+        "dem_votes": 10240,
+        "rep_votes": 30735,
+        "other_votes": 0,
+        "total_votes": 40975,
+        "dem_candidate": "Christy Cardwell",
+        "rep_candidate": "Brian Helton",
+        "winner": "REP",
+        "margin_pct": 50.01830384
+      },
+      "10": {
+        "dem_votes": 0,
+        "rep_votes": 37650,
+        "other_votes": 0,
+        "total_votes": 37650,
+        "dem_candidate": "",
+        "rep_candidate": "Jack David Woodrum",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "11": {
+        "dem_votes": 9913,
+        "rep_votes": 31279,
+        "other_votes": 0,
+        "total_votes": 41192,
+        "dem_candidate": "Mandy Smith Weirich",
+        "rep_candidate": "Robbie Morris",
+        "winner": "REP",
+        "margin_pct": 51.86929501
+      },
+      "12": {
+        "dem_votes": 0,
+        "rep_votes": 37167,
+        "other_votes": 0,
+        "total_votes": 37167,
+        "dem_candidate": "",
+        "rep_candidate": "Patrick S Martin",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "13": {
+        "dem_votes": 21890,
+        "rep_votes": 18321,
+        "other_votes": 0,
+        "total_votes": 40211,
+        "dem_candidate": "Joey Garcia",
+        "rep_candidate": "Rebecca Polis",
+        "winner": "DEM",
+        "margin_pct": -8.87568078
+      },
+      "14": {
+        "dem_votes": 0,
+        "rep_votes": 36296,
+        "other_votes": 5594,
+        "total_votes": 41890,
+        "dem_candidate": "",
+        "rep_candidate": "Randy E. Smith",
+        "winner": "REP",
+        "margin_pct": 86.64597756
+      },
+      "15": {
+        "dem_votes": 13318,
+        "rep_votes": 35979,
+        "other_votes": 0,
+        "total_votes": 49297,
+        "dem_candidate": "Anthony Murray",
+        "rep_candidate": "Thomas (Tom) Willis",
+        "winner": "REP",
+        "margin_pct": 45.9683145
+      },
+      "16": {
+        "dem_votes": 20645,
+        "rep_votes": 31003,
+        "other_votes": 0,
+        "total_votes": 51648,
+        "dem_candidate": "John Doyle",
+        "rep_candidate": "Patricia Rucker",
+        "winner": "REP",
+        "margin_pct": 20.05498761
+      },
+      "17": {
+        "dem_votes": 14972,
+        "rep_votes": 26934,
+        "other_votes": 0,
+        "total_votes": 41906,
+        "dem_candidate": "Bil Lepp",
+        "rep_candidate": "Eric Nelson",
+        "winner": "REP",
+        "margin_pct": 28.54483845
+      }
+    }
+  }
+}

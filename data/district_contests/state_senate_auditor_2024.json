@@ -1,0 +1,184 @@
+{
+  "meta": {
+    "scope": "state_senate",
+    "contest_type": "auditor",
+    "year": 2024,
+    "district_lines_year": 2022,
+    "method": "rdh_2020_block_votes_joined_to_census_bef",
+    "match_coverage_pct": 100.0
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 14217,
+        "rep_votes": 28389,
+        "other_votes": 0,
+        "total_votes": 42606,
+        "dem_candidate": "Mary Ann Roebuck Claytor",
+        "rep_candidate": "Mark Hunt",
+        "winner": "REP",
+        "margin_pct": 33.26292072
+      },
+      "2": {
+        "dem_votes": 14178,
+        "rep_votes": 29093,
+        "other_votes": 0,
+        "total_votes": 43271,
+        "dem_candidate": "Mary Ann Roebuck Claytor",
+        "rep_candidate": "Mark Hunt",
+        "winner": "REP",
+        "margin_pct": 34.46881283
+      },
+      "3": {
+        "dem_votes": 12099,
+        "rep_votes": 31918,
+        "other_votes": 0,
+        "total_votes": 44017,
+        "dem_candidate": "Mary Ann Roebuck Claytor",
+        "rep_candidate": "Mark Hunt",
+        "winner": "REP",
+        "margin_pct": 45.02578549
+      },
+      "4": {
+        "dem_votes": 12262,
+        "rep_votes": 32583,
+        "other_votes": 0,
+        "total_votes": 44845,
+        "dem_candidate": "Mary Ann Roebuck Claytor",
+        "rep_candidate": "Mark Hunt",
+        "winner": "REP",
+        "margin_pct": 45.31385885
+      },
+      "5": {
+        "dem_votes": 14594,
+        "rep_votes": 22720,
+        "other_votes": 0,
+        "total_votes": 37314,
+        "dem_candidate": "Mary Ann Roebuck Claytor",
+        "rep_candidate": "Mark Hunt",
+        "winner": "REP",
+        "margin_pct": 21.77734898
+      },
+      "6": {
+        "dem_votes": 8036,
+        "rep_votes": 28478,
+        "other_votes": 0,
+        "total_votes": 36514,
+        "dem_candidate": "Mary Ann Roebuck Claytor",
+        "rep_candidate": "Mark Hunt",
+        "winner": "REP",
+        "margin_pct": 55.98400613
+      },
+      "7": {
+        "dem_votes": 8960,
+        "rep_votes": 24520,
+        "other_votes": 0,
+        "total_votes": 33480,
+        "dem_candidate": "Mary Ann Roebuck Claytor",
+        "rep_candidate": "Mark Hunt",
+        "winner": "REP",
+        "margin_pct": 46.47550777
+      },
+      "8": {
+        "dem_votes": 14415,
+        "rep_votes": 24164,
+        "other_votes": 0,
+        "total_votes": 38579,
+        "dem_candidate": "Mary Ann Roebuck Claytor",
+        "rep_candidate": "Mark Hunt",
+        "winner": "REP",
+        "margin_pct": 25.27022473
+      },
+      "9": {
+        "dem_votes": 9869,
+        "rep_votes": 30321,
+        "other_votes": 0,
+        "total_votes": 40190,
+        "dem_candidate": "Mary Ann Roebuck Claytor",
+        "rep_candidate": "Mark Hunt",
+        "winner": "REP",
+        "margin_pct": 50.88828067
+      },
+      "10": {
+        "dem_votes": 11752,
+        "rep_votes": 32252,
+        "other_votes": 0,
+        "total_votes": 44004,
+        "dem_candidate": "Mary Ann Roebuck Claytor",
+        "rep_candidate": "Mark Hunt",
+        "winner": "REP",
+        "margin_pct": 46.58667394
+      },
+      "11": {
+        "dem_votes": 10366,
+        "rep_votes": 29754,
+        "other_votes": 0,
+        "total_votes": 40120,
+        "dem_candidate": "Mary Ann Roebuck Claytor",
+        "rep_candidate": "Mark Hunt",
+        "winner": "REP",
+        "margin_pct": 48.32502493
+      },
+      "12": {
+        "dem_votes": 12424,
+        "rep_votes": 30443,
+        "other_votes": 0,
+        "total_votes": 42867,
+        "dem_candidate": "Mary Ann Roebuck Claytor",
+        "rep_candidate": "Mark Hunt",
+        "winner": "REP",
+        "margin_pct": 42.03466536
+      },
+      "13": {
+        "dem_votes": 19251,
+        "rep_votes": 20155,
+        "other_votes": 0,
+        "total_votes": 39406,
+        "dem_candidate": "Mary Ann Roebuck Claytor",
+        "rep_candidate": "Mark Hunt",
+        "winner": "REP",
+        "margin_pct": 2.29406689
+      },
+      "14": {
+        "dem_votes": 9894,
+        "rep_votes": 33316,
+        "other_votes": 0,
+        "total_votes": 43210,
+        "dem_candidate": "Mary Ann Roebuck Claytor",
+        "rep_candidate": "Mark Hunt",
+        "winner": "REP",
+        "margin_pct": 54.20504513
+      },
+      "15": {
+        "dem_votes": 13707,
+        "rep_votes": 34874,
+        "other_votes": 0,
+        "total_votes": 48581,
+        "dem_candidate": "Mary Ann Roebuck Claytor",
+        "rep_candidate": "Mark Hunt",
+        "winner": "REP",
+        "margin_pct": 43.57053169
+      },
+      "16": {
+        "dem_votes": 19518,
+        "rep_votes": 31071,
+        "other_votes": 0,
+        "total_votes": 50589,
+        "dem_candidate": "Mary Ann Roebuck Claytor",
+        "rep_candidate": "Mark Hunt",
+        "winner": "REP",
+        "margin_pct": 22.83698037
+      },
+      "17": {
+        "dem_votes": 16949,
+        "rep_votes": 24686,
+        "other_votes": 0,
+        "total_votes": 41635,
+        "dem_candidate": "Mary Ann Roebuck Claytor",
+        "rep_candidate": "Mark Hunt",
+        "winner": "REP",
+        "margin_pct": 18.58292302
+      }
+    }
+  }
+}

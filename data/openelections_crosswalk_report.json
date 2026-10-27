@@ -1,0 +1,1024 @@
+{
+  "years": {
+    "2008": {
+      "source_vtd_vintage": 2000,
+      "input_rows": 51749,
+      "matched_precincts": 1701,
+      "unmatched_precincts": 104,
+      "match_methods_by_rows": {
+        "source_vtd_exact": 23267,
+        "source_vtd_base_code_fallback": 5752,
+        "current_precinct_exact": 846,
+        "current_precinct_base_code_fallback": 448
+      },
+      "largest_unmatched_precincts_by_votes": [
+        {
+          "precinct": "Putnam|43-2",
+          "votes_across_selected_contests": 7382
+        },
+        {
+          "precinct": "Putnam|43-1",
+          "votes_across_selected_contests": 7230
+        },
+        {
+          "precinct": "Braxton|Machine",
+          "votes_across_selected_contests": 6381
+        },
+        {
+          "precinct": "Putnam|6-1",
+          "votes_across_selected_contests": 5893
+        },
+        {
+          "precinct": "Putnam|26-2",
+          "votes_across_selected_contests": 5519
+        },
+        {
+          "precinct": "Putnam|25-1",
+          "votes_across_selected_contests": 5497
+        },
+        {
+          "precinct": "Putnam|29-2",
+          "votes_across_selected_contests": 5345
+        },
+        {
+          "precinct": "Putnam|6-2",
+          "votes_across_selected_contests": 5332
+        },
+        {
+          "precinct": "Putnam|26-1",
+          "votes_across_selected_contests": 5295
+        },
+        {
+          "precinct": "Putnam|25-2",
+          "votes_across_selected_contests": 5149
+        },
+        {
+          "precinct": "Wayne|Wayne14",
+          "votes_across_selected_contests": 5100
+        },
+        {
+          "precinct": "Putnam|27-1",
+          "votes_across_selected_contests": 5001
+        },
+        {
+          "precinct": "Putnam|29-1",
+          "votes_across_selected_contests": 4951
+        },
+        {
+          "precinct": "Wayne|Wayne56",
+          "votes_across_selected_contests": 4936
+        },
+        {
+          "precinct": "Wayne|Wayne49",
+          "votes_across_selected_contests": 4922
+        },
+        {
+          "precinct": "Putnam|27-2",
+          "votes_across_selected_contests": 4797
+        },
+        {
+          "precinct": "Wayne|Wayne62",
+          "votes_across_selected_contests": 4525
+        },
+        {
+          "precinct": "Kanawha|109",
+          "votes_across_selected_contests": 4308
+        },
+        {
+          "precinct": "Putnam|28-1",
+          "votes_across_selected_contests": 4234
+        },
+        {
+          "precinct": "Wayne|Wayne19",
+          "votes_across_selected_contests": 4216
+        }
+      ],
+      "contests": {
+        "congressional_agriculture_commissioner": {
+          "districts": 2,
+          "source_total_votes": 563672,
+          "matched_total_votes": 528154,
+          "output_total_votes": 528154,
+          "match_coverage_pct": 93.698818,
+          "conservation_error": 0
+        },
+        "congressional_attorney_general": {
+          "districts": 2,
+          "source_total_votes": 576191,
+          "matched_total_votes": 539315,
+          "output_total_votes": 539315,
+          "match_coverage_pct": 93.600039,
+          "conservation_error": 0
+        },
+        "congressional_auditor": {
+          "districts": 2,
+          "source_total_votes": 444401,
+          "matched_total_votes": 416670,
+          "output_total_votes": 416670,
+          "match_coverage_pct": 93.759915,
+          "conservation_error": 0
+        },
+        "congressional_governor": {
+          "districts": 2,
+          "source_total_votes": 651117,
+          "matched_total_votes": 612646,
+          "output_total_votes": 612646,
+          "match_coverage_pct": 94.091538,
+          "conservation_error": 0
+        },
+        "congressional_president": {
+          "districts": 2,
+          "source_total_votes": 642947,
+          "matched_total_votes": 603305,
+          "output_total_votes": 603305,
+          "match_coverage_pct": 93.834328,
+          "conservation_error": 0
+        },
+        "congressional_secretary_of_state": {
+          "districts": 2,
+          "source_total_votes": 569067,
+          "matched_total_votes": 533139,
+          "output_total_votes": 533139,
+          "match_coverage_pct": 93.686508,
+          "conservation_error": 0
+        },
+        "congressional_treasurer": {
+          "districts": 2,
+          "source_total_votes": 440512,
+          "matched_total_votes": 412274,
+          "output_total_votes": 412274,
+          "match_coverage_pct": 93.589732,
+          "conservation_error": 0
+        },
+        "congressional_us_senate": {
+          "districts": 2,
+          "source_total_votes": 649322,
+          "matched_total_votes": 611327,
+          "output_total_votes": 611327,
+          "match_coverage_pct": 94.148512,
+          "conservation_error": 0
+        },
+        "state_house_agriculture_commissioner": {
+          "districts": 92,
+          "source_total_votes": 563672,
+          "matched_total_votes": 528154,
+          "output_total_votes": 528154,
+          "match_coverage_pct": 93.698818,
+          "conservation_error": 0
+        },
+        "state_house_attorney_general": {
+          "districts": 92,
+          "source_total_votes": 576191,
+          "matched_total_votes": 539315,
+          "output_total_votes": 539315,
+          "match_coverage_pct": 93.600039,
+          "conservation_error": 0
+        },
+        "state_house_auditor": {
+          "districts": 92,
+          "source_total_votes": 444401,
+          "matched_total_votes": 416670,
+          "output_total_votes": 416670,
+          "match_coverage_pct": 93.759915,
+          "conservation_error": 0
+        },
+        "state_house_governor": {
+          "districts": 96,
+          "source_total_votes": 651117,
+          "matched_total_votes": 612646,
+          "output_total_votes": 612646,
+          "match_coverage_pct": 94.091538,
+          "conservation_error": 0
+        },
+        "state_house_president": {
+          "districts": 92,
+          "source_total_votes": 642947,
+          "matched_total_votes": 603305,
+          "output_total_votes": 603305,
+          "match_coverage_pct": 93.834328,
+          "conservation_error": 0
+        },
+        "state_house_secretary_of_state": {
+          "districts": 92,
+          "source_total_votes": 569067,
+          "matched_total_votes": 533139,
+          "output_total_votes": 533139,
+          "match_coverage_pct": 93.686508,
+          "conservation_error": 0
+        },
+        "state_house_treasurer": {
+          "districts": 92,
+          "source_total_votes": 440512,
+          "matched_total_votes": 412274,
+          "output_total_votes": 412274,
+          "match_coverage_pct": 93.589732,
+          "conservation_error": 0
+        },
+        "state_house_us_senate": {
+          "districts": 96,
+          "source_total_votes": 649322,
+          "matched_total_votes": 611327,
+          "output_total_votes": 611327,
+          "match_coverage_pct": 94.148512,
+          "conservation_error": 0
+        },
+        "state_senate_agriculture_commissioner": {
+          "districts": 17,
+          "source_total_votes": 563672,
+          "matched_total_votes": 528154,
+          "output_total_votes": 528154,
+          "match_coverage_pct": 93.698818,
+          "conservation_error": 0
+        },
+        "state_senate_attorney_general": {
+          "districts": 17,
+          "source_total_votes": 576191,
+          "matched_total_votes": 539315,
+          "output_total_votes": 539315,
+          "match_coverage_pct": 93.600039,
+          "conservation_error": 0
+        },
+        "state_senate_auditor": {
+          "districts": 17,
+          "source_total_votes": 444401,
+          "matched_total_votes": 416670,
+          "output_total_votes": 416670,
+          "match_coverage_pct": 93.759915,
+          "conservation_error": 0
+        },
+        "state_senate_governor": {
+          "districts": 17,
+          "source_total_votes": 651117,
+          "matched_total_votes": 612646,
+          "output_total_votes": 612646,
+          "match_coverage_pct": 94.091538,
+          "conservation_error": 0
+        },
+        "state_senate_president": {
+          "districts": 17,
+          "source_total_votes": 642947,
+          "matched_total_votes": 603305,
+          "output_total_votes": 603305,
+          "match_coverage_pct": 93.834328,
+          "conservation_error": 0
+        },
+        "state_senate_secretary_of_state": {
+          "districts": 17,
+          "source_total_votes": 569067,
+          "matched_total_votes": 533139,
+          "output_total_votes": 533139,
+          "match_coverage_pct": 93.686508,
+          "conservation_error": 0
+        },
+        "state_senate_treasurer": {
+          "districts": 17,
+          "source_total_votes": 440512,
+          "matched_total_votes": 412274,
+          "output_total_votes": 412274,
+          "match_coverage_pct": 93.589732,
+          "conservation_error": 0
+        },
+        "state_senate_us_senate": {
+          "districts": 17,
+          "source_total_votes": 649322,
+          "matched_total_votes": 611327,
+          "output_total_votes": 611327,
+          "match_coverage_pct": 94.148512,
+          "conservation_error": 0
+        }
+      }
+    },
+    "2010": {
+      "source_vtd_vintage": 2010,
+      "input_rows": 25921,
+      "matched_precincts": 1398,
+      "unmatched_precincts": 128,
+      "match_methods_by_rows": {
+        "source_vtd_exact": 4746,
+        "current_precinct_exact": 113,
+        "source_vtd_base_code_fallback": 1139
+      },
+      "largest_unmatched_precincts_by_votes": [
+        {
+          "precinct": "Putnam|Precinct 43-2",
+          "votes_across_selected_contests": 820
+        },
+        {
+          "precinct": "Putnam|Precinct 43-1",
+          "votes_across_selected_contests": 804
+        },
+        {
+          "precinct": "Braxton|Ivo Totals",
+          "votes_across_selected_contests": 719
+        },
+        {
+          "precinct": "Putnam|Precinct 6-1",
+          "votes_across_selected_contests": 619
+        },
+        {
+          "precinct": "Putnam|Precinct 25-1",
+          "votes_across_selected_contests": 595
+        },
+        {
+          "precinct": "Putnam|Precinct 26-1",
+          "votes_across_selected_contests": 589
+        },
+        {
+          "precinct": "Putnam|Precinct 25-2",
+          "votes_across_selected_contests": 562
+        },
+        {
+          "precinct": "Putnam|Precinct 26-2",
+          "votes_across_selected_contests": 543
+        },
+        {
+          "precinct": "Putnam|Precinct 29-1",
+          "votes_across_selected_contests": 541
+        },
+        {
+          "precinct": "Putnam|Precinct 27-2",
+          "votes_across_selected_contests": 529
+        },
+        {
+          "precinct": "Putnam|Precinct 27-1",
+          "votes_across_selected_contests": 526
+        },
+        {
+          "precinct": "Putnam|Precinct 6-2",
+          "votes_across_selected_contests": 515
+        },
+        {
+          "precinct": "Putnam|Precinct 29-2",
+          "votes_across_selected_contests": 500
+        },
+        {
+          "precinct": "Putnam|Precinct 28-1",
+          "votes_across_selected_contests": 447
+        },
+        {
+          "precinct": "Kanawha|Precinct 109",
+          "votes_across_selected_contests": 433
+        },
+        {
+          "precinct": "Putnam|Precinct 16-2",
+          "votes_across_selected_contests": 413
+        },
+        {
+          "precinct": "Boone|Foster",
+          "votes_across_selected_contests": 404
+        },
+        {
+          "precinct": "Putnam|Precinct 33-2",
+          "votes_across_selected_contests": 399
+        },
+        {
+          "precinct": "Putnam|Precinct 16-1",
+          "votes_across_selected_contests": 395
+        },
+        {
+          "precinct": "Boone|Memorial Bldg.",
+          "votes_across_selected_contests": 392
+        }
+      ],
+      "contests": {
+        "congressional_us_senate": {
+          "districts": 2,
+          "source_total_votes": 434976,
+          "matched_total_votes": 406325,
+          "output_total_votes": 406325,
+          "match_coverage_pct": 93.4132,
+          "conservation_error": 0
+        },
+        "state_house_us_senate": {
+          "districts": 91,
+          "source_total_votes": 434976,
+          "matched_total_votes": 406325,
+          "output_total_votes": 406325,
+          "match_coverage_pct": 93.4132,
+          "conservation_error": 0
+        },
+        "state_senate_us_senate": {
+          "districts": 17,
+          "source_total_votes": 434976,
+          "matched_total_votes": 406325,
+          "output_total_votes": 406325,
+          "match_coverage_pct": 93.4132,
+          "conservation_error": 0
+        }
+      }
+    },
+    "2012": {
+      "source_vtd_vintage": 2010,
+      "input_rows": 41469,
+      "matched_precincts": 1764,
+      "unmatched_precincts": 82,
+      "match_methods_by_rows": {
+        "source_vtd_exact": 30954,
+        "current_precinct_exact": 741,
+        "source_vtd_base_code_fallback": 1761
+      },
+      "largest_unmatched_precincts_by_votes": [
+        {
+          "precinct": "Putnam|43-2",
+          "votes_across_selected_contests": 7562
+        },
+        {
+          "precinct": "Putnam|43-1",
+          "votes_across_selected_contests": 7543
+        },
+        {
+          "precinct": "Putnam|6-1",
+          "votes_across_selected_contests": 6063
+        },
+        {
+          "precinct": "Putnam|25-1",
+          "votes_across_selected_contests": 5647
+        },
+        {
+          "precinct": "Putnam|27-1",
+          "votes_across_selected_contests": 5598
+        },
+        {
+          "precinct": "Putnam|25-2",
+          "votes_across_selected_contests": 5595
+        },
+        {
+          "precinct": "Putnam|6-2",
+          "votes_across_selected_contests": 5348
+        },
+        {
+          "precinct": "Putnam|29-2",
+          "votes_across_selected_contests": 5239
+        },
+        {
+          "precinct": "Putnam|27-2",
+          "votes_across_selected_contests": 5182
+        },
+        {
+          "precinct": "Putnam|29-1",
+          "votes_across_selected_contests": 4901
+        },
+        {
+          "precinct": "Raleigh|84",
+          "votes_across_selected_contests": 4798
+        },
+        {
+          "precinct": "Putnam|26-1",
+          "votes_across_selected_contests": 4750
+        },
+        {
+          "precinct": "Putnam|28-1",
+          "votes_across_selected_contests": 4344
+        },
+        {
+          "precinct": "Putnam|26-2",
+          "votes_across_selected_contests": 4180
+        },
+        {
+          "precinct": "Putnam|28-2",
+          "votes_across_selected_contests": 4053
+        },
+        {
+          "precinct": "Kanawha|109",
+          "votes_across_selected_contests": 3975
+        },
+        {
+          "precinct": "Putnam|33-2",
+          "votes_across_selected_contests": 3875
+        },
+        {
+          "precinct": "Putnam|10-2",
+          "votes_across_selected_contests": 3803
+        },
+        {
+          "precinct": "Putnam|10-1",
+          "votes_across_selected_contests": 3595
+        },
+        {
+          "precinct": "Putnam|8-2",
+          "votes_across_selected_contests": 3557
+        }
+      ],
+      "contests": {
+        "congressional_agriculture_commissioner": {
+          "districts": 2,
+          "source_total_votes": 613679,
+          "matched_total_votes": 588268,
+          "output_total_votes": 588268,
+          "match_coverage_pct": 95.859236,
+          "conservation_error": 0
+        },
+        "congressional_attorney_general": {
+          "districts": 2,
+          "source_total_votes": 643684,
+          "matched_total_votes": 616696,
+          "output_total_votes": 616696,
+          "match_coverage_pct": 95.807259,
+          "conservation_error": 0
+        },
+        "congressional_auditor": {
+          "districts": 2,
+          "source_total_votes": 619569,
+          "matched_total_votes": 593902,
+          "output_total_votes": 593902,
+          "match_coverage_pct": 95.857281,
+          "conservation_error": 0
+        },
+        "congressional_governor": {
+          "districts": 2,
+          "source_total_votes": 664486,
+          "matched_total_votes": 636634,
+          "output_total_votes": 636634,
+          "match_coverage_pct": 95.80849,
+          "conservation_error": 0
+        },
+        "congressional_president": {
+          "districts": 2,
+          "source_total_votes": 670438,
+          "matched_total_votes": 642469,
+          "output_total_votes": 642469,
+          "match_coverage_pct": 95.82825,
+          "conservation_error": 0
+        },
+        "congressional_secretary_of_state": {
+          "districts": 2,
+          "source_total_votes": 638313,
+          "matched_total_votes": 611404,
+          "output_total_votes": 611404,
+          "match_coverage_pct": 95.784357,
+          "conservation_error": 0
+        },
+        "congressional_treasurer": {
+          "districts": 2,
+          "source_total_votes": 628553,
+          "matched_total_votes": 601980,
+          "output_total_votes": 601980,
+          "match_coverage_pct": 95.772353,
+          "conservation_error": 0
+        },
+        "congressional_us_senate": {
+          "districts": 2,
+          "source_total_votes": 660243,
+          "matched_total_votes": 632592,
+          "output_total_votes": 632592,
+          "match_coverage_pct": 95.811996,
+          "conservation_error": 0
+        },
+        "state_house_agriculture_commissioner": {
+          "districts": 100,
+          "source_total_votes": 613679,
+          "matched_total_votes": 588268,
+          "output_total_votes": 588268,
+          "match_coverage_pct": 95.859236,
+          "conservation_error": 0
+        },
+        "state_house_attorney_general": {
+          "districts": 100,
+          "source_total_votes": 643684,
+          "matched_total_votes": 616696,
+          "output_total_votes": 616696,
+          "match_coverage_pct": 95.807259,
+          "conservation_error": 0
+        },
+        "state_house_auditor": {
+          "districts": 100,
+          "source_total_votes": 619569,
+          "matched_total_votes": 593902,
+          "output_total_votes": 593902,
+          "match_coverage_pct": 95.857281,
+          "conservation_error": 0
+        },
+        "state_house_governor": {
+          "districts": 100,
+          "source_total_votes": 664486,
+          "matched_total_votes": 636634,
+          "output_total_votes": 636634,
+          "match_coverage_pct": 95.80849,
+          "conservation_error": 0
+        },
+        "state_house_president": {
+          "districts": 100,
+          "source_total_votes": 670438,
+          "matched_total_votes": 642469,
+          "output_total_votes": 642469,
+          "match_coverage_pct": 95.82825,
+          "conservation_error": 0
+        },
+        "state_house_secretary_of_state": {
+          "districts": 100,
+          "source_total_votes": 638313,
+          "matched_total_votes": 611404,
+          "output_total_votes": 611404,
+          "match_coverage_pct": 95.784357,
+          "conservation_error": 0
+        },
+        "state_house_treasurer": {
+          "districts": 100,
+          "source_total_votes": 628553,
+          "matched_total_votes": 601980,
+          "output_total_votes": 601980,
+          "match_coverage_pct": 95.772353,
+          "conservation_error": 0
+        },
+        "state_house_us_senate": {
+          "districts": 100,
+          "source_total_votes": 660243,
+          "matched_total_votes": 632592,
+          "output_total_votes": 632592,
+          "match_coverage_pct": 95.811996,
+          "conservation_error": 0
+        },
+        "state_senate_agriculture_commissioner": {
+          "districts": 17,
+          "source_total_votes": 613679,
+          "matched_total_votes": 588268,
+          "output_total_votes": 588268,
+          "match_coverage_pct": 95.859236,
+          "conservation_error": 0
+        },
+        "state_senate_attorney_general": {
+          "districts": 17,
+          "source_total_votes": 643684,
+          "matched_total_votes": 616696,
+          "output_total_votes": 616696,
+          "match_coverage_pct": 95.807259,
+          "conservation_error": 0
+        },
+        "state_senate_auditor": {
+          "districts": 17,
+          "source_total_votes": 619569,
+          "matched_total_votes": 593902,
+          "output_total_votes": 593902,
+          "match_coverage_pct": 95.857281,
+          "conservation_error": 0
+        },
+        "state_senate_governor": {
+          "districts": 17,
+          "source_total_votes": 664486,
+          "matched_total_votes": 636634,
+          "output_total_votes": 636634,
+          "match_coverage_pct": 95.80849,
+          "conservation_error": 0
+        },
+        "state_senate_president": {
+          "districts": 17,
+          "source_total_votes": 670438,
+          "matched_total_votes": 642469,
+          "output_total_votes": 642469,
+          "match_coverage_pct": 95.82825,
+          "conservation_error": 0
+        },
+        "state_senate_secretary_of_state": {
+          "districts": 17,
+          "source_total_votes": 638313,
+          "matched_total_votes": 611404,
+          "output_total_votes": 611404,
+          "match_coverage_pct": 95.784357,
+          "conservation_error": 0
+        },
+        "state_senate_treasurer": {
+          "districts": 17,
+          "source_total_votes": 628553,
+          "matched_total_votes": 601980,
+          "output_total_votes": 601980,
+          "match_coverage_pct": 95.772353,
+          "conservation_error": 0
+        },
+        "state_senate_us_senate": {
+          "districts": 17,
+          "source_total_votes": 660243,
+          "matched_total_votes": 632592,
+          "output_total_votes": 632592,
+          "match_coverage_pct": 95.811996,
+          "conservation_error": 0
+        }
+      }
+    },
+    "2016": {
+      "source_vtd_vintage": 2010,
+      "input_rows": 66462,
+      "matched_precincts": 1679,
+      "unmatched_precincts": 85,
+      "match_methods_by_rows": {
+        "source_vtd_exact": 40014,
+        "current_precinct_exact": 1664,
+        "source_vtd_base_code_fallback": 1976
+      },
+      "largest_unmatched_precincts_by_votes": [
+        {
+          "precinct": "Putnam|43-2",
+          "votes_across_selected_contests": 7123
+        },
+        {
+          "precinct": "Putnam|43-1",
+          "votes_across_selected_contests": 6942
+        },
+        {
+          "precinct": "Putnam|29-2",
+          "votes_across_selected_contests": 5905
+        },
+        {
+          "precinct": "Putnam|29-1",
+          "votes_across_selected_contests": 5570
+        },
+        {
+          "precinct": "Putnam|25-2",
+          "votes_across_selected_contests": 5447
+        },
+        {
+          "precinct": "Putnam|6-1",
+          "votes_across_selected_contests": 5430
+        },
+        {
+          "precinct": "Putnam|25-1",
+          "votes_across_selected_contests": 5360
+        },
+        {
+          "precinct": "Putnam|27-1",
+          "votes_across_selected_contests": 5009
+        },
+        {
+          "precinct": "Putnam|6-2",
+          "votes_across_selected_contests": 4733
+        },
+        {
+          "precinct": "Raleigh|84",
+          "votes_across_selected_contests": 4688
+        },
+        {
+          "precinct": "Putnam|27-2",
+          "votes_across_selected_contests": 4607
+        },
+        {
+          "precinct": "Putnam|26-1",
+          "votes_across_selected_contests": 4242
+        },
+        {
+          "precinct": "Putnam|28-1",
+          "votes_across_selected_contests": 4241
+        },
+        {
+          "precinct": "Putnam|10-2",
+          "votes_across_selected_contests": 4072
+        },
+        {
+          "precinct": "Putnam|28-2",
+          "votes_across_selected_contests": 4011
+        },
+        {
+          "precinct": "Putnam|26-2",
+          "votes_across_selected_contests": 3782
+        },
+        {
+          "precinct": "Putnam|10-1",
+          "votes_across_selected_contests": 3734
+        },
+        {
+          "precinct": "Taylor|5",
+          "votes_across_selected_contests": 3395
+        },
+        {
+          "precinct": "Putnam|33-2",
+          "votes_across_selected_contests": 3357
+        },
+        {
+          "precinct": "Putnam|8-2",
+          "votes_across_selected_contests": 3346
+        }
+      ],
+      "contests": {
+        "congressional_agriculture_commissioner": {
+          "districts": 2,
+          "source_total_votes": 664225,
+          "matched_total_votes": 637805,
+          "output_total_votes": 637805,
+          "match_coverage_pct": 96.022432,
+          "conservation_error": 0
+        },
+        "congressional_attorney_general": {
+          "districts": 2,
+          "source_total_votes": 694126,
+          "matched_total_votes": 666126,
+          "output_total_votes": 666126,
+          "match_coverage_pct": 95.96615,
+          "conservation_error": 0
+        },
+        "congressional_auditor": {
+          "districts": 2,
+          "source_total_votes": 659712,
+          "matched_total_votes": 633357,
+          "output_total_votes": 633357,
+          "match_coverage_pct": 96.005075,
+          "conservation_error": 0
+        },
+        "congressional_governor": {
+          "districts": 2,
+          "source_total_votes": 713828,
+          "matched_total_votes": 684902,
+          "output_total_votes": 684902,
+          "match_coverage_pct": 95.947763,
+          "conservation_error": 0
+        },
+        "congressional_president": {
+          "districts": 2,
+          "source_total_votes": 713021,
+          "matched_total_votes": 684286,
+          "output_total_votes": 684286,
+          "match_coverage_pct": 95.969964,
+          "conservation_error": 0
+        },
+        "congressional_secretary_of_state": {
+          "districts": 2,
+          "source_total_votes": 691427,
+          "matched_total_votes": 663646,
+          "output_total_votes": 663646,
+          "match_coverage_pct": 95.982078,
+          "conservation_error": 0
+        },
+        "congressional_treasurer": {
+          "districts": 2,
+          "source_total_votes": 671526,
+          "matched_total_votes": 644452,
+          "output_total_votes": 644452,
+          "match_coverage_pct": 95.968287,
+          "conservation_error": 0
+        },
+        "state_house_agriculture_commissioner": {
+          "districts": 100,
+          "source_total_votes": 664225,
+          "matched_total_votes": 637805,
+          "output_total_votes": 637805,
+          "match_coverage_pct": 96.022432,
+          "conservation_error": 0
+        },
+        "state_house_attorney_general": {
+          "districts": 100,
+          "source_total_votes": 694126,
+          "matched_total_votes": 666126,
+          "output_total_votes": 666126,
+          "match_coverage_pct": 95.96615,
+          "conservation_error": 0
+        },
+        "state_house_auditor": {
+          "districts": 100,
+          "source_total_votes": 659712,
+          "matched_total_votes": 633357,
+          "output_total_votes": 633357,
+          "match_coverage_pct": 96.005075,
+          "conservation_error": 0
+        },
+        "state_house_governor": {
+          "districts": 100,
+          "source_total_votes": 713828,
+          "matched_total_votes": 684902,
+          "output_total_votes": 684902,
+          "match_coverage_pct": 95.947763,
+          "conservation_error": 0
+        },
+        "state_house_president": {
+          "districts": 100,
+          "source_total_votes": 713021,
+          "matched_total_votes": 684286,
+          "output_total_votes": 684286,
+          "match_coverage_pct": 95.969964,
+          "conservation_error": 0
+        },
+        "state_house_secretary_of_state": {
+          "districts": 100,
+          "source_total_votes": 691427,
+          "matched_total_votes": 663646,
+          "output_total_votes": 663646,
+          "match_coverage_pct": 95.982078,
+          "conservation_error": 0
+        },
+        "state_house_treasurer": {
+          "districts": 100,
+          "source_total_votes": 671526,
+          "matched_total_votes": 644452,
+          "output_total_votes": 644452,
+          "match_coverage_pct": 95.968287,
+          "conservation_error": 0
+        },
+        "state_senate_agriculture_commissioner": {
+          "districts": 17,
+          "source_total_votes": 664225,
+          "matched_total_votes": 637805,
+          "output_total_votes": 637805,
+          "match_coverage_pct": 96.022432,
+          "conservation_error": 0
+        },
+        "state_senate_attorney_general": {
+          "districts": 17,
+          "source_total_votes": 694126,
+          "matched_total_votes": 666126,
+          "output_total_votes": 666126,
+          "match_coverage_pct": 95.96615,
+          "conservation_error": 0
+        },
+        "state_senate_auditor": {
+          "districts": 17,
+          "source_total_votes": 659712,
+          "matched_total_votes": 633357,
+          "output_total_votes": 633357,
+          "match_coverage_pct": 96.005075,
+          "conservation_error": 0
+        },
+        "state_senate_governor": {
+          "districts": 17,
+          "source_total_votes": 713828,
+          "matched_total_votes": 684902,
+          "output_total_votes": 684902,
+          "match_coverage_pct": 95.947763,
+          "conservation_error": 0
+        },
+        "state_senate_president": {
+          "districts": 17,
+          "source_total_votes": 713021,
+          "matched_total_votes": 684286,
+          "output_total_votes": 684286,
+          "match_coverage_pct": 95.969964,
+          "conservation_error": 0
+        },
+        "state_senate_secretary_of_state": {
+          "districts": 17,
+          "source_total_votes": 691427,
+          "matched_total_votes": 663646,
+          "output_total_votes": 663646,
+          "match_coverage_pct": 95.982078,
+          "conservation_error": 0
+        },
+        "state_senate_treasurer": {
+          "districts": 17,
+          "source_total_votes": 671526,
+          "matched_total_votes": 644452,
+          "output_total_votes": 644452,
+          "match_coverage_pct": 95.968287,
+          "conservation_error": 0
+        }
+      }
+    }
+  },
+  "summary": {
+    "slice_files": 72,
+    "max_conservation_error": 0,
+    "minimum_match_coverage_pct": 93.4132,
+    "district_count_warnings": [
+      {
+        "slice": "state_house_agriculture_commissioner",
+        "year": 2008,
+        "actual": 92,
+        "expected": 100
+      },
+      {
+        "slice": "state_house_attorney_general",
+        "year": 2008,
+        "actual": 92,
+        "expected": 100
+      },
+      {
+        "slice": "state_house_auditor",
+        "year": 2008,
+        "actual": 92,
+        "expected": 100
+      },
+      {
+        "slice": "state_house_governor",
+        "year": 2008,
+        "actual": 96,
+        "expected": 100
+      },
+      {
+        "slice": "state_house_president",
+        "year": 2008,
+        "actual": 92,
+        "expected": 100
+      },
+      {
+        "slice": "state_house_secretary_of_state",
+        "year": 2008,
+        "actual": 92,
+        "expected": 100
+      },
+      {
+        "slice": "state_house_treasurer",
+        "year": 2008,
+        "actual": 92,
+        "expected": 100
+      },
+      {
+        "slice": "state_house_us_senate",
+        "year": 2008,
+        "actual": 96,
+        "expected": 100
+      },
+      {
+        "slice": "state_house_us_senate",
+        "year": 2010,
+        "actual": 91,
+        "expected": 100
+      }
+    ],
+    "complete_year_district_count_errors": [],
+    "validation_passed": true
+  }
+}

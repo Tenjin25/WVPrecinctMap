@@ -1,0 +1,105 @@
+{
+  "inventories": {
+    "2020": {
+      "vintage": 2020,
+      "vtds": 1733,
+      "block_features": 72558,
+      "matched_block_geoids": 72558,
+      "unmatched_block_features": 0,
+      "unmatched_blocks_by_county_fips": {},
+      "nearest_same_county_block_fallbacks": 22,
+      "duplicate_block_geoids": 0,
+      "conflicting_duplicate_block_geoids": 0
+    },
+    "2010": {
+      "vintage": 2010,
+      "vtds": 1856,
+      "block_features": 135477,
+      "matched_block_geoids": 135477,
+      "unmatched_block_features": 0,
+      "unmatched_blocks_by_county_fips": {},
+      "nearest_same_county_block_fallbacks": 0,
+      "duplicate_block_geoids": 0,
+      "conflicting_duplicate_block_geoids": 0
+    },
+    "2000": {
+      "vintage": 2000,
+      "vtds": 1909,
+      "block_features": 106753,
+      "matched_block_geoids": 81782,
+      "unmatched_block_features": 0,
+      "unmatched_blocks_by_county_fips": {},
+      "nearest_same_county_block_fallbacks": 0,
+      "duplicate_block_geoids": 15058,
+      "conflicting_duplicate_block_geoids": 0
+    }
+  },
+  "district_crosswalks": {
+    "precinct_to_congressional_2022_enacted.csv": {
+      "output": "C:\\Users\\Shama\\OneDrive\\Documents\\Side_Projects\\WVPrecinctMap\\data\\crosswalks_bef\\precinct_to_congressional_2022_enacted.csv",
+      "rows": 1733,
+      "vtds": 1733,
+      "districts": 2,
+      "blocks_missing_bef_assignment": 0,
+      "max_weight_sum_error": 0.0
+    },
+    "precinct_to_state_house_2022.csv": {
+      "output": "C:\\Users\\Shama\\OneDrive\\Documents\\Side_Projects\\WVPrecinctMap\\data\\crosswalks_bef\\precinct_to_state_house_2022.csv",
+      "rows": 2262,
+      "vtds": 1733,
+      "districts": 100,
+      "blocks_missing_bef_assignment": 0,
+      "max_weight_sum_error": 1.1102230246251565e-16
+    },
+    "precinct_to_state_senate_2022.csv": {
+      "output": "C:\\Users\\Shama\\OneDrive\\Documents\\Side_Projects\\WVPrecinctMap\\data\\crosswalks_bef\\precinct_to_state_senate_2022.csv",
+      "rows": 1844,
+      "vtds": 1733,
+      "districts": 17,
+      "blocks_missing_bef_assignment": 0,
+      "max_weight_sum_error": 0.0
+    }
+  },
+  "vintage_crosswalks": {
+    "vtd2000_to_vtd2010.csv": {
+      "output": "C:\\Users\\Shama\\OneDrive\\Documents\\Side_Projects\\WVPrecinctMap\\data\\crosswalks_nhgis\\vtd2000_to_vtd2010.csv",
+      "rows": 3351,
+      "source_vtds": 1909,
+      "target_vtds": 1856,
+      "max_weight_sum_error": 1.1102230246251565e-15,
+      "nhgis_rows": 166851,
+      "used_rows": 156467,
+      "rows_without_source_wv_block": 14,
+      "rows_without_target_wv_block": 316,
+      "zero_area_rows": 10054,
+      "pairs": 3351
+    },
+    "vtd2010_to_vtd2020.csv": {
+      "output": "C:\\Users\\Shama\\OneDrive\\Documents\\Side_Projects\\WVPrecinctMap\\data\\crosswalks_nhgis\\vtd2010_to_vtd2020.csv",
+      "rows": 3666,
+      "source_vtds": 1856,
+      "target_vtds": 1733,
+      "max_weight_sum_error": 4.440892098500626e-16,
+      "nhgis_rows": 151954,
+      "used_rows": 151266,
+      "rows_without_source_wv_block": 492,
+      "rows_without_target_wv_block": 0,
+      "zero_area_rows": 196,
+      "pairs": 3666
+    },
+    "vtd2000_to_vtd2020.csv": {
+      "output": "C:\\Users\\Shama\\OneDrive\\Documents\\Side_Projects\\WVPrecinctMap\\data\\crosswalks_nhgis\\vtd2000_to_vtd2020.csv",
+      "rows": 5779,
+      "source_vtds": 1909,
+      "target_vtds": 1733,
+      "max_weight_sum_error": 3.3306690738754696e-16
+    }
+  },
+  "input_sha256": {
+    "54_WV_CD118.txt": "874ba60be6184259916b9cc8f14e6ad408c95e75fa544fd0ddaa815a45db40e8",
+    "54_WV_SLDL22.txt": "f7ab2271cea61b1adee841d08dfefba49fb7b27ab266d49bcd9db115d86f0633",
+    "54_WV_SLDU22.txt": "719d333983a25631ce42806a76d79e04b52fa02bfcc78661f0c064cb1f3ca3c5",
+    "nhgis_blk2000_blk2010_54.zip": "034addc2486708b51139523eaa384fc7741ae1623595051fdf2022394761c244",
+    "nhgis_blk2010_blk2020_54.zip": "7e115f01389205459785c81e358b90dd0f9cc7f8ef795673f6d41eef916cfcc1"
+  }
+}

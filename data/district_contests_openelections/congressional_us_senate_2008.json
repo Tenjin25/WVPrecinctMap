@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "scope": "congressional",
+    "contest_type": "us_senate",
+    "year": 2008,
+    "district_lines_year": 2022,
+    "source_vtd_vintage": 2000,
+    "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+    "match_coverage_pct": 94.148512
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 204953,
+        "rep_votes": 105902,
+        "other_votes": 43,
+        "total_votes": 310898,
+        "dem_candidate": "JAY ROCKFELLER",
+        "rep_candidate": "JAY WOLFE",
+        "winner": "DEM",
+        "margin_pct": -31.85964529
+      },
+      "2": {
+        "dem_votes": 184068,
+        "rep_votes": 105998,
+        "other_votes": 10363,
+        "total_votes": 300429,
+        "dem_candidate": "John Davison Rockefeller IV",
+        "rep_candidate": "Matthew Jay Wolfe",
+        "winner": "DEM",
+        "margin_pct": -25.98617311
+      }
+    }
+  }
+}
