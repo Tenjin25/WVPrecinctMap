@@ -31,6 +31,7 @@ ELECTION_DATES = {
     2008: "20081104",
     2010: "20101102",
     2012: "20121106",
+    2014: "20141104",
 }
 
 LEGACY_FILES = {
@@ -57,6 +58,10 @@ LEGACY_FILES = {
         "state_treasurer",
     ),
     2006: ("house", "senate"),
+}
+
+COMBINED_LEGACY_FILES = {
+    2014: OPEN_ELECTIONS / "2014" / "20141104__wv__general__county.csv",
 }
 
 OFFICIAL_DOWNLOADS = {
@@ -100,6 +105,8 @@ def canonical_office(value: str) -> str | None:
 def download_official(year: int) -> Path:
     RAW_OFFICIAL.mkdir(parents=True, exist_ok=True)
     destination = RAW_OFFICIAL / f"{ELECTION_DATES[year]}__wv__general__state_county_totals.csv"
+    if destination.exists() and destination.read_bytes().startswith(b"ElectionId,"):
+        return destination
     request = urllib.request.Request(
         OFFICIAL_DOWNLOADS[year], headers={"User-Agent": "WVPrecinctMap/1.0"}
     )
@@ -113,8 +120,15 @@ def download_official(year: int) -> Path:
 
 def legacy_rows(year: int):
     date = ELECTION_DATES[year]
-    for suffix in LEGACY_FILES[year]:
-        path = OPEN_ELECTIONS / str(year) / f"{date}__wv__general__{suffix}.csv"
+    paths = (
+        [COMBINED_LEGACY_FILES[year]]
+        if year in COMBINED_LEGACY_FILES
+        else [
+            OPEN_ELECTIONS / str(year) / f"{date}__wv__general__{suffix}.csv"
+            for suffix in LEGACY_FILES[year]
+        ]
+    )
+    for path in paths:
         with path.open("r", encoding="utf-8-sig", newline="") as source:
             for row in csv.DictReader(source):
                 county = str(row.get("county") or "").strip()
@@ -156,7 +170,8 @@ def official_rows(year: int):
 
 
 def write_year(year: int) -> dict[str, object]:
-    rows = list(legacy_rows(year) if year in LEGACY_FILES else official_rows(year))
+    uses_legacy = year in LEGACY_FILES or year in COMBINED_LEGACY_FILES
+    rows = list(legacy_rows(year) if uses_legacy else official_rows(year))
     coverage: defaultdict[str, set[str]] = defaultdict(set)
     for row in rows:
         coverage[str(row["office"])].add(str(row["county"]))
@@ -189,7 +204,7 @@ def write_year(year: int) -> dict[str, object]:
 
     return {
         "year": year,
-        "source": "OpenElections" if year in LEGACY_FILES else "West Virginia Secretary of State",
+        "source": "OpenElections" if uses_legacy else "West Virginia Secretary of State",
         "output": output_path.relative_to(ROOT).as_posix(),
         "rows": len(rows),
         "contests": {office: len(counties) for office, counties in sorted(coverage.items())},

@@ -229,6 +229,18 @@
       "rows": 55
     },
     {
+      "year": 2014,
+      "contest_type": "us_house",
+      "file": "us_house_2014.json",
+      "rows": 55
+    },
+    {
+      "year": 2014,
+      "contest_type": "us_senate",
+      "file": "us_senate_2014.json",
+      "rows": 55
+    },
+    {
       "year": 2016,
       "contest_type": "agriculture_commissioner",
       "file": "agriculture_commissioner_2016.json",

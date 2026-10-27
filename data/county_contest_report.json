@@ -1,5 +1,5 @@
 {
-  "slice_files": 66,
+  "slice_files": 68,
   "all_slices_have_55_counties": true,
   "slices": [
     {
@@ -231,6 +231,18 @@
       "total_votes": 660212
     },
     {
+      "year": 2014,
+      "contest_type": "us_house",
+      "counties": 55,
+      "total_votes": 439239
+    },
+    {
+      "year": 2014,
+      "contest_type": "us_senate",
+      "counties": 55,
+      "total_votes": 453659
+    },
+    {
       "year": 2016,
       "contest_type": "agriculture_commissioner",
       "counties": 55,
@@ -282,13 +294,13 @@
       "year": 2018,
       "contest_type": "us_house",
       "counties": 55,
-      "total_votes": 666368
+      "total_votes": 578084
     },
     {
       "year": 2018,
       "contest_type": "us_senate",
       "counties": 55,
-      "total_votes": 676240
+      "total_votes": 586034
     },
     {
       "year": 2020,

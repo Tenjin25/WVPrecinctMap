@@ -31,11 +31,24 @@ KEY_FIELDS = ("county", "office", "district", "party", "candidate")
 OUTPUT_FIELDS = (*KEY_FIELDS, "votes")
 
 
+def is_summary_precinct(value: str) -> bool:
+    normalized = " ".join(str(value or "").upper().replace("_", " ").split())
+    return normalized in {
+        "TOTAL",
+        "TOTALS",
+        "FINAL TOTAL",
+        "FINAL TOTALS",
+        "COUNTY TOTAL",
+        "COUNTY TOTALS",
+    }
+
+
 def aggregate_file(year: str, source_path: Path) -> dict[str, object]:
     totals: defaultdict[tuple[str, ...], int] = defaultdict(int)
     counties: set[str] = set()
     source_rows = 0
     blank_vote_rows = 0
+    summary_rows_skipped = 0
     source_votes = 0
 
     with source_path.open("r", encoding="utf-8-sig", newline="") as source:
@@ -50,6 +63,12 @@ def aggregate_file(year: str, source_path: Path) -> dict[str, object]:
             county = row["county"].strip()
             if not county:
                 raise ValueError(f"{source_path}:{line_number}: blank county")
+            # Several county exports contain a TOTALS row in the same file as
+            # the underlying precinct rows. Including both doubles that county.
+            if is_summary_precinct(row.get("precinct", "")):
+                summary_rows_skipped += 1
+                counties.add(county)
+                continue
             raw_votes = row["votes"].strip()
             if not raw_votes:
                 # Some OpenElections files use blank cells for candidates who
@@ -93,7 +112,8 @@ def aggregate_file(year: str, source_path: Path) -> dict[str, object]:
         "counties": len(counties),
         "source_rows": source_rows,
         "blank_vote_rows_skipped": blank_vote_rows,
-        "numeric_vote_rows": source_rows - blank_vote_rows,
+        "summary_rows_skipped": summary_rows_skipped,
+        "numeric_vote_rows": source_rows - blank_vote_rows - summary_rows_skipped,
         "output_rows": len(totals),
         "source_votes": source_votes,
         "output_votes": output_votes,

@@ -35,6 +35,29 @@ OFFICES = {
     "UNITED STATES REPRESENTATIVE": "us_house",
 }
 
+CANDIDATE_PARTY_OVERRIDES = {
+    # The 2018 county exports omit party labels in many counties.
+    "JOSEPH MANCHIN": "DEM",
+    "JOSEPH MANCHIN III": "DEM",
+    "PATRICK MORRISEY": "REP",
+    "RUSTY HOLLEN": "OTHER",
+}
+
+CANDIDATE_DISPLAY_OVERRIDES = {
+    "JOSEPH MANCHIN": "JOSEPH MANCHIN III",
+    "JOSEPH MANCHIN III": "JOSEPH MANCHIN III",
+    "PATRICK MORRISEY": "PATRICK MORRISEY",
+    "RUSTY HOLLEN": "RUSTY HOLLEN",
+    # One Greenbrier export cell contains an Excel range reference in place
+    # of Hollen's name; its LIB party and 216 votes complete his certified total.
+    "PRECINCT 74 A662 E676": "RUSTY HOLLEN",
+}
+
+EXCLUDED_CANDIDATES_BY_CONTEST_YEAR = {
+    # The certified WV SOS/FEC totals list the three ballot candidates only.
+    (2018, "us_senate"): {"WRITE IN", "MARK BRAZAITIS"},
+}
+
 
 def token(value: str) -> str:
     return re.sub(r"\s+", " ", re.sub(r"[^A-Z0-9]+", " ", value.upper())).strip()
@@ -64,10 +87,17 @@ def build_slice(path: Path) -> list[tuple[str, dict[str, object]]]:
             if not contest:
                 continue
             county = row["county"].strip()
-            bucket = party_bucket(row["party"])
             # Official exports occasionally contain doubled spaces in names
             # (for example, "JOE  MANCHIN III"). Keep display labels stable.
             candidate = " ".join(row["candidate"].split())
+            candidate = CANDIDATE_DISPLAY_OVERRIDES.get(token(candidate), candidate)
+            if token(candidate) in EXCLUDED_CANDIDATES_BY_CONTEST_YEAR.get(
+                (year, contest), set()
+            ):
+                continue
+            bucket = CANDIDATE_PARTY_OVERRIDES.get(
+                token(candidate), party_bucket(row["party"])
+            )
             count = int(row["votes"])
             votes[(contest, county, bucket)] += count
             if candidate:

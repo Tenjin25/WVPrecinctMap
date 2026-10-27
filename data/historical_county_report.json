@@ -116,6 +116,17 @@
         "U.S. Senate": 55
       },
       "excluded_incomplete_contests": {}
+    },
+    {
+      "year": 2014,
+      "source": "OpenElections",
+      "output": "data/openelections/wv_sos/historical_county/20141104__wv__general__county.csv",
+      "rows": 419,
+      "contests": {
+        "U.S. House": 55,
+        "U.S. Senate": 55
+      },
+      "excluded_incomplete_contests": {}
     }
   ]
 }
