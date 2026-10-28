@@ -77,28 +77,28 @@
         "rep_votes": 2903,
         "other_votes": 142,
         "total_votes": 5897,
-        "dem_candidate": "JOE MANCHIN III",
-        "rep_candidate": "JOHN R. RAESE",
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "John R. Raese",
         "winner": "REP",
         "margin_pct": 0.86484653
       },
       "11": {
         "dem_votes": 2909,
         "rep_votes": 2834,
-        "other_votes": 121,
-        "total_votes": 5864,
-        "dem_candidate": "JOE MANCHIN III",
-        "rep_candidate": "JOHN R. RAESE",
+        "other_votes": 122,
+        "total_votes": 5865,
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "John R. Raese",
         "winner": "DEM",
-        "margin_pct": -1.27899045
+        "margin_pct": -1.27877238
       },
       "12": {
         "dem_votes": 2543,
         "rep_votes": 1950,
         "other_votes": 116,
         "total_votes": 4609,
-        "dem_candidate": "JOE MANCHIN III",
-        "rep_candidate": "JOHN R. RAESE",
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "John R. Raese",
         "winner": "DEM",
         "margin_pct": -12.86613148
       },
@@ -107,8 +107,8 @@
         "rep_votes": 1985,
         "other_votes": 115,
         "total_votes": 4302,
-        "dem_candidate": "JOE MANCHIN III",
-        "rep_candidate": "JOHN R. RAESE",
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "John R. Raese",
         "winner": "DEM",
         "margin_pct": -5.0441655
       },
@@ -117,8 +117,8 @@
         "rep_votes": 2709,
         "other_votes": 155,
         "total_votes": 5368,
-        "dem_candidate": "JOE MANCHIN III",
-        "rep_candidate": "JOHN R. RAESE",
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "John R. Raese",
         "winner": "REP",
         "margin_pct": 3.81892697
       },
@@ -197,8 +197,8 @@
         "rep_votes": 2109,
         "other_votes": 121,
         "total_votes": 4665,
-        "dem_candidate": "JOE MANCHIN III",
-        "rep_candidate": "JOHN R. RAESE",
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "John R. Raese",
         "winner": "DEM",
         "margin_pct": -6.98821008
       },
@@ -207,8 +207,8 @@
         "rep_votes": 2117,
         "other_votes": 116,
         "total_votes": 4741,
-        "dem_candidate": "JOE MANCHIN III",
-        "rep_candidate": "JOHN R. RAESE",
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "John R. Raese",
         "winner": "DEM",
         "margin_pct": -8.24720523
       },
@@ -217,8 +217,8 @@
         "rep_votes": 1441,
         "other_votes": 85,
         "total_votes": 3876,
-        "dem_candidate": "JOE MANCHIN III",
-        "rep_candidate": "JOHN R. RAESE",
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "John R. Raese",
         "winner": "DEM",
         "margin_pct": -23.45201238
       },
@@ -227,8 +227,8 @@
         "rep_votes": 1106,
         "other_votes": 86,
         "total_votes": 3873,
-        "dem_candidate": "JOE MANCHIN III",
-        "rep_candidate": "JOHN R. RAESE",
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "John R. Raese",
         "winner": "DEM",
         "margin_pct": -40.66615027
       },
@@ -237,8 +237,8 @@
         "rep_votes": 2606,
         "other_votes": 134,
         "total_votes": 6238,
-        "dem_candidate": "JOE MANCHIN III",
-        "rep_candidate": "JOHN R. RAESE",
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "John R. Raese",
         "winner": "DEM",
         "margin_pct": -14.29945495
       },
@@ -385,12 +385,12 @@
       "43": {
         "dem_votes": 2107,
         "rep_votes": 1801,
-        "other_votes": 131,
-        "total_votes": 4039,
+        "other_votes": 130,
+        "total_votes": 4038,
         "dem_candidate": "Joe Manchin III",
         "rep_candidate": "John R. Raese",
         "winner": "DEM",
-        "margin_pct": -7.57613271
+        "margin_pct": -7.57800892
       },
       "44": {
         "dem_votes": 3154,

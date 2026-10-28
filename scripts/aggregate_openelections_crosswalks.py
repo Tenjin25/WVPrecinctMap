@@ -13,6 +13,8 @@ from pathlib import Path
 
 import shapefile
 
+from wv_candidate_names import normalize_candidate_name
+
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
@@ -61,6 +63,25 @@ OFFICES = {
 }
 
 EXPECTED_DISTRICTS = {"congressional": 2, "state_house": 100, "state_senate": 17}
+
+NAME_OVERRIDES = {
+    (2012, "president", "DEM"): "Barack Obama",
+    (2012, "president", "REP"): "Mitt Romney",
+    (2012, "us_senate", "DEM"): "Joe Manchin III",
+    (2012, "us_senate", "REP"): "John R. Raese",
+    (2012, "governor", "DEM"): "Earl Ray Tomblin",
+    (2012, "governor", "REP"): "Bill Maloney",
+    (2012, "attorney_general", "DEM"): "Darrell V. McGraw Jr.",
+    (2012, "attorney_general", "REP"): "Patrick Morrisey",
+    (2012, "secretary_of_state", "DEM"): "Natalie E. Tennant",
+    (2012, "secretary_of_state", "REP"): "Brian Savilla",
+    (2012, "auditor", "DEM"): "Glen B. Gainer III",
+    (2012, "auditor", "REP"): "Larry V. Faircloth",
+    (2012, "treasurer", "DEM"): "John D. Perdue",
+    (2012, "treasurer", "REP"): "Mike Hall",
+    (2012, "agriculture_commissioner", "DEM"): "Walt Helmick",
+    (2012, "agriculture_commissioner", "REP"): "Kent Leonhardt",
+}
 
 
 def token(value: str) -> str:
@@ -333,7 +354,10 @@ def main() -> int:
                 unmatched_precincts[precinct_key] += int(votes)
                 continue
             party = party_type(row.get("party", "")) or inferred_party.get(token(row.get("candidate", ""))) or "OTH"
-            candidate = str(row.get("candidate") or "").strip()
+            candidate = NAME_OVERRIDES.get(
+                (year, contest, party),
+                normalize_candidate_name(row.get("candidate") or ""),
+            )
             matched_totals[contest] += votes
             matched_precincts.add(precinct_key)
             match_methods[match_method] += 1

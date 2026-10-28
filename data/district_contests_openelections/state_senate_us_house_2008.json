@@ -78,7 +78,7 @@
         "other_votes": 0,
         "total_votes": 30796,
         "dem_candidate": "Nick Joe Rahall, II",
-        "rep_candidate": "SHELLEY MOORE CAPITO",
+        "rep_candidate": "Shelley Moore Capito",
         "winner": "DEM",
         "margin_pct": -30.75074685
       },
@@ -87,8 +87,8 @@
         "rep_votes": 22554,
         "other_votes": 0,
         "total_votes": 43414,
-        "dem_candidate": "ANNE BARTH",
-        "rep_candidate": "SHELLEY MOORE CAPITO",
+        "dem_candidate": "Anne Barth",
+        "rep_candidate": "Shelley Moore Capito",
         "winner": "REP",
         "margin_pct": 3.90196711
       },
@@ -107,7 +107,7 @@
         "rep_votes": 13500,
         "other_votes": 3,
         "total_votes": 43130,
-        "dem_candidate": "NICK JOE RAHALL II",
+        "dem_candidate": "Nick Joe Rahall II",
         "rep_candidate": "Marty Gearheart",
         "winner": "DEM",
         "margin_pct": -37.39160677
@@ -137,7 +137,7 @@
         "rep_votes": 0,
         "other_votes": 6,
         "total_votes": 27914,
-        "dem_candidate": "ALAN B. MOLLOHAN",
+        "dem_candidate": "Alan B. Mollohan",
         "rep_candidate": "",
         "winner": "DEM",
         "margin_pct": -99.97850541
@@ -167,8 +167,8 @@
         "rep_votes": 19849,
         "other_votes": 25,
         "total_votes": 37115,
-        "dem_candidate": "ANNE BARTH",
-        "rep_candidate": "SHELLY MOOORE CAPITO",
+        "dem_candidate": "Anne Barth",
+        "rep_candidate": "Shelly Mooore Capito",
         "winner": "REP",
         "margin_pct": 7.02680857
       },
@@ -177,8 +177,8 @@
         "rep_votes": 26083,
         "other_votes": 0,
         "total_votes": 46224,
-        "dem_candidate": "ANNE BARTH",
-        "rep_candidate": "SHELLEY MOORE CAPITO",
+        "dem_candidate": "Anne Barth",
+        "rep_candidate": "Shelley Moore Capito",
         "winner": "REP",
         "margin_pct": 12.85479405
       }

@@ -17,8 +17,8 @@
         "rep_votes": 106217,
         "other_votes": 10251,
         "total_votes": 322652,
-        "dem_candidate": "Democratic candidate",
-        "rep_candidate": "Republican candidate",
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "John R. Raese",
         "winner": "DEM",
         "margin_pct": -30.98291658
       },
@@ -27,8 +27,8 @@
         "rep_votes": 129205,
         "other_votes": 8929,
         "total_votes": 322366,
-        "dem_candidate": "Democratic candidate",
-        "rep_candidate": "Republican candidate",
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "John R. Raese",
         "winner": "DEM",
         "margin_pct": -17.0697282
       }

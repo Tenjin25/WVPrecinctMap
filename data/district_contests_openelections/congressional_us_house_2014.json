@@ -17,8 +17,8 @@
         "rep_votes": 110932,
         "other_votes": 7914,
         "total_votes": 221878,
-        "dem_candidate": "NICK J. RAHALL II",
-        "rep_candidate": "EVAN JENKINS",
+        "dem_candidate": "Nick J. Rahall II",
+        "rep_candidate": "Evan Jenkins",
         "winner": "REP",
         "margin_pct": 3.56051524
       },
@@ -27,8 +27,8 @@
         "rep_votes": 125459,
         "other_votes": 5841,
         "total_votes": 206326,
-        "dem_candidate": "GLEN B GAINER III",
-        "rep_candidate": "DAVID B. MCKINLEY",
+        "dem_candidate": "Glen B Gainer III",
+        "rep_candidate": "David B. Mckinley",
         "winner": "REP",
         "margin_pct": 24.44335663
       }

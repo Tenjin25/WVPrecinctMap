@@ -17,8 +17,8 @@
         "rep_votes": 5483,
         "other_votes": 838,
         "total_votes": 23477,
-        "dem_candidate": "Joe Manchin, III",
-        "rep_candidate": "Russell E. Weeks Jr",
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "Russell E. Weeks Jr.",
         "winner": "DEM",
         "margin_pct": -49.72100354
       },
@@ -27,8 +27,8 @@
         "rep_votes": 7793,
         "other_votes": 1488,
         "total_votes": 33553,
-        "dem_candidate": "Joe Manchin, III",
-        "rep_candidate": "RUSS WEEKS",
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "Russ Weeks",
         "winner": "DEM",
         "margin_pct": -49.11334307
       },
@@ -37,48 +37,48 @@
         "rep_votes": 10047,
         "other_votes": 1396,
         "total_votes": 44588,
-        "dem_candidate": "Joe Manchin, III",
-        "rep_candidate": "Russell E. Weeks Jr",
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "Russell E. Weeks Jr.",
         "winner": "DEM",
         "margin_pct": -51.80317574
       },
       "4": {
-        "dem_votes": 32307,
+        "dem_votes": 32306,
         "rep_votes": 10849,
         "other_votes": 1688,
-        "total_votes": 44844,
+        "total_votes": 44843,
         "dem_candidate": "Joe Manchin III",
         "rep_candidate": "Russ Weeks",
         "winner": "DEM",
-        "margin_pct": -47.85032557
+        "margin_pct": -47.84916263
       },
       "5": {
         "dem_votes": 21609,
         "rep_votes": 4985,
-        "other_votes": 839,
-        "total_votes": 27433,
+        "other_votes": 840,
+        "total_votes": 27434,
         "dem_candidate": "Joe Manchin III",
         "rep_candidate": "Russ Weeks",
         "winner": "DEM",
-        "margin_pct": -60.59854919
+        "margin_pct": -60.59634031
       },
       "6": {
-        "dem_votes": 22982,
+        "dem_votes": 22983,
         "rep_votes": 7236,
         "other_votes": 690,
-        "total_votes": 30908,
+        "total_votes": 30909,
         "dem_candidate": "Joe Manchin III",
         "rep_candidate": "Russ Weeks",
         "winner": "DEM",
-        "margin_pct": -50.94473923
+        "margin_pct": -50.94632631
       },
       "7": {
         "dem_votes": 23146,
         "rep_votes": 6613,
         "other_votes": 1552,
         "total_votes": 31311,
-        "dem_candidate": "JOE MANCHIN III",
-        "rep_candidate": "RUSS WEEKS",
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "Russ Weeks",
         "winner": "DEM",
         "margin_pct": -52.80252946
       },
@@ -87,8 +87,8 @@
         "rep_votes": 10108,
         "other_votes": 2703,
         "total_votes": 42079,
-        "dem_candidate": "JOE MANCHIN III",
-        "rep_candidate": "RUSS WEEKS",
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "Russ Weeks",
         "winner": "DEM",
         "margin_pct": -45.53340146
       },
@@ -97,8 +97,8 @@
         "rep_votes": 15519,
         "other_votes": 945,
         "total_votes": 40216,
-        "dem_candidate": "Joe Manchin, III",
-        "rep_candidate": "Russell E. Weeks Jr",
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "Russell E. Weeks Jr.",
         "winner": "DEM",
         "margin_pct": -20.47195146
       },
@@ -107,7 +107,7 @@
         "rep_votes": 11540,
         "other_votes": 1706,
         "total_votes": 44045,
-        "dem_candidate": "JOE MANCHIN III",
+        "dem_candidate": "Joe Manchin III",
         "rep_candidate": "Russ Weeks",
         "winner": "DEM",
         "margin_pct": -43.72573504
@@ -117,8 +117,8 @@
         "rep_votes": 9163,
         "other_votes": 1620,
         "total_votes": 39741,
-        "dem_candidate": "Joe Manchin, III",
-        "rep_candidate": "Russell E. Weeks Jr",
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "Russell E. Weeks Jr.",
         "winner": "DEM",
         "margin_pct": -49.81001988
       },
@@ -127,30 +127,30 @@
         "rep_votes": 11002,
         "other_votes": 622,
         "total_votes": 43007,
-        "dem_candidate": "Joe Manchin, III",
-        "rep_candidate": "Russell E. Weeks Jr",
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "Russell E. Weeks Jr.",
         "winner": "DEM",
         "margin_pct": -47.38995977
       },
       "13": {
         "dem_votes": 24430,
-        "rep_votes": 8834,
+        "rep_votes": 8835,
         "other_votes": 2574,
-        "total_votes": 35838,
-        "dem_candidate": "JOE HANCHIN. III",
-        "rep_candidate": "RUSS WEEKS",
+        "total_votes": 35839,
+        "dem_candidate": "Joe Hanchin. III",
+        "rep_candidate": "Russ Weeks",
         "winner": "DEM",
-        "margin_pct": -43.51805346
+        "margin_pct": -43.51404894
       },
       "14": {
         "dem_votes": 17423,
         "rep_votes": 7912,
-        "other_votes": 1414,
-        "total_votes": 26749,
-        "dem_candidate": "Joe Manchin, III",
-        "rep_candidate": "Russell E. Weeks Jr",
+        "other_votes": 1413,
+        "total_votes": 26748,
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "Russ Weeks",
         "winner": "DEM",
-        "margin_pct": -35.5564694
+        "margin_pct": -35.55779871
       },
       "15": {
         "dem_votes": 21964,
@@ -158,7 +158,7 @@
         "other_votes": 1542,
         "total_votes": 35947,
         "dem_candidate": "Joe Manchin III",
-        "rep_candidate": "Russell E. Weeks Jr",
+        "rep_candidate": "Russell E. Weeks Jr.",
         "winner": "DEM",
         "margin_pct": -26.49177956
       },
@@ -167,20 +167,20 @@
         "rep_votes": 12554,
         "other_votes": 1940,
         "total_votes": 36838,
-        "dem_candidate": "JOE MANCHIN. III",
-        "rep_candidate": "RUSS WEEKS",
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "Russ Weeks",
         "winner": "DEM",
         "margin_pct": -26.57581845
       },
       "17": {
         "dem_votes": 30418,
-        "rep_votes": 12457,
+        "rep_votes": 12456,
         "other_votes": 2905,
-        "total_votes": 45780,
-        "dem_candidate": "JOE MANCHIN III",
-        "rep_candidate": "RUSS WEEKS",
+        "total_votes": 45779,
+        "dem_candidate": "Joe Manchin III",
+        "rep_candidate": "Russ Weeks",
         "winner": "DEM",
-        "margin_pct": -39.23328965
+        "margin_pct": -39.23633107
       }
     }
   }

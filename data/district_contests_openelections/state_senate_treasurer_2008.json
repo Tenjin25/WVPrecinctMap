@@ -77,7 +77,7 @@
         "rep_votes": 0,
         "other_votes": 0,
         "total_votes": 24300,
-        "dem_candidate": "JOHN D. PERDUE",
+        "dem_candidate": "John D. Perdue",
         "rep_candidate": "",
         "winner": "DEM",
         "margin_pct": -100.0
@@ -87,7 +87,7 @@
         "rep_votes": 0,
         "other_votes": 1,
         "total_votes": 31363,
-        "dem_candidate": "JOHN D. PERDUE",
+        "dem_candidate": "John D. Perdue",
         "rep_candidate": "",
         "winner": "DEM",
         "margin_pct": -99.99681153
@@ -107,7 +107,7 @@
         "rep_votes": 0,
         "other_votes": 12,
         "total_votes": 25975,
-        "dem_candidate": "John D Perdue",
+        "dem_candidate": "John D. Perdue",
         "rep_candidate": "",
         "winner": "DEM",
         "margin_pct": -99.95380173
@@ -167,7 +167,7 @@
         "rep_votes": 0,
         "other_votes": 213,
         "total_votes": 26917,
-        "dem_candidate": "JOHN D. PERDUE",
+        "dem_candidate": "John D. Perdue",
         "rep_candidate": "",
         "winner": "DEM",
         "margin_pct": -99.20867853
@@ -177,7 +177,7 @@
         "rep_votes": 0,
         "other_votes": 0,
         "total_votes": 31169,
-        "dem_candidate": "JOHN D. PERDUE",
+        "dem_candidate": "John D. Perdue",
         "rep_candidate": "",
         "winner": "DEM",
         "margin_pct": -100.0

@@ -175,12 +175,12 @@
       "17": {
         "dem_votes": 3891,
         "rep_votes": 5071,
-        "other_votes": 226,
-        "total_votes": 9188,
+        "other_votes": 225,
+        "total_votes": 9187,
         "dem_candidate": "Barack Obama",
         "rep_candidate": "John McCain",
         "winner": "REP",
-        "margin_pct": 12.84283848
+        "margin_pct": 12.84423642
       },
       "18": {
         "dem_votes": 3003,
@@ -305,19 +305,19 @@
       "31": {
         "dem_votes": 3594,
         "rep_votes": 4441,
-        "other_votes": 167,
-        "total_votes": 8202,
+        "other_votes": 168,
+        "total_votes": 8203,
         "dem_candidate": "Barack Hussein Obama",
         "rep_candidate": "John Sidney McCain III",
         "winner": "REP",
-        "margin_pct": 10.32674957
+        "margin_pct": 10.32549067
       },
       "32": {
         "dem_votes": 3853,
         "rep_votes": 3124,
         "other_votes": 181,
         "total_votes": 7158,
-        "dem_candidate": "BARACK OBAMA",
+        "dem_candidate": "Barack Obama",
         "rep_candidate": "JOHN McCAIN",
         "winner": "DEM",
         "margin_pct": -10.18440905
@@ -365,12 +365,12 @@
       "37": {
         "dem_votes": 2624,
         "rep_votes": 3683,
-        "other_votes": 108,
-        "total_votes": 6415,
+        "other_votes": 109,
+        "total_votes": 6416,
         "dem_candidate": "Barack Obama",
         "rep_candidate": "John McCain",
         "winner": "REP",
-        "margin_pct": 16.50818394
+        "margin_pct": 16.50561097
       },
       "38": {
         "dem_votes": 2062,
@@ -445,12 +445,12 @@
       "45": {
         "dem_votes": 2542,
         "rep_votes": 4039,
-        "other_votes": 115,
-        "total_votes": 6696,
+        "other_votes": 114,
+        "total_votes": 6695,
         "dem_candidate": "Barack Hussein Obama",
         "rep_candidate": "John Sidney McCain III",
         "winner": "REP",
-        "margin_pct": 22.35663082
+        "margin_pct": 22.35997013
       },
       "46": {
         "dem_votes": 3266,
@@ -477,7 +477,7 @@
         "rep_votes": 3266,
         "other_votes": 192,
         "total_votes": 6815,
-        "dem_candidate": "Barack Hussein Obama",
+        "dem_candidate": "Barack Obama",
         "rep_candidate": "John Sidney McCain III",
         "winner": "DEM",
         "margin_pct": -1.3352898
@@ -487,7 +487,7 @@
         "rep_votes": 3583,
         "other_votes": 153,
         "total_votes": 6752,
-        "dem_candidate": "BARACK OBAMA",
+        "dem_candidate": "Barack Obama",
         "rep_candidate": "JOHN McCAIN",
         "winner": "REP",
         "margin_pct": 8.39751185
@@ -497,27 +497,27 @@
         "rep_votes": 3170,
         "other_votes": 129,
         "total_votes": 6672,
-        "dem_candidate": "BARACK OBAMA",
+        "dem_candidate": "Barack Obama",
         "rep_candidate": "JOHN McCAIN",
         "winner": "DEM",
         "margin_pct": -3.04256595
       },
       "51": {
-        "dem_votes": 2845,
+        "dem_votes": 2846,
         "rep_votes": 3452,
         "other_votes": 129,
-        "total_votes": 6426,
-        "dem_candidate": "BARACK OBAMA",
+        "total_votes": 6427,
+        "dem_candidate": "Barack Obama",
         "rep_candidate": "JOHN McCAIN",
         "winner": "REP",
-        "margin_pct": 9.44600062
+        "margin_pct": 9.42897153
       },
       "52": {
         "dem_votes": 4296,
         "rep_votes": 2927,
         "other_votes": 128,
         "total_votes": 7351,
-        "dem_candidate": "BARACK OBAMA",
+        "dem_candidate": "Barack Obama",
         "rep_candidate": "JOHN McCAIN",
         "winner": "DEM",
         "margin_pct": -18.62331656
@@ -527,7 +527,7 @@
         "rep_votes": 4616,
         "other_votes": 121,
         "total_votes": 9117,
-        "dem_candidate": "BARACK OBAMA",
+        "dem_candidate": "Barack Obama",
         "rep_candidate": "JOHN McCAIN",
         "winner": "REP",
         "margin_pct": 2.5885708
@@ -537,7 +537,7 @@
         "rep_votes": 2426,
         "other_votes": 75,
         "total_votes": 8070,
-        "dem_candidate": "BARACK OBAMA",
+        "dem_candidate": "Barack Obama",
         "rep_candidate": "JOHN McCAIN",
         "winner": "DEM",
         "margin_pct": -38.94671623
@@ -547,7 +547,7 @@
         "rep_votes": 3995,
         "other_votes": 68,
         "total_votes": 7864,
-        "dem_candidate": "BARACK OBAMA",
+        "dem_candidate": "Barack Obama",
         "rep_candidate": "JOHN McCAIN",
         "winner": "REP",
         "margin_pct": 2.46693795
@@ -557,7 +557,7 @@
         "rep_votes": 4589,
         "other_votes": 64,
         "total_votes": 8783,
-        "dem_candidate": "BARACK OBAMA",
+        "dem_candidate": "Barack Obama",
         "rep_candidate": "JOHN McCAIN",
         "winner": "REP",
         "margin_pct": 5.22600478
@@ -567,7 +567,7 @@
         "rep_votes": 3681,
         "other_votes": 97,
         "total_votes": 8051,
-        "dem_candidate": "BARACK OBAMA",
+        "dem_candidate": "Barack Obama",
         "rep_candidate": "JOHN McCAIN",
         "winner": "DEM",
         "margin_pct": -7.35312384
@@ -577,7 +577,7 @@
         "rep_votes": 4399,
         "other_votes": 101,
         "total_votes": 9023,
-        "dem_candidate": "BARACK OBAMA",
+        "dem_candidate": "Barack Obama",
         "rep_candidate": "JOHN McCAIN",
         "winner": "DEM",
         "margin_pct": -1.37426577
@@ -587,7 +587,7 @@
         "rep_votes": 3902,
         "other_votes": 79,
         "total_votes": 7047,
-        "dem_candidate": "BARACK OBAMA",
+        "dem_candidate": "Barack Obama",
         "rep_candidate": "JOHN McCAIN",
         "winner": "REP",
         "margin_pct": 11.8632042
@@ -597,7 +597,7 @@
         "rep_votes": 4469,
         "other_votes": 104,
         "total_votes": 7755,
-        "dem_candidate": "BARACK OBAMA",
+        "dem_candidate": "Barack Obama",
         "rep_candidate": "JOHN McCAIN",
         "winner": "REP",
         "margin_pct": 16.59574468
@@ -607,7 +607,7 @@
         "rep_votes": 4936,
         "other_votes": 93,
         "total_votes": 7917,
-        "dem_candidate": "BARACK OBAMA",
+        "dem_candidate": "Barack Obama",
         "rep_candidate": "JOHN McCAIN",
         "winner": "REP",
         "margin_pct": 25.86838449
@@ -617,7 +617,7 @@
         "rep_votes": 3609,
         "other_votes": 191,
         "total_votes": 6445,
-        "dem_candidate": "BARACK OBAMA",
+        "dem_candidate": "Barack Obama",
         "rep_candidate": "JOHN McCAIN",
         "winner": "REP",
         "margin_pct": 14.95733126
@@ -677,7 +677,7 @@
         "rep_votes": 4500,
         "other_votes": 167,
         "total_votes": 7451,
-        "dem_candidate": "BARACK OBAMA",
+        "dem_candidate": "Barack Obama",
         "rep_candidate": "JOHN McCAIN",
         "winner": "REP",
         "margin_pct": 23.03046571
@@ -723,14 +723,14 @@
         "margin_pct": 7.99815072
       },
       "73": {
-        "dem_votes": 2286,
+        "dem_votes": 2285,
         "rep_votes": 3529,
         "other_votes": 149,
-        "total_votes": 5964,
-        "dem_candidate": "BARACK OBAMA",
+        "total_votes": 5963,
+        "dem_candidate": "Barack Obama",
         "rep_candidate": "JOHN McCAIN",
         "winner": "REP",
-        "margin_pct": 20.84171697
+        "margin_pct": 20.86198222
       },
       "74": {
         "dem_votes": 3561,
@@ -767,7 +767,7 @@
         "rep_votes": 3782,
         "other_votes": 177,
         "total_votes": 7219,
-        "dem_candidate": "BARACK OBAMA",
+        "dem_candidate": "Barack Obama",
         "rep_candidate": "JOHN McCAIN",
         "winner": "REP",
         "margin_pct": 7.23091841
@@ -777,7 +777,7 @@
         "rep_votes": 3347,
         "other_votes": 101,
         "total_votes": 6364,
-        "dem_candidate": "BARACK OBAMA",
+        "dem_candidate": "Barack Obama",
         "rep_candidate": "JOHN McCAIN",
         "winner": "REP",
         "margin_pct": 6.77247014
@@ -785,19 +785,19 @@
       "79": {
         "dem_votes": 2964,
         "rep_votes": 1555,
-        "other_votes": 80,
-        "total_votes": 4599,
-        "dem_candidate": "BARACK OBAMA",
+        "other_votes": 81,
+        "total_votes": 4600,
+        "dem_candidate": "Barack Obama",
         "rep_candidate": "JOHN McCAIN",
         "winner": "DEM",
-        "margin_pct": -30.63709502
+        "margin_pct": -30.63043478
       },
       "80": {
         "dem_votes": 2899,
         "rep_votes": 2362,
         "other_votes": 64,
         "total_votes": 5325,
-        "dem_candidate": "BARACK OBAMA",
+        "dem_candidate": "Barack Obama",
         "rep_candidate": "JOHN McCAIN",
         "winner": "DEM",
         "margin_pct": -10.08450704
@@ -807,7 +807,7 @@
         "rep_votes": 1539,
         "other_votes": 51,
         "total_votes": 3842,
-        "dem_candidate": "BARACK OBAMA",
+        "dem_candidate": "Barack Obama",
         "rep_candidate": "JOHN McCAIN",
         "winner": "DEM",
         "margin_pct": -18.55804269
@@ -817,7 +817,7 @@
         "rep_votes": 3255,
         "other_votes": 70,
         "total_votes": 6161,
-        "dem_candidate": "BARACK OBAMA",
+        "dem_candidate": "Barack Obama",
         "rep_candidate": "JOHN McCAIN",
         "winner": "REP",
         "margin_pct": 6.80084402
@@ -867,7 +867,7 @@
         "rep_votes": 1802,
         "other_votes": 74,
         "total_votes": 2892,
-        "dem_candidate": "BARACK OBAMA",
+        "dem_candidate": "Barack Obama",
         "rep_candidate": "JOHN McCAIN",
         "winner": "REP",
         "margin_pct": 27.17842324
@@ -875,12 +875,12 @@
       "89": {
         "dem_votes": 2642,
         "rep_votes": 4219,
-        "other_votes": 228,
-        "total_votes": 7089,
-        "dem_candidate": "BARACK OBAMA",
+        "other_votes": 227,
+        "total_votes": 7088,
+        "dem_candidate": "Barack Obama",
         "rep_candidate": "JOHN McCAIN",
         "winner": "REP",
-        "margin_pct": 22.24573283
+        "margin_pct": 22.24887133
       },
       "90": {
         "dem_votes": 2118,
@@ -897,7 +897,7 @@
         "rep_votes": 1129,
         "other_votes": 40,
         "total_votes": 2806,
-        "dem_candidate": "BARACK OBAMA",
+        "dem_candidate": "Barack Obama",
         "rep_candidate": "JOHN McCAIN",
         "winner": "DEM",
         "margin_pct": -18.10406272
@@ -907,7 +907,7 @@
         "rep_votes": 3153,
         "other_votes": 124,
         "total_votes": 6418,
-        "dem_candidate": "BARACK OBAMA",
+        "dem_candidate": "Barack Obama",
         "rep_candidate": "JOHN McCAIN",
         "winner": "REP",
         "margin_pct": 0.18697414
@@ -917,7 +917,7 @@
         "rep_votes": 3027,
         "other_votes": 91,
         "total_votes": 6285,
-        "dem_candidate": "BARACK OBAMA",
+        "dem_candidate": "Barack Obama",
         "rep_candidate": "JOHN McCAIN",
         "winner": "DEM",
         "margin_pct": -2.22752586
@@ -927,7 +927,7 @@
         "rep_votes": 3072,
         "other_votes": 108,
         "total_votes": 6618,
-        "dem_candidate": "BARACK OBAMA",
+        "dem_candidate": "Barack Obama",
         "rep_candidate": "JOHN McCAIN",
         "winner": "DEM",
         "margin_pct": -5.53037171

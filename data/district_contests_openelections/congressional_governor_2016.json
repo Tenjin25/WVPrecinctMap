@@ -17,8 +17,8 @@
         "rep_votes": 126731,
         "other_votes": 27217,
         "total_votes": 344802,
-        "dem_candidate": "JIM JUSTICE",
-        "rep_candidate": "BILL COLE",
+        "dem_candidate": "Jim Justice",
+        "rep_candidate": "Bill Cole",
         "winner": "DEM",
         "margin_pct": -18.5970499
       },
@@ -27,8 +27,8 @@
         "rep_votes": 169004,
         "other_votes": 33332,
         "total_votes": 353772,
-        "dem_candidate": "JIM JUSTICE",
-        "rep_candidate": "BILL COLE",
+        "dem_candidate": "Jim Justice",
+        "rep_candidate": "Bill Cole",
         "winner": "REP",
         "margin_pct": 4.96591025
       }

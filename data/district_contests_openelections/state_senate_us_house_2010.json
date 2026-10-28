@@ -37,7 +37,7 @@
         "rep_votes": 14556,
         "other_votes": 0,
         "total_votes": 24754,
-        "dem_candidate": "MIKE OLIVERIO",
+        "dem_candidate": "Mike Oliverio",
         "rep_candidate": "DAVID B. McKINLEY",
         "winner": "REP",
         "margin_pct": 17.60523552
@@ -53,24 +53,24 @@
         "margin_pct": 40.30167899
       },
       "5": {
-        "dem_votes": 15880,
+        "dem_votes": 15879,
         "rep_votes": 12383,
         "other_votes": 64,
-        "total_votes": 28327,
-        "dem_candidate": "NICK JOE RAHALL, II",
+        "total_votes": 28326,
+        "dem_candidate": "Nick Joe Rahall, II",
         "rep_candidate": "ELLIOTT E. \"Spike\" MAYNARD",
         "winner": "DEM",
-        "margin_pct": -12.34511244
+        "margin_pct": -12.34201793
       },
       "6": {
-        "dem_votes": 20231,
+        "dem_votes": 20232,
         "rep_votes": 3639,
         "other_votes": 3,
-        "total_votes": 23873,
+        "total_votes": 23874,
         "dem_candidate": "",
         "rep_candidate": "Elliott E. \"Spike\" Maynard",
         "winner": "DEM",
-        "margin_pct": -69.50111004
+        "margin_pct": -69.50238753
       },
       "7": {
         "dem_votes": 9869,

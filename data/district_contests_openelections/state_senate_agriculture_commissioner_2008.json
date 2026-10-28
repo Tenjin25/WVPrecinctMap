@@ -44,13 +44,13 @@
       },
       "4": {
         "dem_votes": 24475,
-        "rep_votes": 18609,
+        "rep_votes": 18608,
         "other_votes": 5,
-        "total_votes": 43089,
+        "total_votes": 43088,
         "dem_candidate": "Gus R. Douglass",
         "rep_candidate": "J. Michael Teets",
         "winner": "DEM",
-        "margin_pct": -13.61368331
+        "margin_pct": -13.61632009
       },
       "5": {
         "dem_votes": 14019,
@@ -74,23 +74,23 @@
       },
       "7": {
         "dem_votes": 19850,
-        "rep_votes": 9538,
+        "rep_votes": 9539,
         "other_votes": 0,
-        "total_votes": 29388,
-        "dem_candidate": "GUS R. DOUGLASS",
-        "rep_candidate": "J. MICHAEL TEETS",
+        "total_votes": 29389,
+        "dem_candidate": "Gus R. Douglass",
+        "rep_candidate": "J. Michael Teets",
         "winner": "DEM",
-        "margin_pct": -35.08915203
+        "margin_pct": -35.08455545
       },
       "8": {
-        "dem_votes": 24372,
+        "dem_votes": 24373,
         "rep_votes": 15885,
         "other_votes": 0,
-        "total_votes": 40257,
-        "dem_candidate": "GUS R. DOUGLASS",
-        "rep_candidate": "J. MICHAEL TEETS",
+        "total_votes": 40258,
+        "dem_candidate": "Gus R. Douglass",
+        "rep_candidate": "J. Michael Teets",
         "winner": "DEM",
-        "margin_pct": -21.08204784
+        "margin_pct": -21.08400815
       },
       "9": {
         "dem_votes": 17259,
@@ -107,8 +107,8 @@
         "rep_votes": 13914,
         "other_votes": 4,
         "total_votes": 32618,
-        "dem_candidate": "Gus R Douglass",
-        "rep_candidate": "J Michael Teets",
+        "dem_candidate": "Gus R. Douglass",
+        "rep_candidate": "J. Michael Teets",
         "winner": "DEM",
         "margin_pct": -14.67288
       },
@@ -143,14 +143,14 @@
         "margin_pct": 0.44182622
       },
       "14": {
-        "dem_votes": 12040,
+        "dem_votes": 12039,
         "rep_votes": 13996,
         "other_votes": 0,
-        "total_votes": 26036,
+        "total_votes": 26035,
         "dem_candidate": "Gus R. Douglass",
         "rep_candidate": "James Michael Teets",
         "winner": "REP",
-        "margin_pct": 7.51267476
+        "margin_pct": 7.5168043
       },
       "15": {
         "dem_votes": 12072,
@@ -167,8 +167,8 @@
         "rep_votes": 17303,
         "other_votes": 79,
         "total_votes": 34822,
-        "dem_candidate": "GUS R. DOUGLASS",
-        "rep_candidate": "J. MICHAEL TEETS",
+        "dem_candidate": "Gus R. Douglass",
+        "rep_candidate": "J. Michael Teets",
         "winner": "DEM",
         "margin_pct": -0.39342944
       },
@@ -177,8 +177,8 @@
         "rep_votes": 18789,
         "other_votes": 0,
         "total_votes": 42618,
-        "dem_candidate": "GUS R. DOUGLASS",
-        "rep_candidate": "J. MICHAEL TEETS",
+        "dem_candidate": "Gus R. Douglass",
+        "rep_candidate": "J. Michael Teets",
         "winner": "DEM",
         "margin_pct": -11.82598902
       }

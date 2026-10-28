@@ -17,8 +17,8 @@
         "rep_votes": 134939,
         "other_votes": 0,
         "total_votes": 308612,
-        "dem_candidate": "Democratic candidate",
-        "rep_candidate": "Republican candidate",
+        "dem_candidate": "John D. Perdue",
+        "rep_candidate": "Mike Hall",
         "winner": "DEM",
         "margin_pct": -12.55103496
       },
@@ -27,8 +27,8 @@
         "rep_votes": 138945,
         "other_votes": 0,
         "total_votes": 305497,
-        "dem_candidate": "Democratic candidate",
-        "rep_candidate": "Republican candidate",
+        "dem_candidate": "John D. Perdue",
+        "rep_candidate": "Mike Hall",
         "winner": "DEM",
         "margin_pct": -9.03674995
       }

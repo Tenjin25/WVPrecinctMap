@@ -23,14 +23,14 @@
         "margin_pct": -40.42589584
       },
       "2": {
-        "dem_votes": 22700,
+        "dem_votes": 22699,
         "rep_votes": 6797,
         "other_votes": 4010,
-        "total_votes": 33507,
-        "dem_candidate": "John Davison Rockefeller IV",
+        "total_votes": 33506,
+        "dem_candidate": "Jay Rockefeller",
         "rep_candidate": "Matthew Jay Wolfe",
         "winner": "DEM",
-        "margin_pct": -47.46172442
+        "margin_pct": -47.46015639
       },
       "3": {
         "dem_votes": 24739,
@@ -54,13 +54,13 @@
       },
       "5": {
         "dem_votes": 17594,
-        "rep_votes": 9418,
+        "rep_votes": 9419,
         "other_votes": 30,
-        "total_votes": 27042,
+        "total_votes": 27043,
         "dem_candidate": "Jay Rockefeller",
         "rep_candidate": "Jay Wolfe",
         "winner": "DEM",
-        "margin_pct": -30.23445011
+        "margin_pct": -30.22963429
       },
       "6": {
         "dem_votes": 20433,
@@ -74,21 +74,21 @@
       },
       "7": {
         "dem_votes": 22034,
-        "rep_votes": 9022,
+        "rep_votes": 9021,
         "other_votes": 0,
-        "total_votes": 31056,
-        "dem_candidate": "JAY ROCKFELLER",
-        "rep_candidate": "JAY WOLFE",
+        "total_votes": 31055,
+        "dem_candidate": "Jay Rockfeller",
+        "rep_candidate": "Jay Wolfe",
         "winner": "DEM",
-        "margin_pct": -41.89850592
+        "margin_pct": -41.90307519
       },
       "8": {
         "dem_votes": 28797,
         "rep_votes": 13268,
         "other_votes": 1,
         "total_votes": 42066,
-        "dem_candidate": "JAY ROCKFELLER",
-        "rep_candidate": "JAY WOLFE",
+        "dem_candidate": "Jay Rockfeller",
+        "rep_candidate": "Jay Wolfe",
         "winner": "DEM",
         "margin_pct": -36.91579898
       },
@@ -107,7 +107,7 @@
         "rep_votes": 14542,
         "other_votes": 4,
         "total_votes": 43729,
-        "dem_candidate": "JAY ROCKFELLER",
+        "dem_candidate": "Jay Rockfeller",
         "rep_candidate": "Jay Wolfe",
         "winner": "DEM",
         "margin_pct": -33.48121384
@@ -117,7 +117,7 @@
         "rep_votes": 13808,
         "other_votes": 16,
         "total_votes": 39374,
-        "dem_candidate": "John Davison Rockefeller IV",
+        "dem_candidate": "Jay Rockefeller",
         "rep_candidate": "Matthew Jay Wolfe",
         "winner": "DEM",
         "margin_pct": -29.82170976
@@ -133,14 +133,14 @@
         "margin_pct": -16.6261863
       },
       "13": {
-        "dem_votes": 25276,
+        "dem_votes": 25277,
         "rep_votes": 4794,
         "other_votes": 6290,
-        "total_votes": 36360,
-        "dem_candidate": "JAY ROCKEFELLER",
+        "total_votes": 36361,
+        "dem_candidate": "Jay Rockefeller",
         "rep_candidate": "Jay Wolfe",
         "winner": "DEM",
-        "margin_pct": -56.33113311
+        "margin_pct": -56.33233409
       },
       "14": {
         "dem_votes": 15418,
@@ -148,7 +148,7 @@
         "other_votes": 0,
         "total_votes": 26684,
         "dem_candidate": "John Davison Rockefeller IV",
-        "rep_candidate": "Matthew Jay Wolfe",
+        "rep_candidate": "Jay Wolfe",
         "winner": "DEM",
         "margin_pct": -15.55988607
       },
@@ -167,8 +167,8 @@
         "rep_votes": 15128,
         "other_votes": 38,
         "total_votes": 36867,
-        "dem_candidate": "JAY ROCKEFELLER",
-        "rep_candidate": "JAY WOLFE",
+        "dem_candidate": "Jay Rockefeller",
+        "rep_candidate": "Jay Wolfe",
         "winner": "DEM",
         "margin_pct": -17.82895272
       },
@@ -177,8 +177,8 @@
         "rep_votes": 16243,
         "other_votes": 0,
         "total_votes": 46034,
-        "dem_candidate": "JAY ROCKFELLER",
-        "rep_candidate": "JAY WOLFE",
+        "dem_candidate": "Jay Rockfeller",
+        "rep_candidate": "Jay Wolfe",
         "winner": "DEM",
         "margin_pct": -29.43042099
       }

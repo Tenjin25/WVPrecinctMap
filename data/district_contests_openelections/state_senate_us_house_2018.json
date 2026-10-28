@@ -17,7 +17,7 @@
         "rep_votes": 25847,
         "other_votes": 0,
         "total_votes": 36730,
-        "dem_candidate": "KENDRA FERSHEE",
+        "dem_candidate": "Kendra Fershee",
         "rep_candidate": "DAVID B McKINLEY",
         "winner": "REP",
         "margin_pct": 40.74053907
@@ -27,7 +27,7 @@
         "rep_votes": 23059,
         "other_votes": 0,
         "total_votes": 36206,
-        "dem_candidate": "KENDRA FERSHEE",
+        "dem_candidate": "Kendra Fershee",
         "rep_candidate": "DAVID B McKINLEY",
         "winner": "REP",
         "margin_pct": 27.3766779
@@ -37,7 +37,7 @@
         "rep_votes": 24568,
         "other_votes": 59,
         "total_votes": 35255,
-        "dem_candidate": "KENDRA FERSHEE",
+        "dem_candidate": "Kendra Fershee",
         "rep_candidate": "DAVID B McKINLEY",
         "winner": "REP",
         "margin_pct": 39.54049071
@@ -53,14 +53,14 @@
         "margin_pct": 18.42008798
       },
       "5": {
-        "dem_votes": 16042,
+        "dem_votes": 16041,
         "rep_votes": 16168,
         "other_votes": 0,
-        "total_votes": 32210,
-        "dem_candidate": "RICHARD OJEDA II",
-        "rep_candidate": "CAROL MILLER",
+        "total_votes": 32209,
+        "dem_candidate": "Richard Ojeda II",
+        "rep_candidate": "Carol Miller",
         "winner": "REP",
-        "margin_pct": 0.39118286
+        "margin_pct": 0.39429973
       },
       "6": {
         "dem_votes": 12146,
@@ -85,12 +85,12 @@
       "8": {
         "dem_votes": 16607,
         "rep_votes": 14519,
-        "other_votes": 743,
-        "total_votes": 31869,
-        "dem_candidate": "TALLEY SERGENT",
-        "rep_candidate": "ALEX X. MOONEY",
+        "other_votes": 744,
+        "total_votes": 31870,
+        "dem_candidate": "Talley Sergent",
+        "rep_candidate": "Alex X. Mooney",
         "winner": "DEM",
-        "margin_pct": -6.55182152
+        "margin_pct": -6.55161594
       },
       "9": {
         "dem_votes": 11295,
@@ -103,22 +103,22 @@
         "margin_pct": 15.47556686
       },
       "10": {
-        "dem_votes": 16567,
+        "dem_votes": 16568,
         "rep_votes": 20277,
         "other_votes": 0,
-        "total_votes": 36844,
-        "dem_candidate": "RICHARD OJEDA II",
-        "rep_candidate": "CAROL MILLER",
+        "total_votes": 36845,
+        "dem_candidate": "Richard Ojeda II",
+        "rep_candidate": "Carol Miller",
         "winner": "REP",
-        "margin_pct": 10.06948214
+        "margin_pct": 10.06649478
       },
       "11": {
         "dem_votes": 12429,
         "rep_votes": 18909,
         "other_votes": 657,
         "total_votes": 31995,
-        "dem_candidate": "TALLEY SERGENT",
-        "rep_candidate": "ALEX X. MOONEY",
+        "dem_candidate": "Talley Sergent",
+        "rep_candidate": "Alex X. Mooney",
         "winner": "REP",
         "margin_pct": 20.25316456
       },
@@ -137,7 +137,7 @@
         "rep_votes": 14579,
         "other_votes": 0,
         "total_votes": 31013,
-        "dem_candidate": "KENDRA FERSHEE",
+        "dem_candidate": "Kendra Fershee",
         "rep_candidate": "DAVID B McKINLEY",
         "winner": "DEM",
         "margin_pct": -5.98136265
@@ -157,8 +157,8 @@
         "rep_votes": 19682,
         "other_votes": 1281,
         "total_votes": 30687,
-        "dem_candidate": "TALLEY SERGENT",
-        "rep_candidate": "ALEX X. MOONEY",
+        "dem_candidate": "Talley Sergent",
+        "rep_candidate": "Alex X. Mooney",
         "winner": "REP",
         "margin_pct": 32.45022322
       },
@@ -167,20 +167,20 @@
         "rep_votes": 19762,
         "other_votes": 1734,
         "total_votes": 36611,
-        "dem_candidate": "TALLEY SERGENT",
-        "rep_candidate": "ALEX X. MOONEY",
+        "dem_candidate": "Talley Sergent",
+        "rep_candidate": "Alex X. Mooney",
         "winner": "REP",
         "margin_pct": 12.6929065
       },
       "17": {
         "dem_votes": 19228,
         "rep_votes": 16825,
-        "other_votes": 655,
-        "total_votes": 36708,
-        "dem_candidate": "TALLEY SERGENT",
-        "rep_candidate": "ALEX X. MOONEY",
+        "other_votes": 654,
+        "total_votes": 36707,
+        "dem_candidate": "Talley Sergent",
+        "rep_candidate": "Alex X. Mooney",
         "winner": "DEM",
-        "margin_pct": -6.54625695
+        "margin_pct": -6.54643528
       }
     }
   }

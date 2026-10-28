@@ -17,8 +17,8 @@
         "rep_votes": 236733,
         "other_votes": 0,
         "total_votes": 356833,
-        "dem_candidate": "HILARY TURNER",
-        "rep_candidate": "CAROL MILLER",
+        "dem_candidate": "Hilary Turner",
+        "rep_candidate": "Carol Miller",
         "winner": "REP",
         "margin_pct": 32.68559802
       },
@@ -27,8 +27,8 @@
         "rep_votes": 265092,
         "other_votes": 0,
         "total_votes": 387320,
-        "dem_candidate": "NATALIE CLINE",
-        "rep_candidate": "DAVID B MCKINLEY",
+        "dem_candidate": "Natalie Cline",
+        "rep_candidate": "David B Mckinley",
         "winner": "REP",
         "margin_pct": 36.88526283
       }

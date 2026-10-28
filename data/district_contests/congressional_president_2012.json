@@ -17,8 +17,8 @@
         "rep_votes": 204045,
         "other_votes": 6815,
         "total_votes": 327276,
-        "dem_candidate": "Democratic candidate",
-        "rep_candidate": "Republican candidate",
+        "dem_candidate": "Barack Obama",
+        "rep_candidate": "Mitt Romney",
         "winner": "REP",
         "margin_pct": 26.77526003
       },
@@ -27,8 +27,8 @@
         "rep_votes": 202560,
         "other_votes": 7392,
         "total_votes": 327738,
-        "dem_candidate": "Democratic candidate",
-        "rep_candidate": "Republican candidate",
+        "dem_candidate": "Barack Obama",
+        "rep_candidate": "Mitt Romney",
         "winner": "REP",
         "margin_pct": 25.86639328
       }

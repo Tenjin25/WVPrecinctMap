@@ -17,8 +17,8 @@
         "rep_votes": 197500,
         "other_votes": 16252,
         "total_votes": 327536,
-        "dem_candidate": "MARK HUNT",
-        "rep_candidate": "EVAN JENKINS",
+        "dem_candidate": "Mark Hunt",
+        "rep_candidate": "Evan Jenkins",
         "winner": "REP",
         "margin_pct": 25.55932783
       },
@@ -27,8 +27,8 @@
         "rep_votes": 236961,
         "other_votes": 0,
         "total_votes": 344652,
-        "dem_candidate": "MIKE MANYPENNY",
-        "rep_candidate": "DAVID B. MCKINLEY",
+        "dem_candidate": "Mike Manypenny",
+        "rep_candidate": "David B. Mckinley",
         "winner": "REP",
         "margin_pct": 37.50739877
       }

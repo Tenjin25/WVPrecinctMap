@@ -16,6 +16,8 @@ from pathlib import Path
 
 import shapefile
 
+from wv_candidate_names import normalize_candidate_name
+
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
@@ -65,6 +67,19 @@ BLOCK_FILES = {
     2024: DATA / "wv_2024_gen_2020_blocks_csv.zip",
 }
 
+NAME_OVERRIDES = {
+    "G20AGRDBEA": "Bob Beach",
+    "G20AGRRLEO": "Kent Leonhardt",
+    "G20ATGDPET": "Sam Brown Petsonk",
+    "G20ATGRMOR": "Patrick Morrisey",
+    "G20AUDDCLA": "Mary Ann Roebuck Claytor",
+    "G20AUDRMCC": 'John "JB" McCuskey',
+    "G20SOSDTEN": "Natalie Tennant",
+    "G20SOSRWAR": "Mac Warner",
+    "G20TREDPER": "John D. Perdue",
+    "G20TRERMOO": "Riley Moore",
+}
+
 
 def read_bef(path: Path) -> dict[str, str]:
     with path.open(encoding="utf-8-sig", newline="") as source:
@@ -106,7 +121,7 @@ def read_candidate_metadata(archive: zipfile.ZipFile):
             continue
         old = re.match(r"^(G[A-Z0-9]+)\s+-\s+(.+?)\s+\(([^)]*)\)\s*$", line)
         if old:
-            names[old.group(1)] = old.group(2).strip()
+            names[old.group(1)] = normalize_candidate_name(old.group(2))
             parsed_party = party_from_label(old.group(3))
             if parsed_party:
                 parties[old.group(1)] = parsed_party
@@ -116,10 +131,11 @@ def read_candidate_metadata(archive: zipfile.ZipFile):
             pieces = [piece.strip() for piece in modern.group(2).split(",")]
             party_index = next((i for i, piece in enumerate(pieces) if party_from_label(piece)), None)
             if party_index is not None:
-                names[modern.group(1)] = ", ".join(pieces[:party_index]).strip()
+                names[modern.group(1)] = normalize_candidate_name(", ".join(pieces[:party_index]))
                 parties[modern.group(1)] = party_from_label(pieces[party_index])
             else:
-                names[modern.group(1)] = pieces[0]
+                names[modern.group(1)] = normalize_candidate_name(pieces[0])
+    names.update({column: normalize_candidate_name(name) for column, name in NAME_OVERRIDES.items()})
     return names, parties
 
 

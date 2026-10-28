@@ -17,8 +17,8 @@
         "rep_votes": 140423,
         "other_votes": 12581,
         "total_votes": 325270,
-        "dem_candidate": "Democratic candidate",
-        "rep_candidate": "Republican candidate",
+        "dem_candidate": "Earl Ray Tomblin",
+        "rep_candidate": "Bill Maloney",
         "winner": "DEM",
         "margin_pct": -9.78971316
       },
@@ -27,8 +27,8 @@
         "rep_votes": 155713,
         "other_votes": 12742,
         "total_votes": 323850,
-        "dem_candidate": "Democratic candidate",
-        "rep_candidate": "Republican candidate",
+        "dem_candidate": "Earl Ray Tomblin",
+        "rep_candidate": "Bill Maloney",
         "winner": "REP",
         "margin_pct": 0.09819361
       }

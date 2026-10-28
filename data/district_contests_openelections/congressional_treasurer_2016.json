@@ -17,8 +17,8 @@
         "rep_votes": 129136,
         "other_votes": 18252,
         "total_votes": 321126,
-        "dem_candidate": "JOHN D. PERDUE",
-        "rep_candidate": "ANN URLING",
+        "dem_candidate": "John D. Perdue",
+        "rep_candidate": "Ann Urling",
         "winner": "DEM",
         "margin_pct": -13.88925219
       },
@@ -27,8 +27,8 @@
         "rep_votes": 158478,
         "other_votes": 20886,
         "total_votes": 336472,
-        "dem_candidate": "JOHN D. PERDUE",
-        "rep_candidate": "ANN URLING",
+        "dem_candidate": "John D. Perdue",
+        "rep_candidate": "Ann Urling",
         "winner": "REP",
         "margin_pct": 0.40716612
       }

@@ -17,8 +17,8 @@
         "rep_votes": 140929,
         "other_votes": 26476,
         "total_votes": 314003,
-        "dem_candidate": "WALT HELMICK",
-        "rep_candidate": "KENT LEONHARDT",
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
         "winner": "DEM",
         "margin_pct": -1.80539676
       },
@@ -27,8 +27,8 @@
         "rep_votes": 173704,
         "other_votes": 40782,
         "total_votes": 336656,
-        "dem_candidate": "WALT HELMICK",
-        "rep_candidate": "KENT LEONHARDT",
+        "dem_candidate": "Walt Helmick",
+        "rep_candidate": "Kent Leonhardt",
         "winner": "REP",
         "margin_pct": 15.30761371
       }
