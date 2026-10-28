@@ -6,7 +6,9 @@
     "district_lines_year": 2022,
     "source_vtd_vintage": 2010,
     "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
-    "match_coverage_pct": 96.005075
+    "match_coverage_pct": 97.946073,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
   },
   "general": {
     "results": {
@@ -41,14 +43,14 @@
         "margin_pct": 34.65827991
       },
       "4": {
-        "dem_votes": 8156,
-        "rep_votes": 13952,
-        "other_votes": 1051,
-        "total_votes": 23159,
+        "dem_votes": 12352,
+        "rep_votes": 22144,
+        "other_votes": 1468,
+        "total_votes": 35964,
         "dem_candidate": "MARY ANN CLAYTOR",
         "rep_candidate": "JOHN \"\"JB\"\" MCCUSKEY",
         "winner": "REP",
-        "margin_pct": 25.02698735
+        "margin_pct": 27.22722723
       },
       "5": {
         "dem_votes": 17033,
@@ -82,13 +84,13 @@
       },
       "8": {
         "dem_votes": 5812,
-        "rep_votes": 9352,
+        "rep_votes": 9353,
         "other_votes": 682,
-        "total_votes": 15846,
+        "total_votes": 15847,
         "dem_candidate": "MARY ANN CLAYTOR",
         "rep_candidate": "JOHN \"\"JB\"\" MCCUSKEY",
         "winner": "REP",
-        "margin_pct": 22.34002272
+        "margin_pct": 22.34492333
       },
       "9": {
         "dem_votes": 10367,
@@ -122,13 +124,13 @@
       },
       "12": {
         "dem_votes": 12491,
-        "rep_votes": 26641,
+        "rep_votes": 26640,
         "other_votes": 2153,
-        "total_votes": 41285,
+        "total_votes": 41284,
         "dem_candidate": "MARY ANN CLAYTOR",
         "rep_candidate": "JOHN \"\"JB\"\" MCCUSKEY",
         "winner": "REP",
-        "margin_pct": 34.27394938
+        "margin_pct": 34.27235733
       },
       "13": {
         "dem_votes": 14794,

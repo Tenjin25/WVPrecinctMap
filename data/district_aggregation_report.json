@@ -630,11 +630,317 @@
     }
   },
   "summary": {
-    "slice_files": 75,
+    "slice_files": 113,
     "max_total_vote_error": 0,
     "max_candidate_vote_error": 0,
     "all_block_assignment_gaps": 0,
     "district_count_errors": [],
+    "supplemental_slices": [
+      {
+        "scope": "congressional",
+        "contest_type": "us_house",
+        "year": 2022,
+        "file": "congressional_us_house_2022.json",
+        "method": "official_precinct_results_summed_by_reported_district",
+        "match_coverage_pct": 100.0
+      },
+      {
+        "scope": "state_house",
+        "contest_type": "state_house",
+        "year": 2022,
+        "file": "state_house_state_house_2022.json",
+        "method": "official_precinct_results_summed_by_reported_district",
+        "match_coverage_pct": 100.0
+      },
+      {
+        "scope": "state_senate",
+        "contest_type": "state_senate",
+        "year": 2022,
+        "file": "state_senate_state_senate_2022.json",
+        "method": "official_precinct_results_summed_by_reported_district",
+        "match_coverage_pct": 100.0
+      },
+      {
+        "scope": "state_house",
+        "contest_type": "us_house",
+        "year": 2022,
+        "file": "state_house_us_house_2022.json",
+        "method": "official_2022_precinct_geometry_area_weighted_to_enacted_districts",
+        "match_coverage_pct": 99.955505
+      },
+      {
+        "scope": "state_senate",
+        "contest_type": "us_house",
+        "year": 2022,
+        "file": "state_senate_us_house_2022.json",
+        "method": "official_2022_precinct_geometry_area_weighted_to_enacted_districts",
+        "match_coverage_pct": 99.955505
+      },
+      {
+        "scope": "congressional",
+        "contest_type": "agriculture_commissioner",
+        "year": 2012,
+        "file": "congressional_agriculture_commissioner_2012.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.739372
+      },
+      {
+        "scope": "congressional",
+        "contest_type": "attorney_general",
+        "year": 2012,
+        "file": "congressional_attorney_general_2012.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.699492
+      },
+      {
+        "scope": "congressional",
+        "contest_type": "auditor",
+        "year": 2012,
+        "file": "congressional_auditor_2012.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.727452
+      },
+      {
+        "scope": "congressional",
+        "contest_type": "governor",
+        "year": 2012,
+        "file": "congressional_governor_2012.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.687536
+      },
+      {
+        "scope": "congressional",
+        "contest_type": "president",
+        "year": 2012,
+        "file": "congressional_president_2012.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.699414
+      },
+      {
+        "scope": "congressional",
+        "contest_type": "secretary_of_state",
+        "year": 2012,
+        "file": "congressional_secretary_of_state_2012.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.716011
+      },
+      {
+        "scope": "congressional",
+        "contest_type": "treasurer",
+        "year": 2012,
+        "file": "congressional_treasurer_2012.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.702024
+      },
+      {
+        "scope": "congressional",
+        "contest_type": "us_house",
+        "year": 2012,
+        "file": "congressional_us_house_2012.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.675075
+      },
+      {
+        "scope": "congressional",
+        "contest_type": "us_senate",
+        "year": 2012,
+        "file": "congressional_us_senate_2012.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.694031
+      },
+      {
+        "scope": "state_house",
+        "contest_type": "agriculture_commissioner",
+        "year": 2012,
+        "file": "state_house_agriculture_commissioner_2012.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.739372
+      },
+      {
+        "scope": "state_house",
+        "contest_type": "attorney_general",
+        "year": 2012,
+        "file": "state_house_attorney_general_2012.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.699492
+      },
+      {
+        "scope": "state_house",
+        "contest_type": "auditor",
+        "year": 2012,
+        "file": "state_house_auditor_2012.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.727452
+      },
+      {
+        "scope": "state_house",
+        "contest_type": "governor",
+        "year": 2012,
+        "file": "state_house_governor_2012.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.687536
+      },
+      {
+        "scope": "state_house",
+        "contest_type": "president",
+        "year": 2012,
+        "file": "state_house_president_2012.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.699414
+      },
+      {
+        "scope": "state_house",
+        "contest_type": "secretary_of_state",
+        "year": 2012,
+        "file": "state_house_secretary_of_state_2012.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.716011
+      },
+      {
+        "scope": "state_house",
+        "contest_type": "treasurer",
+        "year": 2012,
+        "file": "state_house_treasurer_2012.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.702024
+      },
+      {
+        "scope": "state_house",
+        "contest_type": "us_house",
+        "year": 2012,
+        "file": "state_house_us_house_2012.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.675075
+      },
+      {
+        "scope": "state_house",
+        "contest_type": "us_senate",
+        "year": 2012,
+        "file": "state_house_us_senate_2012.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.694031
+      },
+      {
+        "scope": "state_senate",
+        "contest_type": "agriculture_commissioner",
+        "year": 2012,
+        "file": "state_senate_agriculture_commissioner_2012.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.739372
+      },
+      {
+        "scope": "state_senate",
+        "contest_type": "attorney_general",
+        "year": 2012,
+        "file": "state_senate_attorney_general_2012.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.699492
+      },
+      {
+        "scope": "state_senate",
+        "contest_type": "auditor",
+        "year": 2012,
+        "file": "state_senate_auditor_2012.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.727452
+      },
+      {
+        "scope": "state_senate",
+        "contest_type": "governor",
+        "year": 2012,
+        "file": "state_senate_governor_2012.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.687536
+      },
+      {
+        "scope": "state_senate",
+        "contest_type": "president",
+        "year": 2012,
+        "file": "state_senate_president_2012.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.699414
+      },
+      {
+        "scope": "state_senate",
+        "contest_type": "secretary_of_state",
+        "year": 2012,
+        "file": "state_senate_secretary_of_state_2012.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.716011
+      },
+      {
+        "scope": "state_senate",
+        "contest_type": "treasurer",
+        "year": 2012,
+        "file": "state_senate_treasurer_2012.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.702024
+      },
+      {
+        "scope": "state_senate",
+        "contest_type": "us_house",
+        "year": 2012,
+        "file": "state_senate_us_house_2012.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.675075
+      },
+      {
+        "scope": "state_senate",
+        "contest_type": "us_senate",
+        "year": 2012,
+        "file": "state_senate_us_senate_2012.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.694031
+      },
+      {
+        "scope": "congressional",
+        "contest_type": "us_house",
+        "year": 2014,
+        "file": "congressional_us_house_2014.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.4877
+      },
+      {
+        "scope": "congressional",
+        "contest_type": "us_senate",
+        "year": 2014,
+        "file": "congressional_us_senate_2014.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.503191
+      },
+      {
+        "scope": "state_house",
+        "contest_type": "us_house",
+        "year": 2014,
+        "file": "state_house_us_house_2014.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.4877
+      },
+      {
+        "scope": "state_house",
+        "contest_type": "us_senate",
+        "year": 2014,
+        "file": "state_house_us_senate_2014.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.503191
+      },
+      {
+        "scope": "state_senate",
+        "contest_type": "us_house",
+        "year": 2014,
+        "file": "state_senate_us_house_2014.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.4877
+      },
+      {
+        "scope": "state_senate",
+        "contest_type": "us_senate",
+        "year": 2014,
+        "file": "state_senate_us_senate_2014.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.503191
+      }
+    ],
     "validation_passed": true
   }
 }

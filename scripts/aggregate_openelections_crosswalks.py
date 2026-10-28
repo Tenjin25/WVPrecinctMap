@@ -23,10 +23,12 @@ FILES = {
     2008: INPUT / "20081104__wv__general__precinct.csv",
     2010: INPUT / "20101102__wv__general__precinct.csv",
     2012: INPUT / "20121106__wv__general__precinct.csv",
+    2014: INPUT / "20141104__wv__general__precinct.csv",
     2016: INPUT / "20161108__wv__general__precinct.csv",
+    2022: INPUT / "20221108__wv__general__precinct.csv",
 }
 
-VINTAGE = {2008: 2000, 2010: 2010, 2012: 2010, 2016: 2010}
+VINTAGE = {2008: 2000, 2010: 2010, 2012: 2010, 2014: 2010, 2016: 2010, 2022: 2020}
 
 OFFICES = {
     "PRESIDENT": "president",
@@ -34,6 +36,10 @@ OFFICES = {
     "U S SENATE": "us_senate",
     "US SENATE": "us_senate",
     "UNITED STATES SENATOR": "us_senate",
+    "U S HOUSE": "us_house",
+    "US HOUSE": "us_house",
+    "U S HOUSE OF REPRESENTATIVES": "us_house",
+    "UNITED STATES REPRESENTATIVE": "us_house",
     "ATTORNEY GENERAL": "attorney_general",
     "SECRETARY OF STATE": "secretary_of_state",
     "STATE AUDITOR": "auditor",
@@ -55,8 +61,11 @@ def precinct_token(value: str) -> str:
     value = re.sub(r"\b(?:VOTING|ELECTION)\b", " ", value)
     value = re.sub(r"\b(?:PRECINCT|PCT|NO|NUMBER)\b", " ", value)
     value = re.sub(r"\s+", " ", value).strip()
-    match = re.fullmatch(r"0*(\d+)([A-Z]*)", value.replace(" ", ""))
-    return f"{int(match.group(1))}{match.group(2)}" if match else value
+    # Keep numeric split suffixes distinct: "43-1" tokenizes to "43 1" and
+    # must fall back to VTD 43, not be misread as precinct 431. Letter suffixes
+    # such as "5-A" can still normalize directly to 5A.
+    match = re.fullmatch(r"0*(\d+)\s*([A-Z]+)?", value)
+    return f"{int(match.group(1))}{match.group(2) or ''}" if match else value
 
 
 def base_precinct_token(value: str) -> str | None:
@@ -105,6 +114,22 @@ def county_lookup():
 
 
 def load_vintage_crosswalk(vintage: int):
+    if vintage == 2020:
+        payload = json.loads((DATA / "wv_vtd_2020.geojson").read_text(encoding="utf-8"))
+        weights = defaultdict(list)
+        source_meta = {}
+        for feature in payload.get("features", []):
+            props = feature.get("properties") or {}
+            geoid = str(props.get("GEOID20") or "")
+            if not geoid:
+                continue
+            weights[geoid].append((geoid, 1.0))
+            source_meta[geoid] = (
+                str(props.get("COUNTYFP20") or ""),
+                str(props.get("VTDST20") or props.get("prec_id") or ""),
+                str(props.get("NAME20") or props.get("precinct_name") or ""),
+            )
+        return weights, source_meta
     name = "vtd2000_to_vtd2020.csv" if vintage == 2000 else "vtd2010_to_vtd2020.csv"
     rows = list(csv.DictReader((DATA / "crosswalks_nhgis" / name).open(encoding="utf-8", newline="")))
     weights = defaultdict(list)
@@ -228,6 +253,8 @@ def make_node(scope, contest, year, district_data, coverage):
             "source_vtd_vintage": VINTAGE[year],
             "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
             "match_coverage_pct": round(coverage * 100.0, 6),
+            "source": "WV precinct-level general election returns normalized by OpenElections",
+            "source_url": "https://github.com/openelections/openelections-data-wv",
         },
         "general": {"results": results},
     }
@@ -353,7 +380,10 @@ def main() -> int:
         "minimum_match_coverage_pct": min((item["match_coverage_pct"] for item in contest_reports), default=0.0),
         "district_count_warnings": district_count_warnings,
     }
-    complete_year_errors = [item for item in district_count_warnings if item["year"] in {2012, 2016}]
+    complete_year_errors = [
+        item for item in district_count_warnings
+        if item["year"] in {2012, 2014, 2016, 2022}
+    ]
     report["summary"]["complete_year_district_count_errors"] = complete_year_errors
     report["summary"]["validation_passed"] = (
         report["summary"]["max_conservation_error"] < 1e-4 and not complete_year_errors

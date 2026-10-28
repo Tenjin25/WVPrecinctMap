@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "scope": "congressional",
+    "contest_type": "us_house",
+    "year": 2008,
+    "district_lines_year": 2022,
+    "source_vtd_vintage": 2000,
+    "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+    "match_coverage_pct": 96.008099,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 183075,
+        "rep_votes": 141099,
+        "other_votes": 28,
+        "total_votes": 324202,
+        "dem_candidate": "Nick Joe Rahall, II",
+        "rep_candidate": "SHELLEY MOORE CAPITO",
+        "winner": "DEM",
+        "margin_pct": -12.94748336
+      },
+      "2": {
+        "dem_votes": 189889,
+        "rep_votes": 57681,
+        "other_votes": 82,
+        "total_votes": 247652,
+        "dem_candidate": "Alan Bowlby Mollohan",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "DEM",
+        "margin_pct": -53.38458805
+      }
+    }
+  }
+}

@@ -6,19 +6,21 @@
     "district_lines_year": 2022,
     "source_vtd_vintage": 2000,
     "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
-    "match_coverage_pct": 93.698818
+    "match_coverage_pct": 96.005656,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
   },
   "general": {
     "results": {
       "1": {
-        "dem_votes": 164649,
-        "rep_votes": 115424,
+        "dem_votes": 170999,
+        "rep_votes": 122077,
         "other_votes": 23,
-        "total_votes": 280096,
+        "total_votes": 293099,
         "dem_candidate": "Gus R. Douglass",
-        "rep_candidate": "J. MICHAEL TEETS",
+        "rep_candidate": "James Michael Teets",
         "winner": "DEM",
-        "margin_pct": -17.57433166
+        "margin_pct": -16.69128861
       },
       "2": {
         "dem_votes": 117464,

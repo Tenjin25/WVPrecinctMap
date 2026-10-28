@@ -1,0 +1,817 @@
+{
+  "meta": {
+    "scope": "state_house",
+    "contest_type": "us_house",
+    "year": 2010,
+    "district_lines_year": 2022,
+    "source_vtd_vintage": 2010,
+    "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+    "match_coverage_pct": 97.723236,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
+  },
+  "general": {
+    "results": {
+      "6": {
+        "dem_votes": 2986,
+        "rep_votes": 3596,
+        "other_votes": 0,
+        "total_votes": 6582,
+        "dem_candidate": "Mike Oliverio",
+        "rep_candidate": "David B. McKinley",
+        "winner": "REP",
+        "margin_pct": 9.26769979
+      },
+      "7": {
+        "dem_votes": 802,
+        "rep_votes": 1269,
+        "other_votes": 0,
+        "total_votes": 2071,
+        "dem_candidate": "Mike Oliverio",
+        "rep_candidate": "David B. McKinley",
+        "winner": "REP",
+        "margin_pct": 22.549493
+      },
+      "8": {
+        "dem_votes": 1312,
+        "rep_votes": 2561,
+        "other_votes": 0,
+        "total_votes": 3873,
+        "dem_candidate": "Mike Oliverio",
+        "rep_candidate": "David B McKinley",
+        "winner": "REP",
+        "margin_pct": 32.24890266
+      },
+      "9": {
+        "dem_votes": 346,
+        "rep_votes": 663,
+        "other_votes": 0,
+        "total_votes": 1009,
+        "dem_candidate": "Mike Oliverio",
+        "rep_candidate": "David B. Mckinley",
+        "winner": "REP",
+        "margin_pct": 31.4172448
+      },
+      "10": {
+        "dem_votes": 2239,
+        "rep_votes": 3451,
+        "other_votes": 0,
+        "total_votes": 5690,
+        "dem_candidate": "MIKE OLIVERIO",
+        "rep_candidate": "DAVID B. McKINLEY",
+        "winner": "REP",
+        "margin_pct": 21.30052724
+      },
+      "11": {
+        "dem_votes": 2329,
+        "rep_votes": 3299,
+        "other_votes": 0,
+        "total_votes": 5628,
+        "dem_candidate": "MIKE OLIVERIO",
+        "rep_candidate": "DAVID B. McKINLEY",
+        "winner": "REP",
+        "margin_pct": 17.23525231
+      },
+      "12": {
+        "dem_votes": 2100,
+        "rep_votes": 2342,
+        "other_votes": 0,
+        "total_votes": 4442,
+        "dem_candidate": "MIKE OLIVERIO",
+        "rep_candidate": "DAVID B. McKINLEY",
+        "winner": "REP",
+        "margin_pct": 5.4479964
+      },
+      "13": {
+        "dem_votes": 1711,
+        "rep_votes": 2395,
+        "other_votes": 0,
+        "total_votes": 4106,
+        "dem_candidate": "MIKE OLIVERIO",
+        "rep_candidate": "DAVID B. McKINLEY",
+        "winner": "REP",
+        "margin_pct": 16.65854847
+      },
+      "14": {
+        "dem_votes": 1819,
+        "rep_votes": 3069,
+        "other_votes": 0,
+        "total_votes": 4888,
+        "dem_candidate": "MIKE OLIVERIO",
+        "rep_candidate": "DAVID B. McKINLEY",
+        "winner": "REP",
+        "margin_pct": 25.57283142
+      },
+      "16": {
+        "dem_votes": 1262,
+        "rep_votes": 3722,
+        "other_votes": 86,
+        "total_votes": 5070,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 48.52071006
+      },
+      "17": {
+        "dem_votes": 2191,
+        "rep_votes": 4855,
+        "other_votes": 100,
+        "total_votes": 7146,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 37.27959698
+      },
+      "18": {
+        "dem_votes": 1404,
+        "rep_votes": 3407,
+        "other_votes": 80,
+        "total_votes": 4891,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 40.95277039
+      },
+      "19": {
+        "dem_votes": 1596,
+        "rep_votes": 4138,
+        "other_votes": 104,
+        "total_votes": 5838,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 43.54230901
+      },
+      "20": {
+        "dem_votes": 1315,
+        "rep_votes": 5039,
+        "other_votes": 81,
+        "total_votes": 6435,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 57.87101787
+      },
+      "21": {
+        "dem_votes": 1292,
+        "rep_votes": 4351,
+        "other_votes": 97,
+        "total_votes": 5740,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 53.29268293
+      },
+      "22": {
+        "dem_votes": 2243,
+        "rep_votes": 2324,
+        "other_votes": 14,
+        "total_votes": 4581,
+        "dem_candidate": "NICK JOE RAHALL, II",
+        "rep_candidate": "ELLIOTT E. \"Spike\" MAYNARD",
+        "winner": "REP",
+        "margin_pct": 1.76817289
+      },
+      "23": {
+        "dem_votes": 2363,
+        "rep_votes": 2279,
+        "other_votes": 12,
+        "total_votes": 4654,
+        "dem_candidate": "NICK JOE RAHALL, II",
+        "rep_candidate": "ELLIOTT E. \"Spike\" MAYNARD",
+        "winner": "DEM",
+        "margin_pct": -1.80489901
+      },
+      "24": {
+        "dem_votes": 2230,
+        "rep_votes": 1572,
+        "other_votes": 9,
+        "total_votes": 3811,
+        "dem_candidate": "NICK JOE RAHALL, II",
+        "rep_candidate": "ELLIOTT E. \"Spike\" MAYNARD",
+        "winner": "DEM",
+        "margin_pct": -17.2658095
+      },
+      "25": {
+        "dem_votes": 2578,
+        "rep_votes": 1226,
+        "other_votes": 8,
+        "total_votes": 3812,
+        "dem_candidate": "NICK JOE RAHALL, II",
+        "rep_candidate": "ELLIOTT E. \"Spike\" MAYNARD",
+        "winner": "DEM",
+        "margin_pct": -35.46694648
+      },
+      "26": {
+        "dem_votes": 3213,
+        "rep_votes": 2875,
+        "other_votes": 13,
+        "total_votes": 6101,
+        "dem_candidate": "NICK JOE RAHALL, II",
+        "rep_candidate": "ELLIOTT E. \"Spike\" MAYNARD",
+        "winner": "DEM",
+        "margin_pct": -5.5400754
+      },
+      "27": {
+        "dem_votes": 2709,
+        "rep_votes": 2127,
+        "other_votes": 7,
+        "total_votes": 4843,
+        "dem_candidate": "Nick Joe Rahall, II",
+        "rep_candidate": "Elliott E. \"Spike\" Maynard",
+        "winner": "DEM",
+        "margin_pct": -12.01734462
+      },
+      "28": {
+        "dem_votes": 2655,
+        "rep_votes": 2427,
+        "other_votes": 17,
+        "total_votes": 5099,
+        "dem_candidate": "Nick Joe Rahall, II",
+        "rep_candidate": "Elliott E. \"Spike\" Maynard",
+        "winner": "DEM",
+        "margin_pct": -4.47146499
+      },
+      "29": {
+        "dem_votes": 2796,
+        "rep_votes": 1845,
+        "other_votes": 3,
+        "total_votes": 4644,
+        "dem_candidate": "Nick Joe Rahall, II",
+        "rep_candidate": "Elliott E. \"Spike\" Maynard",
+        "winner": "DEM",
+        "margin_pct": -20.47803618
+      },
+      "30": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "TIE",
+        "margin_pct": 0.0
+      },
+      "31": {
+        "dem_votes": 2467,
+        "rep_votes": 1771,
+        "other_votes": 9,
+        "total_votes": 4247,
+        "dem_candidate": "Nick Joe Rahall II",
+        "rep_candidate": "Elliott E. \"Spike\" Maynard",
+        "winner": "DEM",
+        "margin_pct": -16.38803862
+      },
+      "32": {
+        "dem_votes": 303,
+        "rep_votes": 97,
+        "other_votes": 0,
+        "total_votes": 400,
+        "dem_candidate": "Nick Joe Rahall II",
+        "rep_candidate": "Elliott E. \"Spike\" Maynard",
+        "winner": "DEM",
+        "margin_pct": -51.5
+      },
+      "33": {
+        "dem_votes": 4598,
+        "rep_votes": 1721,
+        "other_votes": 8,
+        "total_votes": 6327,
+        "dem_candidate": "Nick Joe Rahall II",
+        "rep_candidate": "Elliott E. \"Spike\" Maynard",
+        "winner": "DEM",
+        "margin_pct": -45.47178758
+      },
+      "34": {
+        "dem_votes": 3062,
+        "rep_votes": 2032,
+        "other_votes": 0,
+        "total_votes": 5094,
+        "dem_candidate": "Nick Joe Rahall, II",
+        "rep_candidate": "Elliott E. \"Spike\" Maynard",
+        "winner": "DEM",
+        "margin_pct": -20.21986651
+      },
+      "37": {
+        "dem_votes": 4317,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 4317,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "38": {
+        "dem_votes": 4381,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 4381,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "39": {
+        "dem_votes": 4918,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 4918,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "DEM",
+        "margin_pct": -100.0
+      },
+      "40": {
+        "dem_votes": 992,
+        "rep_votes": 702,
+        "other_votes": 2,
+        "total_votes": 1696,
+        "dem_candidate": "Nick Joe Rahall, II",
+        "rep_candidate": "Elliott E. \"Spike\" Maynard",
+        "winner": "DEM",
+        "margin_pct": -17.0990566
+      },
+      "41": {
+        "dem_votes": 2366,
+        "rep_votes": 881,
+        "other_votes": 0,
+        "total_votes": 3247,
+        "dem_candidate": "",
+        "rep_candidate": "Elliott E. \"Spike\" Maynard",
+        "winner": "DEM",
+        "margin_pct": -45.73452418
+      },
+      "45": {
+        "dem_votes": 812,
+        "rep_votes": 536,
+        "other_votes": 0,
+        "total_votes": 1348,
+        "dem_candidate": "Nick Joe Rahall II",
+        "rep_candidate": "Elliott E \"Spike\" Maynard",
+        "winner": "DEM",
+        "margin_pct": -20.47477745
+      },
+      "48": {
+        "dem_votes": 2727,
+        "rep_votes": 1428,
+        "other_votes": 2,
+        "total_votes": 4157,
+        "dem_candidate": "Nick Joe Rahall II",
+        "rep_candidate": "Elliott E. \"Spike\" Maynard",
+        "winner": "DEM",
+        "margin_pct": -31.24849651
+      },
+      "49": {
+        "dem_votes": 2865,
+        "rep_votes": 2342,
+        "other_votes": 0,
+        "total_votes": 5207,
+        "dem_candidate": "Nick Joe Rahall II",
+        "rep_candidate": "Elliott E. \"Spike\" Maynard",
+        "winner": "DEM",
+        "margin_pct": -10.04417131
+      },
+      "50": {
+        "dem_votes": 2938,
+        "rep_votes": 1675,
+        "other_votes": 0,
+        "total_votes": 4613,
+        "dem_candidate": "Nick Joe Rahall II",
+        "rep_candidate": "Elliott E \"Spike\" Maynard",
+        "winner": "DEM",
+        "margin_pct": -27.37914589
+      },
+      "51": {
+        "dem_votes": 2743,
+        "rep_votes": 2141,
+        "other_votes": 0,
+        "total_votes": 4884,
+        "dem_candidate": "Nick Joe Rahall II",
+        "rep_candidate": "Elliott E \"Spike\" Maynard",
+        "winner": "DEM",
+        "margin_pct": -12.32596233
+      },
+      "52": {
+        "dem_votes": 2266,
+        "rep_votes": 2785,
+        "other_votes": 82,
+        "total_votes": 5133,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 10.11104617
+      },
+      "53": {
+        "dem_votes": 2055,
+        "rep_votes": 4238,
+        "other_votes": 117,
+        "total_votes": 6410,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 34.05616225
+      },
+      "54": {
+        "dem_votes": 2386,
+        "rep_votes": 2584,
+        "other_votes": 70,
+        "total_votes": 5040,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 3.92857143
+      },
+      "55": {
+        "dem_votes": 1746,
+        "rep_votes": 4272,
+        "other_votes": 62,
+        "total_votes": 6080,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 41.54605263
+      },
+      "56": {
+        "dem_votes": 1694,
+        "rep_votes": 4517,
+        "other_votes": 75,
+        "total_votes": 6286,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 44.9093223
+      },
+      "57": {
+        "dem_votes": 1846,
+        "rep_votes": 3828,
+        "other_votes": 83,
+        "total_votes": 5757,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 34.42765329
+      },
+      "58": {
+        "dem_votes": 2056,
+        "rep_votes": 4260,
+        "other_votes": 94,
+        "total_votes": 6410,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 34.38377535
+      },
+      "59": {
+        "dem_votes": 1390,
+        "rep_votes": 3577,
+        "other_votes": 62,
+        "total_votes": 5029,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 43.48777093
+      },
+      "60": {
+        "dem_votes": 1456,
+        "rep_votes": 4015,
+        "other_votes": 77,
+        "total_votes": 5548,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 46.12472963
+      },
+      "61": {
+        "dem_votes": 1375,
+        "rep_votes": 4373,
+        "other_votes": 89,
+        "total_votes": 5837,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 51.36200103
+      },
+      "62": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "winner": "TIE",
+        "margin_pct": 0.0
+      },
+      "64": {
+        "dem_votes": 970,
+        "rep_votes": 3614,
+        "other_votes": 131,
+        "total_votes": 4715,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 56.07635207
+      },
+      "66": {
+        "dem_votes": 835,
+        "rep_votes": 2223,
+        "other_votes": 261,
+        "total_votes": 3319,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 41.81982525
+      },
+      "67": {
+        "dem_votes": 1463,
+        "rep_votes": 4054,
+        "other_votes": 270,
+        "total_votes": 5787,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 44.77276655
+      },
+      "68": {
+        "dem_votes": 2451,
+        "rep_votes": 2169,
+        "other_votes": 4,
+        "total_votes": 4624,
+        "dem_candidate": "Mike Oliverio",
+        "rep_candidate": "David B. McKinley",
+        "winner": "DEM",
+        "margin_pct": -6.09861592
+      },
+      "69": {
+        "dem_votes": 115,
+        "rep_votes": 367,
+        "other_votes": 11,
+        "total_votes": 493,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 51.11561866
+      },
+      "73": {
+        "dem_votes": 2975,
+        "rep_votes": 2355,
+        "other_votes": 0,
+        "total_votes": 5330,
+        "dem_candidate": "Mike Oliverio",
+        "rep_candidate": "David B. McKinley",
+        "winner": "DEM",
+        "margin_pct": -11.63227017
+      },
+      "74": {
+        "dem_votes": 3614,
+        "rep_votes": 2441,
+        "other_votes": 0,
+        "total_votes": 6055,
+        "dem_candidate": "Mike Oliverio",
+        "rep_candidate": "David B. McKinley",
+        "winner": "DEM",
+        "margin_pct": -19.37241949
+      },
+      "75": {
+        "dem_votes": 4186,
+        "rep_votes": 2042,
+        "other_votes": 0,
+        "total_votes": 6228,
+        "dem_candidate": "Mike Oliverio",
+        "rep_candidate": "David B. McKinley",
+        "winner": "DEM",
+        "margin_pct": -34.42517662
+      },
+      "76": {
+        "dem_votes": 3641,
+        "rep_votes": 1718,
+        "other_votes": 0,
+        "total_votes": 5359,
+        "dem_candidate": "Mike Oliverio",
+        "rep_candidate": "David B. McKinley",
+        "winner": "DEM",
+        "margin_pct": -35.88356037
+      },
+      "77": {
+        "dem_votes": 2986,
+        "rep_votes": 2130,
+        "other_votes": 0,
+        "total_votes": 5116,
+        "dem_candidate": "Mike Oliverio",
+        "rep_candidate": "David B. McKinley",
+        "winner": "DEM",
+        "margin_pct": -16.73182174
+      },
+      "78": {
+        "dem_votes": 2725,
+        "rep_votes": 2155,
+        "other_votes": 0,
+        "total_votes": 4880,
+        "dem_candidate": "Mike Oliverio",
+        "rep_candidate": "David B. McKinley",
+        "winner": "DEM",
+        "margin_pct": -11.68032787
+      },
+      "79": {
+        "dem_votes": 2142,
+        "rep_votes": 889,
+        "other_votes": 0,
+        "total_votes": 3031,
+        "dem_candidate": "Mike Oliverio",
+        "rep_candidate": "David B. McKinley",
+        "winner": "DEM",
+        "margin_pct": -41.33949192
+      },
+      "80": {
+        "dem_votes": 2404,
+        "rep_votes": 1366,
+        "other_votes": 0,
+        "total_votes": 3770,
+        "dem_candidate": "Mike Oliverio",
+        "rep_candidate": "David B. McKinley",
+        "winner": "DEM",
+        "margin_pct": -27.5331565
+      },
+      "81": {
+        "dem_votes": 1527,
+        "rep_votes": 906,
+        "other_votes": 0,
+        "total_votes": 2433,
+        "dem_candidate": "Mike Oliverio",
+        "rep_candidate": "David B. McKinley",
+        "winner": "DEM",
+        "margin_pct": -25.52404439
+      },
+      "82": {
+        "dem_votes": 2566,
+        "rep_votes": 2047,
+        "other_votes": 0,
+        "total_votes": 4613,
+        "dem_candidate": "Mike Oliverio",
+        "rep_candidate": "David B. McKinley",
+        "winner": "DEM",
+        "margin_pct": -11.25081292
+      },
+      "85": {
+        "dem_votes": 1437,
+        "rep_votes": 1175,
+        "other_votes": 0,
+        "total_votes": 2612,
+        "dem_candidate": "Mike Oliverio",
+        "rep_candidate": "David B. McKinley",
+        "winner": "DEM",
+        "margin_pct": -10.03062787
+      },
+      "86": {
+        "dem_votes": 349,
+        "rep_votes": 877,
+        "other_votes": 19,
+        "total_votes": 1245,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 42.40963855
+      },
+      "87": {
+        "dem_votes": 1679,
+        "rep_votes": 2922,
+        "other_votes": 0,
+        "total_votes": 4601,
+        "dem_candidate": "Mike Oliverio",
+        "rep_candidate": "David B. McKinley",
+        "winner": "REP",
+        "margin_pct": 27.01586612
+      },
+      "88": {
+        "dem_votes": 1766,
+        "rep_votes": 3768,
+        "other_votes": 26,
+        "total_votes": 5560,
+        "dem_candidate": "Mike Oliverio",
+        "rep_candidate": "David B. McKinley",
+        "winner": "REP",
+        "margin_pct": 36.00719424
+      },
+      "89": {
+        "dem_votes": 1298,
+        "rep_votes": 2946,
+        "other_votes": 913,
+        "total_votes": 5157,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 31.95656389
+      },
+      "90": {
+        "dem_votes": 1502,
+        "rep_votes": 895,
+        "other_votes": 3150,
+        "total_votes": 5547,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "OTHER",
+        "margin_pct": -10.94285199
+      },
+      "91": {
+        "dem_votes": 685,
+        "rep_votes": 2072,
+        "other_votes": 54,
+        "total_votes": 2811,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 49.34187122
+      },
+      "92": {
+        "dem_votes": 1603,
+        "rep_votes": 3684,
+        "other_votes": 88,
+        "total_votes": 5375,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 38.71627907
+      },
+      "93": {
+        "dem_votes": 1163,
+        "rep_votes": 2419,
+        "other_votes": 64,
+        "total_votes": 3646,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 34.44871092
+      },
+      "94": {
+        "dem_votes": 718,
+        "rep_votes": 1648,
+        "other_votes": 47,
+        "total_votes": 2413,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 38.54123498
+      },
+      "95": {
+        "dem_votes": 982,
+        "rep_votes": 2293,
+        "other_votes": 65,
+        "total_votes": 3340,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 39.25149701
+      },
+      "96": {
+        "dem_votes": 739,
+        "rep_votes": 1907,
+        "other_votes": 45,
+        "total_votes": 2691,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 43.40393906
+      },
+      "97": {
+        "dem_votes": 1955,
+        "rep_votes": 2927,
+        "other_votes": 69,
+        "total_votes": 4951,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 19.6323975
+      },
+      "98": {
+        "dem_votes": 1679,
+        "rep_votes": 1978,
+        "other_votes": 65,
+        "total_votes": 3722,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 8.03331542
+      },
+      "99": {
+        "dem_votes": 1539,
+        "rep_votes": 2300,
+        "other_votes": 52,
+        "total_votes": 3891,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 19.55795425
+      },
+      "100": {
+        "dem_votes": 2120,
+        "rep_votes": 2741,
+        "other_votes": 78,
+        "total_votes": 4939,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 12.57339542
+      }
+    }
+  }
+}

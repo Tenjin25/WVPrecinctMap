@@ -6,7 +6,9 @@
     "district_lines_year": 2022,
     "source_vtd_vintage": 2010,
     "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
-    "match_coverage_pct": 96.022432
+    "match_coverage_pct": 97.95762,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
   },
   "general": {
     "results": {
@@ -191,34 +193,34 @@
         "margin_pct": 15.38942759
       },
       "19": {
-        "dem_votes": 3067,
-        "rep_votes": 3171,
-        "other_votes": 495,
-        "total_votes": 6733,
+        "dem_votes": 3310,
+        "rep_votes": 3519,
+        "other_votes": 543,
+        "total_votes": 7372,
         "dem_candidate": "WALT HELMICK",
         "rep_candidate": "KENT LEONHARDT",
         "winner": "REP",
-        "margin_pct": 1.54463092
+        "margin_pct": 2.83505155
       },
       "20": {
-        "dem_votes": 524,
-        "rep_votes": 732,
-        "other_votes": 90,
-        "total_votes": 1346,
+        "dem_votes": 3423,
+        "rep_votes": 4614,
+        "other_votes": 548,
+        "total_votes": 8585,
         "dem_candidate": "WALT HELMICK",
         "rep_candidate": "KENT LEONHARDT",
         "winner": "REP",
-        "margin_pct": 15.45319465
+        "margin_pct": 13.87303436
       },
       "21": {
-        "dem_votes": 885,
-        "rep_votes": 1089,
-        "other_votes": 170,
-        "total_votes": 2144,
+        "dem_votes": 2867,
+        "rep_votes": 3744,
+        "other_votes": 509,
+        "total_votes": 7120,
         "dem_candidate": "WALT HELMICK",
         "rep_candidate": "KENT LEONHARDT",
         "winner": "REP",
-        "margin_pct": 9.51492537
+        "margin_pct": 12.31741573
       },
       "22": {
         "dem_votes": 0,

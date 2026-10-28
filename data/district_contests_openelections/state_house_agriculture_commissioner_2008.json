@@ -6,7 +6,9 @@
     "district_lines_year": 2022,
     "source_vtd_vintage": 2000,
     "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
-    "match_coverage_pct": 93.698818
+    "match_coverage_pct": 96.005656,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
   },
   "general": {
     "results": {
@@ -171,34 +173,34 @@
         "margin_pct": -34.85465525
       },
       "19": {
-        "dem_votes": 3536,
-        "rep_votes": 2701,
+        "dem_votes": 4375,
+        "rep_votes": 3486,
         "other_votes": 0,
-        "total_votes": 6237,
+        "total_votes": 7861,
         "dem_candidate": "Gus R. Douglass",
         "rep_candidate": "James Michael Teets",
         "winner": "DEM",
-        "margin_pct": -13.38784672
+        "margin_pct": -11.30899377
       },
       "20": {
-        "dem_votes": 506,
-        "rep_votes": 596,
+        "dem_votes": 3333,
+        "rep_votes": 3640,
         "other_votes": 0,
-        "total_votes": 1102,
+        "total_votes": 6973,
         "dem_candidate": "Gus R. Douglass",
         "rep_candidate": "James Michael Teets",
         "winner": "REP",
-        "margin_pct": 8.16696915
+        "margin_pct": 4.40269611
       },
       "21": {
-        "dem_votes": 1682,
-        "rep_votes": 1594,
+        "dem_votes": 4065,
+        "rep_votes": 4194,
         "other_votes": 0,
-        "total_votes": 3276,
+        "total_votes": 8259,
         "dem_candidate": "Gus R. Douglass",
         "rep_candidate": "James Michael Teets",
-        "winner": "DEM",
-        "margin_pct": -2.68620269
+        "winner": "REP",
+        "margin_pct": 1.56193244
       },
       "22": {
         "dem_votes": 2719,
@@ -221,34 +223,34 @@
         "margin_pct": -0.40542923
       },
       "24": {
-        "dem_votes": 2785,
-        "rep_votes": 2124,
+        "dem_votes": 3078,
+        "rep_votes": 2343,
         "other_votes": 4,
-        "total_votes": 4913,
+        "total_votes": 5425,
         "dem_candidate": "Gus R. Douglass",
         "rep_candidate": "J. Michael Teets",
         "winner": "DEM",
-        "margin_pct": -13.45410136
+        "margin_pct": -13.5483871
       },
       "25": {
         "dem_votes": 3276,
-        "rep_votes": 1615,
+        "rep_votes": 1614,
         "other_votes": 5,
-        "total_votes": 4896,
+        "total_votes": 4895,
         "dem_candidate": "Gus R. Douglass",
         "rep_candidate": "J. Michael Teets",
         "winner": "DEM",
-        "margin_pct": -33.92565359
+        "margin_pct": -33.95301328
       },
       "26": {
-        "dem_votes": 3955,
-        "rep_votes": 3878,
+        "dem_votes": 3963,
+        "rep_votes": 3885,
         "other_votes": 2,
-        "total_votes": 7835,
+        "total_votes": 7850,
         "dem_candidate": "Gus R. Douglass",
         "rep_candidate": "J. Michael Teets",
         "winner": "DEM",
-        "margin_pct": -0.98276962
+        "margin_pct": -0.99363057
       },
       "27": {
         "dem_votes": 1364,
@@ -792,13 +794,13 @@
       },
       "86": {
         "dem_votes": 4398,
-        "rep_votes": 2492,
+        "rep_votes": 2491,
         "other_votes": 0,
-        "total_votes": 6890,
+        "total_votes": 6889,
         "dem_candidate": "J. Michael Teets",
         "rep_candidate": "Gus R. Douglass",
         "winner": "DEM",
-        "margin_pct": -27.66328012
+        "margin_pct": -27.68181158
       },
       "88": {
         "dem_votes": 1004,

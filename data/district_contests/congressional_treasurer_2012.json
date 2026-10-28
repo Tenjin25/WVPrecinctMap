@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "scope": "congressional",
+    "contest_type": "treasurer",
+    "year": 2012,
+    "district_lines_year": 2022,
+    "source_vtd_vintage": 2010,
+    "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+    "match_coverage_pct": 97.702024,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 173673,
+        "rep_votes": 134939,
+        "other_votes": 0,
+        "total_votes": 308612,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -12.55103496
+      },
+      "2": {
+        "dem_votes": 166552,
+        "rep_votes": 138945,
+        "other_votes": 0,
+        "total_votes": 305497,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "DEM",
+        "margin_pct": -9.03674995
+      }
+    }
+  }
+}

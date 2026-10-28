@@ -6,19 +6,21 @@
     "district_lines_year": 2022,
     "source_vtd_vintage": 2000,
     "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
-    "match_coverage_pct": 94.091538
+    "match_coverage_pct": 96.196843,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
   },
   "general": {
     "results": {
       "1": {
-        "dem_votes": 218933,
-        "rep_votes": 80678,
-        "other_votes": 13519,
-        "total_votes": 313130,
+        "dem_votes": 228506,
+        "rep_votes": 84329,
+        "other_votes": 14003,
+        "total_votes": 326838,
         "dem_candidate": "JOE MANCHIN III",
         "rep_candidate": "RUSS WEEKS",
         "winner": "DEM",
-        "margin_pct": -44.15258838
+        "margin_pct": -44.11267968
       },
       "2": {
         "dem_votes": 206850,

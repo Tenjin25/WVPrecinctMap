@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "scope": "congressional",
+    "contest_type": "us_house",
+    "year": 2022,
+    "district_lines_year": 2022,
+    "source_vtd_vintage": 2020,
+    "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+    "match_coverage_pct": 93.027267,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 60827,
+        "rep_votes": 139543,
+        "other_votes": 9180,
+        "total_votes": 209550,
+        "dem_candidate": "MR. LACY WATSON",
+        "rep_candidate": "CAROL MILLER",
+        "winner": "REP",
+        "margin_pct": 37.56430446
+      },
+      "2": {
+        "dem_votes": 79573,
+        "rep_votes": 149935,
+        "other_votes": 0,
+        "total_votes": 229508,
+        "dem_candidate": "BARRY LEE WENDELL",
+        "rep_candidate": "ALEXANDER X. MOONEY",
+        "winner": "REP",
+        "margin_pct": 30.65775485
+      }
+    }
+  }
+}

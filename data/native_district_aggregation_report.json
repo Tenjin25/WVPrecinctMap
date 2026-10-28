@@ -1,0 +1,33 @@
+{
+  "years": {
+    "2022": {
+      "input_rows": 36603,
+      "contests": {
+        "congressional_us_house": {
+          "districts": 2,
+          "input_total_votes": 471967,
+          "output_total_votes": 471967,
+          "conservation_error": 0
+        },
+        "state_house_state_house": {
+          "districts": 100,
+          "input_total_votes": 460766,
+          "output_total_votes": 460766,
+          "conservation_error": 0
+        },
+        "state_senate_state_senate": {
+          "districts": 17,
+          "input_total_votes": 458512,
+          "output_total_votes": 458512,
+          "conservation_error": 0
+        }
+      }
+    }
+  },
+  "summary": {
+    "slice_files": 3,
+    "max_conservation_error": 0,
+    "district_count_errors": [],
+    "validation_passed": true
+  }
+}

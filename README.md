@@ -8,7 +8,7 @@ scripts.
 ## Election data
 
 Normalized statewide precinct CSVs live in `data/openelections/wv_sos/`.
-Complete 55-county coverage is currently available for the 2012, 2016, 2018,
+Complete 55-county coverage is currently available for the 2012, 2014, 2016, 2018,
 2020, 2022, and 2024 general elections. The 2008 and 2010 files are retained as
 partial datasets and their missing counties are documented in
 `data/MISSING_PRECINCT_COUNTIES.md`.
@@ -43,11 +43,16 @@ District contest slices are generated separately from block-level election
 estimates and Census block equivalency files:
 
 ```powershell
+python scripts/aggregate_openelections_crosswalks.py
+python scripts/build_wv_native_district_contests.py
+python scripts/aggregate_wv_2022_precinct_geometry.py
 python scripts/aggregate_wv_block_contests.py
 ```
 
 The resulting JSON slices and manifest are written to
-`data/district_contests/`.
+`data/district_contests/`. The production build prefers exact block or
+district-native totals, then adds only validated 2012 and 2014 precinct/VTD
+crosswalk slices with at least 97% matched vote coverage.
 
 ## Sources
 
@@ -55,6 +60,7 @@ The resulting JSON slices and manifest are written to
 - OpenElections West Virginia standardized election returns
 - U.S. Census Bureau TIGER/Line geography
 - NHGIS block crosswalks
+- [WV GIS Technical Center 2022 voting-district/precinct boundaries](https://data.wvgis.wvu.edu/pub/Clearinghouse/boundaries/WV_Voting_Districts_Precincts/Archive/WV_Precinct_2022_103122_UTM83.zip)
 
 Raw source repositories and downloaded ZIP archives are intentionally ignored
 by Git. Normalized inputs, derived web assets, scripts, and validation reports

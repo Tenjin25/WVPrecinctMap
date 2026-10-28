@@ -8,6 +8,7 @@ import io
 import json
 import math
 import re
+import shutil
 import zipfile
 from collections import defaultdict
 from contextlib import contextmanager
@@ -19,6 +20,16 @@ import shapefile
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 OUTPUT = DATA / "district_contests"
+
+SUPPLEMENTAL_SOURCES = (
+    # District-native contests are exact and always take precedence over a
+    # precinct/VTD crosswalk for the same year, scope, and office.
+    (DATA / "district_contests_native", None, 100.0),
+    (DATA / "district_contests_precinct_geometry", {2022}, 99.0),
+    # These are the historical years whose precinct coverage and district
+    # counts have been validated. Earlier partial years stay diagnostic-only.
+    (DATA / "district_contests_openelections", {2012, 2014}, 97.0),
+)
 
 OFFICES = {
     "PRE": "president",
@@ -233,6 +244,35 @@ def build_node(scope: str, contest: str, year: int, district_columns, column_met
     }
 
 
+def merge_supplemental_slices(manifest, legacy):
+    """Add validated fallbacks without replacing a block-derived slice."""
+    existing = {(item["scope"], item["contest_type"], item["year"]) for item in manifest}
+    expected = {"congressional": 2, "state_house": 100, "state_senate": 17}
+    merged = []
+    for directory, allowed_years, minimum_coverage in SUPPLEMENTAL_SOURCES:
+        manifest_path = directory / "manifest.json"
+        if not manifest_path.exists():
+            continue
+        source_manifest = json.loads(manifest_path.read_text(encoding="utf-8")).get("files", [])
+        for item in source_manifest:
+            year = int(item["year"])
+            key = (item["scope"], item["contest_type"], year)
+            if key in existing or (allowed_years is not None and year not in allowed_years):
+                continue
+            source_path = directory / item["file"]
+            node = json.loads(source_path.read_text(encoding="utf-8"))
+            coverage = float(node.get("meta", {}).get("match_coverage_pct", 0))
+            districts = node.get("general", {}).get("results", {})
+            if coverage < minimum_coverage or len(districts) != expected[item["scope"]]:
+                continue
+            shutil.copyfile(source_path, OUTPUT / item["file"])
+            manifest.append(dict(item))
+            legacy["results_by_year"].setdefault(str(year), {}).setdefault(item["scope"], {})[item["contest_type"]] = node
+            existing.add(key)
+            merged.append({**item, "method": node.get("meta", {}).get("method"), "match_coverage_pct": coverage})
+    return merged
+
+
 def main() -> int:
     assignments = {scope: read_bef(path) for scope, path in BEFS.items()}
     OUTPUT.mkdir(parents=True, exist_ok=True)
@@ -331,6 +371,7 @@ def main() -> int:
                 }
         qa["years"][str(year)] = year_qa
 
+    supplemental_slices = merge_supplemental_slices(manifest, legacy)
     manifest.sort(key=lambda item: (item["year"], item["scope"], item["contest_type"]))
     (OUTPUT / "manifest.json").write_text(json.dumps({"files": manifest}, indent=2) + "\n", encoding="utf-8")
     (DATA / "wv_district_results.json").write_text(json.dumps(legacy, indent=2) + "\n", encoding="utf-8")
@@ -354,6 +395,7 @@ def main() -> int:
             sum(year["missing_block_assignments"].values()) for year in qa["years"].values()
         ),
         "district_count_errors": district_count_errors,
+        "supplemental_slices": supplemental_slices,
     }
     qa["summary"]["validation_passed"] = (
         qa["summary"]["max_total_vote_error"] < 1e-5

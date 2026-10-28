@@ -6,7 +6,9 @@
     "district_lines_year": 2022,
     "source_vtd_vintage": 2000,
     "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
-    "match_coverage_pct": 93.834328
+    "match_coverage_pct": 95.988316,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
   },
   "general": {
     "results": {
@@ -41,24 +43,24 @@
         "margin_pct": 29.77955024
       },
       "4": {
-        "dem_votes": 12749,
-        "rep_votes": 19186,
-        "other_votes": 698,
-        "total_votes": 32633,
+        "dem_votes": 17080,
+        "rep_votes": 26968,
+        "other_votes": 812,
+        "total_votes": 44860,
         "dem_candidate": "Barack Obama",
         "rep_candidate": "John McCain",
         "winner": "REP",
-        "margin_pct": 19.72543131
+        "margin_pct": 22.04190816
       },
       "5": {
-        "dem_votes": 12491,
-        "rep_votes": 13951,
-        "other_votes": 499,
-        "total_votes": 26941,
+        "dem_votes": 12717,
+        "rep_votes": 14289,
+        "other_votes": 511,
+        "total_votes": 27517,
         "dem_candidate": "Barack Obama",
         "rep_candidate": "John McCain",
         "winner": "REP",
-        "margin_pct": 5.41924947
+        "margin_pct": 5.71283207
       },
       "6": {
         "dem_votes": 12708,
@@ -81,14 +83,14 @@
         "margin_pct": 2.96833065
       },
       "8": {
-        "dem_votes": 21110,
-        "rep_votes": 19611,
-        "other_votes": 582,
-        "total_votes": 41303,
+        "dem_votes": 21548,
+        "rep_votes": 20204,
+        "other_votes": 597,
+        "total_votes": 42349,
         "dem_candidate": "BARACK OBAMA",
         "rep_candidate": "JOHN McCAIN",
         "winner": "DEM",
-        "margin_pct": -3.62927632
+        "margin_pct": -3.17362866
       },
       "9": {
         "dem_votes": 15187,

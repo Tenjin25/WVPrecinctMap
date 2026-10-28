@@ -6,7 +6,9 @@
     "district_lines_year": 2022,
     "source_vtd_vintage": 2010,
     "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
-    "match_coverage_pct": 95.968287
+    "match_coverage_pct": 97.925918,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
   },
   "general": {
     "results": {
@@ -191,34 +193,34 @@
         "margin_pct": -9.12172573
       },
       "19": {
-        "dem_votes": 3272,
-        "rep_votes": 2675,
-        "other_votes": 912,
-        "total_votes": 6859,
+        "dem_votes": 3532,
+        "rep_votes": 3001,
+        "other_votes": 977,
+        "total_votes": 7510,
         "dem_candidate": "JOHN D. PERDUE",
         "rep_candidate": "ANN URLING",
         "winner": "DEM",
-        "margin_pct": -8.7038927
+        "margin_pct": -7.07057257
       },
       "20": {
-        "dem_votes": 540,
-        "rep_votes": 686,
-        "other_votes": 144,
-        "total_votes": 1370,
+        "dem_votes": 3767,
+        "rep_votes": 4252,
+        "other_votes": 765,
+        "total_votes": 8784,
         "dem_candidate": "JOHN D. PERDUE",
         "rep_candidate": "ANN URLING",
         "winner": "REP",
-        "margin_pct": 10.65693431
+        "margin_pct": 5.52140255
       },
       "21": {
-        "dem_votes": 972,
-        "rep_votes": 945,
-        "other_votes": 252,
-        "total_votes": 2169,
+        "dem_votes": 3132,
+        "rep_votes": 3367,
+        "other_votes": 754,
+        "total_votes": 7253,
         "dem_candidate": "JOHN D. PERDUE",
         "rep_candidate": "ANN URLING",
-        "winner": "DEM",
-        "margin_pct": -1.24481328
+        "winner": "REP",
+        "margin_pct": 3.2400386
       },
       "22": {
         "dem_votes": 0,
@@ -731,14 +733,14 @@
         "margin_pct": -13.14082767
       },
       "73": {
-        "dem_votes": 3521,
+        "dem_votes": 3520,
         "rep_votes": 2561,
         "other_votes": 342,
-        "total_votes": 6424,
+        "total_votes": 6423,
         "dem_candidate": "JOHN D. PERDUE",
         "rep_candidate": "ANN URLING",
         "winner": "DEM",
-        "margin_pct": -14.94396015
+        "margin_pct": -14.93071773
       },
       "74": {
         "dem_votes": 4364,
@@ -752,13 +754,13 @@
       },
       "75": {
         "dem_votes": 4435,
-        "rep_votes": 2465,
+        "rep_votes": 2464,
         "other_votes": 484,
-        "total_votes": 7384,
+        "total_votes": 7383,
         "dem_candidate": "JOHN D. PERDUE",
         "rep_candidate": "ANN URLING",
         "winner": "DEM",
-        "margin_pct": -26.67930661
+        "margin_pct": -26.69646485
       },
       "76": {
         "dem_votes": 4048,
@@ -803,12 +805,12 @@
       "80": {
         "dem_votes": 2427,
         "rep_votes": 1372,
-        "other_votes": 258,
-        "total_votes": 4057,
+        "other_votes": 257,
+        "total_votes": 4056,
         "dem_candidate": "JOHN D. PERDUE",
         "rep_candidate": "ANN URLING",
         "winner": "DEM",
-        "margin_pct": -26.00443678
+        "margin_pct": -26.01084813
       },
       "81": {
         "dem_votes": 2054,

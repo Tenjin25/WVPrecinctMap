@@ -6,7 +6,9 @@
     "district_lines_year": 2022,
     "source_vtd_vintage": 2000,
     "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
-    "match_coverage_pct": 94.091538
+    "match_coverage_pct": 96.196843,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
   },
   "general": {
     "results": {
@@ -31,14 +33,14 @@
         "margin_pct": -48.36668028
       },
       "5": {
-        "dem_votes": 5381,
+        "dem_votes": 5380,
         "rep_votes": 1480,
         "other_votes": 256,
-        "total_votes": 7117,
+        "total_votes": 7116,
         "dem_candidate": "Joe Manchin, III",
         "rep_candidate": "Russell E. Weeks Jr",
         "winner": "DEM",
-        "margin_pct": -54.81242096
+        "margin_pct": -54.80607083
       },
       "6": {
         "dem_votes": 6960,
@@ -171,34 +173,34 @@
         "margin_pct": -62.13098998
       },
       "19": {
-        "dem_votes": 4482,
-        "rep_votes": 1606,
-        "other_votes": 293,
-        "total_votes": 6381,
+        "dem_votes": 5623,
+        "rep_votes": 2065,
+        "other_votes": 371,
+        "total_votes": 8059,
         "dem_candidate": "Joe Manchin, III",
         "rep_candidate": "Russell E. Weeks Jr",
         "winner": "DEM",
-        "margin_pct": -45.07130544
+        "margin_pct": -44.14939819
       },
       "20": {
-        "dem_votes": 771,
-        "rep_votes": 342,
-        "other_votes": 44,
-        "total_votes": 1157,
+        "dem_votes": 5100,
+        "rep_votes": 1994,
+        "other_votes": 241,
+        "total_votes": 7335,
         "dem_candidate": "Joe Manchin, III",
         "rep_candidate": "Russell E. Weeks Jr",
         "winner": "DEM",
-        "margin_pct": -37.07865169
+        "margin_pct": -42.34492161
       },
       "21": {
-        "dem_votes": 2242,
-        "rep_votes": 1018,
-        "other_votes": 158,
-        "total_votes": 3418,
+        "dem_votes": 5877,
+        "rep_votes": 2450,
+        "other_votes": 357,
+        "total_votes": 8684,
         "dem_candidate": "Joe Manchin, III",
         "rep_candidate": "Russell E. Weeks Jr",
         "winner": "DEM",
-        "margin_pct": -35.81041545
+        "margin_pct": -39.46338093
       },
       "22": {
         "dem_votes": 4216,
@@ -221,14 +223,14 @@
         "margin_pct": -53.58953393
       },
       "24": {
-        "dem_votes": 4261,
-        "rep_votes": 906,
-        "other_votes": 179,
-        "total_votes": 5346,
+        "dem_votes": 4717,
+        "rep_votes": 1011,
+        "other_votes": 189,
+        "total_votes": 5917,
         "dem_candidate": "Joe Manchin III",
         "rep_candidate": "Russ Weeks",
         "winner": "DEM",
-        "margin_pct": -62.75720165
+        "margin_pct": -62.63309109
       },
       "25": {
         "dem_votes": 4432,
@@ -241,14 +243,14 @@
         "margin_pct": -70.35298535
       },
       "26": {
-        "dem_votes": 6646,
-        "rep_votes": 1709,
+        "dem_votes": 6659,
+        "rep_votes": 1712,
         "other_votes": 212,
-        "total_votes": 8567,
+        "total_votes": 8583,
         "dem_candidate": "Joe Manchin III",
         "rep_candidate": "Russ Weeks",
         "winner": "DEM",
-        "margin_pct": -57.62810786
+        "margin_pct": -57.63718979
       },
       "27": {
         "dem_votes": 2011,

@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "scope": "congressional",
+    "contest_type": "us_house",
+    "year": 2012,
+    "district_lines_year": 2022,
+    "source_vtd_vintage": 2010,
+    "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+    "match_coverage_pct": 97.675075,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 141591,
+        "rep_votes": 174454,
+        "other_votes": 0,
+        "total_votes": 316045,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "REP",
+        "margin_pct": 10.39820279
+      },
+      "2": {
+        "dem_votes": 109013,
+        "rep_votes": 201385,
+        "other_votes": 0,
+        "total_votes": 310398,
+        "dem_candidate": "Democratic candidate",
+        "rep_candidate": "Republican candidate",
+        "winner": "REP",
+        "margin_pct": 29.75921237
+      }
+    }
+  }
+}

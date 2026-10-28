@@ -6,7 +6,9 @@
     "district_lines_year": 2022,
     "source_vtd_vintage": 2000,
     "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
-    "match_coverage_pct": 94.091538
+    "match_coverage_pct": 96.196843,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
   },
   "general": {
     "results": {
@@ -41,24 +43,24 @@
         "margin_pct": -51.80317574
       },
       "4": {
-        "dem_votes": 23915,
-        "rep_votes": 7580,
-        "other_votes": 1268,
-        "total_votes": 32763,
+        "dem_votes": 32307,
+        "rep_votes": 10849,
+        "other_votes": 1688,
+        "total_votes": 44844,
         "dem_candidate": "Joe Manchin III",
         "rep_candidate": "Russ Weeks",
         "winner": "DEM",
-        "margin_pct": -49.85807161
+        "margin_pct": -47.85032557
       },
       "5": {
-        "dem_votes": 21140,
-        "rep_votes": 4877,
-        "other_votes": 829,
-        "total_votes": 26846,
+        "dem_votes": 21609,
+        "rep_votes": 4985,
+        "other_votes": 839,
+        "total_votes": 27433,
         "dem_candidate": "Joe Manchin III",
         "rep_candidate": "Russ Weeks",
         "winner": "DEM",
-        "margin_pct": -60.57885719
+        "margin_pct": -60.59854919
       },
       "6": {
         "dem_votes": 22982,
@@ -81,14 +83,14 @@
         "margin_pct": -52.80252946
       },
       "8": {
-        "dem_votes": 28556,
-        "rep_votes": 9834,
-        "other_votes": 2649,
-        "total_votes": 41039,
+        "dem_votes": 29268,
+        "rep_votes": 10108,
+        "other_votes": 2703,
+        "total_votes": 42079,
         "dem_candidate": "JOE MANCHIN III",
         "rep_candidate": "RUSS WEEKS",
         "winner": "DEM",
-        "margin_pct": -45.62001998
+        "margin_pct": -45.53340146
       },
       "9": {
         "dem_votes": 23752,

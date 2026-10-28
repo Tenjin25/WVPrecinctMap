@@ -6,7 +6,9 @@
     "district_lines_year": 2022,
     "source_vtd_vintage": 2000,
     "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
-    "match_coverage_pct": 93.600039
+    "match_coverage_pct": 95.913161,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
   },
   "general": {
     "results": {
@@ -171,34 +173,34 @@
         "margin_pct": -12.11166786
       },
       "19": {
-        "dem_votes": 2945,
-        "rep_votes": 3280,
+        "dem_votes": 3607,
+        "rep_votes": 4266,
         "other_votes": 0,
-        "total_votes": 6225,
+        "total_votes": 7873,
         "dem_candidate": "Darrell V. McGraw, Jr.",
         "rep_candidate": "Daniel W.Greear",
         "winner": "REP",
-        "margin_pct": 5.3815261
+        "margin_pct": 8.37037978
       },
       "20": {
-        "dem_votes": 392,
-        "rep_votes": 738,
+        "dem_votes": 2483,
+        "rep_votes": 4666,
         "other_votes": 0,
-        "total_votes": 1130,
+        "total_votes": 7149,
         "dem_candidate": "Darrell V. McGraw, Jr.",
         "rep_candidate": "Daniel W.Greear",
         "winner": "REP",
-        "margin_pct": 30.61946903
+        "margin_pct": 30.53573926
       },
       "21": {
-        "dem_votes": 1323,
-        "rep_votes": 1995,
+        "dem_votes": 3143,
+        "rep_votes": 5288,
         "other_votes": 0,
-        "total_votes": 3318,
+        "total_votes": 8431,
         "dem_candidate": "Darrell V. McGraw, Jr.",
         "rep_candidate": "Daniel W.Greear",
         "winner": "REP",
-        "margin_pct": 20.25316456
+        "margin_pct": 25.44182185
       },
       "22": {
         "dem_votes": 2404,
@@ -221,34 +223,34 @@
         "margin_pct": 11.48590209
       },
       "24": {
-        "dem_votes": 2560,
-        "rep_votes": 2552,
+        "dem_votes": 2848,
+        "rep_votes": 2798,
         "other_votes": 3,
-        "total_votes": 5115,
+        "total_votes": 5649,
         "dem_candidate": "Darrell McGraw",
         "rep_candidate": "Dan Greear",
         "winner": "DEM",
-        "margin_pct": -0.15640274
+        "margin_pct": -0.88511241
       },
       "25": {
-        "dem_votes": 3126,
+        "dem_votes": 3125,
         "rep_votes": 1965,
         "other_votes": 1,
-        "total_votes": 5092,
+        "total_votes": 5091,
         "dem_candidate": "Darrell McGraw",
         "rep_candidate": "Dan Greear",
         "winner": "DEM",
-        "margin_pct": -22.80047133
+        "margin_pct": -22.78530741
       },
       "26": {
-        "dem_votes": 3321,
-        "rep_votes": 4837,
+        "dem_votes": 3330,
+        "rep_votes": 4844,
         "other_votes": 4,
-        "total_votes": 8162,
+        "total_votes": 8178,
         "dem_candidate": "Darrell McGraw",
         "rep_candidate": "Dan Greear",
         "winner": "REP",
-        "margin_pct": 18.57387895
+        "margin_pct": 18.51308388
       },
       "27": {
         "dem_votes": 1265,
@@ -262,13 +264,13 @@
       },
       "29": {
         "dem_votes": 249,
-        "rep_votes": 186,
+        "rep_votes": 185,
         "other_votes": 0,
-        "total_votes": 435,
+        "total_votes": 434,
         "dem_candidate": "Darrell V. McGraw, Jr.",
         "rep_candidate": "Daniel W.Greear",
         "winner": "DEM",
-        "margin_pct": -14.48275862
+        "margin_pct": -14.74654378
       },
       "30": {
         "dem_votes": 1,

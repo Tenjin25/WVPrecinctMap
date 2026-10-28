@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "scope": "congressional",
+    "contest_type": "us_senate",
+    "year": 2014,
+    "district_lines_year": 2022,
+    "source_vtd_vintage": 2010,
+    "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+    "match_coverage_pct": 97.503191,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 82706,
+        "rep_votes": 138953,
+        "other_votes": 7067,
+        "total_votes": 228726,
+        "dem_candidate": "NATALIE TENNANT",
+        "rep_candidate": "SHELLEY MOORE CAPITO",
+        "winner": "REP",
+        "margin_pct": 24.59143254
+      },
+      "2": {
+        "dem_votes": 70278,
+        "rep_votes": 135244,
+        "other_votes": 8084,
+        "total_votes": 213606,
+        "dem_candidate": "NATALIE TENNANT",
+        "rep_candidate": "SHELLEY MOORE CAPITO",
+        "winner": "REP",
+        "margin_pct": 30.41393968
+      }
+    }
+  }
+}

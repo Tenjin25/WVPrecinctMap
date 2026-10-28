@@ -6,19 +6,21 @@
     "district_lines_year": 2022,
     "source_vtd_vintage": 2000,
     "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
-    "match_coverage_pct": 93.834328
+    "match_coverage_pct": 95.988316,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
   },
   "general": {
     "results": {
       "1": {
-        "dem_votes": 141525,
-        "rep_votes": 173610,
-        "other_votes": 5807,
-        "total_votes": 320942,
+        "dem_votes": 146520,
+        "rep_votes": 182323,
+        "other_votes": 5948,
+        "total_votes": 334791,
         "dem_candidate": "BARACK OBAMA",
         "rep_candidate": "John McCain",
         "winner": "REP",
-        "margin_pct": 9.99713344
+        "margin_pct": 10.69413455
       },
       "2": {
         "dem_votes": 117691,

@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "scope": "congressional",
+    "contest_type": "us_house",
+    "year": 2010,
+    "district_lines_year": 2022,
+    "source_vtd_vintage": 2010,
+    "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+    "match_coverage_pct": 97.723236,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 88284,
+        "rep_votes": 97905,
+        "other_votes": 1514,
+        "total_votes": 187703,
+        "dem_candidate": "Virginia Lynch Graf",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 5.12565063
+      },
+      "2": {
+        "dem_votes": 70780,
+        "rep_votes": 87730,
+        "other_votes": 5361,
+        "total_votes": 163871,
+        "dem_candidate": "Mike Oliverio",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 10.3435019
+      }
+    }
+  }
+}

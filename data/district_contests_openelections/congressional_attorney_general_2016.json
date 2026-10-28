@@ -6,19 +6,21 @@
     "district_lines_year": 2022,
     "source_vtd_vintage": 2010,
     "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
-    "match_coverage_pct": 95.96615
+    "match_coverage_pct": 97.900237,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
   },
   "general": {
     "results": {
       "1": {
-        "dem_votes": 150295,
-        "rep_votes": 153964,
-        "other_votes": 15708,
-        "total_votes": 319967,
+        "dem_votes": 155910,
+        "rep_votes": 161233,
+        "other_votes": 16249,
+        "total_votes": 333392,
         "dem_candidate": "DOUG REYNOLDS",
         "rep_candidate": "PATRICK MORRISEY",
         "winner": "REP",
-        "margin_pct": 1.14668075
+        "margin_pct": 1.596619
       },
       "2": {
         "dem_votes": 129486,

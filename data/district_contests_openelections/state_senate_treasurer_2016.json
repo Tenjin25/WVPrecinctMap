@@ -6,7 +6,9 @@
     "district_lines_year": 2022,
     "source_vtd_vintage": 2010,
     "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
-    "match_coverage_pct": 95.968287
+    "match_coverage_pct": 97.925918,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
   },
   "general": {
     "results": {
@@ -41,14 +43,14 @@
         "margin_pct": 8.86528224
       },
       "4": {
-        "dem_votes": 11759,
-        "rep_votes": 10214,
-        "other_votes": 1720,
-        "total_votes": 23693,
+        "dem_votes": 17405,
+        "rep_votes": 16527,
+        "other_votes": 2907,
+        "total_votes": 36839,
         "dem_candidate": "JOHN D. PERDUE",
         "rep_candidate": "ANN URLING",
         "winner": "DEM",
-        "margin_pct": -6.52091335
+        "margin_pct": -2.38334374
       },
       "5": {
         "dem_votes": 22563,

@@ -1,0 +1,187 @@
+{
+  "meta": {
+    "scope": "state_senate",
+    "contest_type": "us_house",
+    "year": 2022,
+    "district_lines_year": 2022,
+    "source_vtd_vintage": 2020,
+    "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+    "match_coverage_pct": 93.027267,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 10310,
+        "rep_votes": 19001,
+        "other_votes": 0,
+        "total_votes": 29311,
+        "dem_candidate": "BARRY LEE WENDELL",
+        "rep_candidate": "ALEXANDER X. MOONEY",
+        "winner": "REP",
+        "margin_pct": 29.65098427
+      },
+      "2": {
+        "dem_votes": 10757,
+        "rep_votes": 17693,
+        "other_votes": 0,
+        "total_votes": 28450,
+        "dem_candidate": "BARRY LEE WENDELL",
+        "rep_candidate": "ALEXANDER X. MOONEY",
+        "winner": "REP",
+        "margin_pct": 24.37961336
+      },
+      "3": {
+        "dem_votes": 8552,
+        "rep_votes": 21118,
+        "other_votes": 81,
+        "total_votes": 29751,
+        "dem_candidate": "BARRY LEE WENDELL",
+        "rep_candidate": "ALEXANDER X. MOONEY",
+        "winner": "REP",
+        "margin_pct": 42.23723572
+      },
+      "4": {
+        "dem_votes": 6837,
+        "rep_votes": 20160,
+        "other_votes": 1052,
+        "total_votes": 28049,
+        "dem_candidate": "MR. LACY WATSON",
+        "rep_candidate": "CAROL MILLER",
+        "winner": "REP",
+        "margin_pct": 47.49901957
+      },
+      "5": {
+        "dem_votes": 8797,
+        "rep_votes": 14837,
+        "other_votes": 681,
+        "total_votes": 24315,
+        "dem_candidate": "MR. LACY WATSON",
+        "rep_candidate": "CAROL MILLER",
+        "winner": "REP",
+        "margin_pct": 24.84063335
+      },
+      "6": {
+        "dem_votes": 5725,
+        "rep_votes": 16966,
+        "other_votes": 1117,
+        "total_votes": 23808,
+        "dem_candidate": "MR. LACY WATSON",
+        "rep_candidate": "CAROL MILLER",
+        "winner": "REP",
+        "margin_pct": 47.21522177
+      },
+      "7": {
+        "dem_votes": 5238,
+        "rep_votes": 14566,
+        "other_votes": 704,
+        "total_votes": 20508,
+        "dem_candidate": "MR. LACY WATSON",
+        "rep_candidate": "CAROL MILLER",
+        "winner": "REP",
+        "margin_pct": 45.4846889
+      },
+      "8": {
+        "dem_votes": 8718,
+        "rep_votes": 14011,
+        "other_votes": 1049,
+        "total_votes": 23778,
+        "dem_candidate": "MR. LACY WATSON",
+        "rep_candidate": "CAROL MILLER",
+        "winner": "REP",
+        "margin_pct": 22.26007234
+      },
+      "9": {
+        "dem_votes": 4813,
+        "rep_votes": 15167,
+        "other_votes": 1099,
+        "total_votes": 21079,
+        "dem_candidate": "MR. LACY WATSON",
+        "rep_candidate": "CAROL MILLER",
+        "winner": "REP",
+        "margin_pct": 49.11997723
+      },
+      "10": {
+        "dem_votes": 7153,
+        "rep_votes": 18054,
+        "other_votes": 1803,
+        "total_votes": 27010,
+        "dem_candidate": "MR. LACY WATSON",
+        "rep_candidate": "CAROL MILLER",
+        "winner": "REP",
+        "margin_pct": 40.35912625
+      },
+      "11": {
+        "dem_votes": 7501,
+        "rep_votes": 18977,
+        "other_votes": 461,
+        "total_votes": 26939,
+        "dem_candidate": "BARRY LEE WENDELL",
+        "rep_candidate": "ALEXANDER X. MOONEY",
+        "winner": "REP",
+        "margin_pct": 42.59994803
+      },
+      "12": {
+        "dem_votes": 9379,
+        "rep_votes": 18388,
+        "other_votes": 242,
+        "total_votes": 28009,
+        "dem_candidate": "BARRY LEE WENDELL",
+        "rep_candidate": "ALEXANDER X. MOONEY",
+        "winner": "REP",
+        "margin_pct": 32.16466136
+      },
+      "13": {
+        "dem_votes": 13721,
+        "rep_votes": 11676,
+        "other_votes": 0,
+        "total_votes": 25397,
+        "dem_candidate": "BARRY LEE WENDELL",
+        "rep_candidate": "ALEXANDER X. MOONEY",
+        "winner": "DEM",
+        "margin_pct": -8.05213214
+      },
+      "14": {
+        "dem_votes": 6985,
+        "rep_votes": 21275,
+        "other_votes": 0,
+        "total_votes": 28260,
+        "dem_candidate": "BARRY LEE WENDELL",
+        "rep_candidate": "ALEXANDER X. MOONEY",
+        "winner": "REP",
+        "margin_pct": 50.56617127
+      },
+      "15": {
+        "dem_votes": 6349,
+        "rep_votes": 17849,
+        "other_votes": 0,
+        "total_votes": 24198,
+        "dem_candidate": "BARRY LEE WENDELL",
+        "rep_candidate": "ALEXANDER X. MOONEY",
+        "winner": "REP",
+        "margin_pct": 47.52458881
+      },
+      "16": {
+        "dem_votes": 9407,
+        "rep_votes": 14785,
+        "other_votes": 0,
+        "total_votes": 24192,
+        "dem_candidate": "BARRY LEE WENDELL",
+        "rep_candidate": "ALEXANDER X. MOONEY",
+        "winner": "REP",
+        "margin_pct": 22.23048942
+      },
+      "17": {
+        "dem_votes": 10158,
+        "rep_votes": 14955,
+        "other_votes": 891,
+        "total_votes": 26004,
+        "dem_candidate": "MR. LACY WATSON",
+        "rep_candidate": "CAROL MILLER",
+        "winner": "REP",
+        "margin_pct": 18.44716198
+      }
+    }
+  }
+}

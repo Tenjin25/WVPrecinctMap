@@ -6,7 +6,9 @@
     "district_lines_year": 2022,
     "source_vtd_vintage": 2000,
     "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
-    "match_coverage_pct": 93.759915
+    "match_coverage_pct": 95.95838,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
   },
   "general": {
     "results": {
@@ -161,40 +163,40 @@
         "margin_pct": -99.97258772
       },
       "18": {
-        "dem_votes": 5692,
+        "dem_votes": 5691,
         "rep_votes": 0,
         "other_votes": 11,
-        "total_votes": 5703,
+        "total_votes": 5702,
         "dem_candidate": "Glen B. Gainer III",
         "rep_candidate": "",
         "winner": "DEM",
-        "margin_pct": -99.80711906
+        "margin_pct": -99.80708523
       },
       "19": {
-        "dem_votes": 4675,
+        "dem_votes": 5921,
         "rep_votes": 0,
         "other_votes": 0,
-        "total_votes": 4675,
+        "total_votes": 5921,
         "dem_candidate": "Glen B. Gainer III",
         "rep_candidate": "",
         "winner": "DEM",
         "margin_pct": -100.0
       },
       "20": {
-        "dem_votes": 816,
+        "dem_votes": 5188,
         "rep_votes": 0,
         "other_votes": 0,
-        "total_votes": 816,
+        "total_votes": 5188,
         "dem_candidate": "Glen B. Gainer III",
         "rep_candidate": "",
         "winner": "DEM",
         "margin_pct": -100.0
       },
       "21": {
-        "dem_votes": 2374,
+        "dem_votes": 6111,
         "rep_votes": 0,
         "other_votes": 0,
-        "total_votes": 2374,
+        "total_votes": 6111,
         "dem_candidate": "Glen B. Gainer III",
         "rep_candidate": "",
         "winner": "DEM",
@@ -221,14 +223,14 @@
         "margin_pct": -99.67197751
       },
       "24": {
-        "dem_votes": 3978,
+        "dem_votes": 4382,
         "rep_votes": 0,
         "other_votes": 16,
-        "total_votes": 3994,
+        "total_votes": 4398,
         "dem_candidate": "Glen B. Gainer III",
         "rep_candidate": "",
         "winner": "DEM",
-        "margin_pct": -99.5993991
+        "margin_pct": -99.63619827
       },
       "25": {
         "dem_votes": 4236,
@@ -241,14 +243,14 @@
         "margin_pct": -99.69404566
       },
       "26": {
-        "dem_votes": 6064,
+        "dem_votes": 6076,
         "rep_votes": 0,
         "other_votes": 17,
-        "total_votes": 6081,
+        "total_votes": 6093,
         "dem_candidate": "Glen B. Gainer III",
         "rep_candidate": "",
         "winner": "DEM",
-        "margin_pct": -99.72044072
+        "margin_pct": -99.7209913
       },
       "27": {
         "dem_votes": 1880,

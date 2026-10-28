@@ -6,19 +6,21 @@
     "district_lines_year": 2022,
     "source_vtd_vintage": 2010,
     "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
-    "match_coverage_pct": 95.811996
+    "match_coverage_pct": 97.694031,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
   },
   "general": {
     "results": {
       "1": {
-        "dem_votes": 199246,
-        "rep_votes": 101005,
-        "other_votes": 9975,
-        "total_votes": 310226,
+        "dem_votes": 206184,
+        "rep_votes": 106217,
+        "other_votes": 10251,
+        "total_votes": 322652,
         "dem_candidate": "Democratic candidate",
         "rep_candidate": "Republican candidate",
         "winner": "DEM",
-        "margin_pct": -31.66755849
+        "margin_pct": -30.98291658
       },
       "2": {
         "dem_votes": 184232,

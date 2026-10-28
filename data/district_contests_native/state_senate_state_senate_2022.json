@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "scope": "state_senate",
+    "contest_type": "state_senate",
+    "year": 2022,
+    "district_lines_year": 2022,
+    "method": "official_precinct_results_summed_by_reported_district",
+    "match_coverage_pct": 100.0,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 12258,
+        "rep_votes": 18746,
+        "other_votes": 0,
+        "total_votes": 31004,
+        "dem_candidate": "Randy Swartzmiller",
+        "rep_candidate": "Laura Wakim Chapman",
+        "winner": "REP",
+        "margin_pct": 20.92633209
+      },
+      "2": {
+        "dem_votes": 11213,
+        "rep_votes": 18720,
+        "other_votes": 0,
+        "total_votes": 29933,
+        "dem_candidate": "Eric M. Hayhurst",
+        "rep_candidate": "Charles Clements",
+        "winner": "REP",
+        "margin_pct": 25.07934387
+      },
+      "3": {
+        "dem_votes": 10861,
+        "rep_votes": 20812,
+        "other_votes": 0,
+        "total_votes": 31673,
+        "dem_candidate": "Jody Murphy",
+        "rep_candidate": "Michael Azinger",
+        "winner": "REP",
+        "margin_pct": 31.41792694
+      },
+      "4": {
+        "dem_votes": 0,
+        "rep_votes": 21059,
+        "other_votes": 0,
+        "total_votes": 21059,
+        "dem_candidate": "",
+        "rep_candidate": "Eric J. Tarr",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "5": {
+        "dem_votes": 13542,
+        "rep_votes": 11552,
+        "other_votes": 0,
+        "total_votes": 25094,
+        "dem_candidate": "Mike Woelfel",
+        "rep_candidate": "Melissa Clark",
+        "winner": "DEM",
+        "margin_pct": -7.93018251
+      },
+      "6": {
+        "dem_votes": 6249,
+        "rep_votes": 17222,
+        "other_votes": 0,
+        "total_votes": 23471,
+        "dem_candidate": "Tiffany Clemins",
+        "rep_candidate": "Mark R. Maynard",
+        "winner": "REP",
+        "margin_pct": 46.75131013
+      },
+      "7": {
+        "dem_votes": 9526,
+        "rep_votes": 13242,
+        "other_votes": 0,
+        "total_votes": 22768,
+        "dem_candidate": "Ron Stollings",
+        "rep_candidate": "Mike Stuart",
+        "winner": "REP",
+        "margin_pct": 16.32115249
+      },
+      "8": {
+        "dem_votes": 11136,
+        "rep_votes": 14615,
+        "other_votes": 0,
+        "total_votes": 25751,
+        "dem_candidate": "Richard Lindsay",
+        "rep_candidate": "Mark Hunt",
+        "winner": "REP",
+        "margin_pct": 13.51015495
+      },
+      "9": {
+        "dem_votes": 0,
+        "rep_votes": 18540,
+        "other_votes": 5194,
+        "total_votes": 23734,
+        "dem_candidate": "",
+        "rep_candidate": "Rollan Roberts",
+        "winner": "REP",
+        "margin_pct": 78.11578326
+      },
+      "10": {
+        "dem_votes": 12250,
+        "rep_votes": 18954,
+        "other_votes": 1085,
+        "total_votes": 32289,
+        "dem_candidate": "Stephen Baldwin",
+        "rep_candidate": "Vince Deeds",
+        "winner": "REP",
+        "margin_pct": 20.76248877
+      },
+      "11": {
+        "dem_votes": 0,
+        "rep_votes": 23105,
+        "other_votes": 0,
+        "total_votes": 23105,
+        "dem_candidate": "",
+        "rep_candidate": "Bill Hamilton",
+        "winner": "REP",
+        "margin_pct": 100.0
+      },
+      "12": {
+        "dem_votes": 0,
+        "rep_votes": 18711,
+        "other_votes": 8529,
+        "total_votes": 27240,
+        "dem_candidate": "",
+        "rep_candidate": "Ben Queen",
+        "winner": "REP",
+        "margin_pct": 68.68942731
+      },
+      "13": {
+        "dem_votes": 13342,
+        "rep_votes": 13495,
+        "other_votes": 0,
+        "total_votes": 26837,
+        "dem_candidate": "Barbara Evans Fleischauer",
+        "rep_candidate": "Mike Oliverio",
+        "winner": "REP",
+        "margin_pct": 0.57010843
+      },
+      "14": {
+        "dem_votes": 6855,
+        "rep_votes": 21910,
+        "other_votes": 0,
+        "total_votes": 28765,
+        "dem_candidate": "Amanda Jo Pitzer",
+        "rep_candidate": "Jay Taylor",
+        "winner": "REP",
+        "margin_pct": 52.33791066
+      },
+      "15": {
+        "dem_votes": 0,
+        "rep_votes": 21137,
+        "other_votes": 5148,
+        "total_votes": 26285,
+        "dem_candidate": "",
+        "rep_candidate": "Charles S. Trump Iv",
+        "winner": "REP",
+        "margin_pct": 80.41468518
+      },
+      "16": {
+        "dem_votes": 12196,
+        "rep_votes": 18672,
+        "other_votes": 0,
+        "total_votes": 30868,
+        "dem_candidate": "Hannah N. Geffert",
+        "rep_candidate": "Jason Barrett",
+        "winner": "REP",
+        "margin_pct": 20.97965531
+      },
+      "17": {
+        "dem_votes": 11897,
+        "rep_votes": 16739,
+        "other_votes": 0,
+        "total_votes": 28636,
+        "dem_candidate": "Samuel \"Sam\" Wood",
+        "rep_candidate": "Tom Takubo",
+        "winner": "REP",
+        "margin_pct": 16.90878614
+      }
+    }
+  }
+}

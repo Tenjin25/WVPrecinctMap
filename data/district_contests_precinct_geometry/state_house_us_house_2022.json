@@ -1,0 +1,1016 @@
+{
+  "meta": {
+    "scope": "state_house",
+    "contest_type": "us_house",
+    "year": 2022,
+    "district_lines_year": 2022,
+    "method": "official_2022_precinct_geometry_area_weighted_to_enacted_districts",
+    "match_coverage_pct": 99.955505,
+    "source": "WV precinct returns and WV GIS Technical Center 2022 precinct boundaries",
+    "source_url": "https://data.wvgis.wvu.edu/pub/Clearinghouse/boundaries/WV_Voting_Districts_Precincts/Archive/WV_Precinct_2022_103122_UTM83.zip"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 1613,
+        "rep_votes": 4241,
+        "other_votes": 0,
+        "total_votes": 5854,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 44.89238128
+      },
+      "2": {
+        "dem_votes": 1723,
+        "rep_votes": 3204,
+        "other_votes": 0,
+        "total_votes": 4927,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 30.05885935
+      },
+      "3": {
+        "dem_votes": 1878,
+        "rep_votes": 3384,
+        "other_votes": 0,
+        "total_votes": 5262,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 28.62029647
+      },
+      "4": {
+        "dem_votes": 2335,
+        "rep_votes": 4056,
+        "other_votes": 0,
+        "total_votes": 6391,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 26.92849319
+      },
+      "5": {
+        "dem_votes": 2147,
+        "rep_votes": 2423,
+        "other_votes": 0,
+        "total_votes": 4570,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 6.03938731
+      },
+      "6": {
+        "dem_votes": 2048,
+        "rep_votes": 3541,
+        "other_votes": 0,
+        "total_votes": 5589,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 26.71318662
+      },
+      "7": {
+        "dem_votes": 1625,
+        "rep_votes": 3542,
+        "other_votes": 0,
+        "total_votes": 5167,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 37.1008322
+      },
+      "8": {
+        "dem_votes": 1228,
+        "rep_votes": 3788,
+        "other_votes": 0,
+        "total_votes": 5016,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 51.03668262
+      },
+      "9": {
+        "dem_votes": 1160,
+        "rep_votes": 4312,
+        "other_votes": 0,
+        "total_votes": 5472,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 57.60233918
+      },
+      "10": {
+        "dem_votes": 1733,
+        "rep_votes": 4291,
+        "other_votes": 0,
+        "total_votes": 6024,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 42.46347942
+      },
+      "11": {
+        "dem_votes": 1856,
+        "rep_votes": 3184,
+        "other_votes": 0,
+        "total_votes": 5040,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 26.34920635
+      },
+      "12": {
+        "dem_votes": 1528,
+        "rep_votes": 2307,
+        "other_votes": 0,
+        "total_votes": 3835,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 20.31290743
+      },
+      "13": {
+        "dem_votes": 1264,
+        "rep_votes": 3204,
+        "other_votes": 0,
+        "total_votes": 4468,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 43.41987466
+      },
+      "14": {
+        "dem_votes": 1283,
+        "rep_votes": 4157,
+        "other_votes": 34,
+        "total_votes": 5474,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 52.50274023
+      },
+      "15": {
+        "dem_votes": 1059,
+        "rep_votes": 3439,
+        "other_votes": 330,
+        "total_votes": 4828,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 49.29577465
+      },
+      "16": {
+        "dem_votes": 1055,
+        "rep_votes": 4153,
+        "other_votes": 281,
+        "total_votes": 5489,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 56.44015303
+      },
+      "17": {
+        "dem_votes": 1132,
+        "rep_votes": 3545,
+        "other_votes": 209,
+        "total_votes": 4886,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 49.38600082
+      },
+      "18": {
+        "dem_votes": 1017,
+        "rep_votes": 3227,
+        "other_votes": 174,
+        "total_votes": 4418,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 50.02263468
+      },
+      "19": {
+        "dem_votes": 1253,
+        "rep_votes": 3622,
+        "other_votes": 200,
+        "total_votes": 5075,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 46.67980296
+      },
+      "20": {
+        "dem_votes": 1527,
+        "rep_votes": 4014,
+        "other_votes": 208,
+        "total_votes": 5749,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 43.25969734
+      },
+      "21": {
+        "dem_votes": 1407,
+        "rep_votes": 3670,
+        "other_votes": 158,
+        "total_votes": 5235,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 43.22827125
+      },
+      "22": {
+        "dem_votes": 1029,
+        "rep_votes": 3204,
+        "other_votes": 130,
+        "total_votes": 4363,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 49.85101994
+      },
+      "23": {
+        "dem_votes": 1263,
+        "rep_votes": 3088,
+        "other_votes": 131,
+        "total_votes": 4482,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 40.71842927
+      },
+      "24": {
+        "dem_votes": 1473,
+        "rep_votes": 2060,
+        "other_votes": 94,
+        "total_votes": 3627,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 16.18417425
+      },
+      "25": {
+        "dem_votes": 1909,
+        "rep_votes": 1137,
+        "other_votes": 79,
+        "total_votes": 3125,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "DEM",
+        "margin_pct": -24.704
+      },
+      "26": {
+        "dem_votes": 2009,
+        "rep_votes": 2952,
+        "other_votes": 137,
+        "total_votes": 5098,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 18.49744998
+      },
+      "27": {
+        "dem_votes": 1302,
+        "rep_votes": 2598,
+        "other_votes": 128,
+        "total_votes": 4028,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 32.17477656
+      },
+      "28": {
+        "dem_votes": 1050,
+        "rep_votes": 3488,
+        "other_votes": 136,
+        "total_votes": 4674,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 52.16089003
+      },
+      "29": {
+        "dem_votes": 689,
+        "rep_votes": 2923,
+        "other_votes": 87,
+        "total_votes": 3699,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 60.39470127
+      },
+      "30": {
+        "dem_votes": 1042,
+        "rep_votes": 3211,
+        "other_votes": 166,
+        "total_votes": 4419,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 49.08350305
+      },
+      "31": {
+        "dem_votes": 722,
+        "rep_votes": 2813,
+        "other_votes": 112,
+        "total_votes": 3647,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 57.33479572
+      },
+      "32": {
+        "dem_votes": 1192,
+        "rep_votes": 3218,
+        "other_votes": 160,
+        "total_votes": 4570,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 44.33260394
+      },
+      "33": {
+        "dem_votes": 790,
+        "rep_votes": 2696,
+        "other_votes": 106,
+        "total_votes": 3592,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 53.0623608
+      },
+      "34": {
+        "dem_votes": 757,
+        "rep_votes": 3113,
+        "other_votes": 102,
+        "total_votes": 3972,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 59.31520645
+      },
+      "35": {
+        "dem_votes": 699,
+        "rep_votes": 2563,
+        "other_votes": 258,
+        "total_votes": 3520,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 52.95454545
+      },
+      "36": {
+        "dem_votes": 997,
+        "rep_votes": 1931,
+        "other_votes": 155,
+        "total_votes": 3083,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 30.29516705
+      },
+      "37": {
+        "dem_votes": 1282,
+        "rep_votes": 2602,
+        "other_votes": 195,
+        "total_votes": 4079,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 32.36087276
+      },
+      "38": {
+        "dem_votes": 1142,
+        "rep_votes": 2955,
+        "other_votes": 234,
+        "total_votes": 4331,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 41.86100208
+      },
+      "39": {
+        "dem_votes": 921,
+        "rep_votes": 3324,
+        "other_votes": 320,
+        "total_votes": 4565,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 52.63964951
+      },
+      "40": {
+        "dem_votes": 1274,
+        "rep_votes": 3885,
+        "other_votes": 746,
+        "total_votes": 5905,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 44.21676545
+      },
+      "41": {
+        "dem_votes": 1036,
+        "rep_votes": 4415,
+        "other_votes": 344,
+        "total_votes": 5795,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 58.30888697
+      },
+      "42": {
+        "dem_votes": 819,
+        "rep_votes": 3599,
+        "other_votes": 227,
+        "total_votes": 4645,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 59.84930032
+      },
+      "43": {
+        "dem_votes": 749,
+        "rep_votes": 3350,
+        "other_votes": 186,
+        "total_votes": 4285,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 60.70011669
+      },
+      "44": {
+        "dem_votes": 1673,
+        "rep_votes": 2503,
+        "other_votes": 205,
+        "total_votes": 4381,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 18.94544625
+      },
+      "45": {
+        "dem_votes": 902,
+        "rep_votes": 2724,
+        "other_votes": 190,
+        "total_votes": 3816,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 47.74633124
+      },
+      "46": {
+        "dem_votes": 1693,
+        "rep_votes": 3916,
+        "other_votes": 488,
+        "total_votes": 6097,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 36.46055437
+      },
+      "47": {
+        "dem_votes": 1434,
+        "rep_votes": 3809,
+        "other_votes": 519,
+        "total_votes": 5762,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 41.21832697
+      },
+      "48": {
+        "dem_votes": 896,
+        "rep_votes": 2901,
+        "other_votes": 168,
+        "total_votes": 3965,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 50.56746532
+      },
+      "49": {
+        "dem_votes": 933,
+        "rep_votes": 3460,
+        "other_votes": 181,
+        "total_votes": 4574,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 55.24704854
+      },
+      "50": {
+        "dem_votes": 1275,
+        "rep_votes": 2278,
+        "other_votes": 168,
+        "total_votes": 3721,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 26.95511959
+      },
+      "51": {
+        "dem_votes": 1478,
+        "rep_votes": 3177,
+        "other_votes": 207,
+        "total_votes": 4862,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 34.9444673
+      },
+      "52": {
+        "dem_votes": 1570,
+        "rep_votes": 2311,
+        "other_votes": 125,
+        "total_votes": 4006,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 18.49725412
+      },
+      "53": {
+        "dem_votes": 1689,
+        "rep_votes": 2681,
+        "other_votes": 165,
+        "total_votes": 4535,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 21.87431092
+      },
+      "54": {
+        "dem_votes": 2800,
+        "rep_votes": 1345,
+        "other_votes": 170,
+        "total_votes": 4315,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "DEM",
+        "margin_pct": -33.71958285
+      },
+      "55": {
+        "dem_votes": 2585,
+        "rep_votes": 3082,
+        "other_votes": 168,
+        "total_votes": 5835,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 8.51756641
+      },
+      "56": {
+        "dem_votes": 2464,
+        "rep_votes": 2957,
+        "other_votes": 171,
+        "total_votes": 5592,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 8.81616595
+      },
+      "57": {
+        "dem_votes": 2425,
+        "rep_votes": 2293,
+        "other_votes": 193,
+        "total_votes": 4911,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "DEM",
+        "margin_pct": -2.68784362
+      },
+      "58": {
+        "dem_votes": 1942,
+        "rep_votes": 2659,
+        "other_votes": 173,
+        "total_votes": 4774,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 15.01885212
+      },
+      "59": {
+        "dem_votes": 1580,
+        "rep_votes": 2668,
+        "other_votes": 157,
+        "total_votes": 4405,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 24.69920545
+      },
+      "60": {
+        "dem_votes": 1280,
+        "rep_votes": 3100,
+        "other_votes": 171,
+        "total_votes": 4551,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 39.99121072
+      },
+      "61": {
+        "dem_votes": 1074,
+        "rep_votes": 3315,
+        "other_votes": 157,
+        "total_votes": 4546,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 49.29608447
+      },
+      "62": {
+        "dem_votes": 1051,
+        "rep_votes": 3660,
+        "other_votes": 297,
+        "total_votes": 5008,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 52.09664537
+      },
+      "63": {
+        "dem_votes": 1067,
+        "rep_votes": 2788,
+        "other_votes": 187,
+        "total_votes": 4042,
+        "dem_candidate": "Mr. Lacy Watson",
+        "rep_candidate": "Carol Miller",
+        "winner": "REP",
+        "margin_pct": 42.57793172
+      },
+      "64": {
+        "dem_votes": 1160,
+        "rep_votes": 3478,
+        "other_votes": 0,
+        "total_votes": 4638,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 49.97843898
+      },
+      "65": {
+        "dem_votes": 1247,
+        "rep_votes": 3191,
+        "other_votes": 0,
+        "total_votes": 4438,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 43.8035151
+      },
+      "66": {
+        "dem_votes": 1368,
+        "rep_votes": 3156,
+        "other_votes": 72,
+        "total_votes": 4596,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 38.90339426
+      },
+      "67": {
+        "dem_votes": 1857,
+        "rep_votes": 3726,
+        "other_votes": 52,
+        "total_votes": 5635,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 33.16770186
+      },
+      "68": {
+        "dem_votes": 1292,
+        "rep_votes": 3516,
+        "other_votes": 0,
+        "total_votes": 4808,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 46.2562396
+      },
+      "69": {
+        "dem_votes": 1713,
+        "rep_votes": 3772,
+        "other_votes": 0,
+        "total_votes": 5485,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 37.53874202
+      },
+      "70": {
+        "dem_votes": 1843,
+        "rep_votes": 1969,
+        "other_votes": 0,
+        "total_votes": 3812,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 3.30535152
+      },
+      "71": {
+        "dem_votes": 2243,
+        "rep_votes": 3248,
+        "other_votes": 0,
+        "total_votes": 5491,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 18.30267711
+      },
+      "72": {
+        "dem_votes": 1310,
+        "rep_votes": 2887,
+        "other_votes": 0,
+        "total_votes": 4197,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 37.57445795
+      },
+      "73": {
+        "dem_votes": 1493,
+        "rep_votes": 3216,
+        "other_votes": 0,
+        "total_votes": 4709,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 36.58950945
+      },
+      "74": {
+        "dem_votes": 2071,
+        "rep_votes": 3445,
+        "other_votes": 0,
+        "total_votes": 5516,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 24.9093546
+      },
+      "75": {
+        "dem_votes": 2345,
+        "rep_votes": 2917,
+        "other_votes": 0,
+        "total_votes": 5262,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 10.87039149
+      },
+      "76": {
+        "dem_votes": 2260,
+        "rep_votes": 2185,
+        "other_votes": 0,
+        "total_votes": 4445,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "DEM",
+        "margin_pct": -1.68728909
+      },
+      "77": {
+        "dem_votes": 2085,
+        "rep_votes": 3048,
+        "other_votes": 0,
+        "total_votes": 5133,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 18.7609585
+      },
+      "78": {
+        "dem_votes": 2535,
+        "rep_votes": 2881,
+        "other_votes": 0,
+        "total_votes": 5416,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 6.38847858
+      },
+      "79": {
+        "dem_votes": 2686,
+        "rep_votes": 1022,
+        "other_votes": 0,
+        "total_votes": 3708,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "DEM",
+        "margin_pct": -44.87594391
+      },
+      "80": {
+        "dem_votes": 2303,
+        "rep_votes": 1497,
+        "other_votes": 0,
+        "total_votes": 3800,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "DEM",
+        "margin_pct": -21.21052632
+      },
+      "81": {
+        "dem_votes": 1714,
+        "rep_votes": 833,
+        "other_votes": 0,
+        "total_votes": 2547,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "DEM",
+        "margin_pct": -34.58971339
+      },
+      "82": {
+        "dem_votes": 2836,
+        "rep_votes": 2611,
+        "other_votes": 0,
+        "total_votes": 5447,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "DEM",
+        "margin_pct": -4.13071415
+      },
+      "83": {
+        "dem_votes": 1245,
+        "rep_votes": 2831,
+        "other_votes": 0,
+        "total_votes": 4076,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 38.91069676
+      },
+      "84": {
+        "dem_votes": 1340,
+        "rep_votes": 3415,
+        "other_votes": 0,
+        "total_votes": 4755,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 43.6382755
+      },
+      "85": {
+        "dem_votes": 1320,
+        "rep_votes": 4715,
+        "other_votes": 0,
+        "total_votes": 6035,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 56.25517813
+      },
+      "86": {
+        "dem_votes": 1079,
+        "rep_votes": 3758,
+        "other_votes": 35,
+        "total_votes": 4872,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 54.98768473
+      },
+      "87": {
+        "dem_votes": 1148,
+        "rep_votes": 3790,
+        "other_votes": 0,
+        "total_votes": 4938,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 53.50344269
+      },
+      "88": {
+        "dem_votes": 889,
+        "rep_votes": 4114,
+        "other_votes": 0,
+        "total_votes": 5003,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 64.46132321
+      },
+      "89": {
+        "dem_votes": 1066,
+        "rep_votes": 4119,
+        "other_votes": 0,
+        "total_votes": 5185,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 58.88138862
+      },
+      "90": {
+        "dem_votes": 1357,
+        "rep_votes": 4446,
+        "other_votes": 0,
+        "total_votes": 5803,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 53.23108737
+      },
+      "91": {
+        "dem_votes": 1109,
+        "rep_votes": 3371,
+        "other_votes": 0,
+        "total_votes": 4480,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 50.49107143
+      },
+      "92": {
+        "dem_votes": 1477,
+        "rep_votes": 3535,
+        "other_votes": 0,
+        "total_votes": 5012,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 41.06145251
+      },
+      "93": {
+        "dem_votes": 1371,
+        "rep_votes": 2356,
+        "other_votes": 0,
+        "total_votes": 3727,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 26.42876308
+      },
+      "94": {
+        "dem_votes": 1175,
+        "rep_votes": 2712,
+        "other_votes": 0,
+        "total_votes": 3887,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 39.54206329
+      },
+      "95": {
+        "dem_votes": 1116,
+        "rep_votes": 2723,
+        "other_votes": 0,
+        "total_votes": 3839,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 41.85985934
+      },
+      "96": {
+        "dem_votes": 1105,
+        "rep_votes": 2765,
+        "other_votes": 0,
+        "total_votes": 3870,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 42.89405685
+      },
+      "97": {
+        "dem_votes": 2153,
+        "rep_votes": 2959,
+        "other_votes": 0,
+        "total_votes": 5112,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 15.76682316
+      },
+      "98": {
+        "dem_votes": 1528,
+        "rep_votes": 3181,
+        "other_votes": 0,
+        "total_votes": 4709,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 35.10299427
+      },
+      "99": {
+        "dem_votes": 2182,
+        "rep_votes": 3037,
+        "other_votes": 0,
+        "total_votes": 5219,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 16.38244874
+      },
+      "100": {
+        "dem_votes": 2743,
+        "rep_votes": 3438,
+        "other_votes": 0,
+        "total_votes": 6181,
+        "dem_candidate": "Barry Lee Wendell",
+        "rep_candidate": "Alexander X. Mooney",
+        "winner": "REP",
+        "margin_pct": 11.24413525
+      }
+    }
+  }
+}

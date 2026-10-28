@@ -6,19 +6,21 @@
     "district_lines_year": 2022,
     "source_vtd_vintage": 2010,
     "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
-    "match_coverage_pct": 96.022432
+    "match_coverage_pct": 97.95762,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
   },
   "general": {
     "results": {
       "1": {
-        "dem_votes": 141474,
-        "rep_votes": 134044,
-        "other_votes": 25631,
-        "total_votes": 301149,
+        "dem_votes": 146598,
+        "rep_votes": 140929,
+        "other_votes": 26476,
+        "total_votes": 314003,
         "dem_candidate": "WALT HELMICK",
         "rep_candidate": "KENT LEONHARDT",
         "winner": "DEM",
-        "margin_pct": -2.46721722
+        "margin_pct": -1.80539676
       },
       "2": {
         "dem_votes": 122170,

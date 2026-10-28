@@ -6,19 +6,21 @@
     "district_lines_year": 2022,
     "source_vtd_vintage": 2010,
     "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
-    "match_coverage_pct": 95.969964
+    "match_coverage_pct": 97.867524,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
   },
   "general": {
     "results": {
       "1": {
-        "dem_votes": 87570,
-        "rep_votes": 226716,
-        "other_votes": 14470,
-        "total_votes": 328756,
+        "dem_votes": 90804,
+        "rep_votes": 236363,
+        "other_votes": 15119,
+        "total_votes": 342286,
         "dem_candidate": "Hillary Clinton",
         "rep_candidate": "Donald Trump",
         "winner": "REP",
-        "margin_pct": 42.325007
+        "margin_pct": 42.52554881
       },
       "2": {
         "dem_votes": 95485,

@@ -6,7 +6,9 @@
     "district_lines_year": 2022,
     "source_vtd_vintage": 2010,
     "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
-    "match_coverage_pct": 95.947763
+    "match_coverage_pct": 97.863071,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
   },
   "general": {
     "results": {
@@ -103,12 +105,12 @@
       "10": {
         "dem_votes": 3859,
         "rep_votes": 3697,
-        "other_votes": 515,
-        "total_votes": 8071,
+        "other_votes": 514,
+        "total_votes": 8070,
         "dem_candidate": "JIM JUSTICE",
         "rep_candidate": "BILL COLE",
         "winner": "DEM",
-        "margin_pct": -2.00718622
+        "margin_pct": -2.00743494
       },
       "11": {
         "dem_votes": 4049,
@@ -152,13 +154,13 @@
       },
       "15": {
         "dem_votes": 3347,
-        "rep_votes": 2680,
+        "rep_votes": 2679,
         "other_votes": 484,
-        "total_votes": 6511,
+        "total_votes": 6510,
         "dem_candidate": "JIM JUSTICE",
         "rep_candidate": "BILL COLE",
         "winner": "DEM",
-        "margin_pct": -10.24420212
+        "margin_pct": -10.26113671
       },
       "16": {
         "dem_votes": 3282,
@@ -191,34 +193,34 @@
         "margin_pct": -12.93721645
       },
       "19": {
-        "dem_votes": 4124,
-        "rep_votes": 2485,
-        "other_votes": 571,
-        "total_votes": 7180,
+        "dem_votes": 4445,
+        "rep_votes": 2790,
+        "other_votes": 617,
+        "total_votes": 7852,
         "dem_candidate": "JIM JUSTICE",
         "rep_candidate": "BILL COLE",
         "winner": "DEM",
-        "margin_pct": -22.82729805
+        "margin_pct": -21.0774325
       },
       "20": {
-        "dem_votes": 716,
-        "rep_votes": 630,
-        "other_votes": 89,
-        "total_votes": 1435,
+        "dem_votes": 4703,
+        "rep_votes": 3873,
+        "other_votes": 557,
+        "total_votes": 9133,
         "dem_candidate": "JIM JUSTICE",
         "rep_candidate": "BILL COLE",
         "winner": "DEM",
-        "margin_pct": -5.99303136
+        "margin_pct": -9.08792292
       },
       "21": {
-        "dem_votes": 1189,
-        "rep_votes": 863,
-        "other_votes": 207,
-        "total_votes": 2259,
+        "dem_votes": 3935,
+        "rep_votes": 3048,
+        "other_votes": 581,
+        "total_votes": 7564,
         "dem_candidate": "JIM JUSTICE",
         "rep_candidate": "BILL COLE",
         "winner": "DEM",
-        "margin_pct": -14.43116423
+        "margin_pct": -11.72659968
       },
       "22": {
         "dem_votes": 0,
@@ -721,14 +723,14 @@
         "margin_pct": -5.02827637
       },
       "72": {
-        "dem_votes": 3519,
+        "dem_votes": 3518,
         "rep_votes": 2777,
         "other_votes": 434,
-        "total_votes": 6730,
+        "total_votes": 6729,
         "dem_candidate": "JIM JUSTICE",
         "rep_candidate": "BILL COLE",
         "winner": "DEM",
-        "margin_pct": -11.02526003
+        "margin_pct": -11.01203745
       },
       "73": {
         "dem_votes": 3024,

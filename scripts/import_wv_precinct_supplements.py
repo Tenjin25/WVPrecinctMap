@@ -547,6 +547,12 @@ def main() -> int:
             supplemental / "harvard" / "WV_2012.tab",
             output_root / "20121106__wv__general__precinct.csv",
         ),
+        consolidate_local_year(
+            source_root,
+            recovered_root,
+            2014,
+            output_root / "20141104__wv__general__precinct.csv",
+        ),
         import_medsl_2016(
             supplemental / "medsl" / "2016-wv-precinct.zip",
             output_root / "20161108__wv__general__precinct.csv",

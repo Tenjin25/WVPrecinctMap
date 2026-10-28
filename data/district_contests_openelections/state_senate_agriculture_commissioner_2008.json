@@ -6,7 +6,9 @@
     "district_lines_year": 2022,
     "source_vtd_vintage": 2000,
     "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
-    "match_coverage_pct": 93.698818
+    "match_coverage_pct": 96.005656,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
   },
   "general": {
     "results": {
@@ -41,24 +43,24 @@
         "margin_pct": -0.91456776
       },
       "4": {
-        "dem_votes": 18958,
-        "rep_votes": 12660,
+        "dem_votes": 24475,
+        "rep_votes": 18609,
         "other_votes": 5,
-        "total_votes": 31623,
+        "total_votes": 43089,
         "dem_candidate": "Gus R. Douglass",
         "rep_candidate": "J. Michael Teets",
         "winner": "DEM",
-        "margin_pct": -19.91588401
+        "margin_pct": -13.61368331
       },
       "5": {
-        "dem_votes": 13718,
-        "rep_votes": 10917,
+        "dem_votes": 14019,
+        "rep_votes": 11142,
         "other_votes": 14,
-        "total_votes": 24649,
+        "total_votes": 25175,
         "dem_candidate": "Gus R. Douglass",
         "rep_candidate": "J. Michael Teets",
         "winner": "DEM",
-        "margin_pct": -11.36354416
+        "margin_pct": -11.42800397
       },
       "6": {
         "dem_votes": 16832,
@@ -81,14 +83,14 @@
         "margin_pct": -35.08915203
       },
       "8": {
-        "dem_votes": 23840,
-        "rep_votes": 15406,
+        "dem_votes": 24372,
+        "rep_votes": 15885,
         "other_votes": 0,
-        "total_votes": 39246,
+        "total_votes": 40257,
         "dem_candidate": "GUS R. DOUGLASS",
         "rep_candidate": "J. MICHAEL TEETS",
         "winner": "DEM",
-        "margin_pct": -21.49008816
+        "margin_pct": -21.08204784
       },
       "9": {
         "dem_votes": 17259,

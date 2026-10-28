@@ -6,7 +6,9 @@
     "district_lines_year": 2022,
     "source_vtd_vintage": 2010,
     "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
-    "match_coverage_pct": 96.005075
+    "match_coverage_pct": 97.946073,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
   },
   "general": {
     "results": {
@@ -191,34 +193,34 @@
         "margin_pct": 21.28330443
       },
       "19": {
-        "dem_votes": 2507,
-        "rep_votes": 3882,
-        "other_votes": 272,
-        "total_votes": 6661,
+        "dem_votes": 2704,
+        "rep_votes": 4291,
+        "other_votes": 291,
+        "total_votes": 7286,
         "dem_candidate": "MARY ANN CLAYTOR",
         "rep_candidate": "JOHN \"\"JB\"\" MCCUSKEY",
         "winner": "REP",
-        "margin_pct": 20.64254616
+        "margin_pct": 21.78149876
       },
       "20": {
-        "dem_votes": 401,
-        "rep_votes": 894,
-        "other_votes": 51,
-        "total_votes": 1346,
+        "dem_votes": 2739,
+        "rep_votes": 5539,
+        "other_votes": 273,
+        "total_votes": 8551,
         "dem_candidate": "MARY ANN CLAYTOR",
         "rep_candidate": "JOHN \"\"JB\"\" MCCUSKEY",
         "winner": "REP",
-        "margin_pct": 36.62704309
+        "margin_pct": 32.74470822
       },
       "21": {
-        "dem_votes": 762,
-        "rep_votes": 1271,
-        "other_votes": 86,
-        "total_votes": 2119,
+        "dem_votes": 2422,
+        "rep_votes": 4409,
+        "other_votes": 262,
+        "total_votes": 7093,
         "dem_candidate": "MARY ANN CLAYTOR",
         "rep_candidate": "JOHN \"\"JB\"\" MCCUSKEY",
         "winner": "REP",
-        "margin_pct": 24.02076451
+        "margin_pct": 28.01353447
       },
       "22": {
         "dem_votes": 0,
@@ -771,14 +773,14 @@
         "margin_pct": 6.18800189
       },
       "77": {
-        "dem_votes": 3234,
+        "dem_votes": 3235,
         "rep_votes": 4562,
         "other_votes": 646,
-        "total_votes": 8442,
+        "total_votes": 8443,
         "dem_candidate": "MARY ANN CLAYTOR",
         "rep_candidate": "JOHN \"\"JB\"\" MCCUSKEY",
         "winner": "REP",
-        "margin_pct": 15.73086946
+        "margin_pct": 15.71716215
       },
       "78": {
         "dem_votes": 2671,

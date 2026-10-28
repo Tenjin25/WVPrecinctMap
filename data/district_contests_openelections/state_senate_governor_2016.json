@@ -6,7 +6,9 @@
     "district_lines_year": 2022,
     "source_vtd_vintage": 2010,
     "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
-    "match_coverage_pct": 95.947763
+    "match_coverage_pct": 97.863071,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
   },
   "general": {
     "results": {
@@ -41,14 +43,14 @@
         "margin_pct": -1.04577212
       },
       "4": {
-        "dem_votes": 13020,
-        "rep_votes": 10135,
-        "other_votes": 1760,
-        "total_votes": 24915,
+        "dem_votes": 20073,
+        "rep_votes": 15867,
+        "other_votes": 2647,
+        "total_votes": 38587,
         "dem_candidate": "JIM JUSTICE",
         "rep_candidate": "BILL COLE",
         "winner": "DEM",
-        "margin_pct": -11.57936986
+        "margin_pct": -10.90004406
       },
       "5": {
         "dem_votes": 25217,

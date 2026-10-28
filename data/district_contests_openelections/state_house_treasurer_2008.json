@@ -6,7 +6,9 @@
     "district_lines_year": 2022,
     "source_vtd_vintage": 2000,
     "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
-    "match_coverage_pct": 93.589732
+    "match_coverage_pct": 95.835301,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
   },
   "general": {
     "results": {
@@ -171,30 +173,30 @@
         "margin_pct": -99.86072423
       },
       "19": {
-        "dem_votes": 4736,
+        "dem_votes": 5995,
         "rep_votes": 0,
         "other_votes": 0,
-        "total_votes": 4736,
+        "total_votes": 5995,
         "dem_candidate": "John D. Perdue",
         "rep_candidate": "",
         "winner": "DEM",
         "margin_pct": -100.0
       },
       "20": {
-        "dem_votes": 834,
+        "dem_votes": 5279,
         "rep_votes": 0,
         "other_votes": 0,
-        "total_votes": 834,
+        "total_votes": 5279,
         "dem_candidate": "John D. Perdue",
         "rep_candidate": "",
         "winner": "DEM",
         "margin_pct": -100.0
       },
       "21": {
-        "dem_votes": 2393,
+        "dem_votes": 6171,
         "rep_votes": 0,
         "other_votes": 0,
-        "total_votes": 2393,
+        "total_votes": 6171,
         "dem_candidate": "John D. Perdue",
         "rep_candidate": "",
         "winner": "DEM",
@@ -221,14 +223,14 @@
         "margin_pct": -99.71126083
       },
       "24": {
-        "dem_votes": 3907,
+        "dem_votes": 4304,
         "rep_votes": 0,
-        "other_votes": 12,
-        "total_votes": 3919,
+        "other_votes": 13,
+        "total_votes": 4317,
         "dem_candidate": "John D. Perdue",
         "rep_candidate": "",
         "winner": "DEM",
-        "margin_pct": -99.69379944
+        "margin_pct": -99.69886495
       },
       "25": {
         "dem_votes": 4201,
@@ -241,14 +243,14 @@
         "margin_pct": -99.76252672
       },
       "26": {
-        "dem_votes": 5887,
+        "dem_votes": 5899,
         "rep_votes": 0,
         "other_votes": 12,
-        "total_votes": 5899,
+        "total_votes": 5911,
         "dem_candidate": "John D. Perdue",
         "rep_candidate": "",
         "winner": "DEM",
-        "margin_pct": -99.79657569
+        "margin_pct": -99.79698867
       },
       "27": {
         "dem_votes": 1845,
