@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "scope": "congressional",
+    "contest_type": "auditor",
+    "year": 2020,
+    "district_lines_year": 2022,
+    "source_vtd_vintage": 2020,
+    "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+    "match_coverage_pct": 97.752782,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 116030,
+        "rep_votes": 232249,
+        "other_votes": 0,
+        "total_votes": 348279,
+        "dem_candidate": "MARY ANN ROEBUCK CLAYTOR",
+        "rep_candidate": "JOHN \"JB\" MCCUSKEY",
+        "winner": "REP",
+        "margin_pct": 33.36951123
+      },
+      "2": {
+        "dem_votes": 124001,
+        "rep_votes": 252334,
+        "other_votes": 0,
+        "total_votes": 376335,
+        "dem_candidate": "MARY ANN ROEBUCK CLAYTOR",
+        "rep_candidate": "JOHN \"JB\" MCCUSKEY",
+        "winner": "REP",
+        "margin_pct": 34.10073472
+      }
+    }
+  }
+}

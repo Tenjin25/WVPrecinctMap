@@ -10813,8 +10813,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Cache destroyer token for static data requests.
     // Bump this value when you want browsers/CDNs to fetch fresh files immediately.
-    const DATA_CACHE_BUSTER = '2026-10-27-district-aggregation-v3';
-    const APP_BUILD_ID = '2026-10-27-district-aggregation-v3';
+    const DATA_CACHE_BUSTER = '2026-10-28-district-aggregation-v4';
+    const APP_BUILD_ID = '2026-10-28-district-aggregation-v4';
 
     function withCacheBuster(path) {
       const p = (path || '').toString().trim();
@@ -11395,8 +11395,51 @@ document.addEventListener('DOMContentLoaded', function() {
     let districtElectionDataLoadFailed = false;
     let electionData = null; // Flattened array for compatibility
     let contestManifest = [];
-    let districtManifest = [];
-    let districtManifestByLines = { '2022': [], '2024': [] };
+    // Keep the small district contest index inline so the selectors do not
+    // depend on a network request that can be delayed behind large GeoJSONs.
+    // Vote payloads remain in their individual, lazily loaded JSON slices.
+    const EMBEDDED_DISTRICT_CONTESTS = {
+      congressional: {
+        2012: ['agriculture_commissioner', 'attorney_general', 'auditor', 'governor', 'president', 'secretary_of_state', 'treasurer', 'us_house', 'us_senate'],
+        2014: ['us_house', 'us_senate'],
+        2016: ['agriculture_commissioner', 'attorney_general', 'auditor', 'governor', 'president', 'secretary_of_state', 'treasurer', 'us_house'],
+        2018: ['us_senate'],
+        2020: ['agriculture_commissioner', 'attorney_general', 'auditor', 'governor', 'president', 'secretary_of_state', 'treasurer', 'us_house', 'us_senate'],
+        2022: ['us_house'],
+        2024: ['agriculture_commissioner', 'attorney_general', 'auditor', 'governor', 'president', 'secretary_of_state', 'treasurer', 'us_house', 'us_senate']
+      },
+      state_house: {
+        2012: ['agriculture_commissioner', 'attorney_general', 'auditor', 'governor', 'president', 'secretary_of_state', 'treasurer', 'us_house', 'us_senate'],
+        2014: ['us_house', 'us_senate'],
+        2016: ['agriculture_commissioner', 'attorney_general', 'auditor', 'governor', 'president', 'secretary_of_state', 'treasurer', 'us_house'],
+        2018: ['us_senate'],
+        2020: ['agriculture_commissioner', 'attorney_general', 'auditor', 'governor', 'president', 'secretary_of_state', 'treasurer', 'us_house', 'us_senate'],
+        2022: ['state_house', 'us_house'],
+        2024: ['agriculture_commissioner', 'attorney_general', 'auditor', 'governor', 'president', 'secretary_of_state', 'state_house', 'treasurer', 'us_senate']
+      },
+      state_senate: {
+        2012: ['agriculture_commissioner', 'attorney_general', 'auditor', 'governor', 'president', 'secretary_of_state', 'treasurer', 'us_house', 'us_senate'],
+        2014: ['us_house', 'us_senate'],
+        2016: ['agriculture_commissioner', 'attorney_general', 'auditor', 'governor', 'president', 'secretary_of_state', 'treasurer', 'us_house'],
+        2018: ['us_senate'],
+        2020: ['agriculture_commissioner', 'attorney_general', 'auditor', 'governor', 'president', 'secretary_of_state', 'treasurer', 'us_house', 'us_senate'],
+        2022: ['state_senate', 'us_house'],
+        2024: ['agriculture_commissioner', 'attorney_general', 'auditor', 'governor', 'president', 'secretary_of_state', 'state_senate', 'treasurer', 'us_senate']
+      }
+    };
+    const embeddedDistrictManifest = Object.entries(EMBEDDED_DISTRICT_CONTESTS).flatMap(([scope, years]) =>
+      Object.entries(years).flatMap(([year, contests]) => contests.map(contestType => ({
+        scope,
+        contest_type: contestType,
+        year: Number(year),
+        file: `${scope}_${contestType}_${year}.json`
+      })))
+    );
+    let districtManifest = embeddedDistrictManifest.slice();
+    let districtManifestByLines = {
+      '2022': embeddedDistrictManifest.slice(),
+      '2024': embeddedDistrictManifest.slice()
+    };
     let currentDistrictLinesYear = 2024;
     const districtGeometryCache = new Map();
     let congressionalData = []; // Optional legacy district-level table
@@ -33504,7 +33547,10 @@ document.addEventListener('DOMContentLoaded', function() {
       try {
         let loadedAnyDistrictManifest = false;
         const manifestErrors = [];
-        districtManifestByLines = { '2022': [], '2024': [] };
+        districtManifestByLines = {
+          '2022': embeddedDistrictManifest.slice(),
+          '2024': embeddedDistrictManifest.slice()
+        };
         for (const linesYear of [2022, 2024]) {
           const dir = getActiveDistrictContestsDir(linesYear);
           if (!dir) continue;
@@ -33514,7 +33560,6 @@ document.addEventListener('DOMContentLoaded', function() {
             districtManifestByLines[String(linesYear)] = files;
             if (files.length > 0) loadedAnyDistrictManifest = true;
           } catch (err) {
-            districtManifestByLines[String(linesYear)] = [];
             manifestErrors.push({ linesYear, error: err?.message || String(err) });
             if (linesYear === 2022) {
               console.warn('Primary district manifest not loaded:', err?.message || err);
@@ -33522,16 +33567,18 @@ document.addEventListener('DOMContentLoaded', function() {
           }
         }
 
-        if (!loadedAnyDistrictManifest) {
+        if (!loadedAnyDistrictManifest && !embeddedDistrictManifest.length) {
           throw new Error('No district manifests found');
         }
 
         districtManifest = getActiveDistrictManifest();
         window.__ATLAS_DISTRICT_INDEX__ = {
-          source: 'manifest',
+          source: loadedAnyDistrictManifest ? 'manifest' : 'embedded_fallback',
           files: districtManifest.length,
           errors: manifestErrors
         };
+        document.documentElement.dataset.districtIndexSource = window.__ATLAS_DISTRICT_INDEX__.source;
+        document.documentElement.dataset.districtIndexFiles = String(districtManifest.length);
         districtElectionDataJSON = null;
         updateDistrictLinesToggleUI();
         if (contestManifest.length > 0 || districtManifest.length > 0) {
@@ -33558,6 +33605,8 @@ document.addEventListener('DOMContentLoaded', function() {
           files: districtManifest.length,
           error: manifestErr?.message || String(manifestErr)
         };
+        document.documentElement.dataset.districtIndexSource = window.__ATLAS_DISTRICT_INDEX__.source;
+        document.documentElement.dataset.districtIndexFiles = String(districtManifest.length);
         updateDistrictLinesToggleUI();
         updateContestSelectForCurrentView();
       }

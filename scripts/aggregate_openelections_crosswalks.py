@@ -25,10 +25,21 @@ FILES = {
     2012: INPUT / "20121106__wv__general__precinct.csv",
     2014: INPUT / "20141104__wv__general__precinct.csv",
     2016: INPUT / "20161108__wv__general__precinct.csv",
+    2018: INPUT / "20181106__wv__general__precinct.csv",
+    2020: INPUT / "20201103__wv__general__precinct.csv",
     2022: INPUT / "20221108__wv__general__precinct.csv",
 }
 
-VINTAGE = {2008: 2000, 2010: 2010, 2012: 2010, 2014: 2010, 2016: 2010, 2022: 2020}
+VINTAGE = {
+    2008: 2000,
+    2010: 2010,
+    2012: 2010,
+    2014: 2010,
+    2016: 2010,
+    2018: 2010,
+    2020: 2020,
+    2022: 2020,
+}
 
 OFFICES = {
     "PRESIDENT": "president",
@@ -382,7 +393,7 @@ def main() -> int:
     }
     complete_year_errors = [
         item for item in district_count_warnings
-        if item["year"] in {2012, 2014, 2016, 2022}
+        if item["year"] in {2012, 2014, 2016, 2020, 2022}
     ]
     report["summary"]["complete_year_district_count_errors"] = complete_year_errors
     report["summary"]["validation_passed"] = (

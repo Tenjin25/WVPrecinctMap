@@ -1,0 +1,187 @@
+{
+  "meta": {
+    "scope": "state_senate",
+    "contest_type": "governor",
+    "year": 2020,
+    "district_lines_year": 2022,
+    "source_vtd_vintage": 2020,
+    "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+    "match_coverage_pct": 97.741947,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 14860,
+        "rep_votes": 30645,
+        "other_votes": 2331,
+        "total_votes": 47836,
+        "dem_candidate": "BEN SALANGO",
+        "rep_candidate": "JIM JUSTICE",
+        "winner": "REP",
+        "margin_pct": 32.99816038
+      },
+      "2": {
+        "dem_votes": 14543,
+        "rep_votes": 30435,
+        "other_votes": 2379,
+        "total_votes": 47357,
+        "dem_candidate": "BEN SALANGO",
+        "rep_candidate": "JIM JUSTICE",
+        "winner": "REP",
+        "margin_pct": 33.55786895
+      },
+      "3": {
+        "dem_votes": 11605,
+        "rep_votes": 33485,
+        "other_votes": 1832,
+        "total_votes": 46922,
+        "dem_candidate": "BEN SALANGO",
+        "rep_candidate": "JIM JUSTICE",
+        "winner": "REP",
+        "margin_pct": 46.63057841
+      },
+      "4": {
+        "dem_votes": 14282,
+        "rep_votes": 32122,
+        "other_votes": 1641,
+        "total_votes": 48045,
+        "dem_candidate": "BEN SALANGO",
+        "rep_candidate": "JIM JUSTICE",
+        "winner": "REP",
+        "margin_pct": 37.13185555
+      },
+      "5": {
+        "dem_votes": 15578,
+        "rep_votes": 23339,
+        "other_votes": 1449,
+        "total_votes": 40366,
+        "dem_candidate": "BEN SALANGO",
+        "rep_candidate": "JIM JUSTICE",
+        "winner": "REP",
+        "margin_pct": 19.22657682
+      },
+      "6": {
+        "dem_votes": 8961,
+        "rep_votes": 32762,
+        "other_votes": 1226,
+        "total_votes": 42949,
+        "dem_candidate": "BEN SALANGO",
+        "rep_candidate": "JIM JUSTICE",
+        "winner": "REP",
+        "margin_pct": 55.4168898
+      },
+      "7": {
+        "dem_votes": 11577,
+        "rep_votes": 25823,
+        "other_votes": 883,
+        "total_votes": 38283,
+        "dem_candidate": "BEN SALANGO",
+        "rep_candidate": "JIM JUSTICE",
+        "winner": "REP",
+        "margin_pct": 37.21233968
+      },
+      "8": {
+        "dem_votes": 16975,
+        "rep_votes": 22168,
+        "other_votes": 1185,
+        "total_votes": 40328,
+        "dem_candidate": "BEN SALANGO",
+        "rep_candidate": "JIM JUSTICE",
+        "winner": "REP",
+        "margin_pct": 12.87690934
+      },
+      "9": {
+        "dem_votes": 9949,
+        "rep_votes": 26075,
+        "other_votes": 1010,
+        "total_votes": 37034,
+        "dem_candidate": "BEN SALANGO",
+        "rep_candidate": "JIM JUSTICE",
+        "winner": "REP",
+        "margin_pct": 43.54377059
+      },
+      "10": {
+        "dem_votes": 12835,
+        "rep_votes": 33759,
+        "other_votes": 1450,
+        "total_votes": 48044,
+        "dem_candidate": "BEN SALANGO",
+        "rep_candidate": "JIM JUSTICE",
+        "winner": "REP",
+        "margin_pct": 43.55174423
+      },
+      "11": {
+        "dem_votes": 10384,
+        "rep_votes": 30776,
+        "other_votes": 2517,
+        "total_votes": 43677,
+        "dem_candidate": "BEN SALANGO",
+        "rep_candidate": "JIM JUSTICE",
+        "winner": "REP",
+        "margin_pct": 46.68818829
+      },
+      "12": {
+        "dem_votes": 12195,
+        "rep_votes": 30621,
+        "other_votes": 2654,
+        "total_votes": 45470,
+        "dem_candidate": "BEN SALANGO",
+        "rep_candidate": "JIM JUSTICE",
+        "winner": "REP",
+        "margin_pct": 40.52342204
+      },
+      "13": {
+        "dem_votes": 19288,
+        "rep_votes": 20596,
+        "other_votes": 2216,
+        "total_votes": 42100,
+        "dem_candidate": "BEN SALANGO",
+        "rep_candidate": "JIM JUSTICE",
+        "winner": "REP",
+        "margin_pct": 3.10688836
+      },
+      "14": {
+        "dem_votes": 9343,
+        "rep_votes": 32774,
+        "other_votes": 2227,
+        "total_votes": 44344,
+        "dem_candidate": "BEN SALANGO",
+        "rep_candidate": "JIM JUSTICE",
+        "winner": "REP",
+        "margin_pct": 52.83916652
+      },
+      "15": {
+        "dem_votes": 12079,
+        "rep_votes": 29650,
+        "other_votes": 3254,
+        "total_votes": 44983,
+        "dem_candidate": "BEN SALANGO",
+        "rep_candidate": "JIM JUSTICE",
+        "winner": "REP",
+        "margin_pct": 39.0614232
+      },
+      "16": {
+        "dem_votes": 17422,
+        "rep_votes": 26260,
+        "other_votes": 3890,
+        "total_votes": 47572,
+        "dem_candidate": "BEN SALANGO",
+        "rep_candidate": "JIM JUSTICE",
+        "winner": "REP",
+        "margin_pct": 18.57815522
+      },
+      "17": {
+        "dem_votes": 20529,
+        "rep_votes": 24459,
+        "other_votes": 1146,
+        "total_votes": 46134,
+        "dem_candidate": "BEN SALANGO",
+        "rep_candidate": "JIM JUSTICE",
+        "winner": "REP",
+        "margin_pct": 8.51866303
+      }
+    }
+  }
+}

@@ -1,0 +1,1017 @@
+{
+  "meta": {
+    "scope": "state_house",
+    "contest_type": "attorney_general",
+    "year": 2020,
+    "district_lines_year": 2022,
+    "source_vtd_vintage": 2020,
+    "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+    "match_coverage_pct": 97.752366,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 2762,
+        "rep_votes": 6144,
+        "other_votes": 0,
+        "total_votes": 8906,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 37.97439928
+      },
+      "2": {
+        "dem_votes": 3079,
+        "rep_votes": 5162,
+        "other_votes": 0,
+        "total_votes": 8241,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 25.27605873
+      },
+      "3": {
+        "dem_votes": 3173,
+        "rep_votes": 5432,
+        "other_votes": 0,
+        "total_votes": 8605,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 26.25217897
+      },
+      "4": {
+        "dem_votes": 3810,
+        "rep_votes": 5819,
+        "other_votes": 0,
+        "total_votes": 9629,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 20.8640565
+      },
+      "5": {
+        "dem_votes": 3506,
+        "rep_votes": 3725,
+        "other_votes": 0,
+        "total_votes": 7231,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 3.02862675
+      },
+      "6": {
+        "dem_votes": 3240,
+        "rep_votes": 5268,
+        "other_votes": 0,
+        "total_votes": 8508,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 23.83638928
+      },
+      "7": {
+        "dem_votes": 2722,
+        "rep_votes": 5063,
+        "other_votes": 0,
+        "total_votes": 7785,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 30.07064868
+      },
+      "8": {
+        "dem_votes": 2129,
+        "rep_votes": 5414,
+        "other_votes": 0,
+        "total_votes": 7543,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 43.55031155
+      },
+      "9": {
+        "dem_votes": 2256,
+        "rep_votes": 6666,
+        "other_votes": 0,
+        "total_votes": 8922,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 49.42837929
+      },
+      "10": {
+        "dem_votes": 2606,
+        "rep_votes": 5880,
+        "other_votes": 0,
+        "total_votes": 8486,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 38.58119255
+      },
+      "11": {
+        "dem_votes": 3310,
+        "rep_votes": 5368,
+        "other_votes": 0,
+        "total_votes": 8678,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 23.71514174
+      },
+      "12": {
+        "dem_votes": 2423,
+        "rep_votes": 3492,
+        "other_votes": 0,
+        "total_votes": 5915,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 18.07269653
+      },
+      "13": {
+        "dem_votes": 1932,
+        "rep_votes": 4484,
+        "other_votes": 0,
+        "total_votes": 6416,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 39.7755611
+      },
+      "14": {
+        "dem_votes": 2117,
+        "rep_votes": 6075,
+        "other_votes": 0,
+        "total_votes": 8192,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 48.31542969
+      },
+      "15": {
+        "dem_votes": 1816,
+        "rep_votes": 4158,
+        "other_votes": 0,
+        "total_votes": 5974,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 39.20321393
+      },
+      "16": {
+        "dem_votes": 2622,
+        "rep_votes": 6410,
+        "other_votes": 0,
+        "total_votes": 9032,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 41.93976971
+      },
+      "17": {
+        "dem_votes": 2745,
+        "rep_votes": 5349,
+        "other_votes": 0,
+        "total_votes": 8094,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 32.17197924
+      },
+      "18": {
+        "dem_votes": 2520,
+        "rep_votes": 4896,
+        "other_votes": 0,
+        "total_votes": 7416,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 32.03883495
+      },
+      "19": {
+        "dem_votes": 3083,
+        "rep_votes": 5458,
+        "other_votes": 0,
+        "total_votes": 8541,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 27.80704835
+      },
+      "20": {
+        "dem_votes": 3681,
+        "rep_votes": 6441,
+        "other_votes": 0,
+        "total_votes": 10122,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 27.26733847
+      },
+      "21": {
+        "dem_votes": 2979,
+        "rep_votes": 5280,
+        "other_votes": 0,
+        "total_votes": 8259,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 27.8605158
+      },
+      "22": {
+        "dem_votes": 2389,
+        "rep_votes": 4909,
+        "other_votes": 0,
+        "total_votes": 7298,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 34.53000822
+      },
+      "23": {
+        "dem_votes": 2563,
+        "rep_votes": 4397,
+        "other_votes": 0,
+        "total_votes": 6960,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 26.35057471
+      },
+      "24": {
+        "dem_votes": 2712,
+        "rep_votes": 2749,
+        "other_votes": 0,
+        "total_votes": 5461,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 0.67753159
+      },
+      "25": {
+        "dem_votes": 3182,
+        "rep_votes": 1569,
+        "other_votes": 0,
+        "total_votes": 4751,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "DEM",
+        "margin_pct": -33.95074721
+      },
+      "26": {
+        "dem_votes": 4173,
+        "rep_votes": 4331,
+        "other_votes": 0,
+        "total_votes": 8504,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 1.8579492
+      },
+      "27": {
+        "dem_votes": 2863,
+        "rep_votes": 4129,
+        "other_votes": 0,
+        "total_votes": 6992,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 18.10640732
+      },
+      "28": {
+        "dem_votes": 2442,
+        "rep_votes": 5017,
+        "other_votes": 0,
+        "total_votes": 7459,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 34.52205389
+      },
+      "29": {
+        "dem_votes": 1613,
+        "rep_votes": 4809,
+        "other_votes": 0,
+        "total_votes": 6422,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 49.7664279
+      },
+      "30": {
+        "dem_votes": 2064,
+        "rep_votes": 4069,
+        "other_votes": 0,
+        "total_votes": 6133,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 32.69199413
+      },
+      "31": {
+        "dem_votes": 2145,
+        "rep_votes": 4950,
+        "other_votes": 0,
+        "total_votes": 7095,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 39.53488372
+      },
+      "32": {
+        "dem_votes": 2751,
+        "rep_votes": 4565,
+        "other_votes": 0,
+        "total_votes": 7316,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 24.79496993
+      },
+      "33": {
+        "dem_votes": 1987,
+        "rep_votes": 4726,
+        "other_votes": 0,
+        "total_votes": 6713,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 40.80143006
+      },
+      "34": {
+        "dem_votes": 1777,
+        "rep_votes": 5013,
+        "other_votes": 0,
+        "total_votes": 6790,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 47.65832106
+      },
+      "35": {
+        "dem_votes": 1828,
+        "rep_votes": 5034,
+        "other_votes": 0,
+        "total_votes": 6862,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 46.72107257
+      },
+      "36": {
+        "dem_votes": 1651,
+        "rep_votes": 4036,
+        "other_votes": 0,
+        "total_votes": 5687,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 41.93775277
+      },
+      "37": {
+        "dem_votes": 2336,
+        "rep_votes": 4952,
+        "other_votes": 0,
+        "total_votes": 7288,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 35.8946213
+      },
+      "38": {
+        "dem_votes": 1928,
+        "rep_votes": 4771,
+        "other_votes": 0,
+        "total_votes": 6699,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 42.43917003
+      },
+      "39": {
+        "dem_votes": 2212,
+        "rep_votes": 5864,
+        "other_votes": 0,
+        "total_votes": 8076,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 45.22040614
+      },
+      "40": {
+        "dem_votes": 2464,
+        "rep_votes": 5691,
+        "other_votes": 0,
+        "total_votes": 8155,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 39.57081545
+      },
+      "41": {
+        "dem_votes": 2173,
+        "rep_votes": 5433,
+        "other_votes": 0,
+        "total_votes": 7606,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 42.86089929
+      },
+      "42": {
+        "dem_votes": 1733,
+        "rep_votes": 4428,
+        "other_votes": 0,
+        "total_votes": 6161,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 43.74289888
+      },
+      "43": {
+        "dem_votes": 1476,
+        "rep_votes": 4450,
+        "other_votes": 0,
+        "total_votes": 5926,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 50.18562268
+      },
+      "44": {
+        "dem_votes": 3286,
+        "rep_votes": 3163,
+        "other_votes": 0,
+        "total_votes": 6449,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "DEM",
+        "margin_pct": -1.90727245
+      },
+      "45": {
+        "dem_votes": 1925,
+        "rep_votes": 3581,
+        "other_votes": 0,
+        "total_votes": 5506,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 30.07628042
+      },
+      "46": {
+        "dem_votes": 3041,
+        "rep_votes": 4973,
+        "other_votes": 0,
+        "total_votes": 8014,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 24.10781133
+      },
+      "47": {
+        "dem_votes": 2742,
+        "rep_votes": 5076,
+        "other_votes": 0,
+        "total_votes": 7818,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 29.85418266
+      },
+      "48": {
+        "dem_votes": 2296,
+        "rep_votes": 4670,
+        "other_votes": 0,
+        "total_votes": 6966,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 34.07981625
+      },
+      "49": {
+        "dem_votes": 2397,
+        "rep_votes": 5196,
+        "other_votes": 0,
+        "total_votes": 7593,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 36.86290004
+      },
+      "50": {
+        "dem_votes": 2957,
+        "rep_votes": 3745,
+        "other_votes": 0,
+        "total_votes": 6702,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 11.75768427
+      },
+      "51": {
+        "dem_votes": 3132,
+        "rep_votes": 4374,
+        "other_votes": 0,
+        "total_votes": 7506,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 16.54676259
+      },
+      "52": {
+        "dem_votes": 3430,
+        "rep_votes": 3535,
+        "other_votes": 0,
+        "total_votes": 6965,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 1.50753769
+      },
+      "53": {
+        "dem_votes": 3837,
+        "rep_votes": 4443,
+        "other_votes": 0,
+        "total_votes": 8280,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 7.31884058
+      },
+      "54": {
+        "dem_votes": 4978,
+        "rep_votes": 2106,
+        "other_votes": 0,
+        "total_votes": 7084,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "DEM",
+        "margin_pct": -40.54206663
+      },
+      "55": {
+        "dem_votes": 3987,
+        "rep_votes": 3782,
+        "other_votes": 0,
+        "total_votes": 7769,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "DEM",
+        "margin_pct": -2.63869224
+      },
+      "56": {
+        "dem_votes": 4218,
+        "rep_votes": 3872,
+        "other_votes": 0,
+        "total_votes": 8090,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "DEM",
+        "margin_pct": -4.27688504
+      },
+      "57": {
+        "dem_votes": 4370,
+        "rep_votes": 3367,
+        "other_votes": 0,
+        "total_votes": 7737,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "DEM",
+        "margin_pct": -12.96368101
+      },
+      "58": {
+        "dem_votes": 4195,
+        "rep_votes": 4533,
+        "other_votes": 0,
+        "total_votes": 8728,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 3.87259395
+      },
+      "59": {
+        "dem_votes": 3129,
+        "rep_votes": 4132,
+        "other_votes": 0,
+        "total_votes": 7261,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 13.81352431
+      },
+      "60": {
+        "dem_votes": 2766,
+        "rep_votes": 4806,
+        "other_votes": 0,
+        "total_votes": 7572,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 26.94136292
+      },
+      "61": {
+        "dem_votes": 2596,
+        "rep_votes": 5583,
+        "other_votes": 0,
+        "total_votes": 8179,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 36.52035701
+      },
+      "62": {
+        "dem_votes": 1962,
+        "rep_votes": 4387,
+        "other_votes": 0,
+        "total_votes": 6349,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 38.19499134
+      },
+      "63": {
+        "dem_votes": 2441,
+        "rep_votes": 4165,
+        "other_votes": 0,
+        "total_votes": 6606,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 26.09748713
+      },
+      "64": {
+        "dem_votes": 2231,
+        "rep_votes": 5346,
+        "other_votes": 0,
+        "total_votes": 7577,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 41.11125775
+      },
+      "65": {
+        "dem_votes": 2249,
+        "rep_votes": 5129,
+        "other_votes": 0,
+        "total_votes": 7378,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 39.03496883
+      },
+      "66": {
+        "dem_votes": 2265,
+        "rep_votes": 4350,
+        "other_votes": 0,
+        "total_votes": 6615,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 31.51927438
+      },
+      "67": {
+        "dem_votes": 2788,
+        "rep_votes": 5226,
+        "other_votes": 0,
+        "total_votes": 8014,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 30.42176192
+      },
+      "68": {
+        "dem_votes": 2355,
+        "rep_votes": 5592,
+        "other_votes": 0,
+        "total_votes": 7947,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 40.73235183
+      },
+      "69": {
+        "dem_votes": 2820,
+        "rep_votes": 5838,
+        "other_votes": 0,
+        "total_votes": 8658,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 34.85793486
+      },
+      "70": {
+        "dem_votes": 3191,
+        "rep_votes": 3589,
+        "other_votes": 0,
+        "total_votes": 6780,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 5.87020649
+      },
+      "71": {
+        "dem_votes": 3554,
+        "rep_votes": 5186,
+        "other_votes": 0,
+        "total_votes": 8740,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 18.67276888
+      },
+      "72": {
+        "dem_votes": 2321,
+        "rep_votes": 4561,
+        "other_votes": 0,
+        "total_votes": 6882,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 32.54867771
+      },
+      "73": {
+        "dem_votes": 2415,
+        "rep_votes": 4763,
+        "other_votes": 0,
+        "total_votes": 7178,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 32.71106158
+      },
+      "74": {
+        "dem_votes": 3619,
+        "rep_votes": 5407,
+        "other_votes": 0,
+        "total_votes": 9026,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 19.8094394
+      },
+      "75": {
+        "dem_votes": 3708,
+        "rep_votes": 4514,
+        "other_votes": 0,
+        "total_votes": 8222,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 9.80296765
+      },
+      "76": {
+        "dem_votes": 3626,
+        "rep_votes": 3487,
+        "other_votes": 0,
+        "total_votes": 7113,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "DEM",
+        "margin_pct": -1.95416842
+      },
+      "77": {
+        "dem_votes": 3401,
+        "rep_votes": 5191,
+        "other_votes": 0,
+        "total_votes": 8592,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 20.83333333
+      },
+      "78": {
+        "dem_votes": 4037,
+        "rep_votes": 4825,
+        "other_votes": 0,
+        "total_votes": 8862,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 8.89189799
+      },
+      "79": {
+        "dem_votes": 3237,
+        "rep_votes": 1324,
+        "other_votes": 0,
+        "total_votes": 4561,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "DEM",
+        "margin_pct": -41.94255646
+      },
+      "80": {
+        "dem_votes": 3396,
+        "rep_votes": 2494,
+        "other_votes": 0,
+        "total_votes": 5890,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "DEM",
+        "margin_pct": -15.31409168
+      },
+      "81": {
+        "dem_votes": 2678,
+        "rep_votes": 1607,
+        "other_votes": 0,
+        "total_votes": 4285,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "DEM",
+        "margin_pct": -24.99416569
+      },
+      "82": {
+        "dem_votes": 4312,
+        "rep_votes": 4404,
+        "other_votes": 0,
+        "total_votes": 8716,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 1.05553006
+      },
+      "83": {
+        "dem_votes": 1844,
+        "rep_votes": 5000,
+        "other_votes": 0,
+        "total_votes": 6844,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 46.11338399
+      },
+      "84": {
+        "dem_votes": 1631,
+        "rep_votes": 4740,
+        "other_votes": 0,
+        "total_votes": 6371,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 48.79924659
+      },
+      "85": {
+        "dem_votes": 1977,
+        "rep_votes": 6779,
+        "other_votes": 0,
+        "total_votes": 8756,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 54.84239379
+      },
+      "86": {
+        "dem_votes": 1984,
+        "rep_votes": 6016,
+        "other_votes": 0,
+        "total_votes": 8000,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 50.4
+      },
+      "87": {
+        "dem_votes": 1621,
+        "rep_votes": 5864,
+        "other_votes": 0,
+        "total_votes": 7485,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 56.68670675
+      },
+      "88": {
+        "dem_votes": 1430,
+        "rep_votes": 6580,
+        "other_votes": 0,
+        "total_votes": 8010,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 64.29463171
+      },
+      "89": {
+        "dem_votes": 1742,
+        "rep_votes": 6632,
+        "other_votes": 0,
+        "total_votes": 8374,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 58.39503224
+      },
+      "90": {
+        "dem_votes": 2070,
+        "rep_votes": 6993,
+        "other_votes": 0,
+        "total_votes": 9063,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 54.31976167
+      },
+      "91": {
+        "dem_votes": 1923,
+        "rep_votes": 5647,
+        "other_votes": 0,
+        "total_votes": 7570,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 49.19418758
+      },
+      "92": {
+        "dem_votes": 2608,
+        "rep_votes": 5873,
+        "other_votes": 0,
+        "total_votes": 8481,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 38.49781865
+      },
+      "93": {
+        "dem_votes": 2641,
+        "rep_votes": 4237,
+        "other_votes": 0,
+        "total_votes": 6878,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 23.20441989
+      },
+      "94": {
+        "dem_votes": 2001,
+        "rep_votes": 4278,
+        "other_votes": 0,
+        "total_votes": 6279,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 36.26373626
+      },
+      "95": {
+        "dem_votes": 2216,
+        "rep_votes": 4749,
+        "other_votes": 0,
+        "total_votes": 6965,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 36.36755205
+      },
+      "96": {
+        "dem_votes": 1856,
+        "rep_votes": 4558,
+        "other_votes": 0,
+        "total_votes": 6414,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 42.12659807
+      },
+      "97": {
+        "dem_votes": 3767,
+        "rep_votes": 5080,
+        "other_votes": 0,
+        "total_votes": 8847,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 14.8411891
+      },
+      "98": {
+        "dem_votes": 2562,
+        "rep_votes": 4874,
+        "other_votes": 0,
+        "total_votes": 7436,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 31.09198494
+      },
+      "99": {
+        "dem_votes": 3194,
+        "rep_votes": 4583,
+        "other_votes": 0,
+        "total_votes": 7777,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 17.86035746
+      },
+      "100": {
+        "dem_votes": 3471,
+        "rep_votes": 4795,
+        "other_votes": 0,
+        "total_votes": 8266,
+        "dem_candidate": "SAM BROWN PETSONK",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 16.01742076
+      }
+    }
+  }
+}

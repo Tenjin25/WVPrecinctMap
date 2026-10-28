@@ -241,6 +241,12 @@
       "file": "congressional_treasurer_2016.json"
     },
     {
+      "scope": "congressional",
+      "contest_type": "us_house",
+      "year": 2016,
+      "file": "congressional_us_house_2016.json"
+    },
+    {
       "scope": "state_house",
       "contest_type": "agriculture_commissioner",
       "year": 2016,
@@ -283,6 +289,12 @@
       "file": "state_house_treasurer_2016.json"
     },
     {
+      "scope": "state_house",
+      "contest_type": "us_house",
+      "year": 2016,
+      "file": "state_house_us_house_2016.json"
+    },
+    {
       "scope": "state_senate",
       "contest_type": "agriculture_commissioner",
       "year": 2016,
@@ -323,6 +335,12 @@
       "contest_type": "treasurer",
       "year": 2016,
       "file": "state_senate_treasurer_2016.json"
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "us_house",
+      "year": 2016,
+      "file": "state_senate_us_house_2016.json"
     },
     {
       "scope": "congressional",
@@ -386,6 +404,12 @@
     },
     {
       "scope": "congressional",
+      "contest_type": "us_house",
+      "year": 2020,
+      "file": "congressional_us_house_2020.json"
+    },
+    {
+      "scope": "congressional",
       "contest_type": "us_senate",
       "year": 2020,
       "file": "congressional_us_senate_2020.json"
@@ -434,6 +458,12 @@
     },
     {
       "scope": "state_house",
+      "contest_type": "us_house",
+      "year": 2020,
+      "file": "state_house_us_house_2020.json"
+    },
+    {
+      "scope": "state_house",
       "contest_type": "us_senate",
       "year": 2020,
       "file": "state_house_us_senate_2020.json"
@@ -479,6 +509,12 @@
       "contest_type": "treasurer",
       "year": 2020,
       "file": "state_senate_treasurer_2020.json"
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "us_house",
+      "year": 2020,
+      "file": "state_senate_us_house_2020.json"
     },
     {
       "scope": "state_senate",

@@ -1,0 +1,187 @@
+{
+  "meta": {
+    "scope": "state_senate",
+    "contest_type": "auditor",
+    "year": 2020,
+    "district_lines_year": 2022,
+    "source_vtd_vintage": 2020,
+    "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+    "match_coverage_pct": 97.752782,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 15511,
+        "rep_votes": 29950,
+        "other_votes": 0,
+        "total_votes": 45461,
+        "dem_candidate": "MARY ANN ROEBUCK CLAYTOR",
+        "rep_candidate": "JOHN \"JB\" MCCUSKEY",
+        "winner": "REP",
+        "margin_pct": 31.7612899
+      },
+      "2": {
+        "dem_votes": 15104,
+        "rep_votes": 30024,
+        "other_votes": 0,
+        "total_votes": 45128,
+        "dem_candidate": "MARY ANN ROEBUCK CLAYTOR",
+        "rep_candidate": "JOHN \"JB\" MCCUSKEY",
+        "winner": "REP",
+        "margin_pct": 33.06151392
+      },
+      "3": {
+        "dem_votes": 12725,
+        "rep_votes": 32602,
+        "other_votes": 0,
+        "total_votes": 45327,
+        "dem_candidate": "MARY ANN ROEBUCK CLAYTOR",
+        "rep_candidate": "JOHN \"JB\" MCCUSKEY",
+        "winner": "REP",
+        "margin_pct": 43.85244997
+      },
+      "4": {
+        "dem_votes": 14242,
+        "rep_votes": 33193,
+        "other_votes": 0,
+        "total_votes": 47435,
+        "dem_candidate": "MARY ANN ROEBUCK CLAYTOR",
+        "rep_candidate": "JOHN \"JB\" MCCUSKEY",
+        "winner": "REP",
+        "margin_pct": 39.9515126
+      },
+      "5": {
+        "dem_votes": 16047,
+        "rep_votes": 22249,
+        "other_votes": 0,
+        "total_votes": 38296,
+        "dem_candidate": "MARY ANN ROEBUCK CLAYTOR",
+        "rep_candidate": "JOHN \"JB\" MCCUSKEY",
+        "winner": "REP",
+        "margin_pct": 16.19490286
+      },
+      "6": {
+        "dem_votes": 10356,
+        "rep_votes": 29703,
+        "other_votes": 0,
+        "total_votes": 40059,
+        "dem_candidate": "MARY ANN ROEBUCK CLAYTOR",
+        "rep_candidate": "JOHN \"JB\" MCCUSKEY",
+        "winner": "REP",
+        "margin_pct": 48.29626301
+      },
+      "7": {
+        "dem_votes": 11216,
+        "rep_votes": 23782,
+        "other_votes": 0,
+        "total_votes": 34998,
+        "dem_candidate": "MARY ANN ROEBUCK CLAYTOR",
+        "rep_candidate": "JOHN \"JB\" MCCUSKEY",
+        "winner": "REP",
+        "margin_pct": 35.90490885
+      },
+      "8": {
+        "dem_votes": 15972,
+        "rep_votes": 23194,
+        "other_votes": 0,
+        "total_votes": 39166,
+        "dem_candidate": "MARY ANN ROEBUCK CLAYTOR",
+        "rep_candidate": "JOHN \"JB\" MCCUSKEY",
+        "winner": "REP",
+        "margin_pct": 18.4394628
+      },
+      "9": {
+        "dem_votes": 10191,
+        "rep_votes": 25114,
+        "other_votes": 0,
+        "total_votes": 35305,
+        "dem_candidate": "MARY ANN ROEBUCK CLAYTOR",
+        "rep_candidate": "JOHN \"JB\" MCCUSKEY",
+        "winner": "REP",
+        "margin_pct": 42.26880045
+      },
+      "10": {
+        "dem_votes": 14200,
+        "rep_votes": 32083,
+        "other_votes": 0,
+        "total_votes": 46283,
+        "dem_candidate": "MARY ANN ROEBUCK CLAYTOR",
+        "rep_candidate": "JOHN \"JB\" MCCUSKEY",
+        "winner": "REP",
+        "margin_pct": 38.63837694
+      },
+      "11": {
+        "dem_votes": 12104,
+        "rep_votes": 29360,
+        "other_votes": 0,
+        "total_votes": 41464,
+        "dem_candidate": "MARY ANN ROEBUCK CLAYTOR",
+        "rep_candidate": "JOHN \"JB\" MCCUSKEY",
+        "winner": "REP",
+        "margin_pct": 41.61682423
+      },
+      "12": {
+        "dem_votes": 12743,
+        "rep_votes": 31453,
+        "other_votes": 0,
+        "total_votes": 44196,
+        "dem_candidate": "MARY ANN ROEBUCK CLAYTOR",
+        "rep_candidate": "JOHN \"JB\" MCCUSKEY",
+        "winner": "REP",
+        "margin_pct": 42.33414789
+      },
+      "13": {
+        "dem_votes": 19446,
+        "rep_votes": 21054,
+        "other_votes": 0,
+        "total_votes": 40500,
+        "dem_candidate": "MARY ANN ROEBUCK CLAYTOR",
+        "rep_candidate": "JOHN \"JB\" MCCUSKEY",
+        "winner": "REP",
+        "margin_pct": 3.97037037
+      },
+      "14": {
+        "dem_votes": 10194,
+        "rep_votes": 32753,
+        "other_votes": 0,
+        "total_votes": 42947,
+        "dem_candidate": "MARY ANN ROEBUCK CLAYTOR",
+        "rep_candidate": "JOHN \"JB\" MCCUSKEY",
+        "winner": "REP",
+        "margin_pct": 52.52753394
+      },
+      "15": {
+        "dem_votes": 13468,
+        "rep_votes": 32123,
+        "other_votes": 0,
+        "total_votes": 45591,
+        "dem_candidate": "MARY ANN ROEBUCK CLAYTOR",
+        "rep_candidate": "JOHN \"JB\" MCCUSKEY",
+        "winner": "REP",
+        "margin_pct": 40.91816367
+      },
+      "16": {
+        "dem_votes": 19295,
+        "rep_votes": 28722,
+        "other_votes": 0,
+        "total_votes": 48017,
+        "dem_candidate": "MARY ANN ROEBUCK CLAYTOR",
+        "rep_candidate": "JOHN \"JB\" MCCUSKEY",
+        "winner": "REP",
+        "margin_pct": 19.63263011
+      },
+      "17": {
+        "dem_votes": 17217,
+        "rep_votes": 27224,
+        "other_votes": 0,
+        "total_votes": 44441,
+        "dem_candidate": "MARY ANN ROEBUCK CLAYTOR",
+        "rep_candidate": "JOHN \"JB\" MCCUSKEY",
+        "winner": "REP",
+        "margin_pct": 22.51749511
+      }
+    }
+  }
+}

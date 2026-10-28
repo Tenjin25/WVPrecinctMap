@@ -1,0 +1,187 @@
+{
+  "meta": {
+    "scope": "state_senate",
+    "contest_type": "agriculture_commissioner",
+    "year": 2020,
+    "district_lines_year": 2022,
+    "source_vtd_vintage": 2020,
+    "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+    "match_coverage_pct": 97.755438,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 16510,
+        "rep_votes": 28834,
+        "other_votes": 0,
+        "total_votes": 45344,
+        "dem_candidate": "BOB BEACH",
+        "rep_candidate": "KENT LEONHARDT",
+        "winner": "REP",
+        "margin_pct": 27.17889908
+      },
+      "2": {
+        "dem_votes": 17292,
+        "rep_votes": 28751,
+        "other_votes": 0,
+        "total_votes": 46043,
+        "dem_candidate": "BOB BEACH",
+        "rep_candidate": "KENT LEONHARDT",
+        "winner": "REP",
+        "margin_pct": 24.88760506
+      },
+      "3": {
+        "dem_votes": 13192,
+        "rep_votes": 32238,
+        "other_votes": 0,
+        "total_votes": 45430,
+        "dem_candidate": "BOB BEACH",
+        "rep_candidate": "KENT LEONHARDT",
+        "winner": "REP",
+        "margin_pct": 41.92383887
+      },
+      "4": {
+        "dem_votes": 14262,
+        "rep_votes": 32883,
+        "other_votes": 0,
+        "total_votes": 47145,
+        "dem_candidate": "BOB BEACH",
+        "rep_candidate": "KENT LEONHARDT",
+        "winner": "REP",
+        "margin_pct": 39.49729558
+      },
+      "5": {
+        "dem_votes": 16004,
+        "rep_votes": 21924,
+        "other_votes": 0,
+        "total_votes": 37928,
+        "dem_candidate": "BOB BEACH",
+        "rep_candidate": "KENT LEONHARDT",
+        "winner": "REP",
+        "margin_pct": 15.60852141
+      },
+      "6": {
+        "dem_votes": 10826,
+        "rep_votes": 28903,
+        "other_votes": 0,
+        "total_votes": 39729,
+        "dem_candidate": "BOB BEACH",
+        "rep_candidate": "KENT LEONHARDT",
+        "winner": "REP",
+        "margin_pct": 45.5007677
+      },
+      "7": {
+        "dem_votes": 11568,
+        "rep_votes": 22912,
+        "other_votes": 0,
+        "total_votes": 34480,
+        "dem_candidate": "BOB BEACH",
+        "rep_candidate": "KENT LEONHARDT",
+        "winner": "REP",
+        "margin_pct": 32.90023202
+      },
+      "8": {
+        "dem_votes": 15987,
+        "rep_votes": 22603,
+        "other_votes": 0,
+        "total_votes": 38590,
+        "dem_candidate": "BOB BEACH",
+        "rep_candidate": "KENT LEONHARDT",
+        "winner": "REP",
+        "margin_pct": 17.14433791
+      },
+      "9": {
+        "dem_votes": 10461,
+        "rep_votes": 24698,
+        "other_votes": 0,
+        "total_votes": 35159,
+        "dem_candidate": "BOB BEACH",
+        "rep_candidate": "KENT LEONHARDT",
+        "winner": "REP",
+        "margin_pct": 40.49318809
+      },
+      "10": {
+        "dem_votes": 14429,
+        "rep_votes": 31849,
+        "other_votes": 0,
+        "total_votes": 46278,
+        "dem_candidate": "BOB BEACH",
+        "rep_candidate": "KENT LEONHARDT",
+        "winner": "REP",
+        "margin_pct": 37.64207615
+      },
+      "11": {
+        "dem_votes": 12597,
+        "rep_votes": 29008,
+        "other_votes": 0,
+        "total_votes": 41605,
+        "dem_candidate": "BOB BEACH",
+        "rep_candidate": "KENT LEONHARDT",
+        "winner": "REP",
+        "margin_pct": 39.44477827
+      },
+      "12": {
+        "dem_votes": 14869,
+        "rep_votes": 28988,
+        "other_votes": 0,
+        "total_votes": 43857,
+        "dem_candidate": "BOB BEACH",
+        "rep_candidate": "KENT LEONHARDT",
+        "winner": "REP",
+        "margin_pct": 32.19326447
+      },
+      "13": {
+        "dem_votes": 22494,
+        "rep_votes": 18788,
+        "other_votes": 0,
+        "total_votes": 41282,
+        "dem_candidate": "BOB BEACH",
+        "rep_candidate": "KENT LEONHARDT",
+        "winner": "DEM",
+        "margin_pct": -8.97727823
+      },
+      "14": {
+        "dem_votes": 12094,
+        "rep_votes": 31146,
+        "other_votes": 0,
+        "total_votes": 43240,
+        "dem_candidate": "BOB BEACH",
+        "rep_candidate": "KENT LEONHARDT",
+        "winner": "REP",
+        "margin_pct": 44.06105458
+      },
+      "15": {
+        "dem_votes": 14093,
+        "rep_votes": 31450,
+        "other_votes": 0,
+        "total_votes": 45543,
+        "dem_candidate": "BOB BEACH",
+        "rep_candidate": "KENT LEONHARDT",
+        "winner": "REP",
+        "margin_pct": 38.11123554
+      },
+      "16": {
+        "dem_votes": 19683,
+        "rep_votes": 28123,
+        "other_votes": 0,
+        "total_votes": 47806,
+        "dem_candidate": "BOB BEACH",
+        "rep_candidate": "KENT LEONHARDT",
+        "winner": "REP",
+        "margin_pct": 17.6546877
+      },
+      "17": {
+        "dem_votes": 17965,
+        "rep_votes": 25280,
+        "other_votes": 0,
+        "total_votes": 43245,
+        "dem_candidate": "BOB BEACH",
+        "rep_candidate": "KENT LEONHARDT",
+        "winner": "REP",
+        "margin_pct": 16.91525032
+      }
+    }
+  }
+}

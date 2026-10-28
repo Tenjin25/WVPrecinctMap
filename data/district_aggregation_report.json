@@ -630,7 +630,7 @@
     }
   },
   "summary": {
-    "slice_files": 113,
+    "slice_files": 119,
     "max_total_vote_error": 0,
     "max_candidate_vote_error": 0,
     "all_block_assignment_gaps": 0,
@@ -939,6 +939,54 @@
         "file": "state_senate_us_senate_2014.json",
         "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
         "match_coverage_pct": 97.503191
+      },
+      {
+        "scope": "congressional",
+        "contest_type": "us_house",
+        "year": 2016,
+        "file": "congressional_us_house_2016.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.940759
+      },
+      {
+        "scope": "state_house",
+        "contest_type": "us_house",
+        "year": 2016,
+        "file": "state_house_us_house_2016.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.940759
+      },
+      {
+        "scope": "state_senate",
+        "contest_type": "us_house",
+        "year": 2016,
+        "file": "state_senate_us_house_2016.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.940759
+      },
+      {
+        "scope": "congressional",
+        "contest_type": "us_house",
+        "year": 2020,
+        "file": "congressional_us_house_2020.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.764234
+      },
+      {
+        "scope": "state_house",
+        "contest_type": "us_house",
+        "year": 2020,
+        "file": "state_house_us_house_2020.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.764234
+      },
+      {
+        "scope": "state_senate",
+        "contest_type": "us_house",
+        "year": 2020,
+        "file": "state_senate_us_house_2020.json",
+        "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+        "match_coverage_pct": 97.764234
       }
     ],
     "validation_passed": true

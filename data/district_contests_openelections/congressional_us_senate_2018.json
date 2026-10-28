@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "scope": "congressional",
+    "contest_type": "us_senate",
+    "year": 2018,
+    "district_lines_year": 2022,
+    "source_vtd_vintage": 2010,
+    "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+    "match_coverage_pct": 94.406365,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 147568,
+        "rep_votes": 126885,
+        "other_votes": 9772,
+        "total_votes": 284225,
+        "dem_candidate": "JOSEPH MANCHIN, III",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "DEM",
+        "margin_pct": -7.27698126
+      },
+      "2": {
+        "dem_votes": 127255,
+        "rep_votes": 129449,
+        "other_votes": 12753,
+        "total_votes": 269457,
+        "dem_candidate": "JOSEPH MANCHIN, III",
+        "rep_candidate": "PATRICK MORRISEY",
+        "winner": "REP",
+        "margin_pct": 0.8142301
+      }
+    }
+  }
+}

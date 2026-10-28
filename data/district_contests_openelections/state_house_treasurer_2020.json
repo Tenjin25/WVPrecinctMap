@@ -1,0 +1,1017 @@
+{
+  "meta": {
+    "scope": "state_house",
+    "contest_type": "treasurer",
+    "year": 2020,
+    "district_lines_year": 2022,
+    "source_vtd_vintage": 2020,
+    "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+    "match_coverage_pct": 97.747139,
+    "source": "WV precinct-level general election returns normalized by OpenElections",
+    "source_url": "https://github.com/openelections/openelections-data-wv"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 2943,
+        "rep_votes": 5875,
+        "other_votes": 0,
+        "total_votes": 8818,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 33.25017011
+      },
+      "2": {
+        "dem_votes": 3205,
+        "rep_votes": 4944,
+        "other_votes": 0,
+        "total_votes": 8149,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 21.34004172
+      },
+      "3": {
+        "dem_votes": 3447,
+        "rep_votes": 5069,
+        "other_votes": 0,
+        "total_votes": 8516,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 19.0465007
+      },
+      "4": {
+        "dem_votes": 3804,
+        "rep_votes": 5700,
+        "other_votes": 0,
+        "total_votes": 9504,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 19.94949495
+      },
+      "5": {
+        "dem_votes": 3529,
+        "rep_votes": 3645,
+        "other_votes": 0,
+        "total_votes": 7174,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 1.6169501
+      },
+      "6": {
+        "dem_votes": 3225,
+        "rep_votes": 5179,
+        "other_votes": 0,
+        "total_votes": 8404,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 23.25083294
+      },
+      "7": {
+        "dem_votes": 2792,
+        "rep_votes": 4908,
+        "other_votes": 0,
+        "total_votes": 7700,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 27.48051948
+      },
+      "8": {
+        "dem_votes": 2361,
+        "rep_votes": 5106,
+        "other_votes": 0,
+        "total_votes": 7467,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 36.76175171
+      },
+      "9": {
+        "dem_votes": 2728,
+        "rep_votes": 6121,
+        "other_votes": 0,
+        "total_votes": 8849,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 38.34331563
+      },
+      "10": {
+        "dem_votes": 2934,
+        "rep_votes": 5465,
+        "other_votes": 0,
+        "total_votes": 8399,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 30.13453983
+      },
+      "11": {
+        "dem_votes": 3618,
+        "rep_votes": 4945,
+        "other_votes": 0,
+        "total_votes": 8563,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 15.49690529
+      },
+      "12": {
+        "dem_votes": 2657,
+        "rep_votes": 3188,
+        "other_votes": 0,
+        "total_votes": 5845,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 9.08468777
+      },
+      "13": {
+        "dem_votes": 2265,
+        "rep_votes": 4067,
+        "other_votes": 0,
+        "total_votes": 6332,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 28.45862287
+      },
+      "14": {
+        "dem_votes": 2577,
+        "rep_votes": 5529,
+        "other_votes": 0,
+        "total_votes": 8106,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 36.41746854
+      },
+      "15": {
+        "dem_votes": 2549,
+        "rep_votes": 3380,
+        "other_votes": 0,
+        "total_votes": 5929,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 14.01585428
+      },
+      "16": {
+        "dem_votes": 3847,
+        "rep_votes": 5094,
+        "other_votes": 0,
+        "total_votes": 8941,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 13.9469858
+      },
+      "17": {
+        "dem_votes": 3676,
+        "rep_votes": 4366,
+        "other_votes": 0,
+        "total_votes": 8042,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 8.57995524
+      },
+      "18": {
+        "dem_votes": 3346,
+        "rep_votes": 3969,
+        "other_votes": 0,
+        "total_votes": 7315,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 8.51674641
+      },
+      "19": {
+        "dem_votes": 4326,
+        "rep_votes": 4146,
+        "other_votes": 0,
+        "total_votes": 8472,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "DEM",
+        "margin_pct": -2.12464589
+      },
+      "20": {
+        "dem_votes": 4852,
+        "rep_votes": 5156,
+        "other_votes": 0,
+        "total_votes": 10008,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 3.03756994
+      },
+      "21": {
+        "dem_votes": 3796,
+        "rep_votes": 4386,
+        "other_votes": 0,
+        "total_votes": 8182,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 7.21095087
+      },
+      "22": {
+        "dem_votes": 3128,
+        "rep_votes": 4075,
+        "other_votes": 0,
+        "total_votes": 7203,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 13.14729974
+      },
+      "23": {
+        "dem_votes": 3104,
+        "rep_votes": 3751,
+        "other_votes": 0,
+        "total_votes": 6855,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 9.43836616
+      },
+      "24": {
+        "dem_votes": 3104,
+        "rep_votes": 2274,
+        "other_votes": 0,
+        "total_votes": 5378,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "DEM",
+        "margin_pct": -15.43324656
+      },
+      "25": {
+        "dem_votes": 3333,
+        "rep_votes": 1343,
+        "other_votes": 0,
+        "total_votes": 4676,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "DEM",
+        "margin_pct": -42.55774166
+      },
+      "26": {
+        "dem_votes": 4664,
+        "rep_votes": 3647,
+        "other_votes": 0,
+        "total_votes": 8311,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "DEM",
+        "margin_pct": -12.23679461
+      },
+      "27": {
+        "dem_votes": 3527,
+        "rep_votes": 3337,
+        "other_votes": 0,
+        "total_votes": 6864,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "DEM",
+        "margin_pct": -2.76806527
+      },
+      "28": {
+        "dem_votes": 3323,
+        "rep_votes": 3993,
+        "other_votes": 0,
+        "total_votes": 7316,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 9.15800984
+      },
+      "29": {
+        "dem_votes": 2626,
+        "rep_votes": 3647,
+        "other_votes": 0,
+        "total_votes": 6273,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 16.27610394
+      },
+      "30": {
+        "dem_votes": 2913,
+        "rep_votes": 3140,
+        "other_votes": 0,
+        "total_votes": 6053,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 3.75020651
+      },
+      "31": {
+        "dem_votes": 3655,
+        "rep_votes": 3399,
+        "other_votes": 0,
+        "total_votes": 7054,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "DEM",
+        "margin_pct": -3.62914658
+      },
+      "32": {
+        "dem_votes": 4202,
+        "rep_votes": 3106,
+        "other_votes": 0,
+        "total_votes": 7308,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "DEM",
+        "margin_pct": -14.99726327
+      },
+      "33": {
+        "dem_votes": 3407,
+        "rep_votes": 3236,
+        "other_votes": 0,
+        "total_votes": 6643,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "DEM",
+        "margin_pct": -2.57413819
+      },
+      "34": {
+        "dem_votes": 2805,
+        "rep_votes": 3841,
+        "other_votes": 0,
+        "total_votes": 6646,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 15.5883238
+      },
+      "35": {
+        "dem_votes": 2499,
+        "rep_votes": 4249,
+        "other_votes": 0,
+        "total_votes": 6748,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 25.93360996
+      },
+      "36": {
+        "dem_votes": 2354,
+        "rep_votes": 3133,
+        "other_votes": 0,
+        "total_votes": 5487,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 14.19719337
+      },
+      "37": {
+        "dem_votes": 2775,
+        "rep_votes": 4436,
+        "other_votes": 0,
+        "total_votes": 7211,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 23.03425322
+      },
+      "38": {
+        "dem_votes": 2403,
+        "rep_votes": 4266,
+        "other_votes": 0,
+        "total_votes": 6669,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 27.93522267
+      },
+      "39": {
+        "dem_votes": 2739,
+        "rep_votes": 5255,
+        "other_votes": 0,
+        "total_votes": 7994,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 31.4736052
+      },
+      "40": {
+        "dem_votes": 3133,
+        "rep_votes": 4926,
+        "other_votes": 0,
+        "total_votes": 8059,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 22.24841792
+      },
+      "41": {
+        "dem_votes": 2688,
+        "rep_votes": 4839,
+        "other_votes": 0,
+        "total_votes": 7527,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 28.57712236
+      },
+      "42": {
+        "dem_votes": 2069,
+        "rep_votes": 4031,
+        "other_votes": 0,
+        "total_votes": 6100,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 32.16393443
+      },
+      "43": {
+        "dem_votes": 1861,
+        "rep_votes": 4013,
+        "other_votes": 0,
+        "total_votes": 5874,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 36.63602315
+      },
+      "44": {
+        "dem_votes": 3673,
+        "rep_votes": 2729,
+        "other_votes": 0,
+        "total_votes": 6402,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "DEM",
+        "margin_pct": -14.74539206
+      },
+      "45": {
+        "dem_votes": 2236,
+        "rep_votes": 3200,
+        "other_votes": 0,
+        "total_votes": 5436,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 17.73362767
+      },
+      "46": {
+        "dem_votes": 3526,
+        "rep_votes": 4423,
+        "other_votes": 0,
+        "total_votes": 7949,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 11.28443829
+      },
+      "47": {
+        "dem_votes": 3216,
+        "rep_votes": 4542,
+        "other_votes": 0,
+        "total_votes": 7758,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 17.09203403
+      },
+      "48": {
+        "dem_votes": 2940,
+        "rep_votes": 3934,
+        "other_votes": 0,
+        "total_votes": 6874,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 14.46028513
+      },
+      "49": {
+        "dem_votes": 3275,
+        "rep_votes": 4228,
+        "other_votes": 0,
+        "total_votes": 7503,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 12.70158603
+      },
+      "50": {
+        "dem_votes": 3352,
+        "rep_votes": 3316,
+        "other_votes": 0,
+        "total_votes": 6668,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "DEM",
+        "margin_pct": -0.53989202
+      },
+      "51": {
+        "dem_votes": 3312,
+        "rep_votes": 4086,
+        "other_votes": 0,
+        "total_votes": 7398,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 10.4622871
+      },
+      "52": {
+        "dem_votes": 4389,
+        "rep_votes": 2490,
+        "other_votes": 0,
+        "total_votes": 6879,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "DEM",
+        "margin_pct": -27.60575665
+      },
+      "53": {
+        "dem_votes": 4912,
+        "rep_votes": 3337,
+        "other_votes": 0,
+        "total_votes": 8249,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "DEM",
+        "margin_pct": -19.09322342
+      },
+      "54": {
+        "dem_votes": 5504,
+        "rep_votes": 1519,
+        "other_votes": 0,
+        "total_votes": 7023,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "DEM",
+        "margin_pct": -56.74213299
+      },
+      "55": {
+        "dem_votes": 4829,
+        "rep_votes": 2881,
+        "other_votes": 0,
+        "total_votes": 7710,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "DEM",
+        "margin_pct": -25.26588846
+      },
+      "56": {
+        "dem_votes": 5039,
+        "rep_votes": 2978,
+        "other_votes": 0,
+        "total_votes": 8017,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "DEM",
+        "margin_pct": -25.70787077
+      },
+      "57": {
+        "dem_votes": 5218,
+        "rep_votes": 2461,
+        "other_votes": 0,
+        "total_votes": 7679,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "DEM",
+        "margin_pct": -35.90311238
+      },
+      "58": {
+        "dem_votes": 5210,
+        "rep_votes": 3426,
+        "other_votes": 0,
+        "total_votes": 8636,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "DEM",
+        "margin_pct": -20.6577119
+      },
+      "59": {
+        "dem_votes": 4277,
+        "rep_votes": 2939,
+        "other_votes": 0,
+        "total_votes": 7216,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "DEM",
+        "margin_pct": -18.5421286
+      },
+      "60": {
+        "dem_votes": 3879,
+        "rep_votes": 3609,
+        "other_votes": 0,
+        "total_votes": 7488,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "DEM",
+        "margin_pct": -3.60576923
+      },
+      "61": {
+        "dem_votes": 3972,
+        "rep_votes": 4149,
+        "other_votes": 0,
+        "total_votes": 8121,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 2.17953454
+      },
+      "62": {
+        "dem_votes": 2939,
+        "rep_votes": 3355,
+        "other_votes": 0,
+        "total_votes": 6294,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 6.60946934
+      },
+      "63": {
+        "dem_votes": 3425,
+        "rep_votes": 3123,
+        "other_votes": 0,
+        "total_votes": 6548,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "DEM",
+        "margin_pct": -4.6120953
+      },
+      "64": {
+        "dem_votes": 2956,
+        "rep_votes": 4527,
+        "other_votes": 0,
+        "total_votes": 7483,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 20.99425364
+      },
+      "65": {
+        "dem_votes": 2899,
+        "rep_votes": 4453,
+        "other_votes": 0,
+        "total_votes": 7352,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 21.13710555
+      },
+      "66": {
+        "dem_votes": 2811,
+        "rep_votes": 3776,
+        "other_votes": 0,
+        "total_votes": 6587,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 14.65006832
+      },
+      "67": {
+        "dem_votes": 3456,
+        "rep_votes": 4496,
+        "other_votes": 0,
+        "total_votes": 7952,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 13.07847082
+      },
+      "68": {
+        "dem_votes": 2940,
+        "rep_votes": 4934,
+        "other_votes": 0,
+        "total_votes": 7874,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 25.32385065
+      },
+      "69": {
+        "dem_votes": 3345,
+        "rep_votes": 5284,
+        "other_votes": 0,
+        "total_votes": 8629,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 22.47073821
+      },
+      "70": {
+        "dem_votes": 3489,
+        "rep_votes": 3239,
+        "other_votes": 0,
+        "total_votes": 6728,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "DEM",
+        "margin_pct": -3.71581451
+      },
+      "71": {
+        "dem_votes": 4000,
+        "rep_votes": 4706,
+        "other_votes": 0,
+        "total_votes": 8706,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 8.10934987
+      },
+      "72": {
+        "dem_votes": 2632,
+        "rep_votes": 4209,
+        "other_votes": 0,
+        "total_votes": 6841,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 23.05218535
+      },
+      "73": {
+        "dem_votes": 2886,
+        "rep_votes": 4216,
+        "other_votes": 0,
+        "total_votes": 7102,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 18.72711912
+      },
+      "74": {
+        "dem_votes": 3986,
+        "rep_votes": 4991,
+        "other_votes": 0,
+        "total_votes": 8977,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 11.19527682
+      },
+      "75": {
+        "dem_votes": 4015,
+        "rep_votes": 4152,
+        "other_votes": 0,
+        "total_votes": 8167,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 1.67748255
+      },
+      "76": {
+        "dem_votes": 3821,
+        "rep_votes": 3260,
+        "other_votes": 0,
+        "total_votes": 7081,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "DEM",
+        "margin_pct": -7.9226098
+      },
+      "77": {
+        "dem_votes": 3681,
+        "rep_votes": 4803,
+        "other_votes": 0,
+        "total_votes": 8484,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 13.22489392
+      },
+      "78": {
+        "dem_votes": 4184,
+        "rep_votes": 4523,
+        "other_votes": 0,
+        "total_votes": 8707,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 3.89341909
+      },
+      "79": {
+        "dem_votes": 3298,
+        "rep_votes": 1198,
+        "other_votes": 0,
+        "total_votes": 4496,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "DEM",
+        "margin_pct": -46.70818505
+      },
+      "80": {
+        "dem_votes": 3531,
+        "rep_votes": 2273,
+        "other_votes": 0,
+        "total_votes": 5804,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "DEM",
+        "margin_pct": -21.6747071
+      },
+      "81": {
+        "dem_votes": 2716,
+        "rep_votes": 1523,
+        "other_votes": 0,
+        "total_votes": 4239,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "DEM",
+        "margin_pct": -28.14343005
+      },
+      "82": {
+        "dem_votes": 4493,
+        "rep_votes": 4088,
+        "other_votes": 0,
+        "total_votes": 8581,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "DEM",
+        "margin_pct": -4.71972964
+      },
+      "83": {
+        "dem_votes": 2082,
+        "rep_votes": 4670,
+        "other_votes": 0,
+        "total_votes": 6752,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 38.32938389
+      },
+      "84": {
+        "dem_votes": 2010,
+        "rep_votes": 4283,
+        "other_votes": 0,
+        "total_votes": 6293,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 36.11949785
+      },
+      "85": {
+        "dem_votes": 2425,
+        "rep_votes": 6206,
+        "other_votes": 0,
+        "total_votes": 8631,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 43.80720658
+      },
+      "86": {
+        "dem_votes": 2883,
+        "rep_votes": 5047,
+        "other_votes": 0,
+        "total_votes": 7930,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 27.2887768
+      },
+      "87": {
+        "dem_votes": 1925,
+        "rep_votes": 5416,
+        "other_votes": 0,
+        "total_votes": 7341,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 47.55482904
+      },
+      "88": {
+        "dem_votes": 1846,
+        "rep_votes": 6078,
+        "other_votes": 0,
+        "total_votes": 7924,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 53.40737002
+      },
+      "89": {
+        "dem_votes": 2058,
+        "rep_votes": 6218,
+        "other_votes": 0,
+        "total_votes": 8276,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 50.2658289
+      },
+      "90": {
+        "dem_votes": 2249,
+        "rep_votes": 6719,
+        "other_votes": 0,
+        "total_votes": 8968,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 49.84388938
+      },
+      "91": {
+        "dem_votes": 2069,
+        "rep_votes": 5454,
+        "other_votes": 0,
+        "total_votes": 7523,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 44.9953476
+      },
+      "92": {
+        "dem_votes": 2829,
+        "rep_votes": 5603,
+        "other_votes": 0,
+        "total_votes": 8432,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 32.89848197
+      },
+      "93": {
+        "dem_votes": 2847,
+        "rep_votes": 3971,
+        "other_votes": 0,
+        "total_votes": 6818,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 16.48577295
+      },
+      "94": {
+        "dem_votes": 2120,
+        "rep_votes": 4110,
+        "other_votes": 0,
+        "total_votes": 6230,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 31.94221509
+      },
+      "95": {
+        "dem_votes": 2366,
+        "rep_votes": 4532,
+        "other_votes": 0,
+        "total_votes": 6898,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 31.40040591
+      },
+      "96": {
+        "dem_votes": 1955,
+        "rep_votes": 4424,
+        "other_votes": 0,
+        "total_votes": 6379,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 38.7051262
+      },
+      "97": {
+        "dem_votes": 3746,
+        "rep_votes": 5034,
+        "other_votes": 0,
+        "total_votes": 8780,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 14.66970387
+      },
+      "98": {
+        "dem_votes": 2579,
+        "rep_votes": 4781,
+        "other_votes": 0,
+        "total_votes": 7360,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 29.91847826
+      },
+      "99": {
+        "dem_votes": 3114,
+        "rep_votes": 4571,
+        "other_votes": 0,
+        "total_votes": 7685,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 18.95901106
+      },
+      "100": {
+        "dem_votes": 3333,
+        "rep_votes": 4873,
+        "other_votes": 0,
+        "total_votes": 8206,
+        "dem_candidate": "JOHN D. PERDUE",
+        "rep_candidate": "RILEY MOORE",
+        "winner": "REP",
+        "margin_pct": 18.76675603
+      }
+    }
+  }
+}

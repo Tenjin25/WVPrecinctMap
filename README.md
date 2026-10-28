@@ -51,7 +51,7 @@ python scripts/aggregate_wv_block_contests.py
 
 The resulting JSON slices and manifest are written to
 `data/district_contests/`. The production build prefers exact block or
-district-native totals, then adds only validated 2012 and 2014 precinct/VTD
+district-native totals, then adds only validated historical precinct/VTD
 crosswalk slices with at least 97% matched vote coverage.
 
 ## Sources

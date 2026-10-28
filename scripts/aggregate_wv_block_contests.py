@@ -28,7 +28,7 @@ SUPPLEMENTAL_SOURCES = (
     (DATA / "district_contests_precinct_geometry", {2022}, 99.0),
     # These are the historical years whose precinct coverage and district
     # counts have been validated. Earlier partial years stay diagnostic-only.
-    (DATA / "district_contests_openelections", {2012, 2014}, 97.0),
+    (DATA / "district_contests_openelections", {2012, 2014, 2016, 2020}, 97.0),
 )
 
 OFFICES = {

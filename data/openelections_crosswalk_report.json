@@ -1196,6 +1196,435 @@
         }
       }
     },
+    "2018": {
+      "source_vtd_vintage": 2010,
+      "input_rows": 25201,
+      "matched_precincts": 1631,
+      "unmatched_precincts": 109,
+      "match_methods_by_rows": {
+        "source_vtd_exact": 8273,
+        "current_precinct_exact": 365,
+        "source_vtd_base_code_fallback": 707
+      },
+      "largest_unmatched_precincts_by_votes": [
+        {
+          "precinct": "Harrison|PRECINCT123",
+          "votes_across_selected_contests": 2448
+        },
+        {
+          "precinct": "Harrison|PRECINCT129",
+          "votes_across_selected_contests": 2025
+        },
+        {
+          "precinct": "Harrison|PRECINCT129B",
+          "votes_across_selected_contests": 1506
+        },
+        {
+          "precinct": "Harrison|PRECINCT102",
+          "votes_across_selected_contests": 1501
+        },
+        {
+          "precinct": "Harrison|PRECINCT125",
+          "votes_across_selected_contests": 1384
+        },
+        {
+          "precinct": "Harrison|PRECINCT143",
+          "votes_across_selected_contests": 1374
+        },
+        {
+          "precinct": "Harrison|PRECINCT1",
+          "votes_across_selected_contests": 1356
+        },
+        {
+          "precinct": "Raleigh|Precinct 84",
+          "votes_across_selected_contests": 1271
+        },
+        {
+          "precinct": "Harrison|PRECINCT14",
+          "votes_across_selected_contests": 1154
+        },
+        {
+          "precinct": "Harrison|PRECINCT128",
+          "votes_across_selected_contests": 1128
+        },
+        {
+          "precinct": "Harrison|PRECINCT28",
+          "votes_across_selected_contests": 1034
+        },
+        {
+          "precinct": "Harrison|PRECINCT6",
+          "votes_across_selected_contests": 1002
+        },
+        {
+          "precinct": "Harrison|PRECINCT4",
+          "votes_across_selected_contests": 956
+        },
+        {
+          "precinct": "Harrison|PRECINCT68",
+          "votes_across_selected_contests": 939
+        },
+        {
+          "precinct": "Harrison|PRECINCT82",
+          "votes_across_selected_contests": 933
+        },
+        {
+          "precinct": "Harrison|PRECINCT78",
+          "votes_across_selected_contests": 909
+        },
+        {
+          "precinct": "Raleigh|Precinct 78",
+          "votes_across_selected_contests": 866
+        },
+        {
+          "precinct": "Harrison|PRECINCT34",
+          "votes_across_selected_contests": 819
+        },
+        {
+          "precinct": "Taylor|Precinct 5",
+          "votes_across_selected_contests": 815
+        },
+        {
+          "precinct": "Kanawha|109",
+          "votes_across_selected_contests": 804
+        }
+      ],
+      "contests": {
+        "congressional_us_house": {
+          "districts": 2,
+          "source_total_votes": 578084,
+          "matched_total_votes": 545648,
+          "output_total_votes": 545648,
+          "match_coverage_pct": 94.389051,
+          "conservation_error": 0
+        },
+        "congressional_us_senate": {
+          "districts": 2,
+          "source_total_votes": 586488,
+          "matched_total_votes": 553682,
+          "output_total_votes": 553682,
+          "match_coverage_pct": 94.406365,
+          "conservation_error": 0
+        },
+        "state_house_us_house": {
+          "districts": 98,
+          "source_total_votes": 578084,
+          "matched_total_votes": 545648,
+          "output_total_votes": 545648,
+          "match_coverage_pct": 94.389051,
+          "conservation_error": 0
+        },
+        "state_house_us_senate": {
+          "districts": 98,
+          "source_total_votes": 586488,
+          "matched_total_votes": 553682,
+          "output_total_votes": 553682,
+          "match_coverage_pct": 94.406365,
+          "conservation_error": 0
+        },
+        "state_senate_us_house": {
+          "districts": 17,
+          "source_total_votes": 578084,
+          "matched_total_votes": 545648,
+          "output_total_votes": 545648,
+          "match_coverage_pct": 94.389051,
+          "conservation_error": 0
+        },
+        "state_senate_us_senate": {
+          "districts": 17,
+          "source_total_votes": 586488,
+          "matched_total_votes": 553682,
+          "output_total_votes": 553682,
+          "match_coverage_pct": 94.406365,
+          "conservation_error": 0
+        }
+      }
+    },
+    "2020": {
+      "source_vtd_vintage": 2020,
+      "input_rows": 64135,
+      "matched_precincts": 1655,
+      "unmatched_precincts": 51,
+      "match_methods_by_rows": {
+        "source_vtd_exact": 31240,
+        "source_vtd_base_code_fallback": 1860
+      },
+      "largest_unmatched_precincts_by_votes": [
+        {
+          "precinct": "Raleigh|PRECINCT 84",
+          "votes_across_selected_contests": 6619
+        },
+        {
+          "precinct": "Preston|PRECINCT 13",
+          "votes_across_selected_contests": 5954
+        },
+        {
+          "precinct": "Taylor|PRECINCT 5",
+          "votes_across_selected_contests": 4632
+        },
+        {
+          "precinct": "Kanawha|PRECINCT 206",
+          "votes_across_selected_contests": 4557
+        },
+        {
+          "precinct": "Raleigh|PRECINCT 78",
+          "votes_across_selected_contests": 4462
+        },
+        {
+          "precinct": "Clay|PRECINCT 29",
+          "votes_across_selected_contests": 4295
+        },
+        {
+          "precinct": "Kanawha|PRECINCT 109",
+          "votes_across_selected_contests": 4171
+        },
+        {
+          "precinct": "Raleigh|PRECINCT 42",
+          "votes_across_selected_contests": 3965
+        },
+        {
+          "precinct": "Raleigh|PRECINCT 87",
+          "votes_across_selected_contests": 3858
+        },
+        {
+          "precinct": "Roane|PRECINCT 11",
+          "votes_across_selected_contests": 3756
+        },
+        {
+          "precinct": "Kanawha|PRECINCT 203",
+          "votes_across_selected_contests": 3749
+        },
+        {
+          "precinct": "Raleigh|PRECINCT 22",
+          "votes_across_selected_contests": 3623
+        },
+        {
+          "precinct": "Raleigh|PRECINCT 69",
+          "votes_across_selected_contests": 3600
+        },
+        {
+          "precinct": "Cabell|PRECINCT 34",
+          "votes_across_selected_contests": 3597
+        },
+        {
+          "precinct": "Raleigh|PRECINCT 29",
+          "votes_across_selected_contests": 3397
+        },
+        {
+          "precinct": "Raleigh|PRECINCT 67",
+          "votes_across_selected_contests": 3380
+        },
+        {
+          "precinct": "Raleigh|PRECINCT 9",
+          "votes_across_selected_contests": 3367
+        },
+        {
+          "precinct": "Raleigh|PRECINCT 86",
+          "votes_across_selected_contests": 3290
+        },
+        {
+          "precinct": "Raleigh|PRECINCT 39",
+          "votes_across_selected_contests": 3287
+        },
+        {
+          "precinct": "Clay|PRECINCT 15",
+          "votes_across_selected_contests": 3270
+        }
+      ],
+      "contests": {
+        "congressional_agriculture_commissioner": {
+          "districts": 2,
+          "source_total_votes": 739298,
+          "matched_total_votes": 722704,
+          "output_total_votes": 722704,
+          "match_coverage_pct": 97.755438,
+          "conservation_error": 0
+        },
+        "congressional_attorney_general": {
+          "districts": 2,
+          "source_total_votes": 764048,
+          "matched_total_votes": 746875,
+          "output_total_votes": 746875,
+          "match_coverage_pct": 97.752366,
+          "conservation_error": 0
+        },
+        "congressional_auditor": {
+          "districts": 2,
+          "source_total_votes": 741272,
+          "matched_total_votes": 724614,
+          "output_total_votes": 724614,
+          "match_coverage_pct": 97.752782,
+          "conservation_error": 0
+        },
+        "congressional_governor": {
+          "districts": 2,
+          "source_total_votes": 768804,
+          "matched_total_votes": 751444,
+          "output_total_votes": 751444,
+          "match_coverage_pct": 97.741947,
+          "conservation_error": 0
+        },
+        "congressional_president": {
+          "districts": 2,
+          "source_total_votes": 794652,
+          "matched_total_votes": 776770,
+          "output_total_votes": 776770,
+          "match_coverage_pct": 97.749707,
+          "conservation_error": 0
+        },
+        "congressional_secretary_of_state": {
+          "districts": 2,
+          "source_total_votes": 768187,
+          "matched_total_votes": 750875,
+          "output_total_votes": 750875,
+          "match_coverage_pct": 97.746382,
+          "conservation_error": 0
+        },
+        "congressional_treasurer": {
+          "districts": 2,
+          "source_total_votes": 756061,
+          "matched_total_votes": 739028,
+          "output_total_votes": 739028,
+          "match_coverage_pct": 97.747139,
+          "conservation_error": 0
+        },
+        "congressional_us_house": {
+          "districts": 2,
+          "source_total_votes": 761171,
+          "matched_total_votes": 744153,
+          "output_total_votes": 744153,
+          "match_coverage_pct": 97.764234,
+          "conservation_error": 0
+        },
+        "state_house_agriculture_commissioner": {
+          "districts": 100,
+          "source_total_votes": 739298,
+          "matched_total_votes": 722704,
+          "output_total_votes": 722704,
+          "match_coverage_pct": 97.755438,
+          "conservation_error": 0
+        },
+        "state_house_attorney_general": {
+          "districts": 100,
+          "source_total_votes": 764048,
+          "matched_total_votes": 746875,
+          "output_total_votes": 746875,
+          "match_coverage_pct": 97.752366,
+          "conservation_error": 0
+        },
+        "state_house_auditor": {
+          "districts": 100,
+          "source_total_votes": 741272,
+          "matched_total_votes": 724614,
+          "output_total_votes": 724614,
+          "match_coverage_pct": 97.752782,
+          "conservation_error": 0
+        },
+        "state_house_governor": {
+          "districts": 100,
+          "source_total_votes": 768804,
+          "matched_total_votes": 751444,
+          "output_total_votes": 751444,
+          "match_coverage_pct": 97.741947,
+          "conservation_error": 0
+        },
+        "state_house_president": {
+          "districts": 100,
+          "source_total_votes": 794652,
+          "matched_total_votes": 776770,
+          "output_total_votes": 776770,
+          "match_coverage_pct": 97.749707,
+          "conservation_error": 0
+        },
+        "state_house_secretary_of_state": {
+          "districts": 100,
+          "source_total_votes": 768187,
+          "matched_total_votes": 750875,
+          "output_total_votes": 750875,
+          "match_coverage_pct": 97.746382,
+          "conservation_error": 0
+        },
+        "state_house_treasurer": {
+          "districts": 100,
+          "source_total_votes": 756061,
+          "matched_total_votes": 739028,
+          "output_total_votes": 739028,
+          "match_coverage_pct": 97.747139,
+          "conservation_error": 0
+        },
+        "state_house_us_house": {
+          "districts": 100,
+          "source_total_votes": 761171,
+          "matched_total_votes": 744153,
+          "output_total_votes": 744153,
+          "match_coverage_pct": 97.764234,
+          "conservation_error": 0
+        },
+        "state_senate_agriculture_commissioner": {
+          "districts": 17,
+          "source_total_votes": 739298,
+          "matched_total_votes": 722704,
+          "output_total_votes": 722704,
+          "match_coverage_pct": 97.755438,
+          "conservation_error": 0
+        },
+        "state_senate_attorney_general": {
+          "districts": 17,
+          "source_total_votes": 764048,
+          "matched_total_votes": 746875,
+          "output_total_votes": 746875,
+          "match_coverage_pct": 97.752366,
+          "conservation_error": 0
+        },
+        "state_senate_auditor": {
+          "districts": 17,
+          "source_total_votes": 741272,
+          "matched_total_votes": 724614,
+          "output_total_votes": 724614,
+          "match_coverage_pct": 97.752782,
+          "conservation_error": 0
+        },
+        "state_senate_governor": {
+          "districts": 17,
+          "source_total_votes": 768804,
+          "matched_total_votes": 751444,
+          "output_total_votes": 751444,
+          "match_coverage_pct": 97.741947,
+          "conservation_error": 0
+        },
+        "state_senate_president": {
+          "districts": 17,
+          "source_total_votes": 794652,
+          "matched_total_votes": 776770,
+          "output_total_votes": 776770,
+          "match_coverage_pct": 97.749707,
+          "conservation_error": 0
+        },
+        "state_senate_secretary_of_state": {
+          "districts": 17,
+          "source_total_votes": 768187,
+          "matched_total_votes": 750875,
+          "output_total_votes": 750875,
+          "match_coverage_pct": 97.746382,
+          "conservation_error": 0
+        },
+        "state_senate_treasurer": {
+          "districts": 17,
+          "source_total_votes": 756061,
+          "matched_total_votes": 739028,
+          "output_total_votes": 739028,
+          "match_coverage_pct": 97.747139,
+          "conservation_error": 0
+        },
+        "state_senate_us_house": {
+          "districts": 17,
+          "source_total_votes": 761171,
+          "matched_total_votes": 744153,
+          "output_total_votes": 744153,
+          "match_coverage_pct": 97.764234,
+          "conservation_error": 0
+        }
+      }
+    },
     "2022": {
       "source_vtd_vintage": 2020,
       "input_rows": 36603,
@@ -1316,7 +1745,7 @@
     }
   },
   "summary": {
-    "slice_files": 93,
+    "slice_files": 123,
     "max_conservation_error": 0,
     "minimum_match_coverage_pct": 93.027267,
     "district_count_warnings": [
@@ -1384,6 +1813,18 @@
         "slice": "state_house_us_senate",
         "year": 2010,
         "actual": 91,
+        "expected": 100
+      },
+      {
+        "slice": "state_house_us_house",
+        "year": 2018,
+        "actual": 98,
+        "expected": 100
+      },
+      {
+        "slice": "state_house_us_senate",
+        "year": 2018,
+        "actual": 98,
         "expected": 100
       }
     ],
