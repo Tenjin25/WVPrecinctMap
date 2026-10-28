@@ -10813,8 +10813,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Cache destroyer token for static data requests.
     // Bump this value when you want browsers/CDNs to fetch fresh files immediately.
-    const DATA_CACHE_BUSTER = '2026-10-27-district-aggregation-v2';
-    const APP_BUILD_ID = '2026-10-27-district-aggregation-v2';
+    const DATA_CACHE_BUSTER = '2026-10-27-district-aggregation-v3';
+    const APP_BUILD_ID = '2026-10-27-district-aggregation-v3';
 
     function withCacheBuster(path) {
       const p = (path || '').toString().trim();
@@ -19721,6 +19721,28 @@ document.addEventListener('DOMContentLoaded', function() {
       } finally {
         districtSliceInflight.delete(cacheKey);
       }
+    }
+
+    function buildDistrictManifestFromLegacy(payload) {
+      const files = [];
+      const byYear = payload?.results_by_year || {};
+      Object.entries(byYear).forEach(([yearRaw, scopes]) => {
+        const year = Number(yearRaw);
+        if (!Number.isFinite(year) || !scopes || typeof scopes !== 'object') return;
+        Object.entries(scopes).forEach(([scope, contests]) => {
+          if (!['congressional', 'state_house', 'state_senate'].includes(scope)) return;
+          if (!contests || typeof contests !== 'object') return;
+          Object.keys(contests).forEach(contestType => {
+            files.push({
+              scope,
+              contest_type: contestType,
+              year,
+              file: `${scope}_${contestType}_${year}.json`
+            });
+          });
+        });
+      });
+      return files.sort((a, b) => (a.year - b.year) || a.scope.localeCompare(b.scope) || a.contest_type.localeCompare(b.contest_type));
     }
 
     function parseCSV(csvText) {
@@ -33481,6 +33503,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
       try {
         let loadedAnyDistrictManifest = false;
+        const manifestErrors = [];
         districtManifestByLines = { '2022': [], '2024': [] };
         for (const linesYear of [2022, 2024]) {
           const dir = getActiveDistrictContestsDir(linesYear);
@@ -33492,6 +33515,7 @@ document.addEventListener('DOMContentLoaded', function() {
             if (files.length > 0) loadedAnyDistrictManifest = true;
           } catch (err) {
             districtManifestByLines[String(linesYear)] = [];
+            manifestErrors.push({ linesYear, error: err?.message || String(err) });
             if (linesYear === 2022) {
               console.warn('Primary district manifest not loaded:', err?.message || err);
             }
@@ -33503,6 +33527,11 @@ document.addEventListener('DOMContentLoaded', function() {
         }
 
         districtManifest = getActiveDistrictManifest();
+        window.__ATLAS_DISTRICT_INDEX__ = {
+          source: 'manifest',
+          files: districtManifest.length,
+          errors: manifestErrors
+        };
         districtElectionDataJSON = null;
         updateDistrictLinesToggleUI();
         if (contestManifest.length > 0 || districtManifest.length > 0) {
@@ -33510,14 +33539,27 @@ document.addEventListener('DOMContentLoaded', function() {
         }
         setStatus('District index loaded');
       } catch (manifestErr) {
-        // Performance change: defer the large legacy district results payload until users enter a district view.
-        // District slice payloads are lazy-loaded via `loadDistrictSlice()` when needed.
+        // A cached or transient manifest failure must not erase every district
+        // contest. Rebuild the same index from the versioned legacy bundle;
+        // loadDistrictSlice() still prefers the small per-contest files.
+        console.warn('District manifest unavailable; loading bundled index fallback:', manifestErr?.message || manifestErr);
         districtElectionDataJSON = null;
         districtElectionDataLoadInflight = null;
         districtElectionDataLoadFailed = false;
-        districtManifestByLines = { '2022': [], '2024': [] };
-        districtManifest = [];
+        const legacy = await ensureDistrictElectionDataLoaded();
+        const fallbackFiles = buildDistrictManifestFromLegacy(legacy);
+        districtManifestByLines = {
+          '2022': fallbackFiles.slice(),
+          '2024': fallbackFiles.slice()
+        };
+        districtManifest = getActiveDistrictManifest();
+        window.__ATLAS_DISTRICT_INDEX__ = {
+          source: 'legacy_fallback',
+          files: districtManifest.length,
+          error: manifestErr?.message || String(manifestErr)
+        };
         updateDistrictLinesToggleUI();
+        updateContestSelectForCurrentView();
       }
 
       // Optional district resources: do not fail app initialization if absent
