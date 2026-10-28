@@ -10813,8 +10813,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Cache destroyer token for static data requests.
     // Bump this value when you want browsers/CDNs to fetch fresh files immediately.
-    const DATA_CACHE_BUSTER = '2026-10-28-district-aggregation-v4';
-    const APP_BUILD_ID = '2026-10-28-district-aggregation-v4';
+    const DATA_CACHE_BUSTER = '2026-10-28-district-aggregation-v5';
+    const APP_BUILD_ID = '2026-10-28-district-aggregation-v5';
 
     function withCacheBuster(path) {
       const p = (path || '').toString().trim();
@@ -20379,7 +20379,8 @@ document.addEventListener('DOMContentLoaded', function() {
 	        const contestType = entry.contest_type;
 	        const year = Number(entry.year);
 	        const rows = Number(entry.rows || entry.districts || 0) || 0;
-	        if (!contestType || rows <= 0) return;
+	        const isDistrictEntry = Boolean((entry.scope || '').toString().trim());
+	        if (!contestType || (!isDistrictEntry && rows <= 0)) return;
 
           // Keep foreign/model-only contest types from surfacing in this atlas.
           const copiedNcOrModelContest =
