@@ -89,6 +89,18 @@ repositories. OpenElections still classifies 2010 precinct results as work in pr
 
 - Wayback CDX searches for the historical Grant County and Hardy County clerk sites
   did not surface 2010 general-election result files.
+- A broader Wayback URL-index sweep found Harrison County's archived `2010 GE`
+  election menu. It proves that the county published a dedicated U.S. Senate
+  results page at
+  `http://www.harrisoncountywv.com/includes/election/2010 GE/US SENATOR.htm`.
+  The menu survives, but Wayback did not capture that linked page, the live URL
+  now returns 404, and the 2009-2013 Common Crawl indexes do not contain a copy.
+  This exact URL is still useful in a targeted request to the county webmaster,
+  clerk, or Internet Archive because it identifies the former digital record.
+- Wayback URL-index sweeps of the known Brooke, Clay, Gilmer, Greenbrier,
+  McDowell, Pleasants, and Ritchie county domains did not reveal additional 2010
+  result files. The Greenbrier index retained its 2008 clerk results page and a
+  2012 election-total page, but no 2010 result URL.
 - WVU's public VTD/SOS report tree was inspected. Its archives contain voter-
   registration precinct summaries from 2022 onward, not historical vote returns:
   <https://data.wvgis.wvu.edu/pub/VTD/SOS/report/Vote/precinct_summary/archive/>.
