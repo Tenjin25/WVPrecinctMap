@@ -127,6 +127,23 @@ repositories. OpenElections still classifies 2010 precinct results as work in pr
 - Pleasants
 - Ritchie
 
+## Records requests
+
+On 2026-10-28, individual electronic-record requests were sent to the current
+county-clerk addresses published by the West Virginia Secretary of State for all
+11 counties lacking 2010 special U.S. Senate precinct returns: Brooke, Clay,
+Gilmer, Grant, Greenbrier, Hardy, Harrison, McDowell, Ohio, Pleasants, and
+Ritchie. Each request asked for existing precinct certificates, a statement of
+votes cast or canvass with precinct rows, an election-summary detail report, or
+the original voting-system export. The requests also asked the clerk to identify
+any transfer to the State Archives or another custodian and to give notice before
+incurring a copying or research charge.
+
+The State Archives says it does not accept research requests by email; any direct
+Archives research request must be submitted by letter with the applicable fee.
+County responses identifying a transfer should therefore be used to narrow any
+paid postal request to a specific record series and accession.
+
 The best next acquisition route is a Statement of Votes Cast, election-summary
 report, or certified precinct canvass from each county clerk/commission. Search
 engines did not surface durable public files for these counties. Requests should
