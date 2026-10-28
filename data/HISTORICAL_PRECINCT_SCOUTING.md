@@ -38,6 +38,17 @@ The reproducible importer is `scripts/import_wv_precinct_supplements.py`.
   major-party total is unchanged. Jesse Johnson's cells sum to 256 while the footer
   says 257. The importer retains the cells as printed and does not force the footer.
 
+### 2010 U.S. Senate: Pleasants County certified canvass
+
+- Source document: `data/supplemental_sources/county_requests/2010/Pleasants_WV_2010_General.pdf`
+  (received from the Pleasants County Clerk's Office on 2026-10-28).
+- Contents: 11 precinct rows for all four U.S. Senate candidates.
+- Audit: the precinct cells sum exactly to the certified totals: 1,042 Raese,
+  1,405 Manchin, 31 Becker, and 57 Johnson.
+- Integrated result: 2010 overall coverage rises from 45 to 46 counties, leaving
+  nine counties with no precinct rows. The U.S. Senate contest remains absent in
+  those nine counties plus Ohio County.
+
 ## Sources checked but not sufficient
 
 ### West Virginia Secretary of State legacy results application
@@ -124,7 +135,6 @@ repositories. OpenElections still classifies 2010 precinct results as work in pr
 - Harrison
 - McDowell
 - Ohio (county exists in the normalized file, but this contest is absent)
-- Pleasants
 - Ritchie
 
 ## Records requests
@@ -138,6 +148,9 @@ votes cast or canvass with precinct rows, an election-summary detail report, or
 the original voting-system export. The requests also asked the clerk to identify
 any transfer to the State Archives or another custodian and to give notice before
 incurring a copying or research charge.
+
+Pleasants responded the same day with a certified canvass; that request is now
+fulfilled and the precinct rows are integrated as described above.
 
 The State Archives says it does not accept research requests by email; any direct
 Archives research request must be submitted by letter with the applicable fee.

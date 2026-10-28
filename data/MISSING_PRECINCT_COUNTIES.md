@@ -9,7 +9,7 @@ interpreted as having zero votes.
 | Year | Counties present | Missing counties | Source |
 |---|---:|---|---|
 | 2008 | 55 of 55 | None overall; see contest-specific gaps below | OpenElections, recovered county reports, and DRA/Stanford-Harvard VTD fallback |
-| 2010 | 45 of 55 | Brooke, Clay, Gilmer, Grant, Greenbrier, Hardy, Harrison, McDowell, Pleasants, Ritchie | OpenElections files plus recovered county reports |
+| 2010 | 46 of 55 | Brooke, Clay, Gilmer, Grant, Greenbrier, Hardy, Harrison, McDowell, Ritchie | OpenElections files plus recovered county reports |
 | 2012 | 55 of 55 | None | Harvard Election Data Archive `WV_2012.tab` |
 | 2016 | 55 of 55 | None | MIT MEDSL official precinct returns |
 
@@ -31,8 +31,8 @@ recreates normalized county CSVs under `data/supplemental_county_returns`.
 
 - 2008: Hancock and Lincoln presidential results; Morgan presidential, U.S. Senate,
   and gubernatorial results.
-- 2010 U.S. Senate: Calhoun, Hancock, Lincoln, Monroe, Pocahontas, Preston,
-  Raleigh, Roane, Upshur, Wetzel, Wirt, and Wyoming.
+- 2010 U.S. Senate: Calhoun, Hancock, Lincoln, Monroe, Pleasants, Pocahontas,
+  Preston, Raleigh, Roane, Upshur, Wetzel, Wirt, and Wyoming.
 
 Coverage is contest-specific. Before the VTD fallback described below, President
 was present for 51 counties. It is now present for all 55; U.S. Senate and Governor

@@ -298,11 +298,11 @@
     },
     "2010": {
       "source_vtd_vintage": 2010,
-      "input_rows": 26057,
-      "matched_precincts": 1494,
+      "input_rows": 26101,
+      "matched_precincts": 1505,
       "unmatched_precincts": 89,
       "match_methods_by_rows": {
-        "source_vtd_exact": 7397,
+        "source_vtd_exact": 7441,
         "current_precinct_exact": 192,
         "source_vtd_base_code_fallback": 1950
       },
@@ -399,26 +399,26 @@
         },
         "congressional_us_senate": {
           "districts": 2,
-          "source_total_votes": 444954,
-          "matched_total_votes": 429861,
-          "output_total_votes": 429861,
-          "match_coverage_pct": 96.607964,
+          "source_total_votes": 447489,
+          "matched_total_votes": 432396,
+          "output_total_votes": 432396,
+          "match_coverage_pct": 96.62718,
           "conservation_error": 0
         },
         "state_house_us_senate": {
           "districts": 93,
-          "source_total_votes": 444954,
-          "matched_total_votes": 429861,
-          "output_total_votes": 429861,
-          "match_coverage_pct": 96.607964,
+          "source_total_votes": 447489,
+          "matched_total_votes": 432396,
+          "output_total_votes": 432396,
+          "match_coverage_pct": 96.62718,
           "conservation_error": 0
         },
         "state_senate_us_senate": {
           "districts": 17,
-          "source_total_votes": 444954,
-          "matched_total_votes": 429861,
-          "output_total_votes": 429861,
-          "match_coverage_pct": 96.607964,
+          "source_total_votes": 447489,
+          "matched_total_votes": 432396,
+          "output_total_votes": 432396,
+          "match_coverage_pct": 96.62718,
           "conservation_error": 0
         }
       }

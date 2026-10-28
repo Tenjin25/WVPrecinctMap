@@ -71,8 +71,8 @@
   {
     "year": 2010,
     "source": "OpenElections local files plus recovered county sources",
-    "rows": 26057,
-    "counties_found": 45,
+    "rows": 26101,
+    "counties_found": 46,
     "missing_counties": [
       "Brooke",
       "Clay",
@@ -82,7 +82,6 @@
       "Hardy",
       "Harrison",
       "McDowell",
-      "Pleasants",
       "Ritchie"
     ],
     "office_coverage": {
@@ -147,7 +146,7 @@
         ]
       },
       "us_senate": {
-        "counties_found": 44,
+        "counties_found": 45,
         "missing_counties": [
           "Brooke",
           "Clay",
@@ -158,7 +157,6 @@
           "Harrison",
           "McDowell",
           "Ohio",
-          "Pleasants",
           "Ritchie"
         ]
       },

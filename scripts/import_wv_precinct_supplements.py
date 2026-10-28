@@ -528,6 +528,22 @@ def recovered_county_rows(output_root: Path) -> None:
         preston_2010,
     )
 
+    pleasants_precincts = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"]
+    pleasants_2010 = expand(
+        "Pleasants",
+        pleasants_precincts,
+        [
+            ("U.S. Senate", "John R. Raese", "REP", [108,123,39,53,95,217,62,48,100,155,42], 1042),
+            ("U.S. Senate", "Joe Manchin III", "DEM", [124,194,86,66,96,215,58,67,154,207,138], 1405),
+            ("U.S. Senate", "Jeff Becker", "CST", [2,2,3,0,3,4,4,4,3,4,2], 31),
+            ("U.S. Senate", "Jesse Johnson", "MTN", [6,5,1,2,7,7,7,1,5,11,5], 57),
+        ],
+    )
+    write_rows(
+        output_root / "2010" / "20101102__wv__general__pleasants__precinct.csv",
+        pleasants_2010,
+    )
+
 
 def import_harvard_2012(raw_path: Path, output: Path) -> dict[str, object]:
     if raw_path.exists():
