@@ -10813,8 +10813,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Cache destroyer token for static data requests.
     // Bump this value when you want browsers/CDNs to fetch fresh files immediately.
-    const DATA_CACHE_BUSTER = '2026-10-27-district-aggregation-v1';
-    const APP_BUILD_ID = '2026-10-27-district-aggregation-v1';
+    const DATA_CACHE_BUSTER = '2026-10-27-district-aggregation-v2';
+    const APP_BUILD_ID = '2026-10-27-district-aggregation-v2';
 
     function withCacheBuster(path) {
       const p = (path || '').toString().trim();
@@ -13513,6 +13513,9 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     function addLayerWithOptionalSourceLayer(layerDef) {
+      // Some optional overlays intentionally survive view switches. Re-adding
+      // a retained layer must not abort the rest of the transition.
+      if (!layerDef?.id || map.getLayer(layerDef.id)) return;
       const src = map.getSource(layerDef.source);
       const isVectorSource = !!src && src.type === 'vector';
       const sourceLayer = isVectorSource ? getVectorSourceLayer(layerDef.source) : null;
