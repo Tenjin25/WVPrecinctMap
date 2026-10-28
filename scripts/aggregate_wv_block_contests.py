@@ -256,6 +256,8 @@ def merge_supplemental_slices(manifest, legacy):
         source_manifest = json.loads(manifest_path.read_text(encoding="utf-8")).get("files", [])
         for item in source_manifest:
             year = int(item["year"])
+            if item["contest_type"] == "us_house" and year not in {2022, 2024}:
+                continue
             key = (item["scope"], item["contest_type"], year)
             if key in existing or (allowed_years is not None and year not in allowed_years):
                 continue
@@ -276,6 +278,13 @@ def merge_supplemental_slices(manifest, legacy):
 def main() -> int:
     assignments = {scope: read_bef(path) for scope, path in BEFS.items()}
     OUTPUT.mkdir(parents=True, exist_ok=True)
+    old_manifest_path = OUTPUT / "manifest.json"
+    if old_manifest_path.exists():
+        old_manifest = json.loads(old_manifest_path.read_text(encoding="utf-8")).get("files", [])
+        for item in old_manifest:
+            old_slice = OUTPUT / str(item.get("file") or "")
+            if old_slice.parent == OUTPUT and old_slice.suffix == ".json":
+                old_slice.unlink(missing_ok=True)
     manifest = []
     legacy = {"results_by_year": {}}
     qa = {"years": {}, "summary": {}}
