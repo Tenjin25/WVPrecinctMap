@@ -1,23 +1,14 @@
 [
   {
     "year": 2008,
-    "source": "OpenElections local files plus recovered county sources",
-    "rows": 51749,
-    "counties_found": 52,
-    "missing_counties": [
-      "Brooke",
-      "Doddridge",
-      "Mineral"
-    ],
+    "source": "OpenElections/recovered county reports plus DRA 2010-VTD presidential fallback",
+    "rows": 52039,
+    "counties_found": 55,
+    "missing_counties": [],
     "office_coverage": {
       "president": {
-        "counties_found": 51,
-        "missing_counties": [
-          "Barbour",
-          "Brooke",
-          "Doddridge",
-          "Mineral"
-        ]
+        "counties_found": 55,
+        "missing_counties": []
       },
       "us_senate": {
         "counties_found": 50,
@@ -54,6 +45,14 @@
       }
     },
     "rejected_county_labels": [],
+    "dra_2008_president_filled_counties": [
+      "Barbour",
+      "Brooke",
+      "Doddridge",
+      "Mineral"
+    ],
+    "dra_2008_source_url": "https://raw.githubusercontent.com/dra2020/vtd_data/master/2010_VTD/WV/2010_election_WV.csv",
+    "dra_2008_method": "Stanford/Harvard election-atlas votes aggregated to 2010 Census VTDs",
     "source_anomalies": [
       {
         "county": "Morgan",
@@ -72,8 +71,8 @@
   {
     "year": 2010,
     "source": "OpenElections local files plus recovered county sources",
-    "rows": 25921,
-    "counties_found": 44,
+    "rows": 26057,
+    "counties_found": 45,
     "missing_counties": [
       "Brooke",
       "Clay",
@@ -84,7 +83,6 @@
       "Harrison",
       "McDowell",
       "Pleasants",
-      "Preston",
       "Ritchie"
     ],
     "office_coverage": {
@@ -149,7 +147,7 @@
         ]
       },
       "us_senate": {
-        "counties_found": 43,
+        "counties_found": 44,
         "missing_counties": [
           "Brooke",
           "Clay",
@@ -161,7 +159,6 @@
           "McDowell",
           "Ohio",
           "Pleasants",
-          "Preston",
           "Ritchie"
         ]
       },

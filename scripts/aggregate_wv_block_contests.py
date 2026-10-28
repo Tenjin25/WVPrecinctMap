@@ -272,6 +272,12 @@ def merge_supplemental_slices(manifest, legacy):
         source_manifest = json.loads(manifest_path.read_text(encoding="utf-8")).get("files", [])
         for item in source_manifest:
             year = int(item["year"])
+            if item["contest_type"] == "us_house" and item["scope"] != "congressional":
+                continue
+            if item["contest_type"] == "state_house" and item["scope"] != "state_house":
+                continue
+            if item["contest_type"] == "state_senate" and item["scope"] != "state_senate":
+                continue
             if item["contest_type"] == "us_house" and year not in {2022, 2024}:
                 continue
             key = (item["scope"], item["contest_type"], year)

@@ -1,26 +1,9 @@
 {
-  "source_total_votes": 471967,
-  "matched_total_votes": 471757,
-  "match_coverage_pct": 99.955505,
-  "match_methods_by_rows": {
-    "official_precinct_exact": 4192,
-    "official_precinct_base_fallback": 98
-  },
-  "unmatched_precincts": [
-    {
-      "precinct": "Kanawha|PRECINCT 116",
-      "votes": 210
-    }
+  "disabled_reason": "U.S. House is available only on the congressional district layer",
+  "removed_files": [
+    "state_house_us_house_2022.json",
+    "state_senate_us_house_2022.json"
   ],
-  "contests": {
-    "state_house_us_house": {
-      "districts": 100,
-      "output_total_votes": 471757
-    },
-    "state_senate_us_house": {
-      "districts": 17,
-      "output_total_votes": 471757
-    }
-  },
+  "contests": {},
   "validation_passed": true
 }

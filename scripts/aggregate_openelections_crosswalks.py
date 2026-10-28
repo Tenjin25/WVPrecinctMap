@@ -115,6 +115,17 @@ def office_type(value: str) -> str | None:
     return OFFICES.get(token(value))
 
 
+def contest_allowed_for_scope(scope: str, contest: str) -> bool:
+    """Keep chamber contests on their matching district layer only."""
+    if contest == "us_house":
+        return scope == "congressional"
+    if contest == "state_house":
+        return scope == "state_house"
+    if contest == "state_senate":
+        return scope == "state_senate"
+    return True
+
+
 def party_type(value: str) -> str | None:
     value = token(value)
     if value in {"D", "DEM", "DEMOCRAT", "DEMOCRATIC"}:
@@ -297,6 +308,13 @@ def main() -> int:
     district_weights = load_target_district_weights()
     current_aliases = load_current_precinct_aliases()
     OUTPUT.mkdir(parents=True, exist_ok=True)
+    old_manifest_path = OUTPUT / "manifest.json"
+    if old_manifest_path.exists():
+        old_manifest = json.loads(old_manifest_path.read_text(encoding="utf-8")).get("files", [])
+        for item in old_manifest:
+            old_slice = OUTPUT / str(item.get("file") or "")
+            if old_slice.parent == OUTPUT and old_slice.suffix == ".json":
+                old_slice.unlink(missing_ok=True)
     manifest = []
     report = {"years": {}, "summary": {}}
 
@@ -362,6 +380,8 @@ def main() -> int:
             matched_precincts.add(precinct_key)
             match_methods[match_method] += 1
             for scope in EXPECTED_DISTRICTS:
+                if not contest_allowed_for_scope(scope, contest):
+                    continue
                 allocation = composed[scope].get(source_geoid, []) if source_geoid else district_weights[scope].get(target_geoid, [])
                 for district, weight in allocation:
                     aggregated[scope][contest][district][party][candidate] += votes * weight

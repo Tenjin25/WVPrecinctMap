@@ -98,12 +98,6 @@
     },
     {
       "scope": "state_house",
-      "contest_type": "us_house",
-      "year": 2008,
-      "file": "state_house_us_house_2008.json"
-    },
-    {
-      "scope": "state_house",
       "contest_type": "us_senate",
       "year": 2008,
       "file": "state_house_us_senate_2008.json"
@@ -152,12 +146,6 @@
     },
     {
       "scope": "state_senate",
-      "contest_type": "us_house",
-      "year": 2008,
-      "file": "state_senate_us_house_2008.json"
-    },
-    {
-      "scope": "state_senate",
       "contest_type": "us_senate",
       "year": 2008,
       "file": "state_senate_us_senate_2008.json"
@@ -176,21 +164,9 @@
     },
     {
       "scope": "state_house",
-      "contest_type": "us_house",
-      "year": 2010,
-      "file": "state_house_us_house_2010.json"
-    },
-    {
-      "scope": "state_house",
       "contest_type": "us_senate",
       "year": 2010,
       "file": "state_house_us_senate_2010.json"
-    },
-    {
-      "scope": "state_senate",
-      "contest_type": "us_house",
-      "year": 2010,
-      "file": "state_senate_us_house_2010.json"
     },
     {
       "scope": "state_senate",
@@ -296,12 +272,6 @@
     },
     {
       "scope": "state_house",
-      "contest_type": "us_house",
-      "year": 2012,
-      "file": "state_house_us_house_2012.json"
-    },
-    {
-      "scope": "state_house",
       "contest_type": "us_senate",
       "year": 2012,
       "file": "state_house_us_senate_2012.json"
@@ -350,12 +320,6 @@
     },
     {
       "scope": "state_senate",
-      "contest_type": "us_house",
-      "year": 2012,
-      "file": "state_senate_us_house_2012.json"
-    },
-    {
-      "scope": "state_senate",
       "contest_type": "us_senate",
       "year": 2012,
       "file": "state_senate_us_senate_2012.json"
@@ -374,21 +338,9 @@
     },
     {
       "scope": "state_house",
-      "contest_type": "us_house",
-      "year": 2014,
-      "file": "state_house_us_house_2014.json"
-    },
-    {
-      "scope": "state_house",
       "contest_type": "us_senate",
       "year": 2014,
       "file": "state_house_us_senate_2014.json"
-    },
-    {
-      "scope": "state_senate",
-      "contest_type": "us_house",
-      "year": 2014,
-      "file": "state_senate_us_house_2014.json"
     },
     {
       "scope": "state_senate",
@@ -487,12 +439,6 @@
       "file": "state_house_treasurer_2016.json"
     },
     {
-      "scope": "state_house",
-      "contest_type": "us_house",
-      "year": 2016,
-      "file": "state_house_us_house_2016.json"
-    },
-    {
       "scope": "state_senate",
       "contest_type": "agriculture_commissioner",
       "year": 2016,
@@ -535,12 +481,6 @@
       "file": "state_senate_treasurer_2016.json"
     },
     {
-      "scope": "state_senate",
-      "contest_type": "us_house",
-      "year": 2016,
-      "file": "state_senate_us_house_2016.json"
-    },
-    {
       "scope": "congressional",
       "contest_type": "us_house",
       "year": 2018,
@@ -554,21 +494,9 @@
     },
     {
       "scope": "state_house",
-      "contest_type": "us_house",
-      "year": 2018,
-      "file": "state_house_us_house_2018.json"
-    },
-    {
-      "scope": "state_house",
       "contest_type": "us_senate",
       "year": 2018,
       "file": "state_house_us_senate_2018.json"
-    },
-    {
-      "scope": "state_senate",
-      "contest_type": "us_house",
-      "year": 2018,
-      "file": "state_senate_us_house_2018.json"
     },
     {
       "scope": "state_senate",
@@ -667,12 +595,6 @@
       "file": "state_house_treasurer_2020.json"
     },
     {
-      "scope": "state_house",
-      "contest_type": "us_house",
-      "year": 2020,
-      "file": "state_house_us_house_2020.json"
-    },
-    {
       "scope": "state_senate",
       "contest_type": "agriculture_commissioner",
       "year": 2020,
@@ -715,28 +637,10 @@
       "file": "state_senate_treasurer_2020.json"
     },
     {
-      "scope": "state_senate",
-      "contest_type": "us_house",
-      "year": 2020,
-      "file": "state_senate_us_house_2020.json"
-    },
-    {
       "scope": "congressional",
       "contest_type": "us_house",
       "year": 2022,
       "file": "congressional_us_house_2022.json"
-    },
-    {
-      "scope": "state_house",
-      "contest_type": "us_house",
-      "year": 2022,
-      "file": "state_house_us_house_2022.json"
-    },
-    {
-      "scope": "state_senate",
-      "contest_type": "us_house",
-      "year": 2022,
-      "file": "state_senate_us_house_2022.json"
     }
   ]
 }

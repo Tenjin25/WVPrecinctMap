@@ -463,22 +463,10 @@
       "file": "state_house_state_house_2022.json"
     },
     {
-      "scope": "state_house",
-      "contest_type": "us_house",
-      "year": 2022,
-      "file": "state_house_us_house_2022.json"
-    },
-    {
       "scope": "state_senate",
       "contest_type": "state_senate",
       "year": 2022,
       "file": "state_senate_state_senate_2022.json"
-    },
-    {
-      "scope": "state_senate",
-      "contest_type": "us_house",
-      "year": 2022,
-      "file": "state_senate_us_house_2022.json"
     },
     {
       "scope": "congressional",

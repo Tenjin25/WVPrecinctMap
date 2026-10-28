@@ -2,11 +2,11 @@
   "years": {
     "2008": {
       "source_vtd_vintage": 2000,
-      "input_rows": 51749,
-      "matched_precincts": 1723,
+      "input_rows": 52039,
+      "matched_precincts": 1800,
       "unmatched_precincts": 82,
       "match_methods_by_rows": {
-        "source_vtd_exact": 25467,
+        "source_vtd_exact": 25757,
         "source_vtd_base_code_fallback": 6782,
         "current_precinct_exact": 932,
         "current_precinct_base_code_fallback": 546
@@ -128,10 +128,10 @@
         },
         "congressional_president": {
           "districts": 2,
-          "source_total_votes": 642947,
-          "matched_total_votes": 617154,
-          "output_total_votes": 617154,
-          "match_coverage_pct": 95.988316,
+          "source_total_votes": 673599,
+          "matched_total_votes": 647806,
+          "output_total_votes": 647806,
+          "match_coverage_pct": 96.170867,
           "conservation_error": 0
         },
         "congressional_secretary_of_state": {
@@ -199,11 +199,11 @@
           "conservation_error": 0
         },
         "state_house_president": {
-          "districts": 92,
-          "source_total_votes": 642947,
-          "matched_total_votes": 617154,
-          "output_total_votes": 617154,
-          "match_coverage_pct": 95.988316,
+          "districts": 93,
+          "source_total_votes": 673599,
+          "matched_total_votes": 647806,
+          "output_total_votes": 647806,
+          "match_coverage_pct": 96.170867,
           "conservation_error": 0
         },
         "state_house_secretary_of_state": {
@@ -220,14 +220,6 @@
           "matched_total_votes": 422166,
           "output_total_votes": 422166,
           "match_coverage_pct": 95.835301,
-          "conservation_error": 0
-        },
-        "state_house_us_house": {
-          "districts": 96,
-          "source_total_votes": 595631,
-          "matched_total_votes": 571854,
-          "output_total_votes": 571854,
-          "match_coverage_pct": 96.008099,
           "conservation_error": 0
         },
         "state_house_us_senate": {
@@ -272,10 +264,10 @@
         },
         "state_senate_president": {
           "districts": 17,
-          "source_total_votes": 642947,
-          "matched_total_votes": 617154,
-          "output_total_votes": 617154,
-          "match_coverage_pct": 95.988316,
+          "source_total_votes": 673599,
+          "matched_total_votes": 647806,
+          "output_total_votes": 647806,
+          "match_coverage_pct": 96.170867,
           "conservation_error": 0
         },
         "state_senate_secretary_of_state": {
@@ -294,14 +286,6 @@
           "match_coverage_pct": 95.835301,
           "conservation_error": 0
         },
-        "state_senate_us_house": {
-          "districts": 17,
-          "source_total_votes": 595631,
-          "matched_total_votes": 571854,
-          "output_total_votes": 571854,
-          "match_coverage_pct": 96.008099,
-          "conservation_error": 0
-        },
         "state_senate_us_senate": {
           "districts": 17,
           "source_total_votes": 649322,
@@ -314,11 +298,11 @@
     },
     "2010": {
       "source_vtd_vintage": 2010,
-      "input_rows": 25921,
-      "matched_precincts": 1460,
+      "input_rows": 26057,
+      "matched_precincts": 1494,
       "unmatched_precincts": 89,
       "match_methods_by_rows": {
-        "source_vtd_exact": 7261,
+        "source_vtd_exact": 7397,
         "current_precinct_exact": 192,
         "source_vtd_base_code_fallback": 1950
       },
@@ -415,42 +399,26 @@
         },
         "congressional_us_senate": {
           "districts": 2,
-          "source_total_votes": 434976,
-          "matched_total_votes": 419883,
-          "output_total_votes": 419883,
-          "match_coverage_pct": 96.530153,
-          "conservation_error": 0
-        },
-        "state_house_us_house": {
-          "districts": 80,
-          "source_total_votes": 359765,
-          "matched_total_votes": 351574,
-          "output_total_votes": 351574,
-          "match_coverage_pct": 97.723236,
+          "source_total_votes": 444954,
+          "matched_total_votes": 429861,
+          "output_total_votes": 429861,
+          "match_coverage_pct": 96.607964,
           "conservation_error": 0
         },
         "state_house_us_senate": {
-          "districts": 91,
-          "source_total_votes": 434976,
-          "matched_total_votes": 419883,
-          "output_total_votes": 419883,
-          "match_coverage_pct": 96.530153,
-          "conservation_error": 0
-        },
-        "state_senate_us_house": {
-          "districts": 17,
-          "source_total_votes": 359765,
-          "matched_total_votes": 351574,
-          "output_total_votes": 351574,
-          "match_coverage_pct": 97.723236,
+          "districts": 93,
+          "source_total_votes": 444954,
+          "matched_total_votes": 429861,
+          "output_total_votes": 429861,
+          "match_coverage_pct": 96.607964,
           "conservation_error": 0
         },
         "state_senate_us_senate": {
           "districts": 17,
-          "source_total_votes": 434976,
-          "matched_total_votes": 419883,
-          "output_total_votes": 419883,
-          "match_coverage_pct": 96.530153,
+          "source_total_votes": 444954,
+          "matched_total_votes": 429861,
+          "output_total_votes": 429861,
+          "match_coverage_pct": 96.607964,
           "conservation_error": 0
         }
       }
@@ -676,14 +644,6 @@
           "match_coverage_pct": 97.702024,
           "conservation_error": 0
         },
-        "state_house_us_house": {
-          "districts": 100,
-          "source_total_votes": 641354,
-          "matched_total_votes": 626443,
-          "output_total_votes": 626443,
-          "match_coverage_pct": 97.675075,
-          "conservation_error": 0
-        },
         "state_house_us_senate": {
           "districts": 100,
           "source_total_votes": 660243,
@@ -746,14 +706,6 @@
           "matched_total_votes": 614109,
           "output_total_votes": 614109,
           "match_coverage_pct": 97.702024,
-          "conservation_error": 0
-        },
-        "state_senate_us_house": {
-          "districts": 17,
-          "source_total_votes": 641354,
-          "matched_total_votes": 626443,
-          "output_total_votes": 626443,
-          "match_coverage_pct": 97.675075,
           "conservation_error": 0
         },
         "state_senate_us_senate": {
@@ -875,28 +827,12 @@
           "match_coverage_pct": 97.503191,
           "conservation_error": 0
         },
-        "state_house_us_house": {
-          "districts": 100,
-          "source_total_votes": 439239,
-          "matched_total_votes": 428204,
-          "output_total_votes": 428204,
-          "match_coverage_pct": 97.4877,
-          "conservation_error": 0
-        },
         "state_house_us_senate": {
           "districts": 100,
           "source_total_votes": 453659,
           "matched_total_votes": 442332,
           "output_total_votes": 442332,
           "match_coverage_pct": 97.503191,
-          "conservation_error": 0
-        },
-        "state_senate_us_house": {
-          "districts": 17,
-          "source_total_votes": 439239,
-          "matched_total_votes": 428204,
-          "output_total_votes": 428204,
-          "match_coverage_pct": 97.4877,
           "conservation_error": 0
         },
         "state_senate_us_senate": {
@@ -1122,14 +1058,6 @@
           "match_coverage_pct": 97.925918,
           "conservation_error": 0
         },
-        "state_house_us_house": {
-          "districts": 100,
-          "source_total_votes": 686321,
-          "matched_total_votes": 672188,
-          "output_total_votes": 672188,
-          "match_coverage_pct": 97.940759,
-          "conservation_error": 0
-        },
         "state_senate_agriculture_commissioner": {
           "districts": 17,
           "source_total_votes": 664225,
@@ -1184,14 +1112,6 @@
           "matched_total_votes": 657598,
           "output_total_votes": 657598,
           "match_coverage_pct": 97.925918,
-          "conservation_error": 0
-        },
-        "state_senate_us_house": {
-          "districts": 17,
-          "source_total_votes": 686321,
-          "matched_total_votes": 672188,
-          "output_total_votes": 672188,
-          "match_coverage_pct": 97.940759,
           "conservation_error": 0
         }
       }
@@ -1305,28 +1225,12 @@
           "match_coverage_pct": 94.406365,
           "conservation_error": 0
         },
-        "state_house_us_house": {
-          "districts": 98,
-          "source_total_votes": 578084,
-          "matched_total_votes": 545648,
-          "output_total_votes": 545648,
-          "match_coverage_pct": 94.389051,
-          "conservation_error": 0
-        },
         "state_house_us_senate": {
           "districts": 98,
           "source_total_votes": 586488,
           "matched_total_votes": 553682,
           "output_total_votes": 553682,
           "match_coverage_pct": 94.406365,
-          "conservation_error": 0
-        },
-        "state_senate_us_house": {
-          "districts": 17,
-          "source_total_votes": 578084,
-          "matched_total_votes": 545648,
-          "output_total_votes": 545648,
-          "match_coverage_pct": 94.389051,
           "conservation_error": 0
         },
         "state_senate_us_senate": {
@@ -1551,14 +1455,6 @@
           "match_coverage_pct": 97.747139,
           "conservation_error": 0
         },
-        "state_house_us_house": {
-          "districts": 100,
-          "source_total_votes": 761171,
-          "matched_total_votes": 744153,
-          "output_total_votes": 744153,
-          "match_coverage_pct": 97.764234,
-          "conservation_error": 0
-        },
         "state_senate_agriculture_commissioner": {
           "districts": 17,
           "source_total_votes": 739298,
@@ -1613,14 +1509,6 @@
           "matched_total_votes": 739028,
           "output_total_votes": 739028,
           "match_coverage_pct": 97.747139,
-          "conservation_error": 0
-        },
-        "state_senate_us_house": {
-          "districts": 17,
-          "source_total_votes": 761171,
-          "matched_total_votes": 744153,
-          "output_total_votes": 744153,
-          "match_coverage_pct": 97.764234,
           "conservation_error": 0
         }
       }
@@ -1724,28 +1612,12 @@
           "output_total_votes": 439058,
           "match_coverage_pct": 93.027267,
           "conservation_error": 0
-        },
-        "state_house_us_house": {
-          "districts": 100,
-          "source_total_votes": 471967,
-          "matched_total_votes": 439058,
-          "output_total_votes": 439058,
-          "match_coverage_pct": 93.027267,
-          "conservation_error": 0
-        },
-        "state_senate_us_house": {
-          "districts": 17,
-          "source_total_votes": 471967,
-          "matched_total_votes": 439058,
-          "output_total_votes": 439058,
-          "match_coverage_pct": 93.027267,
-          "conservation_error": 0
         }
       }
     }
   },
   "summary": {
-    "slice_files": 123,
+    "slice_files": 107,
     "max_conservation_error": 0,
     "minimum_match_coverage_pct": 93.027267,
     "district_count_warnings": [
@@ -1776,7 +1648,7 @@
       {
         "slice": "state_house_president",
         "year": 2008,
-        "actual": 92,
+        "actual": 93,
         "expected": 100
       },
       {
@@ -1792,33 +1664,15 @@
         "expected": 100
       },
       {
-        "slice": "state_house_us_house",
-        "year": 2008,
-        "actual": 96,
-        "expected": 100
-      },
-      {
         "slice": "state_house_us_senate",
         "year": 2008,
         "actual": 96,
         "expected": 100
       },
       {
-        "slice": "state_house_us_house",
-        "year": 2010,
-        "actual": 80,
-        "expected": 100
-      },
-      {
         "slice": "state_house_us_senate",
         "year": 2010,
-        "actual": 91,
-        "expected": 100
-      },
-      {
-        "slice": "state_house_us_house",
-        "year": 2018,
-        "actual": 98,
+        "actual": 93,
         "expected": 100
       },
       {

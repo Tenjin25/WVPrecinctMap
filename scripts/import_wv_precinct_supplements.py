@@ -22,6 +22,10 @@ MEDSL_2016_URL = (
     "https://raw.githubusercontent.com/MEDSL/official-precinct-returns/"
     "master/source/2016-wv-precinct.zip"
 )
+DRA_2008_URL = (
+    "https://raw.githubusercontent.com/dra2020/vtd_data/"
+    "master/2010_VTD/WV/2010_election_WV.csv"
+)
 USER_AGENT = "WVPrecinctMap/1.0"
 HEADERS = ["county", "precinct", "office", "district", "candidate", "party", "votes"]
 
@@ -146,14 +150,95 @@ def consolidate_local_year(
     )
 
 
+def supplement_dra_2008_president(raw_path: Path, output: Path) -> dict[str, object]:
+    """Fill counties lacking 2008 presidential rows from the DRA VTD archive.
+
+    Dave's Redistricting republishes the Stanford/Harvard election-atlas vote
+    data aggregated to 2010 Census VTDs. The file has Democratic, Republican,
+    and total presidential votes but no minor-candidate breakdown, so the
+    residual is retained as a single ``Other candidates`` row. Existing county
+    returns always win; this is only a gap-filler.
+    """
+    if raw_path.exists():
+        payload = raw_path.read_bytes()
+    else:
+        payload = fetch(DRA_2008_URL)
+        save_atomic(raw_path, payload)
+
+    with output.open(encoding="utf-8-sig", newline="") as handle:
+        rows = [[row.get(key, "") for key in HEADERS] for row in csv.DictReader(handle)]
+
+    president_aliases = {"PRESIDENT", "US PRESIDENT", "U S PRESIDENT"}
+    present = set()
+    for row in rows:
+        office = " ".join(
+            "".join(ch if ch.isalnum() else " " for ch in str(row[2]).upper()).split()
+        )
+        if office in president_aliases:
+            present.add(str(row[0]).upper())
+
+    county_by_fips = {
+        "001": "Barbour", "003": "Berkeley", "005": "Boone", "007": "Braxton",
+        "009": "Brooke", "011": "Cabell", "013": "Calhoun", "015": "Clay",
+        "017": "Doddridge", "019": "Fayette", "021": "Gilmer", "023": "Grant",
+        "025": "Greenbrier", "027": "Hampshire", "029": "Hancock", "031": "Hardy",
+        "033": "Harrison", "035": "Jackson", "037": "Jefferson", "039": "Kanawha",
+        "041": "Lewis", "043": "Lincoln", "045": "Logan", "047": "McDowell",
+        "049": "Marion", "051": "Marshall", "053": "Mason", "055": "Mercer",
+        "057": "Mineral", "059": "Mingo", "061": "Monongalia", "063": "Monroe",
+        "065": "Morgan", "067": "Nicholas", "069": "Ohio", "071": "Pendleton",
+        "073": "Pleasants", "075": "Pocahontas", "077": "Preston", "079": "Putnam",
+        "081": "Raleigh", "083": "Randolph", "085": "Ritchie", "087": "Roane",
+        "089": "Summers", "091": "Taylor", "093": "Tucker", "095": "Tyler",
+        "097": "Upshur", "099": "Wayne", "101": "Webster", "103": "Wetzel",
+        "105": "Wirt", "107": "Wood", "109": "Wyoming",
+    }
+    filled: set[str] = set()
+    reader = csv.DictReader(io.StringIO(payload.decode("utf-8-sig")))
+    for source in reader:
+        geoid = str(source.get("GEOID10", "")).strip()
+        if len(geoid) < 6 or not geoid.startswith("54"):
+            continue
+        county = county_by_fips.get(geoid[2:5], "")
+        if not county or county.upper() in present:
+            continue
+        precinct = geoid[5:].lstrip("0") or "0"
+        dem = integer(source.get("Dem_2008_pres"))
+        rep = integer(source.get("Rep_2008_pres"))
+        total = integer(source.get("Tot_2008_pres"))
+        if dem:
+            rows.append([county, precinct, "President", "", "Barack Obama", "DEM", dem])
+        if rep:
+            rows.append([county, precinct, "President", "", "John McCain", "REP", rep])
+        other = max(0, total - dem - rep)
+        if other:
+            rows.append([county, precinct, "President", "", "Other candidates", "OTH", other])
+        filled.add(county)
+
+    write_rows(output, rows)
+    report = coverage(
+        2008,
+        "OpenElections/recovered county reports plus DRA 2010-VTD presidential fallback",
+        rows,
+    )
+    report["dra_2008_president_filled_counties"] = sorted(filled)
+    report["dra_2008_source_url"] = DRA_2008_URL
+    report["dra_2008_method"] = "Stanford/Harvard election-atlas votes aggregated to 2010 Census VTDs"
+    return report
+
+
 def recovered_county_rows(output_root: Path) -> None:
     """Convert visually verified raw county documents into the atlas schema.
 
     Candidate vectors are checked against their source-cell sums. They normally also
     match the total printed in the source document. The documented exception is 2010
     Upshur/Jeff Becker: its 29 printed precinct cells sum to 103 while the source total
-    says 106. The 2008 Morgan attorney-general table is deliberately excluded because
-    its precinct cells sum to 20 more votes than both its printed and certified total.
+    says 106. The 2010 Preston report has two more source anomalies: its precinct rows
+    sum to 5,444 Raese and 4,093 Manchin while its footer and the certified county totals
+    say 5,466 and 4,071 (the combined two-candidate vote is unchanged), and its Jesse
+    Johnson cells sum to 256 while the footer says 257. The 2008 Morgan attorney-general
+    table is deliberately excluded because its precinct cells sum to 20 more votes than
+    both its printed and certified total.
     """
 
     def expand(
@@ -420,6 +505,29 @@ def recovered_county_rows(output_root: Path) -> None:
         upshur_2010,
     )
 
+    preston_precincts = [
+        "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "11A",
+        "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22",
+        "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33",
+    ]
+    preston_2010 = expand(
+        "Preston",
+        preston_precincts,
+        [
+            # Source anomaly: the printed cells preserve the combined major-party vote,
+            # but allocate 22 fewer votes to Raese and 22 more to Manchin than the footer.
+            ("U.S. Senate", "John R. Raese", "REP", [250,260,217,224,211,229,156,227,70,135,159,55,167,332,140,262,62,165,236,130,153,180,89,117,202,125,122,114,94,164,80,97,132,88], 5444),
+            ("U.S. Senate", "Joe Manchin III", "DEM", [146,151,137,172,85,132,152,173,85,133,155,56,180,270,107,232,40,137,177,43,121,100,92,68,170,136,166,112,59,53,45,50,97,61], 4093),
+            ("U.S. Senate", "Jeff Becker", "CST", [6,3,4,6,20,4,3,4,0,5,6,2,6,10,3,16,2,6,6,3,7,8,3,3,10,2,12,3,4,2,1,4,6,5], 185),
+            # Source anomaly: the printed cells sum to 256; the report footer says 257.
+            ("U.S. Senate", "Jesse Johnson", "MTN", [13,9,10,10,6,7,8,11,2,10,12,2,6,11,5,9,4,12,14,3,5,11,16,3,13,5,9,9,6,1,4,5,3,2], 256),
+        ],
+    )
+    write_rows(
+        output_root / "2010" / "20101102__wv__general__preston__precinct.csv",
+        preston_2010,
+    )
+
 
 def import_harvard_2012(raw_path: Path, output: Path) -> dict[str, object]:
     if raw_path.exists():
@@ -540,8 +648,15 @@ def main() -> int:
 
     recovered_county_rows(recovered_root)
 
+    output_2008 = output_root / "20081104__wv__general__precinct.csv"
+    consolidate_local_year(source_root, recovered_root, 2008, output_2008)
+    report_2008 = supplement_dra_2008_president(
+        supplemental / "dra" / "2010_election_WV.csv",
+        output_2008,
+    )
+
     reports = [
-        consolidate_local_year(source_root, recovered_root, 2008, output_root / "20081104__wv__general__precinct.csv"),
+        report_2008,
         consolidate_local_year(source_root, recovered_root, 2010, output_root / "20101102__wv__general__precinct.csv"),
         import_harvard_2012(
             supplemental / "harvard" / "WV_2012.tab",

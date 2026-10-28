@@ -8,10 +8,13 @@ scripts.
 ## Election data
 
 Normalized statewide precinct CSVs live in `data/openelections/wv_sos/`.
-Complete 55-county coverage is currently available for the 2012, 2014, 2016, 2018,
-2020, 2022, and 2024 general elections. The 2008 and 2010 files are retained as
-partial datasets and their missing counties are documented in
-`data/MISSING_PRECINCT_COUNTIES.md`.
+Complete 55-county coverage is currently available for the 2008, 2012, 2014,
+2016, 2018, 2020, 2022, and 2024 general elections. The 2008 file is complete
+overall and for President, but still has contest-specific gaps; 2010 currently
+has precinct rows for 45 of 55 counties and remains a partial dataset. All gaps
+and source fallbacks are documented in
+`data/MISSING_PRECINCT_COUNTIES.md`; the source-by-source search log is in
+`data/HISTORICAL_PRECINCT_SCOUTING.md`.
 
 Generate county totals for the complete years:
 

@@ -1,0 +1,137 @@
+county,precinct,office,district,candidate,party,votes
+Preston,1,U.S. Senate,,John R. Raese,REP,250
+Preston,2,U.S. Senate,,John R. Raese,REP,260
+Preston,3,U.S. Senate,,John R. Raese,REP,217
+Preston,4,U.S. Senate,,John R. Raese,REP,224
+Preston,5,U.S. Senate,,John R. Raese,REP,211
+Preston,6,U.S. Senate,,John R. Raese,REP,229
+Preston,7,U.S. Senate,,John R. Raese,REP,156
+Preston,8,U.S. Senate,,John R. Raese,REP,227
+Preston,9,U.S. Senate,,John R. Raese,REP,70
+Preston,10,U.S. Senate,,John R. Raese,REP,135
+Preston,11,U.S. Senate,,John R. Raese,REP,159
+Preston,11A,U.S. Senate,,John R. Raese,REP,55
+Preston,12,U.S. Senate,,John R. Raese,REP,167
+Preston,13,U.S. Senate,,John R. Raese,REP,332
+Preston,14,U.S. Senate,,John R. Raese,REP,140
+Preston,15,U.S. Senate,,John R. Raese,REP,262
+Preston,16,U.S. Senate,,John R. Raese,REP,62
+Preston,17,U.S. Senate,,John R. Raese,REP,165
+Preston,18,U.S. Senate,,John R. Raese,REP,236
+Preston,19,U.S. Senate,,John R. Raese,REP,130
+Preston,20,U.S. Senate,,John R. Raese,REP,153
+Preston,21,U.S. Senate,,John R. Raese,REP,180
+Preston,22,U.S. Senate,,John R. Raese,REP,89
+Preston,23,U.S. Senate,,John R. Raese,REP,117
+Preston,24,U.S. Senate,,John R. Raese,REP,202
+Preston,25,U.S. Senate,,John R. Raese,REP,125
+Preston,26,U.S. Senate,,John R. Raese,REP,122
+Preston,27,U.S. Senate,,John R. Raese,REP,114
+Preston,28,U.S. Senate,,John R. Raese,REP,94
+Preston,29,U.S. Senate,,John R. Raese,REP,164
+Preston,30,U.S. Senate,,John R. Raese,REP,80
+Preston,31,U.S. Senate,,John R. Raese,REP,97
+Preston,32,U.S. Senate,,John R. Raese,REP,132
+Preston,33,U.S. Senate,,John R. Raese,REP,88
+Preston,1,U.S. Senate,,Joe Manchin III,DEM,146
+Preston,2,U.S. Senate,,Joe Manchin III,DEM,151
+Preston,3,U.S. Senate,,Joe Manchin III,DEM,137
+Preston,4,U.S. Senate,,Joe Manchin III,DEM,172
+Preston,5,U.S. Senate,,Joe Manchin III,DEM,85
+Preston,6,U.S. Senate,,Joe Manchin III,DEM,132
+Preston,7,U.S. Senate,,Joe Manchin III,DEM,152
+Preston,8,U.S. Senate,,Joe Manchin III,DEM,173
+Preston,9,U.S. Senate,,Joe Manchin III,DEM,85
+Preston,10,U.S. Senate,,Joe Manchin III,DEM,133
+Preston,11,U.S. Senate,,Joe Manchin III,DEM,155
+Preston,11A,U.S. Senate,,Joe Manchin III,DEM,56
+Preston,12,U.S. Senate,,Joe Manchin III,DEM,180
+Preston,13,U.S. Senate,,Joe Manchin III,DEM,270
+Preston,14,U.S. Senate,,Joe Manchin III,DEM,107
+Preston,15,U.S. Senate,,Joe Manchin III,DEM,232
+Preston,16,U.S. Senate,,Joe Manchin III,DEM,40
+Preston,17,U.S. Senate,,Joe Manchin III,DEM,137
+Preston,18,U.S. Senate,,Joe Manchin III,DEM,177
+Preston,19,U.S. Senate,,Joe Manchin III,DEM,43
+Preston,20,U.S. Senate,,Joe Manchin III,DEM,121
+Preston,21,U.S. Senate,,Joe Manchin III,DEM,100
+Preston,22,U.S. Senate,,Joe Manchin III,DEM,92
+Preston,23,U.S. Senate,,Joe Manchin III,DEM,68
+Preston,24,U.S. Senate,,Joe Manchin III,DEM,170
+Preston,25,U.S. Senate,,Joe Manchin III,DEM,136
+Preston,26,U.S. Senate,,Joe Manchin III,DEM,166
+Preston,27,U.S. Senate,,Joe Manchin III,DEM,112
+Preston,28,U.S. Senate,,Joe Manchin III,DEM,59
+Preston,29,U.S. Senate,,Joe Manchin III,DEM,53
+Preston,30,U.S. Senate,,Joe Manchin III,DEM,45
+Preston,31,U.S. Senate,,Joe Manchin III,DEM,50
+Preston,32,U.S. Senate,,Joe Manchin III,DEM,97
+Preston,33,U.S. Senate,,Joe Manchin III,DEM,61
+Preston,1,U.S. Senate,,Jeff Becker,CST,6
+Preston,2,U.S. Senate,,Jeff Becker,CST,3
+Preston,3,U.S. Senate,,Jeff Becker,CST,4
+Preston,4,U.S. Senate,,Jeff Becker,CST,6
+Preston,5,U.S. Senate,,Jeff Becker,CST,20
+Preston,6,U.S. Senate,,Jeff Becker,CST,4
+Preston,7,U.S. Senate,,Jeff Becker,CST,3
+Preston,8,U.S. Senate,,Jeff Becker,CST,4
+Preston,9,U.S. Senate,,Jeff Becker,CST,0
+Preston,10,U.S. Senate,,Jeff Becker,CST,5
+Preston,11,U.S. Senate,,Jeff Becker,CST,6
+Preston,11A,U.S. Senate,,Jeff Becker,CST,2
+Preston,12,U.S. Senate,,Jeff Becker,CST,6
+Preston,13,U.S. Senate,,Jeff Becker,CST,10
+Preston,14,U.S. Senate,,Jeff Becker,CST,3
+Preston,15,U.S. Senate,,Jeff Becker,CST,16
+Preston,16,U.S. Senate,,Jeff Becker,CST,2
+Preston,17,U.S. Senate,,Jeff Becker,CST,6
+Preston,18,U.S. Senate,,Jeff Becker,CST,6
+Preston,19,U.S. Senate,,Jeff Becker,CST,3
+Preston,20,U.S. Senate,,Jeff Becker,CST,7
+Preston,21,U.S. Senate,,Jeff Becker,CST,8
+Preston,22,U.S. Senate,,Jeff Becker,CST,3
+Preston,23,U.S. Senate,,Jeff Becker,CST,3
+Preston,24,U.S. Senate,,Jeff Becker,CST,10
+Preston,25,U.S. Senate,,Jeff Becker,CST,2
+Preston,26,U.S. Senate,,Jeff Becker,CST,12
+Preston,27,U.S. Senate,,Jeff Becker,CST,3
+Preston,28,U.S. Senate,,Jeff Becker,CST,4
+Preston,29,U.S. Senate,,Jeff Becker,CST,2
+Preston,30,U.S. Senate,,Jeff Becker,CST,1
+Preston,31,U.S. Senate,,Jeff Becker,CST,4
+Preston,32,U.S. Senate,,Jeff Becker,CST,6
+Preston,33,U.S. Senate,,Jeff Becker,CST,5
+Preston,1,U.S. Senate,,Jesse Johnson,MTN,13
+Preston,2,U.S. Senate,,Jesse Johnson,MTN,9
+Preston,3,U.S. Senate,,Jesse Johnson,MTN,10
+Preston,4,U.S. Senate,,Jesse Johnson,MTN,10
+Preston,5,U.S. Senate,,Jesse Johnson,MTN,6
+Preston,6,U.S. Senate,,Jesse Johnson,MTN,7
+Preston,7,U.S. Senate,,Jesse Johnson,MTN,8
+Preston,8,U.S. Senate,,Jesse Johnson,MTN,11
+Preston,9,U.S. Senate,,Jesse Johnson,MTN,2
+Preston,10,U.S. Senate,,Jesse Johnson,MTN,10
+Preston,11,U.S. Senate,,Jesse Johnson,MTN,12
+Preston,11A,U.S. Senate,,Jesse Johnson,MTN,2
+Preston,12,U.S. Senate,,Jesse Johnson,MTN,6
+Preston,13,U.S. Senate,,Jesse Johnson,MTN,11
+Preston,14,U.S. Senate,,Jesse Johnson,MTN,5
+Preston,15,U.S. Senate,,Jesse Johnson,MTN,9
+Preston,16,U.S. Senate,,Jesse Johnson,MTN,4
+Preston,17,U.S. Senate,,Jesse Johnson,MTN,12
+Preston,18,U.S. Senate,,Jesse Johnson,MTN,14
+Preston,19,U.S. Senate,,Jesse Johnson,MTN,3
+Preston,20,U.S. Senate,,Jesse Johnson,MTN,5
+Preston,21,U.S. Senate,,Jesse Johnson,MTN,11
+Preston,22,U.S. Senate,,Jesse Johnson,MTN,16
+Preston,23,U.S. Senate,,Jesse Johnson,MTN,3
+Preston,24,U.S. Senate,,Jesse Johnson,MTN,13
+Preston,25,U.S. Senate,,Jesse Johnson,MTN,5
+Preston,26,U.S. Senate,,Jesse Johnson,MTN,9
+Preston,27,U.S. Senate,,Jesse Johnson,MTN,9
+Preston,28,U.S. Senate,,Jesse Johnson,MTN,6
+Preston,29,U.S. Senate,,Jesse Johnson,MTN,1
+Preston,30,U.S. Senate,,Jesse Johnson,MTN,4
+Preston,31,U.S. Senate,,Jesse Johnson,MTN,5
+Preston,32,U.S. Senate,,Jesse Johnson,MTN,3
+Preston,33,U.S. Senate,,Jesse Johnson,MTN,2

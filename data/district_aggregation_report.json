@@ -630,7 +630,7 @@
     }
   },
   "summary": {
-    "slice_files": 107,
+    "slice_files": 105,
     "max_total_vote_error": 0,
     "max_candidate_vote_error": 0,
     "all_block_assignment_gaps": 0,
@@ -659,22 +659,6 @@
         "file": "state_senate_state_senate_2022.json",
         "method": "official_precinct_results_summed_by_reported_district",
         "match_coverage_pct": 100.0
-      },
-      {
-        "scope": "state_house",
-        "contest_type": "us_house",
-        "year": 2022,
-        "file": "state_house_us_house_2022.json",
-        "method": "official_2022_precinct_geometry_area_weighted_to_enacted_districts",
-        "match_coverage_pct": 99.955505
-      },
-      {
-        "scope": "state_senate",
-        "contest_type": "us_house",
-        "year": 2022,
-        "file": "state_senate_us_house_2022.json",
-        "method": "official_2022_precinct_geometry_area_weighted_to_enacted_districts",
-        "match_coverage_pct": 99.955505
       },
       {
         "scope": "congressional",

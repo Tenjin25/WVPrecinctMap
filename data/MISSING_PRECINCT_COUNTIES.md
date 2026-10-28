@@ -8,8 +8,8 @@ interpreted as having zero votes.
 
 | Year | Counties present | Missing counties | Source |
 |---|---:|---|---|
-| 2008 | 52 of 55 | Brooke, Doddridge, Mineral | OpenElections files plus recovered county reports |
-| 2010 | 44 of 55 | Brooke, Clay, Gilmer, Grant, Greenbrier, Hardy, Harrison, McDowell, Pleasants, Preston, Ritchie | OpenElections files plus recovered county reports |
+| 2008 | 55 of 55 | None overall; see contest-specific gaps below | OpenElections, recovered county reports, and DRA/Stanford-Harvard VTD fallback |
+| 2010 | 45 of 55 | Brooke, Clay, Gilmer, Grant, Greenbrier, Hardy, Harrison, McDowell, Pleasants, Ritchie | OpenElections files plus recovered county reports |
 | 2012 | 55 of 55 | None | Harvard Election Data Archive `WV_2012.tab` |
 | 2016 | 55 of 55 | None | MIT MEDSL official precinct returns |
 
@@ -31,18 +31,39 @@ recreates normalized county CSVs under `data/supplemental_county_returns`.
 
 - 2008: Hancock and Lincoln presidential results; Morgan presidential, U.S. Senate,
   and gubernatorial results.
-- 2010 U.S. Senate: Calhoun, Hancock, Lincoln, Monroe, Pocahontas, Raleigh, Roane,
-  Upshur, Wetzel, Wirt, and Wyoming.
+- 2010 U.S. Senate: Calhoun, Hancock, Lincoln, Monroe, Pocahontas, Preston,
+  Raleigh, Roane, Upshur, Wetzel, Wirt, and Wyoming.
 
-Coverage is contest-specific. In 2008, President is present for 51 counties, U.S.
-Senate and Governor for 50, and Attorney General for 47. The machine-readable report
-lists the missing counties for each office.
+Coverage is contest-specific. Before the VTD fallback described below, President
+was present for 51 counties. It is now present for all 55; U.S. Senate and Governor
+remain at 50, and Attorney General at 47. The machine-readable report lists the
+missing counties for each office.
 
 Some scanned reports contain internal discrepancies. Contests remain excluded when
 the discrepancy prevents a reliable precinct transcription. Upshur's Jeff Becker row
 is retained because all 29 precinct cells are legible: they sum to 103 while the same
-report prints a total of 106. The importer records this anomaly and does not invent
-three balancing votes.
+report prints a total of 106. Preston is also retained from 34 legible precinct rows.
+Those rows sum to 5,444 Raese and 4,093 Manchin, while both the report footer and the
+certified county page say 5,466 and 4,071; the combined major-party total is identical.
+Preston's Jesse Johnson cells sum to 256 while the footer says 257. The importer
+preserves the printed precinct cells and does not invent balancing votes or choose a
+precinct in which to shift the 22-vote allocation.
+
+## 2008 presidential VTD fallback
+
+The remaining 2008 presidential gaps (Barbour, Brooke, Doddridge, and Mineral)
+are filled from Dave's Redistricting's statewide `2010_election_WV.csv`. That
+file republishes the Stanford/Harvard election-atlas returns aggregated to 2010
+Census VTDs. It contains Democratic, Republican, and total presidential votes;
+minor-candidate votes are therefore retained as one `Other candidates` residual.
+Existing OpenElections and county-document rows take precedence, so this source
+is used only for counties with no presidential rows at all.
+
+- DRA VTD data: <https://github.com/dra2020/vtd_data/tree/master/2010_VTD/WV>
+- Stanford Election Atlas methodology: <https://sssl.stanford.edu/stanford-election-atlas>
+
+Dave's Redistricting packages the data under CC BY-SA 4.0 with an additional
+no-sale condition; downstream use must preserve those terms and attribution.
 
 ## Official archive check
 

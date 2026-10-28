@@ -11414,7 +11414,7 @@ document.addEventListener('DOMContentLoaded', function() {
         2016: ['agriculture_commissioner', 'attorney_general', 'auditor', 'governor', 'president', 'secretary_of_state', 'treasurer'],
         2018: ['us_senate'],
         2020: ['agriculture_commissioner', 'attorney_general', 'auditor', 'governor', 'president', 'secretary_of_state', 'treasurer', 'us_senate'],
-        2022: ['state_house', 'us_house'],
+        2022: ['state_house'],
         2024: ['agriculture_commissioner', 'attorney_general', 'auditor', 'governor', 'president', 'secretary_of_state', 'state_house', 'treasurer', 'us_senate']
       },
       state_senate: {
@@ -11423,17 +11423,26 @@ document.addEventListener('DOMContentLoaded', function() {
         2016: ['agriculture_commissioner', 'attorney_general', 'auditor', 'governor', 'president', 'secretary_of_state', 'treasurer'],
         2018: ['us_senate'],
         2020: ['agriculture_commissioner', 'attorney_general', 'auditor', 'governor', 'president', 'secretary_of_state', 'treasurer', 'us_senate'],
-        2022: ['state_senate', 'us_house'],
+        2022: ['state_senate'],
         2024: ['agriculture_commissioner', 'attorney_general', 'auditor', 'governor', 'president', 'secretary_of_state', 'state_senate', 'treasurer', 'us_senate']
       }
     };
+    function isContestAllowedForDistrictScope(scope, contestType) {
+      const scopeKey = (scope || '').toString().trim();
+      const contestKey = (contestType || '').toString().trim();
+      if (contestKey === 'us_house') return scopeKey === 'congressional';
+      if (contestKey === 'state_house') return scopeKey === 'state_house';
+      if (contestKey === 'state_senate') return scopeKey === 'state_senate';
+      return true;
+    }
+
     const embeddedDistrictManifest = Object.entries(EMBEDDED_DISTRICT_CONTESTS).flatMap(([scope, years]) =>
       Object.entries(years).flatMap(([year, contests]) => contests.map(contestType => ({
         scope,
         contest_type: contestType,
         year: Number(year),
         file: `${scope}_${contestType}_${year}.json`
-      })))
+      })).filter(entry => isContestAllowedForDistrictScope(entry.scope, entry.contest_type)))
     );
     let districtManifest = embeddedDistrictManifest.slice();
     let districtManifestByLines = {
@@ -12562,6 +12571,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     function getPreferredDistrictSlicePaths(scope, contestType, year, linesYear = currentDistrictLinesYear) {
+      if (!isContestAllowedForDistrictScope(scope, contestType)) return [];
       const y = Number(year);
       const ly = normalizeDistrictLinesYear(linesYear);
       const key = `${scope}_${contestType}_${year}`;
@@ -12601,9 +12611,10 @@ document.addEventListener('DOMContentLoaded', function() {
           const s = (e?.scope || '').toString().trim();
           return s === 'state_house' || s === 'state_senate';
         }).forEach(add);
-        return merged;
+        return merged.filter(entry => isContestAllowedForDistrictScope(entry?.scope, entry?.contest_type));
       }
-      return districtManifestByLines?.[String(y)] || [];
+      return (districtManifestByLines?.[String(y)] || [])
+        .filter(entry => isContestAllowedForDistrictScope(entry?.scope, entry?.contest_type));
     }
 
     function getModeledContestDefinition(contestType, year) {
@@ -19710,6 +19721,7 @@ document.addEventListener('DOMContentLoaded', function() {
       }
 
     async function loadDistrictSlice(scope, contestType, year, linesYearOverride = currentDistrictLinesYear) {
+      if (!isContestAllowedForDistrictScope(scope, contestType)) return null;
       const key = `${scope}_${contestType}_${year}`;
       const linesYear = normalizeDistrictLinesYear(linesYearOverride);
       const cacheKey = `${linesYear}|${key}`;
@@ -19776,6 +19788,7 @@ document.addEventListener('DOMContentLoaded', function() {
           if (!['congressional', 'state_house', 'state_senate'].includes(scope)) return;
           if (!contests || typeof contests !== 'object') return;
           Object.keys(contests).forEach(contestType => {
+            if (!isContestAllowedForDistrictScope(scope, contestType)) return;
             files.push({
               scope,
               contest_type: contestType,

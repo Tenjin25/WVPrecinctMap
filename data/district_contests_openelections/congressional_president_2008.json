@@ -6,7 +6,7 @@
     "district_lines_year": 2022,
     "source_vtd_vintage": 2000,
     "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
-    "match_coverage_pct": 95.988316,
+    "match_coverage_pct": 96.170867,
     "source": "WV precinct-level general election returns normalized by OpenElections",
     "source_url": "https://github.com/openelections/openelections-data-wv"
   },
@@ -23,14 +23,14 @@
         "margin_pct": 10.69413455
       },
       "2": {
-        "dem_votes": 117691,
-        "rep_votes": 159612,
-        "other_votes": 5060,
-        "total_votes": 282363,
+        "dem_votes": 129312,
+        "rep_votes": 178092,
+        "other_votes": 5611,
+        "total_votes": 313015,
         "dem_candidate": "Barack Obama",
         "rep_candidate": "John Sidney McCain III",
         "winner": "REP",
-        "margin_pct": 14.84649193
+        "margin_pct": 15.5839177
       }
     }
   }

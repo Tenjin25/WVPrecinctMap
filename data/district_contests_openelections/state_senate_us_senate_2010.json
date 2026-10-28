@@ -6,7 +6,7 @@
     "district_lines_year": 2022,
     "source_vtd_vintage": 2010,
     "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
-    "match_coverage_pct": 96.530153,
+    "match_coverage_pct": 96.607964,
     "source": "WV precinct-level general election returns normalized by OpenElections",
     "source_url": "https://github.com/openelections/openelections-data-wv"
   },
@@ -143,14 +143,14 @@
         "margin_pct": -20.89996011
       },
       "14": {
-        "dem_votes": 6479,
-        "rep_votes": 6776,
-        "other_votes": 390,
-        "total_votes": 13645,
+        "dem_votes": 10572,
+        "rep_votes": 12220,
+        "other_votes": 831,
+        "total_votes": 23623,
         "dem_candidate": "Joe Manchin III",
         "rep_candidate": "John R. Raese",
         "winner": "REP",
-        "margin_pct": 2.17662147
+        "margin_pct": 6.97625196
       },
       "15": {
         "dem_votes": 8244,
