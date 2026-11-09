@@ -16,6 +16,12 @@ and source fallbacks are documented in
 `data/MISSING_PRECINCT_COUNTIES.md`; the source-by-source search log is in
 `data/HISTORICAL_PRECINCT_SCOUTING.md`.
 
+Unofficial 2026 general-election county results are included for U.S. Senate
+and U.S. House, along with exact district totals for U.S. House, House of
+Delegates, and State Senate. They were downloaded from the West Virginia
+Secretary of State Election Night Reporting system on November 8, 2026;
+precinct XML was not yet available statewide.
+
 Generate county totals for the complete years:
 
 ```powershell

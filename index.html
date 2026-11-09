@@ -10813,8 +10813,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Cache destroyer token for static data requests.
     // Bump this value when you want browsers/CDNs to fetch fresh files immediately.
-    const DATA_CACHE_BUSTER = '2026-10-28-candidate-names-v6';
-    const APP_BUILD_ID = '2026-10-28-candidate-names-v6';
+    const DATA_CACHE_BUSTER = '2026-11-08-general-results-v2';
+    const APP_BUILD_ID = '2026-11-08-general-results-v2';
 
     function withCacheBuster(path) {
       const p = (path || '').toString().trim();
@@ -11406,7 +11406,8 @@ document.addEventListener('DOMContentLoaded', function() {
         2018: ['us_senate'],
         2020: ['agriculture_commissioner', 'attorney_general', 'auditor', 'governor', 'president', 'secretary_of_state', 'treasurer', 'us_senate'],
         2022: ['us_house'],
-        2024: ['agriculture_commissioner', 'attorney_general', 'auditor', 'governor', 'president', 'secretary_of_state', 'treasurer', 'us_house', 'us_senate']
+        2024: ['agriculture_commissioner', 'attorney_general', 'auditor', 'governor', 'president', 'secretary_of_state', 'treasurer', 'us_house', 'us_senate'],
+        2026: ['us_house']
       },
       state_house: {
         2012: ['agriculture_commissioner', 'attorney_general', 'auditor', 'governor', 'president', 'secretary_of_state', 'treasurer', 'us_senate'],
@@ -11415,7 +11416,8 @@ document.addEventListener('DOMContentLoaded', function() {
         2018: ['us_senate'],
         2020: ['agriculture_commissioner', 'attorney_general', 'auditor', 'governor', 'president', 'secretary_of_state', 'treasurer', 'us_senate'],
         2022: ['state_house'],
-        2024: ['agriculture_commissioner', 'attorney_general', 'auditor', 'governor', 'president', 'secretary_of_state', 'state_house', 'treasurer', 'us_senate']
+        2024: ['agriculture_commissioner', 'attorney_general', 'auditor', 'governor', 'president', 'secretary_of_state', 'state_house', 'treasurer', 'us_senate'],
+        2026: ['state_house']
       },
       state_senate: {
         2012: ['agriculture_commissioner', 'attorney_general', 'auditor', 'governor', 'president', 'secretary_of_state', 'treasurer', 'us_senate'],
@@ -11424,7 +11426,8 @@ document.addEventListener('DOMContentLoaded', function() {
         2018: ['us_senate'],
         2020: ['agriculture_commissioner', 'attorney_general', 'auditor', 'governor', 'president', 'secretary_of_state', 'treasurer', 'us_senate'],
         2022: ['state_senate'],
-        2024: ['agriculture_commissioner', 'attorney_general', 'auditor', 'governor', 'president', 'secretary_of_state', 'state_senate', 'treasurer', 'us_senate']
+        2024: ['agriculture_commissioner', 'attorney_general', 'auditor', 'governor', 'president', 'secretary_of_state', 'state_senate', 'treasurer', 'us_senate'],
+        2026: ['state_senate']
       }
     };
     function isContestAllowedForDistrictScope(scope, contestType) {

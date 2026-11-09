@@ -407,6 +407,18 @@
       "contest_type": "us_senate",
       "file": "us_senate_2024.json",
       "rows": 55
+    },
+    {
+      "year": 2026,
+      "contest_type": "us_house",
+      "file": "us_house_2026.json",
+      "rows": 55
+    },
+    {
+      "year": 2026,
+      "contest_type": "us_senate",
+      "file": "us_senate_2026.json",
+      "rows": 55
     }
   ]
 }

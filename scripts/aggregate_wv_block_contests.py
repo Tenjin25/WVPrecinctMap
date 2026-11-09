@@ -278,7 +278,7 @@ def merge_supplemental_slices(manifest, legacy):
                 continue
             if item["contest_type"] == "state_senate" and item["scope"] != "state_senate":
                 continue
-            if item["contest_type"] == "us_house" and year not in {2022, 2024}:
+            if item["contest_type"] == "us_house" and year not in {2022, 2024, 2026}:
                 continue
             key = (item["scope"], item["contest_type"], year)
             if key in existing or (allowed_years is not None and year not in allowed_years):

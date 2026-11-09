@@ -17,6 +17,24 @@
       "contest_type": "state_senate",
       "year": 2022,
       "file": "state_senate_state_senate_2022.json"
+    },
+    {
+      "scope": "congressional",
+      "contest_type": "us_house",
+      "year": 2026,
+      "file": "congressional_us_house_2026.json"
+    },
+    {
+      "scope": "state_house",
+      "contest_type": "state_house",
+      "year": 2026,
+      "file": "state_house_state_house_2026.json"
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "state_senate",
+      "year": 2026,
+      "file": "state_senate_state_senate_2026.json"
     }
   ]
 }

@@ -16,7 +16,18 @@ INPUT = DATA / "openelections" / "wv_sos"
 OUTPUT = DATA / "district_contests_native"
 
 FILES = {
-    2022: INPUT / "20221108__wv__general__precinct.csv",
+    2022: {
+        "path": INPUT / "20221108__wv__general__precinct.csv",
+        "level": "precinct",
+    },
+    # Clarity currently exposes county-level results for every county in 2026,
+    # but precinct XML for only a handful. County rows still carry the native
+    # congressional/legislative district number, so summing those district
+    # fragments produces exact statewide district totals.
+    2026: {
+        "path": INPUT / "county" / "20261103__wv__general__county.csv",
+        "level": "county",
+    },
 }
 
 OFFICES = {
@@ -102,7 +113,9 @@ def main() -> int:
     manifest = []
     report = {"years": {}, "summary": {}}
 
-    for year, path in FILES.items():
+    for year, source in FILES.items():
+        path = source["path"]
+        level = source["level"]
         rows = list(csv.DictReader(path.open(encoding="utf-8-sig", newline="")))
         aggregates = defaultdict(lambda: defaultdict(lambda: defaultdict(lambda: defaultdict(int))))
         input_totals = defaultdict(int)
@@ -119,13 +132,23 @@ def main() -> int:
             aggregates[(scope, contest)][district][party][candidate] += votes
             input_totals[(scope, contest)] += votes
 
-        year_report = {"input_rows": len(rows), "contests": {}}
+        year_report = {
+            "input": path.relative_to(ROOT).as_posix(),
+            "input_level": level,
+            "input_rows": len(rows),
+            "contests": {},
+        }
         for (scope, contest), districts in sorted(aggregates.items()):
             node = make_node(scope, contest, year, districts)
-            node["meta"].update({
-                "source": "WV precinct-level general election returns normalized by OpenElections",
-                "source_url": "https://github.com/openelections/openelections-data-wv",
-            })
+            if level == "precinct":
+                source_label = "WV precinct-level general election returns normalized by OpenElections"
+                source_url = "https://github.com/openelections/openelections-data-wv"
+            else:
+                node["meta"]["method"] = "official_county_results_summed_by_reported_district"
+                source_label = "WV Secretary of State unofficial county-level general election returns"
+                source_url = "https://results.enr.clarityelections.com/WV/127496/web.345435/"
+                node["meta"].update({"results_status": "unofficial", "as_of": "2026-11-08"})
+            node["meta"].update({"source": source_label, "source_url": source_url})
             filename = f"{scope}_{contest}_{year}.json"
             (OUTPUT / filename).write_text(json.dumps(node, indent=2) + "\n", encoding="utf-8")
             manifest.append({"scope": scope, "contest_type": contest, "year": year, "file": filename})

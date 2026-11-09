@@ -139,20 +139,26 @@ def build_slice(path: Path) -> list[tuple[str, dict[str, object]]]:
                 }
             )
 
-        output.append(
-            (
-                contest,
+        meta = {
+            "contest_type": contest,
+            "year": year,
+            "method": (
+                "official_county_results"
+                if year == 2026
+                else "sum_complete_precinct_returns_by_county"
+            ),
+            "counties": len(rows),
+        }
+        if year == 2026:
+            meta.update(
                 {
-                    "meta": {
-                        "contest_type": contest,
-                        "year": year,
-                        "method": "sum_complete_precinct_returns_by_county",
-                        "counties": len(rows),
-                    },
-                    "rows": rows,
-                },
+                    "results_status": "unofficial",
+                    "as_of": "2026-11-08",
+                    "source": "West Virginia Secretary of State Election Night Reporting",
+                    "source_url": "https://results.enr.clarityelections.com/WV/127496/web.345435/",
+                }
             )
-        )
+        output.append((contest, {"meta": meta, "rows": rows}))
     return output
 
 

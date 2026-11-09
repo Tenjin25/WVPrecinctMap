@@ -1,5 +1,5 @@
 {
-  "slice_files": 68,
+  "slice_files": 70,
   "all_slices_have_55_counties": true,
   "slices": [
     {
@@ -409,6 +409,18 @@
       "contest_type": "us_senate",
       "counties": 55,
       "total_votes": 747702
+    },
+    {
+      "year": 2026,
+      "contest_type": "us_house",
+      "counties": 55,
+      "total_votes": 449977
+    },
+    {
+      "year": 2026,
+      "contest_type": "us_senate",
+      "counties": 55,
+      "total_votes": 456128
     }
   ]
 }
