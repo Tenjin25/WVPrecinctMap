@@ -7,6 +7,13 @@ import re
 
 ALIASES = {
     "JOHN JB MCCUSKEY": 'John "JB" McCuskey',
+    "DAVID B MCKINLEY": "David B. McKinley",
+    "DARRELL V MCGRAW JR": "Darrell V. McGraw Jr.",
+    "DANIEL W GREEAR": "Daniel W. Greear",
+    "GLEN B GAINER III": "Glen B. Gainer III",
+    "ALEX X MOONEY": "Alex X. Mooney",
+    "NICK J RAHALL II": "Nick J. Rahall II",
+    "NICK JOE RAHALL II": "Nick Joe Rahall II",
     "JOHN PAUL HOTT II": "John Paul Hott II",
     "CHARLES S TRUMP IV": "Charles S. Trump IV",
     "MICHAEL MOSTELLER II": "Michael Mosteller II",

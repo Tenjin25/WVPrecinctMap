@@ -458,14 +458,6 @@
           "total_vote_error": 0,
           "max_candidate_vote_error": 0
         },
-        "congressional_treasurer": {
-          "districts": 2,
-          "candidate_columns": 1,
-          "source_total_votes": 602718,
-          "district_total_votes": 602718,
-          "total_vote_error": 0,
-          "max_candidate_vote_error": 0
-        },
         "congressional_us_house": {
           "districts": 2,
           "candidate_columns": 5,
@@ -538,14 +530,6 @@
           "total_vote_error": 0,
           "max_candidate_vote_error": 0
         },
-        "state_house_treasurer": {
-          "districts": 100,
-          "candidate_columns": 1,
-          "source_total_votes": 602718,
-          "district_total_votes": 602718,
-          "total_vote_error": 0,
-          "max_candidate_vote_error": 0
-        },
         "state_house_us_senate": {
           "districts": 100,
           "candidate_columns": 3,
@@ -610,14 +594,6 @@
           "total_vote_error": 0,
           "max_candidate_vote_error": 0
         },
-        "state_senate_treasurer": {
-          "districts": 17,
-          "candidate_columns": 1,
-          "source_total_votes": 602718,
-          "district_total_votes": 602718,
-          "total_vote_error": 0,
-          "max_candidate_vote_error": 0
-        },
         "state_senate_us_senate": {
           "districts": 17,
           "candidate_columns": 3,
@@ -630,7 +606,7 @@
     }
   },
   "summary": {
-    "slice_files": 108,
+    "slice_files": 105,
     "max_total_vote_error": 0,
     "max_candidate_vote_error": 0,
     "all_block_assignment_gaps": 0,

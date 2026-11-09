@@ -2,24 +2,6 @@
   "files": [
     {
       "year": 2000,
-      "contest_type": "agriculture_commissioner",
-      "file": "agriculture_commissioner_2000.json",
-      "rows": 55
-    },
-    {
-      "year": 2000,
-      "contest_type": "attorney_general",
-      "file": "attorney_general_2000.json",
-      "rows": 55
-    },
-    {
-      "year": 2000,
-      "contest_type": "auditor",
-      "file": "auditor_2000.json",
-      "rows": 55
-    },
-    {
-      "year": 2000,
       "contest_type": "governor",
       "file": "governor_2000.json",
       "rows": 55
@@ -28,18 +10,6 @@
       "year": 2000,
       "contest_type": "president",
       "file": "president_2000.json",
-      "rows": 55
-    },
-    {
-      "year": 2000,
-      "contest_type": "secretary_of_state",
-      "file": "secretary_of_state_2000.json",
-      "rows": 55
-    },
-    {
-      "year": 2000,
-      "contest_type": "treasurer",
-      "file": "treasurer_2000.json",
       "rows": 55
     },
     {
@@ -122,12 +92,6 @@
     },
     {
       "year": 2008,
-      "contest_type": "auditor",
-      "file": "auditor_2008.json",
-      "rows": 55
-    },
-    {
-      "year": 2008,
       "contest_type": "governor",
       "file": "governor_2008.json",
       "rows": 55
@@ -142,12 +106,6 @@
       "year": 2008,
       "contest_type": "secretary_of_state",
       "file": "secretary_of_state_2008.json",
-      "rows": 55
-    },
-    {
-      "year": 2008,
-      "contest_type": "treasurer",
-      "file": "treasurer_2008.json",
       "rows": 55
     },
     {
@@ -388,12 +346,6 @@
       "year": 2024,
       "contest_type": "secretary_of_state",
       "file": "secretary_of_state_2024.json",
-      "rows": 55
-    },
-    {
-      "year": 2024,
-      "contest_type": "treasurer",
-      "file": "treasurer_2024.json",
       "rows": 55
     },
     {

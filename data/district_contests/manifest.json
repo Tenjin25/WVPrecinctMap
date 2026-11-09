@@ -506,12 +506,6 @@
     },
     {
       "scope": "congressional",
-      "contest_type": "treasurer",
-      "year": 2024,
-      "file": "congressional_treasurer_2024.json"
-    },
-    {
-      "scope": "congressional",
       "contest_type": "us_house",
       "year": 2024,
       "file": "congressional_us_house_2024.json"
@@ -566,12 +560,6 @@
     },
     {
       "scope": "state_house",
-      "contest_type": "treasurer",
-      "year": 2024,
-      "file": "state_house_treasurer_2024.json"
-    },
-    {
-      "scope": "state_house",
       "contest_type": "us_senate",
       "year": 2024,
       "file": "state_house_us_senate_2024.json"
@@ -617,12 +605,6 @@
       "contest_type": "state_senate",
       "year": 2024,
       "file": "state_senate_state_senate_2024.json"
-    },
-    {
-      "scope": "state_senate",
-      "contest_type": "treasurer",
-      "year": 2024,
-      "file": "state_senate_treasurer_2024.json"
     },
     {
       "scope": "state_senate",

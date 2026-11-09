@@ -260,7 +260,7 @@ def build_node(scope: str, contest: str, year: int, district_columns, column_met
     }
 
 
-def merge_supplemental_slices(manifest, legacy):
+def merge_supplemental_slices(manifest, legacy, uncontested_statewide):
     """Add validated fallbacks without replacing a block-derived slice."""
     existing = {(item["scope"], item["contest_type"], item["year"]) for item in manifest}
     expected = {"congressional": 2, "state_house": 100, "state_senate": 17}
@@ -272,6 +272,9 @@ def merge_supplemental_slices(manifest, legacy):
         source_manifest = json.loads(manifest_path.read_text(encoding="utf-8")).get("files", [])
         for item in source_manifest:
             year = int(item["year"])
+            contest = str(item["contest_type"])
+            if (year, contest) in uncontested_statewide:
+                continue
             if item["contest_type"] == "us_house" and item["scope"] != "congressional":
                 continue
             if item["contest_type"] == "state_house" and item["scope"] != "state_house":
@@ -299,6 +302,13 @@ def merge_supplemental_slices(manifest, legacy):
 
 def main() -> int:
     assignments = {scope: read_bef(path) for scope, path in BEFS.items()}
+    county_report = json.loads(
+        (DATA / "county_contest_report.json").read_text(encoding="utf-8")
+    )
+    uncontested_statewide = {
+        (int(item["year"]), str(item["contest_type"]))
+        for item in county_report.get("excluded_uncontested", [])
+    }
     OUTPUT.mkdir(parents=True, exist_ok=True)
     old_manifest_path = OUTPUT / "manifest.json"
     if old_manifest_path.exists():
@@ -363,6 +373,8 @@ def main() -> int:
         for scope, contests in aggregated.items():
             legacy["results_by_year"][str(year)][scope] = {}
             for contest, district_columns in sorted(contests.items()):
+                if (year, contest) in uncontested_statewide:
+                    continue
                 integer_targets = apportion_columns(district_columns)
                 node = build_node(scope, contest, year, district_columns, column_meta, candidate_names)
                 output_name = f"{scope}_{contest}_{year}.json"
@@ -402,7 +414,9 @@ def main() -> int:
                 }
         qa["years"][str(year)] = year_qa
 
-    supplemental_slices = merge_supplemental_slices(manifest, legacy)
+    supplemental_slices = merge_supplemental_slices(
+        manifest, legacy, uncontested_statewide
+    )
     manifest.sort(key=lambda item: (item["year"], item["scope"], item["contest_type"]))
     (OUTPUT / "manifest.json").write_text(json.dumps({"files": manifest}, indent=2) + "\n", encoding="utf-8")
     (DATA / "wv_district_results.json").write_text(json.dumps(legacy, indent=2) + "\n", encoding="utf-8")

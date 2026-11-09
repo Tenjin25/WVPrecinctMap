@@ -1,25 +1,41 @@
 {
-  "slice_files": 70,
+  "slice_files": 62,
   "all_slices_have_55_counties": true,
+  "excluded_uncontested": [
+    {
+      "year": 2000,
+      "contest_type": "agriculture_commissioner"
+    },
+    {
+      "year": 2000,
+      "contest_type": "attorney_general"
+    },
+    {
+      "year": 2000,
+      "contest_type": "auditor"
+    },
+    {
+      "year": 2000,
+      "contest_type": "secretary_of_state"
+    },
+    {
+      "year": 2000,
+      "contest_type": "treasurer"
+    },
+    {
+      "year": 2008,
+      "contest_type": "auditor"
+    },
+    {
+      "year": 2008,
+      "contest_type": "treasurer"
+    },
+    {
+      "year": 2024,
+      "contest_type": "treasurer"
+    }
+  ],
   "slices": [
-    {
-      "year": 2000,
-      "contest_type": "agriculture_commissioner",
-      "counties": 55,
-      "total_votes": 485648
-    },
-    {
-      "year": 2000,
-      "contest_type": "attorney_general",
-      "counties": 55,
-      "total_votes": 465047
-    },
-    {
-      "year": 2000,
-      "contest_type": "auditor",
-      "counties": 55,
-      "total_votes": 484534
-    },
     {
       "year": 2000,
       "contest_type": "governor",
@@ -31,18 +47,6 @@
       "contest_type": "president",
       "counties": 55,
       "total_votes": 648124
-    },
-    {
-      "year": 2000,
-      "contest_type": "secretary_of_state",
-      "counties": 55,
-      "total_votes": 534966
-    },
-    {
-      "year": 2000,
-      "contest_type": "treasurer",
-      "counties": 55,
-      "total_votes": 468870
     },
     {
       "year": 2000,
@@ -124,12 +128,6 @@
     },
     {
       "year": 2008,
-      "contest_type": "auditor",
-      "counties": 55,
-      "total_votes": 525084
-    },
-    {
-      "year": 2008,
       "contest_type": "governor",
       "counties": 55,
       "total_votes": 705795
@@ -145,12 +143,6 @@
       "contest_type": "secretary_of_state",
       "counties": 55,
       "total_votes": 667713
-    },
-    {
-      "year": 2008,
-      "contest_type": "treasurer",
-      "counties": 55,
-      "total_votes": 520406
     },
     {
       "year": 2008,
@@ -391,12 +383,6 @@
       "contest_type": "secretary_of_state",
       "counties": 55,
       "total_votes": 718230
-    },
-    {
-      "year": 2024,
-      "contest_type": "treasurer",
-      "counties": 55,
-      "total_votes": 602718
     },
     {
       "year": 2024,

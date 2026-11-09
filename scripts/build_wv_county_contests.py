@@ -9,6 +9,8 @@ import re
 from collections import defaultdict
 from pathlib import Path
 
+from wv_candidate_names import normalize_candidate_name
+
 
 ROOT = Path(__file__).resolve().parents[1]
 INPUT = ROOT / "data" / "openelections" / "wv_sos" / "county"
@@ -44,6 +46,7 @@ CANDIDATE_PARTY_OVERRIDES = {
 }
 
 CANDIDATE_DISPLAY_OVERRIDES = {
+    "JOHN JB MCCUSKEY": 'John "JB" McCuskey',
     "JOSEPH MANCHIN": "JOSEPH MANCHIN III",
     "JOSEPH MANCHIN III": "JOSEPH MANCHIN III",
     "PATRICK MORRISEY": "PATRICK MORRISEY",
@@ -76,7 +79,7 @@ def year_from_name(path: Path) -> int:
     return int(path.name[:4])
 
 
-def build_slice(path: Path) -> list[tuple[str, dict[str, object]]]:
+def build_slice(path: Path) -> list[tuple[str, dict[str, object] | None]]:
     year = year_from_name(path)
     votes: defaultdict[tuple[str, str, str], int] = defaultdict(int)
     candidates: defaultdict[tuple[str, str, str, str], int] = defaultdict(int)
@@ -91,6 +94,7 @@ def build_slice(path: Path) -> list[tuple[str, dict[str, object]]]:
             # (for example, "JOE  MANCHIN III"). Keep display labels stable.
             candidate = " ".join(row["candidate"].split())
             candidate = CANDIDATE_DISPLAY_OVERRIDES.get(token(candidate), candidate)
+            candidate = normalize_candidate_name(candidate)
             if token(candidate) in EXCLUDED_CANDIDATES_BY_CONTEST_YEAR.get(
                 (year, contest), set()
             ):
@@ -104,7 +108,7 @@ def build_slice(path: Path) -> list[tuple[str, dict[str, object]]]:
                 candidates[(contest, county, bucket, candidate)] += count
 
     contests = sorted({contest for contest, _, _ in votes})
-    output: list[tuple[str, dict[str, object]]] = []
+    output: list[tuple[str, dict[str, object] | None]] = []
     for contest in contests:
         counties = sorted({county for current, county, _ in votes if current == contest})
         rows = []
@@ -139,6 +143,14 @@ def build_slice(path: Path) -> list[tuple[str, dict[str, object]]]:
                 }
             )
 
+        # Statewide-office maps require a meaningful two-party comparison.
+        # Do not publish unopposed or single-major-party contests.
+        if not sum(int(row["dem_votes"]) for row in rows) or not sum(
+            int(row["rep_votes"]) for row in rows
+        ):
+            output.append((contest, None))
+            continue
+
         meta = {
             "contest_type": contest,
             "year": year,
@@ -166,6 +178,7 @@ def main() -> None:
     OUTPUT.mkdir(parents=True, exist_ok=True)
     manifest = []
     statewide_vote_checks = []
+    excluded_uncontested = []
 
     sources_by_year = {year_from_name(path): path for path in INPUT.glob("*__county.csv")}
     # Official/legacy historical county files take precedence through 2012;
@@ -176,6 +189,10 @@ def main() -> None:
     for year, source_path in sorted(sources_by_year.items()):
         for contest, payload in build_slice(source_path):
             filename = f"{contest}_{year}.json"
+            if payload is None:
+                (OUTPUT / filename).unlink(missing_ok=True)
+                excluded_uncontested.append({"year": year, "contest_type": contest})
+                continue
             (OUTPUT / filename).write_text(json.dumps(payload, indent=2) + "\n", encoding="utf-8")
             rows = payload["rows"]
             manifest.append(
@@ -197,6 +214,9 @@ def main() -> None:
     report = {
         "slice_files": len(manifest),
         "all_slices_have_55_counties": all(row["counties"] == 55 for row in statewide_vote_checks),
+        "excluded_uncontested": sorted(
+            excluded_uncontested, key=lambda row: (row["year"], row["contest_type"])
+        ),
         "slices": statewide_vote_checks,
     }
     (ROOT / "data" / "county_contest_report.json").write_text(

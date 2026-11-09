@@ -24,8 +24,8 @@
       "rep_votes": 20129,
       "other_votes": 1550,
       "total_votes": 33640,
-      "dem_candidate": "TALLEY SERGENT",
-      "rep_candidate": "ALEX X. MOONEY",
+      "dem_candidate": "Talley Sergent",
+      "rep_candidate": "Alex X. Mooney",
       "margin": 8168,
       "margin_pct": 24.28061831,
       "winner": "REP"
@@ -240,8 +240,8 @@
       "rep_votes": 27851,
       "other_votes": 1220,
       "total_votes": 63431,
-      "dem_candidate": "TALLEY SERGENT",
-      "rep_candidate": "ALEX X. MOONEY",
+      "dem_candidate": "Talley Sergent",
+      "rep_candidate": "Alex X. Mooney",
       "margin": -6509,
       "margin_pct": -10.26154404,
       "winner": "DEM"
@@ -372,8 +372,8 @@
       "rep_votes": 14045,
       "other_votes": 30,
       "total_votes": 31122,
-      "dem_candidate": "KENDRA FERSHEE",
-      "rep_candidate": "DAVID B McKINLEY",
+      "dem_candidate": "Kendra Fershee",
+      "rep_candidate": "David B. McKinley",
       "margin": -3002,
       "margin_pct": -9.64590965,
       "winner": "DEM"
@@ -421,7 +421,7 @@
       "other_votes": 0,
       "total_votes": 15840,
       "dem_candidate": "Kendra Fershee",
-      "rep_candidate": "David B McKinley",
+      "rep_candidate": "David B. McKinley",
       "margin": 6144,
       "margin_pct": 38.78787879,
       "winner": "REP"
@@ -433,7 +433,7 @@
       "other_votes": 46,
       "total_votes": 2459,
       "dem_candidate": "Talley Sergent",
-      "rep_candidate": "Alex X Mooney",
+      "rep_candidate": "Alex X. Mooney",
       "margin": 845,
       "margin_pct": 34.36356242,
       "winner": "REP"
@@ -481,7 +481,7 @@
       "other_votes": 423,
       "total_votes": 21120,
       "dem_candidate": "Talley Sergent",
-      "rep_candidate": "Alex X Mooney",
+      "rep_candidate": "Alex X. Mooney",
       "margin": 3929,
       "margin_pct": 18.6032197,
       "winner": "REP"
@@ -517,7 +517,7 @@
       "other_votes": 1,
       "total_votes": 3161,
       "dem_candidate": "Kendra Fershee",
-      "rep_candidate": "David B McKinley",
+      "rep_candidate": "David B. McKinley",
       "margin": 2032,
       "margin_pct": 64.2834546,
       "winner": "REP"
