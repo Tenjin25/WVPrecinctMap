@@ -7,181 +7,181 @@
     "method": "official_county_results_summed_by_reported_district",
     "match_coverage_pct": 100.0,
     "results_status": "unofficial",
-    "as_of": "2026-11-08",
+    "as_of": "2026-11-13",
     "source": "WV Secretary of State unofficial county-level general election returns",
     "source_url": "https://results.enr.clarityelections.com/WV/127496/web.345435/"
   },
   "general": {
     "results": {
       "1": {
-        "dem_votes": 12737,
-        "rep_votes": 14545,
+        "dem_votes": 12793,
+        "rep_votes": 14590,
         "other_votes": 0,
-        "total_votes": 27282,
+        "total_votes": 27383,
         "dem_candidate": "Shawn Fluharty",
         "rep_candidate": "Laura Wakim Chapman",
         "winner": "REP",
-        "margin_pct": 6.62708013
+        "margin_pct": 6.56246576
       },
       "2": {
-        "dem_votes": 11628,
-        "rep_votes": 15397,
+        "dem_votes": 11659,
+        "rep_votes": 15440,
         "other_votes": 0,
-        "total_votes": 27025,
+        "total_votes": 27099,
         "dem_candidate": "Chris Claypole",
         "rep_candidate": "Toby Heaney",
         "winner": "REP",
-        "margin_pct": 13.94634598
+        "margin_pct": 13.95254437
       },
       "3": {
-        "dem_votes": 10798,
-        "rep_votes": 35494,
-        "other_votes": 6436,
-        "total_votes": 52728,
+        "dem_votes": 10843,
+        "rep_votes": 35588,
+        "other_votes": 6455,
+        "total_votes": 52886,
         "dem_candidate": "Caci Petrehn",
         "rep_candidate": "Trenton Carl Barnhart",
         "winner": "REP",
-        "margin_pct": 46.83659536
+        "margin_pct": 46.78932043
       },
       "4": {
         "dem_votes": 0,
-        "rep_votes": 15295,
+        "rep_votes": 15339,
         "other_votes": 0,
-        "total_votes": 15295,
+        "total_votes": 15339,
         "dem_candidate": "",
         "rep_candidate": "Eric J. Tarr",
         "winner": "REP",
         "margin_pct": 100.0
       },
       "5": {
-        "dem_votes": 12792,
-        "rep_votes": 11690,
+        "dem_votes": 12853,
+        "rep_votes": 11733,
         "other_votes": 0,
-        "total_votes": 24482,
+        "total_votes": 24586,
         "dem_candidate": "Duron Jackson",
         "rep_candidate": "Chris Miller",
         "winner": "DEM",
-        "margin_pct": -4.50126624
+        "margin_pct": -4.55543805
       },
       "6": {
-        "dem_votes": 7062,
-        "rep_votes": 12581,
+        "dem_votes": 7079,
+        "rep_votes": 12623,
         "other_votes": 0,
-        "total_votes": 19643,
+        "total_votes": 19702,
         "dem_candidate": "Wyatt Lilly",
         "rep_candidate": "Mark R Maynard",
         "winner": "REP",
-        "margin_pct": 28.09652293
+        "margin_pct": 28.1392752
       },
       "7": {
-        "dem_votes": 5997,
-        "rep_votes": 11797,
-        "other_votes": 1130,
-        "total_votes": 18924,
+        "dem_votes": 6022,
+        "rep_votes": 11828,
+        "other_votes": 1133,
+        "total_votes": 18983,
         "dem_candidate": "Cindy Brake",
         "rep_candidate": "Zack Maynard",
         "winner": "REP",
-        "margin_pct": 30.64891144
+        "margin_pct": 30.5852605
       },
       "8": {
-        "dem_votes": 11929,
-        "rep_votes": 12587,
+        "dem_votes": 11973,
+        "rep_votes": 12620,
         "other_votes": 0,
-        "total_votes": 24516,
+        "total_votes": 24593,
         "dem_candidate": "Kim Hundley",
         "rep_candidate": "Lance Wheeler",
         "winner": "REP",
-        "margin_pct": 2.68396149
+        "margin_pct": 2.63082991
       },
       "9": {
-        "dem_votes": 8247,
-        "rep_votes": 13628,
+        "dem_votes": 8313,
+        "rep_votes": 13676,
         "other_votes": 0,
-        "total_votes": 21875,
+        "total_votes": 21989,
         "dem_candidate": "Christy Cardwell",
         "rep_candidate": "Rollan Roberts",
         "winner": "REP",
-        "margin_pct": 24.59885714
+        "margin_pct": 24.38946746
       },
       "10": {
-        "dem_votes": 10111,
-        "rep_votes": 17208,
+        "dem_votes": 10140,
+        "rep_votes": 17235,
         "other_votes": 0,
-        "total_votes": 27319,
+        "total_votes": 27375,
         "dem_candidate": "Kent Gilkerson",
         "rep_candidate": "Vince Deeds",
         "winner": "REP",
-        "margin_pct": 25.97825689
+        "margin_pct": 25.91780822
       },
       "11": {
-        "dem_votes": 8003,
-        "rep_votes": 17246,
+        "dem_votes": 8046,
+        "rep_votes": 17295,
         "other_votes": 0,
-        "total_votes": 25249,
+        "total_votes": 25341,
         "dem_candidate": "Kevin Leon Carpenter",
         "rep_candidate": "Bill Hamilton",
         "winner": "REP",
-        "margin_pct": 36.60739039
+        "margin_pct": 36.49816503
       },
       "12": {
-        "dem_votes": 10087,
-        "rep_votes": 16822,
+        "dem_votes": 10137,
+        "rep_votes": 16876,
         "other_votes": 0,
-        "total_votes": 26909,
+        "total_votes": 27013,
         "dem_candidate": "Lynette Murray",
         "rep_candidate": "Ben Queen",
         "winner": "REP",
-        "margin_pct": 25.02880077
+        "margin_pct": 24.94724762
       },
       "13": {
-        "dem_votes": 15503,
-        "rep_votes": 11647,
-        "other_votes": 1009,
-        "total_votes": 28159,
+        "dem_votes": 15590,
+        "rep_votes": 11685,
+        "other_votes": 1012,
+        "total_votes": 28287,
         "dem_candidate": "John Williams",
         "rep_candidate": "Mike Oliverio",
         "winner": "DEM",
-        "margin_pct": -13.6936681
+        "margin_pct": -13.80492806
       },
       "14": {
-        "dem_votes": 8726,
-        "rep_votes": 18357,
+        "dem_votes": 8767,
+        "rep_votes": 18405,
         "other_votes": 0,
-        "total_votes": 27083,
+        "total_votes": 27172,
         "dem_candidate": "Jason Armentrout",
         "rep_candidate": "Jay Taylor",
         "winner": "REP",
-        "margin_pct": 35.56105306
+        "margin_pct": 35.47033711
       },
       "15": {
-        "dem_votes": 12317,
-        "rep_votes": 18368,
+        "dem_votes": 12344,
+        "rep_votes": 18394,
         "other_votes": 0,
-        "total_votes": 30685,
+        "total_votes": 30738,
         "dem_candidate": "Elizabeth Ferris",
         "rep_candidate": "Darren J Thorne",
         "winner": "REP",
-        "margin_pct": 19.71973277
+        "margin_pct": 19.68247771
       },
       "16": {
         "dem_votes": 0,
-        "rep_votes": 18600,
-        "other_votes": 11729,
-        "total_votes": 30329,
+        "rep_votes": 18636,
+        "other_votes": 11754,
+        "total_votes": 30390,
         "dem_candidate": "",
         "rep_candidate": "Jason Barrett",
         "winner": "REP",
-        "margin_pct": 61.32744238
+        "margin_pct": 61.32280355
       },
       "17": {
-        "dem_votes": 27868,
-        "rep_votes": 27701,
+        "dem_votes": 13186,
+        "rep_votes": 14767,
         "other_votes": 0,
-        "total_votes": 55569,
-        "dem_candidate": "Richie Robb",
+        "total_votes": 27953,
+        "dem_candidate": "Wes Holden",
         "rep_candidate": "Tom Takubo",
-        "winner": "DEM",
-        "margin_pct": -0.30052727
+        "winner": "REP",
+        "margin_pct": 5.65592244
       }
     }
   }

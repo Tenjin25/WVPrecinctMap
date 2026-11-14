@@ -629,6 +629,12 @@
       "contest_type": "state_senate",
       "year": 2026,
       "file": "state_senate_state_senate_2026.json"
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "state_senate_special",
+      "year": 2026,
+      "file": "state_senate_state_senate_special_2026.json"
     }
   ]
 }

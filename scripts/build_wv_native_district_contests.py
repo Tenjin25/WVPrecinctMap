@@ -20,8 +20,8 @@ FILES = {
         "path": INPUT / "20221108__wv__general__precinct.csv",
         "level": "precinct",
     },
-    # Clarity currently exposes county-level results for every county in 2026,
-    # but precinct XML for only a handful. County rows still carry the native
+    # Clarity exposes county-level results for every county in 2026, while
+    # precinct XML remains unavailable for three counties. County rows carry the native
     # congressional/legislative district number, so summing those district
     # fragments produces exact statewide district totals.
     2026: {
@@ -39,6 +39,7 @@ OFFICES = {
 }
 
 EXPECTED_DISTRICTS = {"congressional": 2, "state_house": 100, "state_senate": 17}
+EXPECTED_CONTEST_DISTRICTS = {("state_senate", "state_senate_special"): 1}
 
 
 def token(value: str) -> str:
@@ -126,6 +127,17 @@ def main() -> int:
             if not office or not district or is_summary_precinct(row.get("precinct", "")):
                 continue
             scope, contest = office
+            # Senate District 17 had both its regular election and a separate
+            # unexpired-term special election in 2026. The statewide Clarity
+            # CSV normalizes both to the same office/district label, so route
+            # the two special-election candidates to their own contest slice.
+            if (
+                year == 2026
+                and scope == "state_senate"
+                and district == "17"
+                and token(row.get("candidate", "")) in {"ANNE B CHARNOCK", "RICHIE ROBB"}
+            ):
+                contest = "state_senate_special"
             votes = int(float(row.get("votes") or 0))
             party = party_type(row.get("party", ""))
             candidate = candidate_name(row.get("candidate", ""))
@@ -147,13 +159,15 @@ def main() -> int:
                 node["meta"]["method"] = "official_county_results_summed_by_reported_district"
                 source_label = "WV Secretary of State unofficial county-level general election returns"
                 source_url = "https://results.enr.clarityelections.com/WV/127496/web.345435/"
-                node["meta"].update({"results_status": "unofficial", "as_of": "2026-11-08"})
+                node["meta"].update({"results_status": "unofficial", "as_of": "2026-11-13"})
             node["meta"].update({"source": source_label, "source_url": source_url})
             filename = f"{scope}_{contest}_{year}.json"
             (OUTPUT / filename).write_text(json.dumps(node, indent=2) + "\n", encoding="utf-8")
             manifest.append({"scope": scope, "contest_type": contest, "year": year, "file": filename})
             output_total = sum(row["total_votes"] for row in node["general"]["results"].values())
             year_report["contests"][f"{scope}_{contest}"] = {
+                "scope": scope,
+                "contest_type": contest,
                 "districts": len(districts),
                 "input_total_votes": input_totals[(scope, contest)],
                 "output_total_votes": output_total,
@@ -167,9 +181,13 @@ def main() -> int:
     count_errors = []
     for year, year_node in report["years"].items():
         for key, item in year_node["contests"].items():
-            scope = next(scope for scope in EXPECTED_DISTRICTS if key.startswith(scope + "_"))
-            if item["districts"] != EXPECTED_DISTRICTS[scope]:
-                count_errors.append({"year": int(year), "slice": key, "expected": EXPECTED_DISTRICTS[scope], "actual": item["districts"]})
+            scope = item["scope"]
+            contest = item["contest_type"]
+            expected = EXPECTED_CONTEST_DISTRICTS.get(
+                (scope, contest), EXPECTED_DISTRICTS[scope]
+            )
+            if item["districts"] != expected:
+                count_errors.append({"year": int(year), "slice": key, "expected": expected, "actual": item["districts"]})
     report["summary"] = {
         "slice_files": len(manifest),
         "max_conservation_error": max((abs(item["conservation_error"]) for item in contest_reports), default=0),

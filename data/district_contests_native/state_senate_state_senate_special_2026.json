@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "scope": "state_senate",
+    "contest_type": "state_senate_special",
+    "year": 2026,
+    "district_lines_year": 2022,
+    "method": "official_county_results_summed_by_reported_district",
+    "match_coverage_pct": 100.0,
+    "results_status": "unofficial",
+    "as_of": "2026-11-13",
+    "source": "WV Secretary of State unofficial county-level general election returns",
+    "source_url": "https://results.enr.clarityelections.com/WV/127496/web.345435/"
+  },
+  "general": {
+    "results": {
+      "17": {
+        "dem_votes": 14787,
+        "rep_votes": 12988,
+        "other_votes": 0,
+        "total_votes": 27775,
+        "dem_candidate": "Richie Robb",
+        "rep_candidate": "Anne B. Charnock",
+        "winner": "DEM",
+        "margin_pct": -6.4770477
+      }
+    }
+  }
+}

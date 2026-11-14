@@ -7,31 +7,31 @@
     "method": "official_county_results_summed_by_reported_district",
     "match_coverage_pct": 100.0,
     "results_status": "unofficial",
-    "as_of": "2026-11-08",
+    "as_of": "2026-11-13",
     "source": "WV Secretary of State unofficial county-level general election returns",
     "source_url": "https://results.enr.clarityelections.com/WV/127496/web.345435/"
   },
   "general": {
     "results": {
       "1": {
-        "dem_votes": 82347,
-        "rep_votes": 118735,
-        "other_votes": 6904,
-        "total_votes": 207986,
+        "dem_votes": 82705,
+        "rep_votes": 119087,
+        "other_votes": 6921,
+        "total_votes": 208713,
         "dem_candidate": "Vince George",
         "rep_candidate": "Carol Miller",
         "winner": "REP",
-        "margin_pct": 17.49540834
+        "margin_pct": 17.43159267
       },
       "2": {
-        "dem_votes": 98235,
-        "rep_votes": 143756,
+        "dem_votes": 98615,
+        "rep_votes": 144109,
         "other_votes": 0,
-        "total_votes": 241991,
+        "total_votes": 242724,
         "dem_candidate": "Ace Parsi",
         "rep_candidate": "Riley Moore",
         "winner": "REP",
-        "margin_pct": 18.81103016
+        "margin_pct": 18.74309916
       }
     }
   }

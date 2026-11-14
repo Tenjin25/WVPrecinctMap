@@ -165,7 +165,7 @@ def build_slice(path: Path) -> list[tuple[str, dict[str, object] | None]]:
             meta.update(
                 {
                     "results_status": "unofficial",
-                    "as_of": "2026-11-08",
+                    "as_of": "2026-11-13",
                     "source": "West Virginia Secretary of State Election Night Reporting",
                     "source_url": "https://results.enr.clarityelections.com/WV/127496/web.345435/",
                 }

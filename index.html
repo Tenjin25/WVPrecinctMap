@@ -10813,8 +10813,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Cache destroyer token for static data requests.
     // Bump this value when you want browsers/CDNs to fetch fresh files immediately.
-    const DATA_CACHE_BUSTER = '2026-11-08-candidate-names-v3';
-    const APP_BUILD_ID = '2026-11-08-candidate-names-v3';
+    const DATA_CACHE_BUSTER = '2026-11-13-canvass-results-v4';
+    const APP_BUILD_ID = '2026-11-13-canvass-results-v4';
 
     function withCacheBuster(path) {
       const p = (path || '').toString().trim();
@@ -11427,7 +11427,7 @@ document.addEventListener('DOMContentLoaded', function() {
         2020: ['agriculture_commissioner', 'attorney_general', 'auditor', 'governor', 'president', 'secretary_of_state', 'treasurer', 'us_senate'],
         2022: ['state_senate'],
         2024: ['agriculture_commissioner', 'attorney_general', 'auditor', 'governor', 'president', 'secretary_of_state', 'state_senate', 'us_senate'],
-        2026: ['state_senate']
+        2026: ['state_senate', 'state_senate_special']
       }
     };
     function isContestAllowedForDistrictScope(scope, contestType) {
@@ -11436,6 +11436,7 @@ document.addEventListener('DOMContentLoaded', function() {
       if (contestKey === 'us_house') return scopeKey === 'congressional';
       if (contestKey === 'state_house') return scopeKey === 'state_house';
       if (contestKey === 'state_senate') return scopeKey === 'state_senate';
+      if (contestKey === 'state_senate_special') return scopeKey === 'state_senate';
       return true;
     }
 
@@ -20102,6 +20103,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	        'treasurer': 'Treasurer',
 	        'us_house': 'US House',
 	        'state_senate': 'State Senate',
+          'state_senate_special': 'State Senate (Unexpired Term)',
           'state_house': 'House of Delegates',
           'constitutional_amendment': 'Proposed Constitutional Amendment'
 	      };

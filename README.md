@@ -19,8 +19,9 @@ and source fallbacks are documented in
 Unofficial 2026 general-election county results are included for U.S. Senate
 and U.S. House, along with exact district totals for U.S. House, House of
 Delegates, and State Senate. They were downloaded from the West Virginia
-Secretary of State Election Night Reporting system on November 8, 2026;
-precinct XML was not yet available statewide.
+Secretary of State Election Night Reporting system and refreshed during the
+county canvass period on November 13, 2026; precinct XML was available for 52 of 55
+counties, with Clay, Harrison, and Monroe still unavailable.
 
 Generate county totals for the complete years:
 

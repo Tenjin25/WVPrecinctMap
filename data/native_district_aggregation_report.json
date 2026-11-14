@@ -6,18 +6,24 @@
       "input_rows": 36603,
       "contests": {
         "congressional_us_house": {
+          "scope": "congressional",
+          "contest_type": "us_house",
           "districts": 2,
           "input_total_votes": 471967,
           "output_total_votes": 471967,
           "conservation_error": 0
         },
         "state_house_state_house": {
+          "scope": "state_house",
+          "contest_type": "state_house",
           "districts": 100,
           "input_total_votes": 460766,
           "output_total_votes": 460766,
           "conservation_error": 0
         },
         "state_senate_state_senate": {
+          "scope": "state_senate",
+          "contest_type": "state_senate",
           "districts": 17,
           "input_total_votes": 458512,
           "output_total_votes": 458512,
@@ -31,28 +37,42 @@
       "input_rows": 845,
       "contests": {
         "congressional_us_house": {
+          "scope": "congressional",
+          "contest_type": "us_house",
           "districts": 2,
-          "input_total_votes": 449977,
-          "output_total_votes": 449977,
+          "input_total_votes": 451437,
+          "output_total_votes": 451437,
           "conservation_error": 0
         },
         "state_house_state_house": {
+          "scope": "state_house",
+          "contest_type": "state_house",
           "districts": 100,
-          "input_total_votes": 436918,
-          "output_total_votes": 436918,
+          "input_total_votes": 438281,
+          "output_total_votes": 438281,
           "conservation_error": 0
         },
         "state_senate_state_senate": {
+          "scope": "state_senate",
+          "contest_type": "state_senate",
           "districts": 17,
-          "input_total_votes": 483072,
-          "output_total_votes": 483072,
+          "input_total_votes": 456829,
+          "output_total_votes": 456829,
+          "conservation_error": 0
+        },
+        "state_senate_state_senate_special": {
+          "scope": "state_senate",
+          "contest_type": "state_senate_special",
+          "districts": 1,
+          "input_total_votes": 27775,
+          "output_total_votes": 27775,
           "conservation_error": 0
         }
       }
     }
   },
   "summary": {
-    "slice_files": 6,
+    "slice_files": 7,
     "max_conservation_error": 0,
     "district_count_errors": [],
     "validation_passed": true

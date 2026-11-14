@@ -290,7 +290,13 @@ def merge_supplemental_slices(manifest, legacy, uncontested_statewide):
             node = json.loads(source_path.read_text(encoding="utf-8"))
             coverage = float(node.get("meta", {}).get("match_coverage_pct", 0))
             districts = node.get("general", {}).get("results", {})
-            if coverage < minimum_coverage or len(districts) != expected[item["scope"]]:
+            expected_count = (
+                1
+                if item["scope"] == "state_senate"
+                and item["contest_type"] == "state_senate_special"
+                else expected[item["scope"]]
+            )
+            if coverage < minimum_coverage or len(districts) != expected_count:
                 continue
             shutil.copyfile(source_path, OUTPUT / item["file"])
             manifest.append(dict(item))

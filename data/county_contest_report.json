@@ -400,13 +400,13 @@
       "year": 2026,
       "contest_type": "us_house",
       "counties": 55,
-      "total_votes": 449977
+      "total_votes": 451437
     },
     {
       "year": 2026,
       "contest_type": "us_senate",
       "counties": 55,
-      "total_votes": 456128
+      "total_votes": 457611
     }
   ]
 }
