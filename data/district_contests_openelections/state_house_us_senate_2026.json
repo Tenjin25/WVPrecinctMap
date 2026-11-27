@@ -1,0 +1,1022 @@
+{
+  "meta": {
+    "scope": "state_house",
+    "contest_type": "us_senate",
+    "year": 2026,
+    "district_lines_year": 2022,
+    "source_vtd_vintage": 2020,
+    "method": "official_precinct_to_reported_district_contest_with_vtd_fallback",
+    "match_coverage_pct": 99.235377,
+    "source": "WV Secretary of State precinct-level general election returns",
+    "source_url": "https://results.enr.clarityelections.com/WV/127496/web.345435/",
+    "results_status": "unofficial",
+    "as_of": "2026-11-27",
+    "missing_counties": [
+      "Monroe"
+    ]
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 1504,
+        "rep_votes": 3585,
+        "other_votes": 176,
+        "total_votes": 5265,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 39.52516619
+      },
+      "2": {
+        "dem_votes": 1708,
+        "rep_votes": 2675,
+        "other_votes": 114,
+        "total_votes": 4497,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 21.50322437
+      },
+      "3": {
+        "dem_votes": 1558,
+        "rep_votes": 2800,
+        "other_votes": 99,
+        "total_votes": 4457,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 27.86627777
+      },
+      "4": {
+        "dem_votes": 2324,
+        "rep_votes": 3720,
+        "other_votes": 128,
+        "total_votes": 6172,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 22.61827609
+      },
+      "5": {
+        "dem_votes": 2350,
+        "rep_votes": 2435,
+        "other_votes": 99,
+        "total_votes": 4884,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 1.74037674
+      },
+      "6": {
+        "dem_votes": 1816,
+        "rep_votes": 3050,
+        "other_votes": 160,
+        "total_votes": 5026,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 24.55232789
+      },
+      "7": {
+        "dem_votes": 1272,
+        "rep_votes": 3010,
+        "other_votes": 107,
+        "total_votes": 4389,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 39.59899749
+      },
+      "8": {
+        "dem_votes": 943,
+        "rep_votes": 2925,
+        "other_votes": 150,
+        "total_votes": 4018,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 49.32802389
+      },
+      "9": {
+        "dem_votes": 1112,
+        "rep_votes": 3523,
+        "other_votes": 211,
+        "total_votes": 4846,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 49.75237309
+      },
+      "10": {
+        "dem_votes": 1726,
+        "rep_votes": 3213,
+        "other_votes": 176,
+        "total_votes": 5115,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 29.07135875
+      },
+      "11": {
+        "dem_votes": 2085,
+        "rep_votes": 2832,
+        "other_votes": 112,
+        "total_votes": 5029,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 14.85384768
+      },
+      "12": {
+        "dem_votes": 1774,
+        "rep_votes": 2064,
+        "other_votes": 103,
+        "total_votes": 3941,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 7.35853844
+      },
+      "13": {
+        "dem_votes": 1377,
+        "rep_votes": 2693,
+        "other_votes": 162,
+        "total_votes": 4232,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 31.09640832
+      },
+      "14": {
+        "dem_votes": 1342,
+        "rep_votes": 3390,
+        "other_votes": 176,
+        "total_votes": 4908,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 41.72779136
+      },
+      "15": {
+        "dem_votes": 1283,
+        "rep_votes": 3025,
+        "other_votes": 222,
+        "total_votes": 4530,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 38.45474614
+      },
+      "16": {
+        "dem_votes": 1386,
+        "rep_votes": 3569,
+        "other_votes": 331,
+        "total_votes": 5286,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 41.29776769
+      },
+      "17": {
+        "dem_votes": 1522,
+        "rep_votes": 3276,
+        "other_votes": 250,
+        "total_votes": 5048,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 34.74643423
+      },
+      "18": {
+        "dem_votes": 1364,
+        "rep_votes": 2806,
+        "other_votes": 279,
+        "total_votes": 4449,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 32.41177793
+      },
+      "19": {
+        "dem_votes": 1604,
+        "rep_votes": 3094,
+        "other_votes": 201,
+        "total_votes": 4899,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 30.41437028
+      },
+      "20": {
+        "dem_votes": 2093,
+        "rep_votes": 3516,
+        "other_votes": 187,
+        "total_votes": 5796,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 24.55141477
+      },
+      "21": {
+        "dem_votes": 1882,
+        "rep_votes": 3059,
+        "other_votes": 182,
+        "total_votes": 5123,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 22.97481944
+      },
+      "22": {
+        "dem_votes": 1378,
+        "rep_votes": 2644,
+        "other_votes": 173,
+        "total_votes": 4195,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 30.17878427
+      },
+      "23": {
+        "dem_votes": 1600,
+        "rep_votes": 2644,
+        "other_votes": 146,
+        "total_votes": 4390,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 23.78132118
+      },
+      "24": {
+        "dem_votes": 1973,
+        "rep_votes": 1699,
+        "other_votes": 102,
+        "total_votes": 3774,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "DEM",
+        "margin_pct": -7.26020138
+      },
+      "25": {
+        "dem_votes": 2502,
+        "rep_votes": 952,
+        "other_votes": 52,
+        "total_votes": 3506,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "DEM",
+        "margin_pct": -44.20992584
+      },
+      "26": {
+        "dem_votes": 2496,
+        "rep_votes": 2482,
+        "other_votes": 108,
+        "total_votes": 5086,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "DEM",
+        "margin_pct": -0.27526543
+      },
+      "27": {
+        "dem_votes": 1675,
+        "rep_votes": 2139,
+        "other_votes": 120,
+        "total_votes": 3934,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 11.79461108
+      },
+      "28": {
+        "dem_votes": 1345,
+        "rep_votes": 2618,
+        "other_votes": 140,
+        "total_votes": 4103,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 31.02607848
+      },
+      "29": {
+        "dem_votes": 704,
+        "rep_votes": 1947,
+        "other_votes": 89,
+        "total_votes": 2740,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 45.3649635
+      },
+      "30": {
+        "dem_votes": 917,
+        "rep_votes": 2078,
+        "other_votes": 135,
+        "total_votes": 3130,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 37.09265176
+      },
+      "31": {
+        "dem_votes": 846,
+        "rep_votes": 2322,
+        "other_votes": 112,
+        "total_votes": 3280,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 45.0
+      },
+      "32": {
+        "dem_votes": 1291,
+        "rep_votes": 2702,
+        "other_votes": 163,
+        "total_votes": 4156,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 33.95091434
+      },
+      "33": {
+        "dem_votes": 820,
+        "rep_votes": 2413,
+        "other_votes": 96,
+        "total_votes": 3329,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 47.85220787
+      },
+      "34": {
+        "dem_votes": 705,
+        "rep_votes": 2250,
+        "other_votes": 96,
+        "total_votes": 3051,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 50.63913471
+      },
+      "35": {
+        "dem_votes": 657,
+        "rep_votes": 2083,
+        "other_votes": 96,
+        "total_votes": 2836,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 50.28208745
+      },
+      "36": {
+        "dem_votes": 697,
+        "rep_votes": 1648,
+        "other_votes": 102,
+        "total_votes": 2447,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 38.863915
+      },
+      "37": {
+        "dem_votes": 1259,
+        "rep_votes": 2230,
+        "other_votes": 101,
+        "total_votes": 3590,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 27.04735376
+      },
+      "38": {
+        "dem_votes": 1129,
+        "rep_votes": 2636,
+        "other_votes": 123,
+        "total_votes": 3888,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 38.76028807
+      },
+      "39": {
+        "dem_votes": 946,
+        "rep_votes": 2914,
+        "other_votes": 150,
+        "total_votes": 4010,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 49.07730673
+      },
+      "40": {
+        "dem_votes": 529,
+        "rep_votes": 950,
+        "other_votes": 41,
+        "total_votes": 1520,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 27.69736842
+      },
+      "41": {
+        "dem_votes": 1236,
+        "rep_votes": 3706,
+        "other_votes": 202,
+        "total_votes": 5144,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 48.01710731
+      },
+      "42": {
+        "dem_votes": 1050,
+        "rep_votes": 2842,
+        "other_votes": 146,
+        "total_votes": 4038,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 44.37840515
+      },
+      "43": {
+        "dem_votes": 827,
+        "rep_votes": 2586,
+        "other_votes": 96,
+        "total_votes": 3509,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 50.12824166
+      },
+      "44": {
+        "dem_votes": 2024,
+        "rep_votes": 2041,
+        "other_votes": 110,
+        "total_votes": 4175,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 0.40718563
+      },
+      "45": {
+        "dem_votes": 1070,
+        "rep_votes": 2140,
+        "other_votes": 104,
+        "total_votes": 3314,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 32.28726614
+      },
+      "46": {
+        "dem_votes": 2023,
+        "rep_votes": 3086,
+        "other_votes": 160,
+        "total_votes": 5269,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 20.17460619
+      },
+      "47": {
+        "dem_votes": 1719,
+        "rep_votes": 2980,
+        "other_votes": 155,
+        "total_votes": 4854,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 25.97857437
+      },
+      "48": {
+        "dem_votes": 995,
+        "rep_votes": 2459,
+        "other_votes": 125,
+        "total_votes": 3579,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 40.9052808
+      },
+      "49": {
+        "dem_votes": 1114,
+        "rep_votes": 2975,
+        "other_votes": 134,
+        "total_votes": 4223,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 44.06819796
+      },
+      "50": {
+        "dem_votes": 1367,
+        "rep_votes": 1888,
+        "other_votes": 130,
+        "total_votes": 3385,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 15.39143279
+      },
+      "51": {
+        "dem_votes": 1666,
+        "rep_votes": 2593,
+        "other_votes": 162,
+        "total_votes": 4421,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 20.96810676
+      },
+      "52": {
+        "dem_votes": 1977,
+        "rep_votes": 2280,
+        "other_votes": 107,
+        "total_votes": 4364,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 6.9431714
+      },
+      "53": {
+        "dem_votes": 1965,
+        "rep_votes": 2221,
+        "other_votes": 122,
+        "total_votes": 4308,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 5.94243268
+      },
+      "54": {
+        "dem_votes": 3379,
+        "rep_votes": 1219,
+        "other_votes": 72,
+        "total_votes": 4670,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "DEM",
+        "margin_pct": -46.25267666
+      },
+      "55": {
+        "dem_votes": 2842,
+        "rep_votes": 2829,
+        "other_votes": 99,
+        "total_votes": 5770,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "DEM",
+        "margin_pct": -0.22530329
+      },
+      "56": {
+        "dem_votes": 2954,
+        "rep_votes": 2593,
+        "other_votes": 116,
+        "total_votes": 5663,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "DEM",
+        "margin_pct": -6.37471305
+      },
+      "57": {
+        "dem_votes": 3053,
+        "rep_votes": 2038,
+        "other_votes": 117,
+        "total_votes": 5208,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "DEM",
+        "margin_pct": -19.48924731
+      },
+      "58": {
+        "dem_votes": 2498,
+        "rep_votes": 2328,
+        "other_votes": 120,
+        "total_votes": 4946,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "DEM",
+        "margin_pct": -3.43712091
+      },
+      "59": {
+        "dem_votes": 2039,
+        "rep_votes": 2303,
+        "other_votes": 119,
+        "total_votes": 4461,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 5.91795562
+      },
+      "60": {
+        "dem_votes": 1596,
+        "rep_votes": 2706,
+        "other_votes": 123,
+        "total_votes": 4425,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 25.08474576
+      },
+      "61": {
+        "dem_votes": 1355,
+        "rep_votes": 2785,
+        "other_votes": 128,
+        "total_votes": 4268,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 33.50515464
+      },
+      "62": {
+        "dem_votes": 1063,
+        "rep_votes": 2890,
+        "other_votes": 181,
+        "total_votes": 4134,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 44.19448476
+      },
+      "63": {
+        "dem_votes": 1265,
+        "rep_votes": 2526,
+        "other_votes": 132,
+        "total_votes": 3923,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 32.14376752
+      },
+      "64": {
+        "dem_votes": 1237,
+        "rep_votes": 2938,
+        "other_votes": 174,
+        "total_votes": 4349,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 39.11243964
+      },
+      "65": {
+        "dem_votes": 1349,
+        "rep_votes": 2744,
+        "other_votes": 140,
+        "total_votes": 4233,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 32.95535082
+      },
+      "66": {
+        "dem_votes": 1410,
+        "rep_votes": 2828,
+        "other_votes": 169,
+        "total_votes": 4407,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 32.1760835
+      },
+      "67": {
+        "dem_votes": 1846,
+        "rep_votes": 3264,
+        "other_votes": 148,
+        "total_votes": 5258,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 26.96842906
+      },
+      "68": {
+        "dem_votes": 1249,
+        "rep_votes": 2906,
+        "other_votes": 192,
+        "total_votes": 4347,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 38.11824247
+      },
+      "69": {
+        "dem_votes": 1646,
+        "rep_votes": 3396,
+        "other_votes": 199,
+        "total_votes": 5241,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 33.39057432
+      },
+      "70": {
+        "dem_votes": 1991,
+        "rep_votes": 1868,
+        "other_votes": 105,
+        "total_votes": 3964,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "DEM",
+        "margin_pct": -3.10292634
+      },
+      "71": {
+        "dem_votes": 2395,
+        "rep_votes": 3136,
+        "other_votes": 128,
+        "total_votes": 5659,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 13.09418625
+      },
+      "72": {
+        "dem_votes": 1104,
+        "rep_votes": 2579,
+        "other_votes": 148,
+        "total_votes": 3831,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 38.50169668
+      },
+      "73": {
+        "dem_votes": 1623,
+        "rep_votes": 3058,
+        "other_votes": 132,
+        "total_votes": 4813,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 29.81508415
+      },
+      "74": {
+        "dem_votes": 2059,
+        "rep_votes": 3064,
+        "other_votes": 151,
+        "total_votes": 5274,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 19.05574516
+      },
+      "75": {
+        "dem_votes": 2368,
+        "rep_votes": 2698,
+        "other_votes": 145,
+        "total_votes": 5211,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 6.33275763
+      },
+      "76": {
+        "dem_votes": 2257,
+        "rep_votes": 2048,
+        "other_votes": 167,
+        "total_votes": 4472,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "DEM",
+        "margin_pct": -4.67352415
+      },
+      "77": {
+        "dem_votes": 2184,
+        "rep_votes": 2938,
+        "other_votes": 108,
+        "total_votes": 5230,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 14.416826
+      },
+      "78": {
+        "dem_votes": 3038,
+        "rep_votes": 2763,
+        "other_votes": 138,
+        "total_votes": 5939,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "DEM",
+        "margin_pct": -4.63040916
+      },
+      "79": {
+        "dem_votes": 3051,
+        "rep_votes": 926,
+        "other_votes": 63,
+        "total_votes": 4040,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "DEM",
+        "margin_pct": -52.5990099
+      },
+      "80": {
+        "dem_votes": 2684,
+        "rep_votes": 1440,
+        "other_votes": 75,
+        "total_votes": 4199,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "DEM",
+        "margin_pct": -29.62610145
+      },
+      "81": {
+        "dem_votes": 2152,
+        "rep_votes": 856,
+        "other_votes": 57,
+        "total_votes": 3065,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "DEM",
+        "margin_pct": -42.28384992
+      },
+      "82": {
+        "dem_votes": 3401,
+        "rep_votes": 2616,
+        "other_votes": 110,
+        "total_votes": 6127,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "DEM",
+        "margin_pct": -12.81214297
+      },
+      "83": {
+        "dem_votes": 1266,
+        "rep_votes": 2505,
+        "other_votes": 154,
+        "total_votes": 3925,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 31.56687898
+      },
+      "84": {
+        "dem_votes": 1335,
+        "rep_votes": 2981,
+        "other_votes": 267,
+        "total_votes": 4583,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 35.9153393
+      },
+      "85": {
+        "dem_votes": 1356,
+        "rep_votes": 3957,
+        "other_votes": 125,
+        "total_votes": 5438,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 47.83008459
+      },
+      "86": {
+        "dem_votes": 1360,
+        "rep_votes": 3581,
+        "other_votes": 218,
+        "total_votes": 5159,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 43.05097887
+      },
+      "87": {
+        "dem_votes": 1288,
+        "rep_votes": 3251,
+        "other_votes": 128,
+        "total_votes": 4667,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 42.06128134
+      },
+      "88": {
+        "dem_votes": 1132,
+        "rep_votes": 3549,
+        "other_votes": 218,
+        "total_votes": 4899,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 49.33659931
+      },
+      "89": {
+        "dem_votes": 1511,
+        "rep_votes": 3694,
+        "other_votes": 391,
+        "total_votes": 5596,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 39.01000715
+      },
+      "90": {
+        "dem_votes": 1925,
+        "rep_votes": 3996,
+        "other_votes": 449,
+        "total_votes": 6370,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 32.51177394
+      },
+      "91": {
+        "dem_votes": 1739,
+        "rep_votes": 2592,
+        "other_votes": 562,
+        "total_votes": 4893,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 17.43306765
+      },
+      "92": {
+        "dem_votes": 2012,
+        "rep_votes": 2674,
+        "other_votes": 527,
+        "total_votes": 5213,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 12.69902168
+      },
+      "93": {
+        "dem_votes": 2115,
+        "rep_votes": 1862,
+        "other_votes": 351,
+        "total_votes": 4328,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "DEM",
+        "margin_pct": -5.84565619
+      },
+      "94": {
+        "dem_votes": 1974,
+        "rep_votes": 2372,
+        "other_votes": 386,
+        "total_votes": 4732,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 8.41081995
+      },
+      "95": {
+        "dem_votes": 1876,
+        "rep_votes": 2156,
+        "other_votes": 334,
+        "total_votes": 4366,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 6.41319285
+      },
+      "96": {
+        "dem_votes": 1922,
+        "rep_votes": 2239,
+        "other_votes": 440,
+        "total_votes": 4601,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 6.88980656
+      },
+      "97": {
+        "dem_votes": 3084,
+        "rep_votes": 2705,
+        "other_votes": 388,
+        "total_votes": 6177,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "DEM",
+        "margin_pct": -6.13566456
+      },
+      "98": {
+        "dem_votes": 2493,
+        "rep_votes": 2696,
+        "other_votes": 304,
+        "total_votes": 5493,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 3.6956126
+      },
+      "99": {
+        "dem_votes": 3426,
+        "rep_votes": 3033,
+        "other_votes": 238,
+        "total_votes": 6697,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "DEM",
+        "margin_pct": -5.86829924
+      },
+      "100": {
+        "dem_votes": 3276,
+        "rep_votes": 2837,
+        "other_votes": 277,
+        "total_votes": 6390,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "DEM",
+        "margin_pct": -6.87010955
+      }
+    }
+  }
+}

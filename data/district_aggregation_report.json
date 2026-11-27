@@ -606,7 +606,7 @@
     }
   },
   "summary": {
-    "slice_files": 106,
+    "slice_files": 109,
     "max_total_vote_error": 0,
     "max_candidate_vote_error": 0,
     "all_block_assignment_gaps": 0,
@@ -883,6 +883,30 @@
         "file": "state_senate_us_senate_2014.json",
         "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
         "match_coverage_pct": 97.503191
+      },
+      {
+        "scope": "congressional",
+        "contest_type": "us_senate",
+        "year": 2026,
+        "file": "congressional_us_senate_2026.json",
+        "method": "official_precinct_to_reported_district_contest_with_vtd_fallback",
+        "match_coverage_pct": 99.235377
+      },
+      {
+        "scope": "state_house",
+        "contest_type": "us_senate",
+        "year": 2026,
+        "file": "state_house_us_senate_2026.json",
+        "method": "official_precinct_to_reported_district_contest_with_vtd_fallback",
+        "match_coverage_pct": 99.235377
+      },
+      {
+        "scope": "state_senate",
+        "contest_type": "us_senate",
+        "year": 2026,
+        "file": "state_senate_us_senate_2026.json",
+        "method": "official_precinct_to_reported_district_contest_with_vtd_fallback",
+        "match_coverage_pct": 99.235377
       }
     ],
     "validation_passed": true

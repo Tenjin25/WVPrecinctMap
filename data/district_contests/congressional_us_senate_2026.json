@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "scope": "congressional",
+    "contest_type": "us_senate",
+    "year": 2026,
+    "district_lines_year": 2022,
+    "source_vtd_vintage": 2020,
+    "method": "official_precinct_to_reported_district_contest_with_vtd_fallback",
+    "match_coverage_pct": 99.235377,
+    "source": "WV Secretary of State precinct-level general election returns",
+    "source_url": "https://results.enr.clarityelections.com/WV/127496/web.345435/",
+    "results_status": "unofficial",
+    "as_of": "2026-11-27",
+    "missing_counties": [
+      "Monroe"
+    ]
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 76788,
+        "rep_votes": 124403,
+        "other_votes": 6893,
+        "total_votes": 208084,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 22.88258588
+      },
+      "2": {
+        "dem_votes": 95917,
+        "rep_votes": 139968,
+        "other_votes": 10143,
+        "total_votes": 246028,
+        "dem_candidate": "Rachel Fetty Anderson",
+        "rep_candidate": "Shelley Moore Capito",
+        "winner": "REP",
+        "margin_pct": 17.90487262
+      }
+    }
+  }
+}

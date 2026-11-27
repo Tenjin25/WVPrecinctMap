@@ -28,9 +28,9 @@ SUPPLEMENTAL_SOURCES = (
     # precinct/VTD crosswalk for the same year, scope, and office.
     (DATA / "district_contests_native", None, 100.0),
     (DATA / "district_contests_precinct_geometry", {2022}, 99.0),
-    # These are the historical years whose precinct coverage and district
-    # counts have been validated. Earlier partial years stay diagnostic-only.
-    (DATA / "district_contests_openelections", {2012, 2014, 2016, 2020}, 97.0),
+    # Validated historical crosswalks and the partial 2026 precinct allocation.
+    # Each slice still has to meet the minimum statewide vote coverage below.
+    (DATA / "district_contests_openelections", {2012, 2014, 2016, 2020, 2026}, 97.0),
 )
 
 OFFICES = {

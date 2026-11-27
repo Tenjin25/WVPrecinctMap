@@ -97,6 +97,7 @@
         "congressional_agriculture_commissioner": {
           "districts": 2,
           "source_total_votes": 563672,
+          "statewide_total_votes": 563672,
           "matched_total_votes": 541157,
           "output_total_votes": 541157,
           "match_coverage_pct": 96.005656,
@@ -105,6 +106,7 @@
         "congressional_attorney_general": {
           "districts": 2,
           "source_total_votes": 576191,
+          "statewide_total_votes": 576191,
           "matched_total_votes": 552643,
           "output_total_votes": 552643,
           "match_coverage_pct": 95.913161,
@@ -113,6 +115,7 @@
         "congressional_auditor": {
           "districts": 2,
           "source_total_votes": 444401,
+          "statewide_total_votes": 444401,
           "matched_total_votes": 426440,
           "output_total_votes": 426440,
           "match_coverage_pct": 95.95838,
@@ -121,6 +124,7 @@
         "congressional_governor": {
           "districts": 2,
           "source_total_votes": 651117,
+          "statewide_total_votes": 651117,
           "matched_total_votes": 626354,
           "output_total_votes": 626354,
           "match_coverage_pct": 96.196843,
@@ -129,6 +133,7 @@
         "congressional_president": {
           "districts": 2,
           "source_total_votes": 673599,
+          "statewide_total_votes": 673599,
           "matched_total_votes": 647806,
           "output_total_votes": 647806,
           "match_coverage_pct": 96.170867,
@@ -137,6 +142,7 @@
         "congressional_secretary_of_state": {
           "districts": 2,
           "source_total_votes": 569067,
+          "statewide_total_votes": 569067,
           "matched_total_votes": 546367,
           "output_total_votes": 546367,
           "match_coverage_pct": 96.011015,
@@ -145,6 +151,7 @@
         "congressional_treasurer": {
           "districts": 2,
           "source_total_votes": 440512,
+          "statewide_total_votes": 440512,
           "matched_total_votes": 422166,
           "output_total_votes": 422166,
           "match_coverage_pct": 95.835301,
@@ -153,6 +160,7 @@
         "congressional_us_house": {
           "districts": 2,
           "source_total_votes": 595631,
+          "statewide_total_votes": 595631,
           "matched_total_votes": 571854,
           "output_total_votes": 571854,
           "match_coverage_pct": 96.008099,
@@ -161,6 +169,7 @@
         "congressional_us_senate": {
           "districts": 2,
           "source_total_votes": 649322,
+          "statewide_total_votes": 649322,
           "matched_total_votes": 625039,
           "output_total_votes": 625039,
           "match_coverage_pct": 96.260253,
@@ -169,6 +178,7 @@
         "state_house_agriculture_commissioner": {
           "districts": 92,
           "source_total_votes": 563672,
+          "statewide_total_votes": 563672,
           "matched_total_votes": 541157,
           "output_total_votes": 541157,
           "match_coverage_pct": 96.005656,
@@ -177,6 +187,7 @@
         "state_house_attorney_general": {
           "districts": 92,
           "source_total_votes": 576191,
+          "statewide_total_votes": 576191,
           "matched_total_votes": 552643,
           "output_total_votes": 552643,
           "match_coverage_pct": 95.913161,
@@ -185,6 +196,7 @@
         "state_house_auditor": {
           "districts": 92,
           "source_total_votes": 444401,
+          "statewide_total_votes": 444401,
           "matched_total_votes": 426440,
           "output_total_votes": 426440,
           "match_coverage_pct": 95.95838,
@@ -193,6 +205,7 @@
         "state_house_governor": {
           "districts": 96,
           "source_total_votes": 651117,
+          "statewide_total_votes": 651117,
           "matched_total_votes": 626354,
           "output_total_votes": 626354,
           "match_coverage_pct": 96.196843,
@@ -201,6 +214,7 @@
         "state_house_president": {
           "districts": 93,
           "source_total_votes": 673599,
+          "statewide_total_votes": 673599,
           "matched_total_votes": 647806,
           "output_total_votes": 647806,
           "match_coverage_pct": 96.170867,
@@ -209,6 +223,7 @@
         "state_house_secretary_of_state": {
           "districts": 92,
           "source_total_votes": 569067,
+          "statewide_total_votes": 569067,
           "matched_total_votes": 546367,
           "output_total_votes": 546367,
           "match_coverage_pct": 96.011015,
@@ -217,6 +232,7 @@
         "state_house_treasurer": {
           "districts": 92,
           "source_total_votes": 440512,
+          "statewide_total_votes": 440512,
           "matched_total_votes": 422166,
           "output_total_votes": 422166,
           "match_coverage_pct": 95.835301,
@@ -225,6 +241,7 @@
         "state_house_us_senate": {
           "districts": 96,
           "source_total_votes": 649322,
+          "statewide_total_votes": 649322,
           "matched_total_votes": 625039,
           "output_total_votes": 625039,
           "match_coverage_pct": 96.260253,
@@ -233,6 +250,7 @@
         "state_senate_agriculture_commissioner": {
           "districts": 17,
           "source_total_votes": 563672,
+          "statewide_total_votes": 563672,
           "matched_total_votes": 541157,
           "output_total_votes": 541157,
           "match_coverage_pct": 96.005656,
@@ -241,6 +259,7 @@
         "state_senate_attorney_general": {
           "districts": 17,
           "source_total_votes": 576191,
+          "statewide_total_votes": 576191,
           "matched_total_votes": 552643,
           "output_total_votes": 552643,
           "match_coverage_pct": 95.913161,
@@ -249,6 +268,7 @@
         "state_senate_auditor": {
           "districts": 17,
           "source_total_votes": 444401,
+          "statewide_total_votes": 444401,
           "matched_total_votes": 426440,
           "output_total_votes": 426440,
           "match_coverage_pct": 95.95838,
@@ -257,6 +277,7 @@
         "state_senate_governor": {
           "districts": 17,
           "source_total_votes": 651117,
+          "statewide_total_votes": 651117,
           "matched_total_votes": 626354,
           "output_total_votes": 626354,
           "match_coverage_pct": 96.196843,
@@ -265,6 +286,7 @@
         "state_senate_president": {
           "districts": 17,
           "source_total_votes": 673599,
+          "statewide_total_votes": 673599,
           "matched_total_votes": 647806,
           "output_total_votes": 647806,
           "match_coverage_pct": 96.170867,
@@ -273,6 +295,7 @@
         "state_senate_secretary_of_state": {
           "districts": 17,
           "source_total_votes": 569067,
+          "statewide_total_votes": 569067,
           "matched_total_votes": 546367,
           "output_total_votes": 546367,
           "match_coverage_pct": 96.011015,
@@ -281,6 +304,7 @@
         "state_senate_treasurer": {
           "districts": 17,
           "source_total_votes": 440512,
+          "statewide_total_votes": 440512,
           "matched_total_votes": 422166,
           "output_total_votes": 422166,
           "match_coverage_pct": 95.835301,
@@ -289,6 +313,7 @@
         "state_senate_us_senate": {
           "districts": 17,
           "source_total_votes": 649322,
+          "statewide_total_votes": 649322,
           "matched_total_votes": 625039,
           "output_total_votes": 625039,
           "match_coverage_pct": 96.260253,
@@ -392,6 +417,7 @@
         "congressional_us_house": {
           "districts": 2,
           "source_total_votes": 359765,
+          "statewide_total_votes": 359765,
           "matched_total_votes": 351574,
           "output_total_votes": 351574,
           "match_coverage_pct": 97.723236,
@@ -400,6 +426,7 @@
         "congressional_us_senate": {
           "districts": 2,
           "source_total_votes": 447489,
+          "statewide_total_votes": 447489,
           "matched_total_votes": 432396,
           "output_total_votes": 432396,
           "match_coverage_pct": 96.62718,
@@ -408,6 +435,7 @@
         "state_house_us_senate": {
           "districts": 93,
           "source_total_votes": 447489,
+          "statewide_total_votes": 447489,
           "matched_total_votes": 432396,
           "output_total_votes": 432396,
           "match_coverage_pct": 96.62718,
@@ -416,6 +444,7 @@
         "state_senate_us_senate": {
           "districts": 17,
           "source_total_votes": 447489,
+          "statewide_total_votes": 447489,
           "matched_total_votes": 432396,
           "output_total_votes": 432396,
           "match_coverage_pct": 96.62718,
@@ -519,6 +548,7 @@
         "congressional_agriculture_commissioner": {
           "districts": 2,
           "source_total_votes": 613679,
+          "statewide_total_votes": 613679,
           "matched_total_votes": 599806,
           "output_total_votes": 599806,
           "match_coverage_pct": 97.739372,
@@ -527,6 +557,7 @@
         "congressional_attorney_general": {
           "districts": 2,
           "source_total_votes": 643684,
+          "statewide_total_votes": 643684,
           "matched_total_votes": 628876,
           "output_total_votes": 628876,
           "match_coverage_pct": 97.699492,
@@ -535,6 +566,7 @@
         "congressional_auditor": {
           "districts": 2,
           "source_total_votes": 619569,
+          "statewide_total_votes": 619569,
           "matched_total_votes": 605489,
           "output_total_votes": 605489,
           "match_coverage_pct": 97.727452,
@@ -543,6 +575,7 @@
         "congressional_governor": {
           "districts": 2,
           "source_total_votes": 664486,
+          "statewide_total_votes": 664486,
           "matched_total_votes": 649120,
           "output_total_votes": 649120,
           "match_coverage_pct": 97.687536,
@@ -551,6 +584,7 @@
         "congressional_president": {
           "districts": 2,
           "source_total_votes": 670438,
+          "statewide_total_votes": 670438,
           "matched_total_votes": 655014,
           "output_total_votes": 655014,
           "match_coverage_pct": 97.699414,
@@ -559,6 +593,7 @@
         "congressional_secretary_of_state": {
           "districts": 2,
           "source_total_votes": 638313,
+          "statewide_total_votes": 638313,
           "matched_total_votes": 623734,
           "output_total_votes": 623734,
           "match_coverage_pct": 97.716011,
@@ -567,6 +602,7 @@
         "congressional_treasurer": {
           "districts": 2,
           "source_total_votes": 628553,
+          "statewide_total_votes": 628553,
           "matched_total_votes": 614109,
           "output_total_votes": 614109,
           "match_coverage_pct": 97.702024,
@@ -575,6 +611,7 @@
         "congressional_us_house": {
           "districts": 2,
           "source_total_votes": 641354,
+          "statewide_total_votes": 641354,
           "matched_total_votes": 626443,
           "output_total_votes": 626443,
           "match_coverage_pct": 97.675075,
@@ -583,6 +620,7 @@
         "congressional_us_senate": {
           "districts": 2,
           "source_total_votes": 660243,
+          "statewide_total_votes": 660243,
           "matched_total_votes": 645018,
           "output_total_votes": 645018,
           "match_coverage_pct": 97.694031,
@@ -591,6 +629,7 @@
         "state_house_agriculture_commissioner": {
           "districts": 100,
           "source_total_votes": 613679,
+          "statewide_total_votes": 613679,
           "matched_total_votes": 599806,
           "output_total_votes": 599806,
           "match_coverage_pct": 97.739372,
@@ -599,6 +638,7 @@
         "state_house_attorney_general": {
           "districts": 100,
           "source_total_votes": 643684,
+          "statewide_total_votes": 643684,
           "matched_total_votes": 628876,
           "output_total_votes": 628876,
           "match_coverage_pct": 97.699492,
@@ -607,6 +647,7 @@
         "state_house_auditor": {
           "districts": 100,
           "source_total_votes": 619569,
+          "statewide_total_votes": 619569,
           "matched_total_votes": 605489,
           "output_total_votes": 605489,
           "match_coverage_pct": 97.727452,
@@ -615,6 +656,7 @@
         "state_house_governor": {
           "districts": 100,
           "source_total_votes": 664486,
+          "statewide_total_votes": 664486,
           "matched_total_votes": 649120,
           "output_total_votes": 649120,
           "match_coverage_pct": 97.687536,
@@ -623,6 +665,7 @@
         "state_house_president": {
           "districts": 100,
           "source_total_votes": 670438,
+          "statewide_total_votes": 670438,
           "matched_total_votes": 655014,
           "output_total_votes": 655014,
           "match_coverage_pct": 97.699414,
@@ -631,6 +674,7 @@
         "state_house_secretary_of_state": {
           "districts": 100,
           "source_total_votes": 638313,
+          "statewide_total_votes": 638313,
           "matched_total_votes": 623734,
           "output_total_votes": 623734,
           "match_coverage_pct": 97.716011,
@@ -639,6 +683,7 @@
         "state_house_treasurer": {
           "districts": 100,
           "source_total_votes": 628553,
+          "statewide_total_votes": 628553,
           "matched_total_votes": 614109,
           "output_total_votes": 614109,
           "match_coverage_pct": 97.702024,
@@ -647,6 +692,7 @@
         "state_house_us_senate": {
           "districts": 100,
           "source_total_votes": 660243,
+          "statewide_total_votes": 660243,
           "matched_total_votes": 645018,
           "output_total_votes": 645018,
           "match_coverage_pct": 97.694031,
@@ -655,6 +701,7 @@
         "state_senate_agriculture_commissioner": {
           "districts": 17,
           "source_total_votes": 613679,
+          "statewide_total_votes": 613679,
           "matched_total_votes": 599806,
           "output_total_votes": 599806,
           "match_coverage_pct": 97.739372,
@@ -663,6 +710,7 @@
         "state_senate_attorney_general": {
           "districts": 17,
           "source_total_votes": 643684,
+          "statewide_total_votes": 643684,
           "matched_total_votes": 628876,
           "output_total_votes": 628876,
           "match_coverage_pct": 97.699492,
@@ -671,6 +719,7 @@
         "state_senate_auditor": {
           "districts": 17,
           "source_total_votes": 619569,
+          "statewide_total_votes": 619569,
           "matched_total_votes": 605489,
           "output_total_votes": 605489,
           "match_coverage_pct": 97.727452,
@@ -679,6 +728,7 @@
         "state_senate_governor": {
           "districts": 17,
           "source_total_votes": 664486,
+          "statewide_total_votes": 664486,
           "matched_total_votes": 649120,
           "output_total_votes": 649120,
           "match_coverage_pct": 97.687536,
@@ -687,6 +737,7 @@
         "state_senate_president": {
           "districts": 17,
           "source_total_votes": 670438,
+          "statewide_total_votes": 670438,
           "matched_total_votes": 655014,
           "output_total_votes": 655014,
           "match_coverage_pct": 97.699414,
@@ -695,6 +746,7 @@
         "state_senate_secretary_of_state": {
           "districts": 17,
           "source_total_votes": 638313,
+          "statewide_total_votes": 638313,
           "matched_total_votes": 623734,
           "output_total_votes": 623734,
           "match_coverage_pct": 97.716011,
@@ -703,6 +755,7 @@
         "state_senate_treasurer": {
           "districts": 17,
           "source_total_votes": 628553,
+          "statewide_total_votes": 628553,
           "matched_total_votes": 614109,
           "output_total_votes": 614109,
           "match_coverage_pct": 97.702024,
@@ -711,6 +764,7 @@
         "state_senate_us_senate": {
           "districts": 17,
           "source_total_votes": 660243,
+          "statewide_total_votes": 660243,
           "matched_total_votes": 645018,
           "output_total_votes": 645018,
           "match_coverage_pct": 97.694031,
@@ -814,6 +868,7 @@
         "congressional_us_house": {
           "districts": 2,
           "source_total_votes": 439239,
+          "statewide_total_votes": 439239,
           "matched_total_votes": 428204,
           "output_total_votes": 428204,
           "match_coverage_pct": 97.4877,
@@ -822,6 +877,7 @@
         "congressional_us_senate": {
           "districts": 2,
           "source_total_votes": 453659,
+          "statewide_total_votes": 453659,
           "matched_total_votes": 442332,
           "output_total_votes": 442332,
           "match_coverage_pct": 97.503191,
@@ -830,6 +886,7 @@
         "state_house_us_senate": {
           "districts": 100,
           "source_total_votes": 453659,
+          "statewide_total_votes": 453659,
           "matched_total_votes": 442332,
           "output_total_votes": 442332,
           "match_coverage_pct": 97.503191,
@@ -838,6 +895,7 @@
         "state_senate_us_senate": {
           "districts": 17,
           "source_total_votes": 453659,
+          "statewide_total_votes": 453659,
           "matched_total_votes": 442332,
           "output_total_votes": 442332,
           "match_coverage_pct": 97.503191,
@@ -941,6 +999,7 @@
         "congressional_agriculture_commissioner": {
           "districts": 2,
           "source_total_votes": 664225,
+          "statewide_total_votes": 664225,
           "matched_total_votes": 650659,
           "output_total_votes": 650659,
           "match_coverage_pct": 97.95762,
@@ -949,6 +1008,7 @@
         "congressional_attorney_general": {
           "districts": 2,
           "source_total_votes": 694126,
+          "statewide_total_votes": 694126,
           "matched_total_votes": 679551,
           "output_total_votes": 679551,
           "match_coverage_pct": 97.900237,
@@ -957,6 +1017,7 @@
         "congressional_auditor": {
           "districts": 2,
           "source_total_votes": 659712,
+          "statewide_total_votes": 659712,
           "matched_total_votes": 646162,
           "output_total_votes": 646162,
           "match_coverage_pct": 97.946073,
@@ -965,6 +1026,7 @@
         "congressional_governor": {
           "districts": 2,
           "source_total_votes": 713828,
+          "statewide_total_votes": 713828,
           "matched_total_votes": 698574,
           "output_total_votes": 698574,
           "match_coverage_pct": 97.863071,
@@ -973,6 +1035,7 @@
         "congressional_president": {
           "districts": 2,
           "source_total_votes": 713021,
+          "statewide_total_votes": 713021,
           "matched_total_votes": 697816,
           "output_total_votes": 697816,
           "match_coverage_pct": 97.867524,
@@ -981,6 +1044,7 @@
         "congressional_secretary_of_state": {
           "districts": 2,
           "source_total_votes": 691427,
+          "statewide_total_votes": 691427,
           "matched_total_votes": 677108,
           "output_total_votes": 677108,
           "match_coverage_pct": 97.929066,
@@ -989,6 +1053,7 @@
         "congressional_treasurer": {
           "districts": 2,
           "source_total_votes": 671526,
+          "statewide_total_votes": 671526,
           "matched_total_votes": 657598,
           "output_total_votes": 657598,
           "match_coverage_pct": 97.925918,
@@ -997,6 +1062,7 @@
         "congressional_us_house": {
           "districts": 2,
           "source_total_votes": 686321,
+          "statewide_total_votes": 686321,
           "matched_total_votes": 672188,
           "output_total_votes": 672188,
           "match_coverage_pct": 97.940759,
@@ -1005,6 +1071,7 @@
         "state_house_agriculture_commissioner": {
           "districts": 100,
           "source_total_votes": 664225,
+          "statewide_total_votes": 664225,
           "matched_total_votes": 650659,
           "output_total_votes": 650659,
           "match_coverage_pct": 97.95762,
@@ -1013,6 +1080,7 @@
         "state_house_attorney_general": {
           "districts": 100,
           "source_total_votes": 694126,
+          "statewide_total_votes": 694126,
           "matched_total_votes": 679551,
           "output_total_votes": 679551,
           "match_coverage_pct": 97.900237,
@@ -1021,6 +1089,7 @@
         "state_house_auditor": {
           "districts": 100,
           "source_total_votes": 659712,
+          "statewide_total_votes": 659712,
           "matched_total_votes": 646162,
           "output_total_votes": 646162,
           "match_coverage_pct": 97.946073,
@@ -1029,6 +1098,7 @@
         "state_house_governor": {
           "districts": 100,
           "source_total_votes": 713828,
+          "statewide_total_votes": 713828,
           "matched_total_votes": 698574,
           "output_total_votes": 698574,
           "match_coverage_pct": 97.863071,
@@ -1037,6 +1107,7 @@
         "state_house_president": {
           "districts": 100,
           "source_total_votes": 713021,
+          "statewide_total_votes": 713021,
           "matched_total_votes": 697816,
           "output_total_votes": 697816,
           "match_coverage_pct": 97.867524,
@@ -1045,6 +1116,7 @@
         "state_house_secretary_of_state": {
           "districts": 100,
           "source_total_votes": 691427,
+          "statewide_total_votes": 691427,
           "matched_total_votes": 677108,
           "output_total_votes": 677108,
           "match_coverage_pct": 97.929066,
@@ -1053,6 +1125,7 @@
         "state_house_treasurer": {
           "districts": 100,
           "source_total_votes": 671526,
+          "statewide_total_votes": 671526,
           "matched_total_votes": 657598,
           "output_total_votes": 657598,
           "match_coverage_pct": 97.925918,
@@ -1061,6 +1134,7 @@
         "state_senate_agriculture_commissioner": {
           "districts": 17,
           "source_total_votes": 664225,
+          "statewide_total_votes": 664225,
           "matched_total_votes": 650659,
           "output_total_votes": 650659,
           "match_coverage_pct": 97.95762,
@@ -1069,6 +1143,7 @@
         "state_senate_attorney_general": {
           "districts": 17,
           "source_total_votes": 694126,
+          "statewide_total_votes": 694126,
           "matched_total_votes": 679551,
           "output_total_votes": 679551,
           "match_coverage_pct": 97.900237,
@@ -1077,6 +1152,7 @@
         "state_senate_auditor": {
           "districts": 17,
           "source_total_votes": 659712,
+          "statewide_total_votes": 659712,
           "matched_total_votes": 646162,
           "output_total_votes": 646162,
           "match_coverage_pct": 97.946073,
@@ -1085,6 +1161,7 @@
         "state_senate_governor": {
           "districts": 17,
           "source_total_votes": 713828,
+          "statewide_total_votes": 713828,
           "matched_total_votes": 698574,
           "output_total_votes": 698574,
           "match_coverage_pct": 97.863071,
@@ -1093,6 +1170,7 @@
         "state_senate_president": {
           "districts": 17,
           "source_total_votes": 713021,
+          "statewide_total_votes": 713021,
           "matched_total_votes": 697816,
           "output_total_votes": 697816,
           "match_coverage_pct": 97.867524,
@@ -1101,6 +1179,7 @@
         "state_senate_secretary_of_state": {
           "districts": 17,
           "source_total_votes": 691427,
+          "statewide_total_votes": 691427,
           "matched_total_votes": 677108,
           "output_total_votes": 677108,
           "match_coverage_pct": 97.929066,
@@ -1109,6 +1188,7 @@
         "state_senate_treasurer": {
           "districts": 17,
           "source_total_votes": 671526,
+          "statewide_total_votes": 671526,
           "matched_total_votes": 657598,
           "output_total_votes": 657598,
           "match_coverage_pct": 97.925918,
@@ -1212,6 +1292,7 @@
         "congressional_us_house": {
           "districts": 2,
           "source_total_votes": 578084,
+          "statewide_total_votes": 578084,
           "matched_total_votes": 545648,
           "output_total_votes": 545648,
           "match_coverage_pct": 94.389051,
@@ -1220,6 +1301,7 @@
         "congressional_us_senate": {
           "districts": 2,
           "source_total_votes": 586488,
+          "statewide_total_votes": 586488,
           "matched_total_votes": 553682,
           "output_total_votes": 553682,
           "match_coverage_pct": 94.406365,
@@ -1228,6 +1310,7 @@
         "state_house_us_senate": {
           "districts": 98,
           "source_total_votes": 586488,
+          "statewide_total_votes": 586488,
           "matched_total_votes": 553682,
           "output_total_votes": 553682,
           "match_coverage_pct": 94.406365,
@@ -1236,6 +1319,7 @@
         "state_senate_us_senate": {
           "districts": 17,
           "source_total_votes": 586488,
+          "statewide_total_votes": 586488,
           "matched_total_votes": 553682,
           "output_total_votes": 553682,
           "match_coverage_pct": 94.406365,
@@ -1338,6 +1422,7 @@
         "congressional_agriculture_commissioner": {
           "districts": 2,
           "source_total_votes": 739298,
+          "statewide_total_votes": 739298,
           "matched_total_votes": 722704,
           "output_total_votes": 722704,
           "match_coverage_pct": 97.755438,
@@ -1346,6 +1431,7 @@
         "congressional_attorney_general": {
           "districts": 2,
           "source_total_votes": 764048,
+          "statewide_total_votes": 764048,
           "matched_total_votes": 746875,
           "output_total_votes": 746875,
           "match_coverage_pct": 97.752366,
@@ -1354,6 +1440,7 @@
         "congressional_auditor": {
           "districts": 2,
           "source_total_votes": 741272,
+          "statewide_total_votes": 741272,
           "matched_total_votes": 724614,
           "output_total_votes": 724614,
           "match_coverage_pct": 97.752782,
@@ -1362,6 +1449,7 @@
         "congressional_governor": {
           "districts": 2,
           "source_total_votes": 768804,
+          "statewide_total_votes": 768804,
           "matched_total_votes": 751444,
           "output_total_votes": 751444,
           "match_coverage_pct": 97.741947,
@@ -1370,6 +1458,7 @@
         "congressional_president": {
           "districts": 2,
           "source_total_votes": 794652,
+          "statewide_total_votes": 794652,
           "matched_total_votes": 776770,
           "output_total_votes": 776770,
           "match_coverage_pct": 97.749707,
@@ -1378,6 +1467,7 @@
         "congressional_secretary_of_state": {
           "districts": 2,
           "source_total_votes": 768187,
+          "statewide_total_votes": 768187,
           "matched_total_votes": 750875,
           "output_total_votes": 750875,
           "match_coverage_pct": 97.746382,
@@ -1386,6 +1476,7 @@
         "congressional_treasurer": {
           "districts": 2,
           "source_total_votes": 756061,
+          "statewide_total_votes": 756061,
           "matched_total_votes": 739028,
           "output_total_votes": 739028,
           "match_coverage_pct": 97.747139,
@@ -1394,6 +1485,7 @@
         "congressional_us_house": {
           "districts": 2,
           "source_total_votes": 761171,
+          "statewide_total_votes": 761171,
           "matched_total_votes": 744153,
           "output_total_votes": 744153,
           "match_coverage_pct": 97.764234,
@@ -1402,6 +1494,7 @@
         "state_house_agriculture_commissioner": {
           "districts": 100,
           "source_total_votes": 739298,
+          "statewide_total_votes": 739298,
           "matched_total_votes": 722704,
           "output_total_votes": 722704,
           "match_coverage_pct": 97.755438,
@@ -1410,6 +1503,7 @@
         "state_house_attorney_general": {
           "districts": 100,
           "source_total_votes": 764048,
+          "statewide_total_votes": 764048,
           "matched_total_votes": 746875,
           "output_total_votes": 746875,
           "match_coverage_pct": 97.752366,
@@ -1418,6 +1512,7 @@
         "state_house_auditor": {
           "districts": 100,
           "source_total_votes": 741272,
+          "statewide_total_votes": 741272,
           "matched_total_votes": 724614,
           "output_total_votes": 724614,
           "match_coverage_pct": 97.752782,
@@ -1426,6 +1521,7 @@
         "state_house_governor": {
           "districts": 100,
           "source_total_votes": 768804,
+          "statewide_total_votes": 768804,
           "matched_total_votes": 751444,
           "output_total_votes": 751444,
           "match_coverage_pct": 97.741947,
@@ -1434,6 +1530,7 @@
         "state_house_president": {
           "districts": 100,
           "source_total_votes": 794652,
+          "statewide_total_votes": 794652,
           "matched_total_votes": 776770,
           "output_total_votes": 776770,
           "match_coverage_pct": 97.749707,
@@ -1442,6 +1539,7 @@
         "state_house_secretary_of_state": {
           "districts": 100,
           "source_total_votes": 768187,
+          "statewide_total_votes": 768187,
           "matched_total_votes": 750875,
           "output_total_votes": 750875,
           "match_coverage_pct": 97.746382,
@@ -1450,6 +1548,7 @@
         "state_house_treasurer": {
           "districts": 100,
           "source_total_votes": 756061,
+          "statewide_total_votes": 756061,
           "matched_total_votes": 739028,
           "output_total_votes": 739028,
           "match_coverage_pct": 97.747139,
@@ -1458,6 +1557,7 @@
         "state_senate_agriculture_commissioner": {
           "districts": 17,
           "source_total_votes": 739298,
+          "statewide_total_votes": 739298,
           "matched_total_votes": 722704,
           "output_total_votes": 722704,
           "match_coverage_pct": 97.755438,
@@ -1466,6 +1566,7 @@
         "state_senate_attorney_general": {
           "districts": 17,
           "source_total_votes": 764048,
+          "statewide_total_votes": 764048,
           "matched_total_votes": 746875,
           "output_total_votes": 746875,
           "match_coverage_pct": 97.752366,
@@ -1474,6 +1575,7 @@
         "state_senate_auditor": {
           "districts": 17,
           "source_total_votes": 741272,
+          "statewide_total_votes": 741272,
           "matched_total_votes": 724614,
           "output_total_votes": 724614,
           "match_coverage_pct": 97.752782,
@@ -1482,6 +1584,7 @@
         "state_senate_governor": {
           "districts": 17,
           "source_total_votes": 768804,
+          "statewide_total_votes": 768804,
           "matched_total_votes": 751444,
           "output_total_votes": 751444,
           "match_coverage_pct": 97.741947,
@@ -1490,6 +1593,7 @@
         "state_senate_president": {
           "districts": 17,
           "source_total_votes": 794652,
+          "statewide_total_votes": 794652,
           "matched_total_votes": 776770,
           "output_total_votes": 776770,
           "match_coverage_pct": 97.749707,
@@ -1498,6 +1602,7 @@
         "state_senate_secretary_of_state": {
           "districts": 17,
           "source_total_votes": 768187,
+          "statewide_total_votes": 768187,
           "matched_total_votes": 750875,
           "output_total_votes": 750875,
           "match_coverage_pct": 97.746382,
@@ -1506,6 +1611,7 @@
         "state_senate_treasurer": {
           "districts": 17,
           "source_total_votes": 756061,
+          "statewide_total_votes": 756061,
           "matched_total_votes": 739028,
           "output_total_votes": 739028,
           "match_coverage_pct": 97.747139,
@@ -1608,16 +1714,75 @@
         "congressional_us_house": {
           "districts": 2,
           "source_total_votes": 471967,
+          "statewide_total_votes": 471967,
           "matched_total_votes": 439058,
           "output_total_votes": 439058,
           "match_coverage_pct": 93.027267,
           "conservation_error": 0
         }
       }
+    },
+    "2026": {
+      "source_vtd_vintage": 2020,
+      "input_rows": 27743,
+      "matched_precincts": 1629,
+      "unmatched_precincts": 2,
+      "match_methods_by_rows": {
+        "reported_district_contest": 8998,
+        "source_vtd_base_code_fallback": 18
+      },
+      "largest_unmatched_precincts_by_votes": [
+        {
+          "precinct": "Monongalia|PRECINCT 31",
+          "votes_across_selected_contests": 0
+        },
+        {
+          "precinct": "Monongalia|PRECINCT 72",
+          "votes_across_selected_contests": 0
+        }
+      ],
+      "contests": {
+        "congressional_us_house": {
+          "districts": 2,
+          "source_total_votes": 447947,
+          "statewide_total_votes": 451437,
+          "matched_total_votes": 447947,
+          "output_total_votes": 447947,
+          "match_coverage_pct": 99.226913,
+          "conservation_error": 0
+        },
+        "congressional_us_senate": {
+          "districts": 2,
+          "source_total_votes": 454112,
+          "statewide_total_votes": 457611,
+          "matched_total_votes": 454112,
+          "output_total_votes": 454112,
+          "match_coverage_pct": 99.235377,
+          "conservation_error": 0
+        },
+        "state_house_us_senate": {
+          "districts": 100,
+          "source_total_votes": 454112,
+          "statewide_total_votes": 457611,
+          "matched_total_votes": 454112,
+          "output_total_votes": 454112,
+          "match_coverage_pct": 99.235377,
+          "conservation_error": 0
+        },
+        "state_senate_us_senate": {
+          "districts": 17,
+          "source_total_votes": 454112,
+          "statewide_total_votes": 457611,
+          "matched_total_votes": 454112,
+          "output_total_votes": 454112,
+          "match_coverage_pct": 99.235377,
+          "conservation_error": 0
+        }
+      }
     }
   },
   "summary": {
-    "slice_files": 107,
+    "slice_files": 111,
     "max_conservation_error": 0,
     "minimum_match_coverage_pct": 93.027267,
     "district_count_warnings": [

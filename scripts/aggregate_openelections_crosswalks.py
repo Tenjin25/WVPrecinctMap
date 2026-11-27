@@ -30,6 +30,7 @@ FILES = {
     2018: INPUT / "20181106__wv__general__precinct.csv",
     2020: INPUT / "20201103__wv__general__precinct.csv",
     2022: INPUT / "20221108__wv__general__precinct.csv",
+    2026: INPUT / "20261103__wv__general__precinct.csv",
 }
 
 VINTAGE = {
@@ -41,6 +42,7 @@ VINTAGE = {
     2018: 2010,
     2020: 2020,
     2022: 2020,
+    2026: 2020,
 }
 
 OFFICES = {
@@ -294,10 +296,15 @@ def make_node(scope, contest, year, district_data, coverage):
             "year": year,
             "district_lines_year": 2022,
             "source_vtd_vintage": VINTAGE[year],
-            "method": "openelections_precinct_to_nhgis_vtd_lineage_to_bef",
+            "method": ("official_precinct_to_reported_district_contest_with_vtd_fallback"
+                       if year == 2026 else "openelections_precinct_to_nhgis_vtd_lineage_to_bef"),
             "match_coverage_pct": round(coverage * 100.0, 6),
-            "source": "WV precinct-level general election returns normalized by OpenElections",
-            "source_url": "https://github.com/openelections/openelections-data-wv",
+            "source": ("WV Secretary of State precinct-level general election returns"
+                       if year == 2026 else "WV precinct-level general election returns normalized by OpenElections"),
+            "source_url": ("https://results.enr.clarityelections.com/WV/127496/web.345435/"
+                           if year == 2026 else "https://github.com/openelections/openelections-data-wv"),
+            **({"results_status": "unofficial", "as_of": "2026-11-27", "missing_counties": ["Monroe"]}
+               if year == 2026 else {}),
         },
         "general": {"results": results},
     }
@@ -324,6 +331,14 @@ def main() -> int:
         aliases = source_aliases(source_meta)
         composed = compose_source_to_district(source_weights, district_weights)
         rows = list(csv.DictReader(path.open(encoding="utf-8-sig", newline="")))
+        direct_districts = defaultdict(lambda: defaultdict(int))
+        if year == 2026:
+            district_offices = {"U S HOUSE": "congressional", "STATE HOUSE": "state_house", "STATE SENATE": "state_senate"}
+            for row in rows:
+                scope = district_offices.get(token(row.get("office", "")))
+                district = re.search(r"\d+", row.get("district", ""))
+                if scope and district:
+                    direct_districts[(row["county"], row["precinct"], scope)][str(int(district.group()))] += int(float(row.get("votes") or 0))
 
         candidate_party_counts = defaultdict(Counter)
         for row in rows:
@@ -368,7 +383,14 @@ def main() -> int:
                 if target_geoid:
                     match_method = "current_precinct_base_code_fallback"
             precinct_key = f"{row.get('county', '')}|{row.get('precinct', '')}"
-            if not source_geoid and not target_geoid:
+            direct = {}
+            if year == 2026:
+                for scope in EXPECTED_DISTRICTS:
+                    district_votes = direct_districts.get((row["county"], row["precinct"], scope), {})
+                    total_district_votes = sum(district_votes.values())
+                    if total_district_votes:
+                        direct[scope] = [(district, count / total_district_votes) for district, count in district_votes.items() if count]
+            if not source_geoid and not target_geoid and not direct:
                 unmatched_precincts[precinct_key] += int(votes)
                 continue
             party = party_type(row.get("party", "")) or inferred_party.get(token(row.get("candidate", ""))) or "OTH"
@@ -378,13 +400,22 @@ def main() -> int:
             )
             matched_totals[contest] += votes
             matched_precincts.add(precinct_key)
-            match_methods[match_method] += 1
+            match_methods["reported_district_contest" if direct else match_method] += 1
             for scope in EXPECTED_DISTRICTS:
                 if not contest_allowed_for_scope(scope, contest):
                     continue
-                allocation = composed[scope].get(source_geoid, []) if source_geoid else district_weights[scope].get(target_geoid, [])
+                allocation = direct.get(scope) or (composed[scope].get(source_geoid, []) if source_geoid else district_weights[scope].get(target_geoid, []))
                 for district, weight in allocation:
-                    aggregated[scope][contest][district][party][candidate] += votes * weight
+                    district_key = str(int(district)) if year == 2026 else district
+                    aggregated[scope][contest][district_key][party][candidate] += votes * weight
+
+        statewide_totals = {}
+        if year == 2026:
+            statewide_path = INPUT / "county" / "20261103__wv__general__county.csv"
+            for county_row in csv.DictReader(statewide_path.open(encoding="utf-8-sig", newline="")):
+                county_contest = office_type(county_row.get("office", ""))
+                if county_contest:
+                    statewide_totals[county_contest] = statewide_totals.get(county_contest, 0) + int(float(county_row.get("votes") or 0))
 
         year_report = {
             "source_vtd_vintage": VINTAGE[year],
@@ -400,7 +431,8 @@ def main() -> int:
         }
         for scope, contests in aggregated.items():
             for contest, district_data in sorted(contests.items()):
-                coverage = matched_totals[contest] / source_totals[contest] if source_totals[contest] else 0.0
+                denominator = statewide_totals.get(contest, source_totals[contest])
+                coverage = matched_totals[contest] / denominator if denominator else 0.0
                 apportion_candidate_votes(district_data)
                 node = make_node(scope, contest, year, district_data, coverage)
                 filename = f"{scope}_{contest}_{year}.json"
@@ -410,6 +442,7 @@ def main() -> int:
                 year_report["contests"][f"{scope}_{contest}"] = {
                     "districts": len(node["general"]["results"]),
                     "source_total_votes": int(source_totals[contest]),
+                    "statewide_total_votes": int(denominator),
                     "matched_total_votes": int(matched_totals[contest]),
                     "output_total_votes": int(output_total),
                     "match_coverage_pct": round(coverage * 100.0, 6),

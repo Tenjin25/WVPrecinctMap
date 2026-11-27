@@ -20,8 +20,16 @@ Unofficial 2026 general-election county results are included for U.S. Senate
 and U.S. House, along with exact district totals for U.S. House, House of
 Delegates, and State Senate. They were downloaded from the West Virginia
 Secretary of State Election Night Reporting system and refreshed during the
-county canvass period on November 13, 2026; precinct XML was available for 52 of 55
-counties, with Clay, Harrison, and Monroe still unavailable.
+county canvass period on November 13, 2026. On November 27, precinct XML was
+available for 54 of 55 counties; Monroe remained unavailable. The 2026 U.S.
+Senate district slices allocate 454,112 precinct votes (99.24% of the 457,611
+statewide votes) using district labels on the same precinct ballots. They are
+partial estimates until Monroe's precinct results can be added.
+
+Refresh the available 2026 precinct dataset with
+`python scripts/fetch_wv_2026_precincts.py`, then run the district aggregation
+commands below. The import report records each county XML timestamp and the
+missing county.
 
 Generate county totals for the complete years:
 
